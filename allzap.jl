@@ -2188,3 +2188,2281 @@
 {"ipa": "gyahgbts\u00ebh", "morph": "\ngyagbts\u00eb", "gloss": "organ-pipe cactus with edible fruit", "source": "tlacolula", "sourcepage": "6", "prev": "2758", "id": "2776"}
 {"ipa": null, "morph": "\nndyo\t", "gloss": "fat", "source": "tlacolula", "sourcepage": "7", "prev": "2776", "id": "277"}
 {"ipa": "gyahgbts\u00ebh", "morph": "\ngyagbts\u00eb", "gloss": "organ-pipe cactus with edible fruit", "source": "tlacolula", "sourcepage": "7", "prev": "2776", "id": "2776"}
+{"ipa": "za\u2019c wxi\u2019ihnny !", "morph": "\nZac wxiny!", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "1975"}
+{"ipa": "za\u2019cars\u00ecii\u2019ly!", "morph": "\nZacarsily!", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "1973"}
+{"ipa": null, "morph": "\nbugui\t", "gloss": "guava", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3170"}
+{"ipa": null, "morph": "\ngra\t", "gloss": "all", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3167"}
+{"ipa": null, "morph": "\ngrate de dich\t", "gloss": "all the words", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3172"}
+{"ipa": null, "morph": "\nLoby\t", "gloss": "Lopez", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3100"}
+{"ipa": null, "morph": "\nlor\u00ebng\t", "gloss": "their faces", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3101"}
+{"ipa": null, "morph": "\nmacy\u00ebm\t", "gloss": "machine", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3102"}
+{"ipa": null, "morph": "\nmaestr\t", "gloss": "master bricklayer", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3103"}
+{"ipa": null, "morph": "\nMandad.\t", "gloss": "Going on an errand.", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3104"}
+{"ipa": null, "morph": "\nmansan\t", "gloss": "apple", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3105"}
+{"ipa": null, "morph": "\nmany\t", "gloss": "animal", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3106"}
+{"ipa": null, "morph": "\nmanyser\t", "gloss": "bee", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3108"}
+{"ipa": null, "morph": "\nMazh\t", "gloss": "Tomas, Thomas", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3109"}
+{"ipa": null, "morph": "\nm\u00ebly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3123"}
+{"ipa": null, "morph": "\nmes\t", "gloss": "teacher", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3112"}
+{"ipa": null, "morph": "\nmeser\t", "gloss": "waiter", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3113"}
+{"ipa": null, "morph": "\nm\u00ebxh\t", "gloss": "blonde", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3124"}
+{"ipa": null, "morph": "\nmilagr\t", "gloss": "miracle", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3114"}
+{"ipa": null, "morph": "\nmini\u2019\u00ed\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "1", "prev": "", "id": "3119"}
+{"ipa": "za\u2019c laizhih !", "morph": "\nZac laizhi!", "gloss": "Good midday!", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "295"}
+{"ipa": "za\u2019c rs\u00ecii\u2019lly !", "morph": "\nZac rsily!", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "293"}
+{"ipa": null, "morph": "\n\u00a1Zac rsily!\t", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2858"}
+{"ipa": null, "morph": "\n\u00a1Zak laizhi!\t", "gloss": "Good day (midday)!", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2859"}
+{"ipa": null, "morph": "\n\u00a1Zak wxiin!\t", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2861"}
+{"ipa": null, "morph": "\n\u00a1Zak wzhi!\t", "gloss": "Good afternoon!", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2860"}
+{"ipa": null, "morph": "\n\u00bfCali bsedyyu dizhsa?\t", "gloss": "Where did you learn Zapotec?", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2955"}
+{"ipa": null, "morph": "\n\u00bfCali chu?\t", "gloss": "where are you going?", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2856"}
+{"ipa": null, "morph": "\n\u00bfCali guiu?\t", "gloss": "where did you go? (cultural note: used as a greeting when meeting someone on the street as they are headed towards their home)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2857"}
+{"ipa": null, "morph": "\nbadia\t", "gloss": "roadrunner", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2883"}
+{"ipa": null, "morph": "\nbagh\t", "gloss": "cow", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2884"}
+{"ipa": null, "morph": "\nbaguidy\t", "gloss": "butterfly", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2885"}
+{"ipa": null, "morph": "\nbaly\t", "gloss": "fire, flame", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2887"}
+{"ipa": null, "morph": "\nbangual\t", "gloss": "old", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2889"}
+{"ipa": null, "morph": "\nbanua\t", "gloss": "scorpion", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2890"}
+{"ipa": null, "morph": "\nbar\t", "gloss": "stick", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2891"}
+{"ipa": null, "morph": "\nbarga\t", "gloss": "type of medium-sized grasshopper", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2892"}
+{"ipa": null, "morph": "\nbaxat\t", "gloss": "toad", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2893"}
+{"ipa": null, "morph": "\nbchily\t", "gloss": "knife", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2895"}
+{"ipa": null, "morph": "\nbdi\t", "gloss": "ant", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3119", "id": "2896"}
+{"ipa": "x:tyooz\u00ebhnn l\u00ecu\u2019", "morph": "\nXtyoz\u00ebn liu", "gloss": "Thank you", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "300"}
+{"ipa": null, "morph": "\n yarbay\t", "gloss": "type of hawk", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3561"}
+{"ipa": null, "morph": "\n\u00bfcali chet?\t", "gloss": "where are you all going?", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3509"}
+{"ipa": null, "morph": "\n\u00bfTu lo cha\u2019a?\t", "gloss": "To whom should I direct (my question)?", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3374"}
+{"ipa": null, "morph": "\nan chi\t", "gloss": "today", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3598"}
+{"ipa": null, "morph": "\nanym\t", "gloss": "soul", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3599"}
+{"ipa": null, "morph": "\nba\u2019\u00e1t\t", "gloss": "skunk", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3496"}
+{"ipa": null, "morph": "\nbach\t", "gloss": "punch (drink)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3488"}
+{"ipa": null, "morph": "\nbad guidy\t", "gloss": "hen", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3740"}
+{"ipa": null, "morph": "\nbahl\t", "gloss": "star", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3391"}
+{"ipa": null, "morph": "\nbahl\t", "gloss": "fire", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3804"}
+{"ipa": null, "morph": "\nbai chukye\u2019\t", "gloss": "put on a shawl?", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3501"}
+{"ipa": null, "morph": "\nbaiy\t", "gloss": "shawl", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3489"}
+{"ipa": null, "morph": "\nbany \t", "gloss": "mud", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3604"}
+{"ipa": null, "morph": "\nbatx\t", "gloss": "lion", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3490"}
+{"ipa": null, "morph": "\nbca\u2019\u00e1\t", "gloss": "grackle bird", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3675"}
+{"ipa": null, "morph": "\nbcha\u2019\u00e1\t", "gloss": "witch", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3608"}
+{"ipa": null, "morph": "\nbchan\t", "gloss": "larvae of beetles", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3818"}
+{"ipa": null, "morph": "\nbchie\t", "gloss": "barn owl", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3679"}
+{"ipa": null, "morph": "\nbcu \t", "gloss": "altar", "source": "tlacochahuaya", "sourcepage": "3", "prev": "2896", "id": "3601"}
+{"ipa": null, "morph": "\nba\u2019\u00e1t\t", "gloss": "skunk", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3496"}
+{"ipa": null, "morph": "\nbach\t", "gloss": "punch (drink)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3488"}
+{"ipa": null, "morph": "\nbaiy\t", "gloss": "shawl", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3489"}
+{"ipa": null, "morph": "\nbatx\t", "gloss": "lion", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3490"}
+{"ipa": null, "morph": "\nbeeld\t", "gloss": "sister (of a female)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3413"}
+{"ipa": null, "morph": "\nbehts\t", "gloss": "brother (of a male)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3417"}
+{"ipa": null, "morph": "\nbelduy\t", "gloss": "Red cherry-like fruit", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3402"}
+{"ipa": null, "morph": "\nbelduy bes\t", "gloss": "wild nanche (type of wild fruit)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3448"}
+{"ipa": null, "morph": "\nbes\t", "gloss": "ocelote / tigrillo", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3493"}
+{"ipa": null, "morph": "\nbew\t", "gloss": "coyote", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3492"}
+{"ipa": null, "morph": "\nbextil\t", "gloss": "types of aromatic plants", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3463"}
+{"ipa": null, "morph": "\nbia lutx be\u2019kw\t", "gloss": "cactus", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3478"}
+{"ipa": null, "morph": "\nbia na\u2019ld\t", "gloss": "thick cactus", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3477"}
+{"ipa": null, "morph": "\nbia\u2019\u00e1\t", "gloss": " cactus leaves", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3415"}
+{"ipa": null, "morph": "\nbia\u2019\u00e1\t", "gloss": "cactus leaf", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3414"}
+{"ipa": null, "morph": "\nbigupy\t", "gloss": "armadillo", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3498"}
+{"ipa": null, "morph": "\nbin yech bee?\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3405"}
+{"ipa": null, "morph": "\nblapiat\t", "gloss": "white castor oil plant", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3456"}
+{"ipa": null, "morph": "\nblaxh guel\t", "gloss": "Avocado leaves", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3404"}
+{"ipa": null, "morph": "\nblaxh guel\t", "gloss": "avocado tree leaves (edible)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3601", "id": "3459"}
+{"ipa": null, "morph": "\n yarbay\t", "gloss": "type of hawk", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3561"}
+{"ipa": null, "morph": "\n\u00bfcali chet?\t", "gloss": "where are you all going?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3509"}
+{"ipa": null, "morph": "\nan chi\t", "gloss": "today", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3598"}
+{"ipa": null, "morph": "\nanym\t", "gloss": "soul", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3599"}
+{"ipa": null, "morph": "\nbai chukye\u2019\t", "gloss": "put on a shawl?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3501"}
+{"ipa": null, "morph": "\nbdua g\u00ebch\t", "gloss": "type of wild banana", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3502"}
+{"ipa": null, "morph": "\nbech\t", "gloss": "vulture", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3562"}
+{"ipa": null, "morph": "\nbedund\t", "gloss": "humming bird", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3572"}
+{"ipa": null, "morph": "\nbedxun\t", "gloss": "spider", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3584"}
+{"ipa": null, "morph": "\nbegidy\t", "gloss": "butterfly", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3575"}
+{"ipa": null, "morph": "\nbeguich\t", "gloss": "fly", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3574"}
+{"ipa": null, "morph": "\nbel kuan\t", "gloss": "wedding food with beef and oregano", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3503"}
+{"ipa": null, "morph": "\nbetsiny\t", "gloss": "bat", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3579"}
+{"ipa": null, "morph": "\nbezbyaw\t", "gloss": "bumble bee", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3567"}
+{"ipa": null, "morph": "\nbi dyeny\t", "gloss": "ant", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3583"}
+{"ipa": null, "morph": "\nbibih\t", "gloss": "fruit with which you can make soap", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3507"}
+{"ipa": null, "morph": "\nbie\u2019to\u2019\t", "gloss": "root with which you can make shampoo", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3505"}
+{"ipa": null, "morph": "\nbixstilih\t", "gloss": "soap", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3508"}
+{"ipa": null, "morph": "\nbl\u00f3\u2019o\t", "gloss": "raven", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3563"}
+{"ipa": null, "morph": "\nbtiloo\t", "gloss": "wild bush, roots used to treat hemorrhage (sensible to touch or clap)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3587"}
+{"ipa": null, "morph": "\nbany \t", "gloss": "mud", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3604"}
+{"ipa": null, "morph": "\nbca\u2019\u00e1\t", "gloss": "grackle bird", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3675"}
+{"ipa": null, "morph": "\nbcha\u2019\u00e1\t", "gloss": "witch", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3608"}
+{"ipa": null, "morph": "\nbchie\t", "gloss": "barn owl", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3679"}
+{"ipa": null, "morph": "\nbcu \t", "gloss": "altar", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3601"}
+{"ipa": null, "morph": "\nbdu\u2019\u00fald\t", "gloss": "tadpole", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3693"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9\t", "gloss": "mushroom", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3684"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9u\t", "gloss": "moon", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3696"}
+{"ipa": null, "morph": "\nbe\u2019u z\u00eb\u2019ni\t", "gloss": "full moon", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3697"}
+{"ipa": null, "morph": "\nbel\t", "gloss": "if (conditional)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3602"}
+{"ipa": null, "morph": "\nbeld\t", "gloss": "fish", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3681"}
+{"ipa": null, "morph": "\nbeld guel\t", "gloss": "river fish", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3682"}
+{"ipa": null, "morph": "\nb\u00ebni laach\t", "gloss": "person from the same town", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3619"}
+{"ipa": null, "morph": "\nb\u00ebzh\t", "gloss": "grey dove", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3680"}
+{"ipa": null, "morph": "\nbga\t", "gloss": "necklace", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3607"}
+{"ipa": null, "morph": "\nbiach\t", "gloss": "ciruela fruit", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3691"}
+{"ipa": null, "morph": "\nbiub\t", "gloss": "leafcutter ant", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3692"}
+{"ipa": null, "morph": "\nbk\u00ebch guie\t", "gloss": "mockingbird", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3677"}
+{"ipa": null, "morph": "\nbshia\u2019\u00e1\t", "gloss": "house finch", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3676"}
+{"ipa": null, "morph": "\nbzia\u2019\u00e1\t", "gloss": "cocoa beans", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3689"}
+{"ipa": null, "morph": "\nbad guidy\t", "gloss": "hen", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3740"}
+{"ipa": null, "morph": "\nbcwel\t", "gloss": "corn husk, used to feed cattle", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3780"}
+{"ipa": null, "morph": "\nbcwel buxh\t", "gloss": "corn husk (used to wrap food)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3782"}
+{"ipa": null, "morph": "\nb\u00ebd ingul\t", "gloss": "turkey", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3743"}
+{"ipa": null, "morph": "\nb\u00ebd lach\t", "gloss": "hen turkey", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3741"}
+{"ipa": null, "morph": "\nb\u00ebd xhigh\t", "gloss": "Guinea fowl", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3742"}
+{"ipa": null, "morph": "\nbeziu\t", "gloss": "underground honeybees", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3703"}
+{"ipa": null, "morph": "\nbndagh\t", "gloss": "leafcutter ant", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3793"}
+{"ipa": null, "morph": "\nbred\t", "gloss": "wood, logs of wood", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3767"}
+{"ipa": null, "morph": "\nbsu\t", "gloss": "adobe (clay bricks)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3777"}
+{"ipa": null, "morph": "\nbte\t", "gloss": "bee hive", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3701"}
+{"ipa": null, "morph": "\nbtiu\u2019\u00fash\t", "gloss": "tomato", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3746"}
+{"ipa": null, "morph": "\nbts\u00ebni\t", "gloss": "foam", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3791"}
+{"ipa": null, "morph": "\nbza lahs\t", "gloss": "black beans", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3754"}
+{"ipa": null, "morph": "\nbza ro\u2019\u00f3\t", "gloss": "kidney beans", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3755"}
+{"ipa": null, "morph": "\nbza ya\u2019\u00e1\t", "gloss": "green beans", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3756"}
+{"ipa": null, "morph": "\nbzi\t", "gloss": "pumpkin flowers (edible)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3765"}
+{"ipa": null, "morph": "\ncali chebiu\t", "gloss": "where are you going (formal)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3723"}
+{"ipa": null, "morph": "\ncali chu?\t", "gloss": "where are you going? (informal)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3722"}
+{"ipa": null, "morph": "\ncali na g\u00ebch?\t", "gloss": "What town are you from? (formal and informal)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3730"}
+{"ipa": null, "morph": "\n\u00a1Zac rsily!\t", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2858"}
+{"ipa": null, "morph": "\n\u00a1Zak laizhi!\t", "gloss": "Good day (midday)!", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2859"}
+{"ipa": null, "morph": "\n\u00a1Zak wxiin!\t", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2861"}
+{"ipa": null, "morph": "\n\u00a1Zak wzhi!\t", "gloss": "Good afternoon!", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2860"}
+{"ipa": null, "morph": "\n\u00bfCali chu?\t", "gloss": "where are you going?", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2856"}
+{"ipa": null, "morph": "\n\u00bfCali guiu?\t", "gloss": "where did you go? (cultural note: used as a greeting when meeting someone on the street as they are headed towards their home)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2857"}
+{"ipa": null, "morph": "\nbadia\t", "gloss": "roadrunner", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2883"}
+{"ipa": null, "morph": "\nbagh\t", "gloss": "cow", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2884"}
+{"ipa": null, "morph": "\nbaguidy\t", "gloss": "butterfly", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2885"}
+{"ipa": null, "morph": "\nbahl\t", "gloss": "fire", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3804"}
+{"ipa": null, "morph": "\nbaly\t", "gloss": "fire, flame", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2887"}
+{"ipa": null, "morph": "\nbangual\t", "gloss": "old", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2889"}
+{"ipa": null, "morph": "\nbanua\t", "gloss": "scorpion", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2890"}
+{"ipa": null, "morph": "\nbar\t", "gloss": "stick", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2891"}
+{"ipa": null, "morph": "\nbarga\t", "gloss": "type of medium-sized grasshopper", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2892"}
+{"ipa": null, "morph": "\nbaxat\t", "gloss": "toad", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2893"}
+{"ipa": null, "morph": "\nbchan\t", "gloss": "larvae of beetles", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3818"}
+{"ipa": null, "morph": "\nbchily\t", "gloss": "knife", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2895"}
+{"ipa": null, "morph": "\nbdi\t", "gloss": "ant", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "2896"}
+{"ipa": null, "morph": "\nbdo\t", "gloss": "baby", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3801"}
+{"ipa": "za\u2019c laizhih !", "morph": "\nZac laizhi!", "gloss": "Good midday!", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "295"}
+{"ipa": "za\u2019c rs\u00ecii\u2019lly !", "morph": "\nZac rsily!", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "293"}
+{"ipa": null, "morph": "\n\u00bfCali bsedyyu dizhsa?\t", "gloss": "Where did you learn Zapotec?", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2955"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9ld\t", "gloss": "snake", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2903"}
+{"ipa": null, "morph": "\nBecw nde.\t", "gloss": "This is a dog.", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2900"}
+{"ipa": null, "morph": "\nBed\t", "gloss": "Pedro", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2901"}
+{"ipa": null, "morph": "\nb\u00ebdy\t", "gloss": "chicken", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2927"}
+{"ipa": null, "morph": "\nbeich\t", "gloss": "buzzard", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2902"}
+{"ipa": null, "morph": "\nbel\t", "gloss": "meat", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2904"}
+{"ipa": null, "morph": "\nben\t", "gloss": "dregs, grounds (of liquid)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2907"}
+{"ipa": null, "morph": "\nb\u00ebny\t", "gloss": "person", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2934"}
+{"ipa": null, "morph": "\nbets\t", "gloss": "brother (of a male)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2908"}
+{"ipa": null, "morph": "\nbeu\t", "gloss": "turtle", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2909"}
+{"ipa": null, "morph": "\nbez\t", "gloss": "type of big jackrabbit", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2911"}
+{"ipa": null, "morph": "\nbi\t", "gloss": "air", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2913"}
+{"ipa": null, "morph": "\nbied\t", "gloss": "aunt", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2914"}
+{"ipa": null, "morph": "\nblal\t", "gloss": "blal", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2915"}
+{"ipa": null, "morph": "\nbo\u2019\u00f3\t", "gloss": "charcoal", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2916"}
+{"ipa": null, "morph": "\nbolz\t", "gloss": "bag", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2917"}
+{"ipa": null, "morph": "\nbsuaz\t", "gloss": "squirrel", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3801", "id": "2920"}
+{"ipa": null, "morph": "\nLoby\t", "gloss": "Lopez", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3100"}
+{"ipa": null, "morph": "\nlor\u00ebng\t", "gloss": "their faces", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3101"}
+{"ipa": null, "morph": "\nmacy\u00ebm\t", "gloss": "machine", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3102"}
+{"ipa": null, "morph": "\nmaestr\t", "gloss": "master bricklayer", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3103"}
+{"ipa": null, "morph": "\nMandad.\t", "gloss": "Going on an errand.", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3104"}
+{"ipa": null, "morph": "\nmansan\t", "gloss": "apple", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3105"}
+{"ipa": null, "morph": "\nmany\t", "gloss": "animal", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3106"}
+{"ipa": null, "morph": "\nmanyser\t", "gloss": "bee", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3108"}
+{"ipa": null, "morph": "\nMazh\t", "gloss": "Tomas, Thomas", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3109"}
+{"ipa": null, "morph": "\nbetsia\u2019\u00e1\t", "gloss": "louse", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3810"}
+{"ipa": null, "morph": "\nchiguxunya\u2019ah\t", "gloss": "I\u2019m going to eat lunch", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3510"}
+{"ipa": null, "morph": "\nfasily\t", "gloss": "easy", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3010"}
+{"ipa": null, "morph": "\ngaiy\t", "gloss": "rooster", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3410"}
+{"ipa": null, "morph": "\ngaxh\t", "gloss": "near", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3610"}
+{"ipa": null, "morph": "\nnabisy\t", "gloss": "stingy", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3110"}
+{"ipa": null, "morph": "\nnaga\u2019\u00e1\t", "gloss": "green", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3710"}
+{"ipa": null, "morph": "\nrdeidy\t", "gloss": "gives (something) to (someone)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3210"}
+{"ipa": null, "morph": "\nruny col\t", "gloss": "stands in line", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3310"}
+{"ipa": null, "morph": "\nmes\t", "gloss": "teacher", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3112"}
+{"ipa": null, "morph": "\nmeser\t", "gloss": "waiter", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3113"}
+{"ipa": null, "morph": "\nmilagr\t", "gloss": "miracle", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3114"}
+{"ipa": null, "morph": "\nmini\u2019\u00ed\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3119"}
+{"ipa": null, "morph": "\nMixh\t", "gloss": "Mixe", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3115"}
+{"ipa": null, "morph": "\nmna\t", "gloss": "woman", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3117"}
+{"ipa": null, "morph": "\nMnabagzaga nax yquinyyu.\t", "gloss": "I also ordered hot chocolate for you to drink.", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3118"}
+{"ipa": null, "morph": "\nnabisy\t", "gloss": "stingy", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3110"}
+{"ipa": null, "morph": "\nwna\t", "gloss": "woman", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3116"}
+{"ipa": null, "morph": "\nbez\t", "gloss": "type of big jackrabbit", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "2911"}
+{"ipa": null, "morph": "\nchiguuxunu\t", "gloss": "we are going to eat lunch", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3511"}
+{"ipa": null, "morph": "\nfoc\t", "gloss": "light bulb", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3011"}
+{"ipa": null, "morph": "\ngayon \t", "gloss": "sixty", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3611"}
+{"ipa": null, "morph": "\nman bde\t", "gloss": "weevil (of corn, beans and others grains)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3811"}
+{"ipa": null, "morph": "\nnaga\u2019\u00e1 cha\u2019\u00e1ch\t", "gloss": "dark green", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3711"}
+{"ipa": null, "morph": "\nrdets\t", "gloss": "is inside out", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3211"}
+{"ipa": null, "morph": "\nruny company\t", "gloss": "accomanies", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3311"}
+{"ipa": null, "morph": "\nxtiezh\t", "gloss": "garlic", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3310", "id": "3411"}
+{"ipa": null, "morph": "\nm\u00ebly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3123"}
+{"ipa": null, "morph": "\nm\u00ebxh\t", "gloss": "blonde", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3124"}
+{"ipa": null, "morph": "\nmniny\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3120"}
+{"ipa": null, "morph": "\nmon\t", "gloss": "doll", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3121"}
+{"ipa": null, "morph": "\nmuly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3122"}
+{"ipa": null, "morph": "\nmyes\t", "gloss": "mass", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3125"}
+{"ipa": null, "morph": "\nNaa zicygagza, niegza gauwa.\t", "gloss": "And the same for me, I\u2019ll have them too.", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3128"}
+{"ipa": null, "morph": "\nnan\t", "gloss": "mother", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3129"}
+{"ipa": null, "morph": "\nchi\t", "gloss": "day", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3612"}
+{"ipa": null, "morph": "\nfot\t", "gloss": "picture", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3012"}
+{"ipa": null, "morph": "\nguie gueb\t", "gloss": "type of yellow flower", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3512"}
+{"ipa": null, "morph": "\nmes\t", "gloss": "teacher", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3112"}
+{"ipa": null, "morph": "\nnegats la gul\t", "gloss": "dark yellow", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3712"}
+{"ipa": null, "morph": "\nrdica\t", "gloss": "appears", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3212"}
+{"ipa": null, "morph": "\nruny comprender\t", "gloss": "understands", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3312"}
+{"ipa": null, "morph": "\nshk\u00ed\u2019i b\u00ebdi\t", "gloss": "type of wild berry (edible)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3412"}
+{"ipa": null, "morph": "\nxhubde\t", "gloss": "cron with weevils (used to feed porks)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3812"}
+{"ipa": null, "morph": "\nnde\t", "gloss": "this one", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3132"}
+{"ipa": null, "morph": "\nndee\t", "gloss": "that one", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3131"}
+{"ipa": null, "morph": "\nnden\t", "gloss": "this one", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3134"}
+{"ipa": null, "morph": "\nndyo\u2019\u00f3\t", "gloss": "fat", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3135"}
+{"ipa": null, "morph": "\nngui\t", "gloss": "sour", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3136"}
+{"ipa": null, "morph": "\nni\t", "gloss": "who, that, which (relative pronoun)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3138"}
+{"ipa": null, "morph": "\nni ca ni guet\t", "gloss": "what follows", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3139"}
+{"ipa": null, "morph": "\nni\u2019\u00ed\t", "gloss": "foot", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3137"}
+{"ipa": null, "morph": "\nbeeld\t", "gloss": "sister (of a female)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3413"}
+{"ipa": null, "morph": "\nbets\u00ebni\t", "gloss": "tick", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3813"}
+{"ipa": null, "morph": "\nbi\t", "gloss": "air", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "2913"}
+{"ipa": null, "morph": "\nga\t", "gloss": "nine", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3013"}
+{"ipa": null, "morph": "\nguel\t", "gloss": "cornfield", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3513"}
+{"ipa": null, "morph": "\nmeser\t", "gloss": "waiter", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3113"}
+{"ipa": null, "morph": "\nnagats la gulia\u2019\u00e1\t", "gloss": "very dark yellow", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3713"}
+{"ipa": null, "morph": "\nrcabi\t", "gloss": "answers", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3313"}
+{"ipa": null, "morph": "\nrdieby\t", "gloss": "boils (of a liquid)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3213"}
+{"ipa": null, "morph": "\nrzhiby\t", "gloss": "be afraid/be scared", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3812", "id": "3613"}
+{"ipa": null, "morph": "\nnagui\u2019\u00ed\t", "gloss": "jealous", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3141"}
+{"ipa": null, "morph": "\nnaxh\u00ebni\t", "gloss": "wide", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3142"}
+{"ipa": null, "morph": "\nNi na gyixeiny.\t", "gloss": "Like, higaditos.", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3140"}
+{"ipa": null, "morph": "\nNu enchiladas\u2014 aty nanyu xii...\t", "gloss": "There are enchiladas\u2014 but you know what they are...", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3143"}
+{"ipa": null, "morph": "\nnuan\t", "gloss": "chirimoya", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3144"}
+{"ipa": null, "morph": "\nnyis\t", "gloss": "water", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3145"}
+{"ipa": null, "morph": "\nnzhung\t", "gloss": "hard", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3146"}
+{"ipa": null, "morph": "\nPamy\u00ebl\t", "gloss": "Panfilo", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3148"}
+{"ipa": null, "morph": "\npasaport\t", "gloss": "passport", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3149"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9ldyu\t", "gloss": "garden worm", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3814"}
+{"ipa": null, "morph": "\nbia\u2019\u00e1\t", "gloss": "cactus leaf", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3414"}
+{"ipa": null, "morph": "\nbied\t", "gloss": "aunt", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "2914"}
+{"ipa": null, "morph": "\ngai\t", "gloss": "five", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3014"}
+{"ipa": null, "morph": "\nguet na naguizh\t", "gloss": "the tortilla is delicious", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3514"}
+{"ipa": null, "morph": "\nmilagr\t", "gloss": "miracle", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3114"}
+{"ipa": null, "morph": "\nrd\u00f3\u2019o\t", "gloss": "be sold", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3214"}
+{"ipa": null, "morph": "\nrun dany\t", "gloss": "makes (someone) sick", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3314"}
+{"ipa": null, "morph": "\ntsomptap \t", "gloss": "nineteen", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3614"}
+{"ipa": null, "morph": "\nxhnia\t", "gloss": "red", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3613", "id": "3714"}
+{"ipa": null, "morph": "\npelot\t", "gloss": "ball", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3150"}
+{"ipa": null, "morph": "\nPepsy\t", "gloss": "Pepsi", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3151"}
+{"ipa": null, "morph": "\npes\t", "gloss": "peso", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3152"}
+{"ipa": null, "morph": "\nplati\t", "gloss": "cymbals", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3153"}
+{"ipa": null, "morph": "\nplum\t", "gloss": "pen", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3154"}
+{"ipa": null, "morph": "\npryem\t", "gloss": "cousin", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3155"}
+{"ipa": null, "morph": "\npwen\t", "gloss": "bridge", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3156"}
+{"ipa": null, "morph": "\npwert\t", "gloss": "door", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3157"}
+{"ipa": null, "morph": "\npyeiny\t", "gloss": "altar", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3158"}
+{"ipa": null, "morph": "\nqueity\t", "gloss": "not", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3159"}
+{"ipa": null, "morph": "\nbia\u2019\u00e1\t", "gloss": " cactus leaves", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3415"}
+{"ipa": null, "morph": "\nblal\t", "gloss": "blal", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "2915"}
+{"ipa": null, "morph": "\ngalguich\t", "gloss": "sickness", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3015"}
+{"ipa": null, "morph": "\ngib rug cuan\t", "gloss": "hand scythe", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3515"}
+{"ipa": null, "morph": "\ngueld\t", "gloss": "mamey fruit", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3815"}
+{"ipa": null, "morph": "\nMixh\t", "gloss": "Mixe", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3115"}
+{"ipa": null, "morph": "\nnacuby\t", "gloss": "new", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3615"}
+{"ipa": null, "morph": "\nrlalo\t", "gloss": "defends", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3315"}
+{"ipa": null, "morph": "\nrndub\t", "gloss": "sweeps", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3215"}
+{"ipa": null, "morph": "\nxhnia r\u00ebni\t", "gloss": "dark red ", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3714", "id": "3715"}
+{"ipa": null, "morph": "\ngra\t", "gloss": "all", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3167"}
+{"ipa": null, "morph": "\nqu\u00ebity\t", "gloss": "not", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3160"}
+{"ipa": null, "morph": "\nQueity gucbeyu ni mni\u00ebb e?\t", "gloss": "Didn\u2019t you understand what she said?", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3161"}
+{"ipa": null, "morph": "\nQueity.\t", "gloss": "No.", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3162"}
+{"ipa": null, "morph": "\nqu\u00ebn\t", "gloss": "and", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3163"}
+{"ipa": null, "morph": "\nqu\u00ebn\t", "gloss": "with", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3164"}
+{"ipa": null, "morph": "\nquily\t", "gloss": "kilo", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3165"}
+{"ipa": null, "morph": "\nquizh\t", "gloss": "will pay", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3166"}
+{"ipa": null, "morph": "\nra dizh\t", "gloss": "words", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3168"}
+{"ipa": null, "morph": "\nRa guan re ryulaza.\t", "gloss": "I like these bulls.", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3169"}
+{"ipa": null, "morph": "\nbo\u2019\u00f3\t", "gloss": "charcoal", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "2916"}
+{"ipa": null, "morph": "\ndu\u2019\t", "gloss": "rope", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3816"}
+{"ipa": null, "morph": "\ngiizha\u2019a\t", "gloss": "reddish field plant", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3516"}
+{"ipa": null, "morph": "\nnagas\t", "gloss": "black beeswax ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3716"}
+{"ipa": null, "morph": "\nre\t", "gloss": "that", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3216"}
+{"ipa": null, "morph": "\nruny gan\t", "gloss": "earns", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3316"}
+{"ipa": null, "morph": "\nwbich \t", "gloss": "sun", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3616"}
+{"ipa": null, "morph": "\nwna\t", "gloss": "woman", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3715", "id": "3116"}
+{"ipa": null, "morph": "\nbugui\t", "gloss": "guava", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3170"}
+{"ipa": null, "morph": "\ngrate de dich\t", "gloss": "all the words", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3172"}
+{"ipa": null, "morph": "\nRanu lo betsa Rony ladi e?\t", "gloss": "Do you see my brother Jeronimo over there?", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3171"}
+{"ipa": null, "morph": "\nrbab\t", "gloss": "gets itchy", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3174"}
+{"ipa": null, "morph": "\nrban\t", "gloss": "follows a medical diet", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3175"}
+{"ipa": null, "morph": "\nrbany\t", "gloss": "wakes up", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3176"}
+{"ipa": null, "morph": "\nrbe\t", "gloss": "chooses", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3177"}
+{"ipa": null, "morph": "\nrbe\t", "gloss": "takes (something) out", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3178"}
+{"ipa": null, "morph": "\nrbeb\t", "gloss": "rides (an animal)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3179"}
+{"ipa": null, "morph": "\nxhixhi te\t", "gloss": "every day", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3173"}
+{"ipa": null, "morph": "\nbehts\t", "gloss": "brother (of a male)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3417"}
+{"ipa": null, "morph": "\nbolz\t", "gloss": "bag", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "2917"}
+{"ipa": null, "morph": "\ndyoz \t", "gloss": "God", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3617"}
+{"ipa": null, "morph": "\ngalbchon\t", "gloss": "twenty-three", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3017"}
+{"ipa": null, "morph": "\nginiag\t", "gloss": "type of small chile", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3517"}
+{"ipa": null, "morph": "\ngutbily\t", "gloss": "praying mantis", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3817"}
+{"ipa": null, "morph": "\nmna\t", "gloss": "woman", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3117"}
+{"ipa": null, "morph": "\nnagas la bo\u2019\u00f3\t", "gloss": "black like charcoal ", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3717"}
+{"ipa": null, "morph": "\nnde\u2019\t", "gloss": "this", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3217"}
+{"ipa": null, "morph": "\nrun gan\t", "gloss": "wins", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3317"}
+{"ipa": null, "morph": "\nrbecy\t", "gloss": "puts on", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3180"}
+{"ipa": null, "morph": "\nrbez\t", "gloss": "waits for", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3181"}
+{"ipa": null, "morph": "\nrbi\t", "gloss": "sits down", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3182"}
+{"ipa": null, "morph": "\nrbix\t", "gloss": "rings (of a bell)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3183"}
+{"ipa": null, "morph": "\nrbuzh\t", "gloss": "calls", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3184"}
+{"ipa": null, "morph": "\nrbuzhya\t", "gloss": "shouts", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3185"}
+{"ipa": null, "morph": "\nrcaz\t", "gloss": "wants", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3186"}
+{"ipa": null, "morph": "\nRcaza gunya preguan yu.\t", "gloss": "I want to ask you a question.", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3187"}
+{"ipa": null, "morph": "\nrcha\t", "gloss": "warms", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3188"}
+{"ipa": null, "morph": "\nrcha\u2019\u00e1\t", "gloss": "I warm", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3189"}
+{"ipa": null, "morph": "\nbchan\t", "gloss": "larvae of beetles", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3818"}
+{"ipa": null, "morph": "\ngalbga\t", "gloss": "twenty-nine", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3018"}
+{"ipa": null, "morph": "\ngugiyu\t", "gloss": "small bird that sings a sad song", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3518"}
+{"ipa": null, "morph": "\nMnabagzaga nax yquinyyu.\t", "gloss": "I also ordered hot chocolate for you to drink.", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3118"}
+{"ipa": null, "morph": "\nnags guini\t", "gloss": "black like woot ", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3718"}
+{"ipa": null, "morph": "\nre\t", "gloss": "here", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3218"}
+{"ipa": null, "morph": "\nruld\t", "gloss": "half", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3618"}
+{"ipa": null, "morph": "\nruny gaxt\t", "gloss": "spends money", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3317", "id": "3318"}
+{"ipa": "za\u2019c wxi\u2019ihnny !", "morph": "\nZac wxiny!", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "1975"}
+{"ipa": "za\u2019cars\u00ecii\u2019ly!", "morph": "\nZacarsily!", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "1973"}
+{"ipa": null, "morph": "\nrcha\u2019\u00e1ni\t", "gloss": "he warms", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3190"}
+{"ipa": null, "morph": "\nrchiby\t", "gloss": "scares (someone)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3192"}
+{"ipa": null, "morph": "\nrchoo\t", "gloss": "you warm", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3193"}
+{"ipa": null, "morph": "\nrchu\t", "gloss": "changes (something)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3194"}
+{"ipa": null, "morph": "\nrchu yu\t", "gloss": "moves", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3195"}
+{"ipa": null, "morph": "\nrculo\t", "gloss": "takes care of", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3196"}
+{"ipa": null, "morph": "\nrcuzh\t", "gloss": "plays (a wind instrument)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3197"}
+{"ipa": null, "morph": "\nrcwa\t", "gloss": "writes", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3198"}
+{"ipa": null, "morph": "\nrcwa\t", "gloss": "throws", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3199"}
+{"ipa": null, "morph": "\nrxhaxh\t", "gloss": "sneezes", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3191"}
+{"ipa": null, "morph": "\nb\u00ebni laach\t", "gloss": "person from the same town", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3619"}
+{"ipa": null, "morph": "\ncualazu\t", "gloss": "see you later", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3719"}
+{"ipa": null, "morph": "\ngalbgaiy\t", "gloss": "twenty-five", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3019"}
+{"ipa": null, "morph": "\ngulte\t", "gloss": "bird similar to dove and pigeon", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3519"}
+{"ipa": null, "morph": "\nlazgueld\t", "gloss": "seeds of mamey fruit (edible, used to prepare drinks)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3819"}
+{"ipa": null, "morph": "\nmini\u2019\u00ed\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3119"}
+{"ipa": null, "morph": "\nrdedni gun\t", "gloss": "makes a charitable donation", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3319"}
+{"ipa": null, "morph": "\nre\t", "gloss": "there", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3318", "id": "3219"}
+{"ipa": null, "morph": "\nrcwany\t", "gloss": "wakes (someone) up", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3200"}
+{"ipa": null, "morph": "\nrcwez\t", "gloss": "turns off (an appliance)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3201"}
+{"ipa": null, "morph": "\nrcwual\t", "gloss": "turns on (a radio)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3202"}
+{"ipa": null, "morph": "\nrcyetlaz\t", "gloss": "is happy", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3203"}
+{"ipa": null, "morph": "\nrcyi\t", "gloss": "cooks on an open fire", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3204"}
+{"ipa": null, "morph": "\nrcyia\t", "gloss": "I cook", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3205"}
+{"ipa": null, "morph": "\nrcyii\t", "gloss": "he cooks", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3206"}
+{"ipa": null, "morph": "\nrcyiu\t", "gloss": "you cook", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3207"}
+{"ipa": null, "morph": "\nrda\t", "gloss": "breaks (a round or compact object)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3208"}
+{"ipa": null, "morph": "\nrdaux\t", "gloss": "barks", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3209"}
+{"ipa": null, "morph": "\nbsuaz\t", "gloss": "squirrel", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "2920"}
+{"ipa": null, "morph": "\nbza\u2019an\t", "gloss": "brother (of a female), sister (of a male)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3420"}
+{"ipa": null, "morph": "\ncualazbiu\t", "gloss": "see you later (formal)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3720"}
+{"ipa": null, "morph": "\ngalbgats\t", "gloss": "twenty-seven", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3020"}
+{"ipa": null, "morph": "\ngugh\t", "gloss": "zebra dove", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3520"}
+{"ipa": null, "morph": "\ngu\u00ed\u2019its\t", "gloss": "paper", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3820"}
+{"ipa": null, "morph": "\nlach\t", "gloss": "homeland", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3620"}
+{"ipa": null, "morph": "\nmniny\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3120"}
+{"ipa": null, "morph": "\nRe cayunya zeiny.\t", "gloss": "I\u2019m working here.", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3220"}
+{"ipa": null, "morph": "\nruny mandad\t", "gloss": "does an errand", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3219", "id": "3320"}
+{"ipa": null, "morph": "\nnde\u2019\t", "gloss": "this", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3217"}
+{"ipa": null, "morph": "\nrdeidy\t", "gloss": "gives (something) to (someone)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3210"}
+{"ipa": null, "morph": "\nrdets\t", "gloss": "is inside out", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3211"}
+{"ipa": null, "morph": "\nrdica\t", "gloss": "appears", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3212"}
+{"ipa": null, "morph": "\nrdieby\t", "gloss": "boils (of a liquid)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3213"}
+{"ipa": null, "morph": "\nrd\u00f3\u2019o\t", "gloss": "be sold", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3214"}
+{"ipa": null, "morph": "\nre\t", "gloss": "here", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3218"}
+{"ipa": null, "morph": "\nre\t", "gloss": "there", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3219"}
+{"ipa": null, "morph": "\nre\t", "gloss": "that", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3216"}
+{"ipa": null, "morph": "\nrndub\t", "gloss": "sweeps", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3215"}
+{"ipa": null, "morph": "\nbts\u00eb\t", "gloss": "tuna fruit", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "2921"}
+{"ipa": null, "morph": "\ngal rbis laaz\t", "gloss": "thirstiness ", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3621"}
+{"ipa": null, "morph": "\ngalbtap\t", "gloss": "twenty-four", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3021"}
+{"ipa": null, "morph": "\ng\u00ebch guib\t", "gloss": "nail", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3821"}
+{"ipa": null, "morph": "\nicha gadnu\t", "gloss": "we\u2019ll meet later", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3721"}
+{"ipa": null, "morph": "\nida te guxuuntu\t", "gloss": "you all come eat (morning time meal)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3521"}
+{"ipa": null, "morph": "\nmon\t", "gloss": "doll", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3121"}
+{"ipa": null, "morph": "\nrbeb niss\t", "gloss": "swims", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3321"}
+{"ipa": null, "morph": "\nRe rcaza gunya imbertier muly lo ra guan sebu.\t", "gloss": "I want to invest money in some of these zebu bulls here.", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3320", "id": "3221"}
+{"ipa": null, "morph": "\nRe cayunya zeiny.\t", "gloss": "I\u2019m working here.", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3220"}
+{"ipa": null, "morph": "\nRe rcaza gunya imbertier muly lo ra guan sebu.\t", "gloss": "I want to invest money in some of these zebu bulls here.", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3221"}
+{"ipa": null, "morph": "\nreipy\t", "gloss": "tells", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3222"}
+{"ipa": null, "morph": "\nren\t", "gloss": "there", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3225"}
+{"ipa": null, "morph": "\nren\t", "gloss": "this", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3226"}
+{"ipa": null, "morph": "\nren\t", "gloss": "here", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3227"}
+{"ipa": null, "morph": "\nren\t", "gloss": "there; that", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3223"}
+{"ipa": null, "morph": "\nren\t", "gloss": "that", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3224"}
+{"ipa": null, "morph": "\nrgap\t", "gloss": "slaps", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3228"}
+{"ipa": null, "morph": "\nrguad\t", "gloss": "stings (someone)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3229"}
+{"ipa": null, "morph": "\nbtsya\t", "gloss": "louse", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "2922"}
+{"ipa": null, "morph": "\nbzia\t", "gloss": "well", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3822"}
+{"ipa": null, "morph": "\ncali chu?\t", "gloss": "where are you going? (informal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3722"}
+{"ipa": null, "morph": "\ngalbtuby\t", "gloss": "twenty-one", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3022"}
+{"ipa": null, "morph": "\nguel\t", "gloss": "corn field", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3422"}
+{"ipa": null, "morph": "\nketeganti\u2019ah\t", "gloss": "I don\u2019t know!", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3522"}
+{"ipa": null, "morph": "\nlaz do\t", "gloss": "heart", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3622"}
+{"ipa": null, "morph": "\nmuly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3122"}
+{"ipa": null, "morph": "\nruny protestar\t", "gloss": "protests", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3221", "id": "3322"}
+{"ipa": null, "morph": "\nrgub\t", "gloss": "sucks", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3230"}
+{"ipa": null, "morph": "\nrgub\t", "gloss": "smokes", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3231"}
+{"ipa": null, "morph": "\nrguch\t", "gloss": "bathes (someone or something)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3232"}
+{"ipa": null, "morph": "\nrgue\t", "gloss": "carries", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3234"}
+{"ipa": null, "morph": "\nrgue\t", "gloss": "cusses", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3233"}
+{"ipa": null, "morph": "\nrguez\t", "gloss": "hugs", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3235"}
+{"ipa": null, "morph": "\nrgui\t", "gloss": "gets sour", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3236"}
+{"ipa": null, "morph": "\nrguiad\t", "gloss": "pierces", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3237"}
+{"ipa": null, "morph": "\nrguiby\t", "gloss": "washes", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3238"}
+{"ipa": null, "morph": "\nrguich\t", "gloss": "breaks (a long object)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3239"}
+{"ipa": null, "morph": "\nbtyep\t", "gloss": "wasp", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "2923"}
+{"ipa": null, "morph": "\ncali chebiu\t", "gloss": "where are you going (formal)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3723"}
+{"ipa": null, "morph": "\ncuan\t", "gloss": " alfalfa", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3523"}
+{"ipa": null, "morph": "\ngalbtyop\t", "gloss": "twenty-two", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3023"}
+{"ipa": null, "morph": "\nguet belduub\t", "gloss": "tortilla made out of blue corn", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3423"}
+{"ipa": null, "morph": "\nlad\t", "gloss": "between", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3623"}
+{"ipa": null, "morph": "\nm\u00ebly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3123"}
+{"ipa": null, "morph": "\nren\t", "gloss": "there; that", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3223"}
+{"ipa": null, "morph": "\nruny sospechar\t", "gloss": "suspects", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3323"}
+{"ipa": null, "morph": "\nzed\t", "gloss": "salt", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3322", "id": "3823"}
+{"ipa": null, "morph": "\nrguieb\t", "gloss": "sews", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3240"}
+{"ipa": null, "morph": "\nrguied\t", "gloss": "pierces", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3241"}
+{"ipa": null, "morph": "\nrguily\t", "gloss": "looks for", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3242"}
+{"ipa": null, "morph": "\nrguiny\t", "gloss": "hits", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3243"}
+{"ipa": null, "morph": "\nrguiny\t", "gloss": "borrows", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3244"}
+{"ipa": null, "morph": "\nrguix\t", "gloss": "lays (a long object) down", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3245"}
+{"ipa": null, "morph": "\nrguix\t", "gloss": "puts (a long object) down", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3246"}
+{"ipa": null, "morph": "\nrguixicy\t", "gloss": "nods off", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3247"}
+{"ipa": null, "morph": "\nrguizh\t", "gloss": "pays", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3248"}
+{"ipa": null, "morph": "\nrguny\t", "gloss": "scratches", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3249"}
+{"ipa": null, "morph": "\nbtyux\t", "gloss": "tomato", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "2924"}
+{"ipa": null, "morph": "\ngalbshon\t", "gloss": "twenty-eight", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3024"}
+{"ipa": null, "morph": "\nl\u00e0\u2019a cu\u00e8\u2019cw\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3424"}
+{"ipa": null, "morph": "\nlagu\t", "gloss": " wild herb used to cook beans", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3524"}
+{"ipa": null, "morph": "\nlani\t", "gloss": "party", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3624"}
+{"ipa": null, "morph": "\nm\u00ebxh\t", "gloss": "blonde", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3124"}
+{"ipa": null, "morph": "\nnaxhy\t", "gloss": "salty", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3824"}
+{"ipa": null, "morph": "\nren\t", "gloss": "that", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3224"}
+{"ipa": null, "morph": "\nruny uas\t", "gloss": "uses", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3324"}
+{"ipa": null, "morph": "\nshi ca yunu?\t", "gloss": "what are you doing? (informal)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3823", "id": "3724"}
+{"ipa": null, "morph": "\ngo\u2019\t", "gloss": "feeds", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3251"}
+{"ipa": null, "morph": "\nrgwezac\t", "gloss": "speaks (a language) well", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3250"}
+{"ipa": null, "morph": "\nrgyet\t", "gloss": "plays", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3252"}
+{"ipa": null, "morph": "\nri\t", "gloss": "are around,scattered", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3253"}
+{"ipa": null, "morph": "\nriab\t", "gloss": "falls", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3254"}
+{"ipa": null, "morph": "\nricy\t", "gloss": "there", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3255"}
+{"ipa": null, "morph": "\nrieny\u00ebn\t", "gloss": "we do", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3256"}
+{"ipa": null, "morph": "\nrinylo\t", "gloss": "sees", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3257"}
+{"ipa": null, "morph": "\nristi\t", "gloss": "gets up (out of bed)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3258"}
+{"ipa": null, "morph": "\nrmudy\t", "gloss": "medicine", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3259"}
+{"ipa": null, "morph": "\ngalbsho\u2019\u00f3p\t", "gloss": "twenty-six", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3025"}
+{"ipa": null, "morph": "\ngueb quietio\u2019\u00f3\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3425"}
+{"ipa": null, "morph": "\nguixha\u2019\u00e1\t", "gloss": "grass", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3825"}
+{"ipa": null, "morph": "\nlacue\u2019\u00e9cu\t", "gloss": "blue flower", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3525"}
+{"ipa": null, "morph": "\nlats\t", "gloss": "flat part", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3625"}
+{"ipa": null, "morph": "\nmyes\t", "gloss": "mass", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3125"}
+{"ipa": null, "morph": "\nren\t", "gloss": "there", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3225"}
+{"ipa": null, "morph": "\nrun xgab\t", "gloss": "thinks", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3325"}
+{"ipa": null, "morph": "\nshi ca yunbiu?\t", "gloss": "What are you doing? (formal)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3724", "id": "3725"}
+{"ipa": null, "morph": "\nRmudy\u00ebng\t", "gloss": "It is medicine.", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3260"}
+{"ipa": null, "morph": "\nrnab\t", "gloss": "asks for", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3261"}
+{"ipa": null, "morph": "\nrnab\t", "gloss": "sends for (a family member)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3262"}
+{"ipa": null, "morph": "\nrnalaz\t", "gloss": "thinks about (someone)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3263"}
+{"ipa": null, "morph": "\nrnalaz\t", "gloss": "remembers (someone)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3264"}
+{"ipa": null, "morph": "\nRnany\t", "gloss": "Hernandez", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3265"}
+{"ipa": null, "morph": "\nrnaz\t", "gloss": "grabs", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3266"}
+{"ipa": null, "morph": "\nrnudizh\t", "gloss": "questions", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3267"}
+{"ipa": null, "morph": "\nrnyity\t", "gloss": "gets lost", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3268"}
+{"ipa": null, "morph": "\nrnyity\t", "gloss": "has lost (something)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3269"}
+{"ipa": null, "morph": "\nbuarr\t", "gloss": "donkey", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "2926"}
+{"ipa": null, "morph": "\ngald\t", "gloss": "twenty", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3026"}
+{"ipa": null, "morph": "\ng\u00ebdy\t", "gloss": "hole", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3826"}
+{"ipa": null, "morph": "\nlaat\t", "gloss": "you (plural) ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3626"}
+{"ipa": null, "morph": "\nlatchi\u2019i\t", "gloss": "type of herb", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3526"}
+{"ipa": null, "morph": "\nren\t", "gloss": "this", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3226"}
+{"ipa": null, "morph": "\nruny z\u00ebny xte\t", "gloss": "works as", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3326"}
+{"ipa": null, "morph": "\ntu lo?\t", "gloss": "What\u2019s your name? (informal)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3726"}
+{"ipa": null, "morph": "\nyag btz\u00eb xub\t", "gloss": "cactus", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3725", "id": "3426"}
+{"ipa": "za\u2019c wzhih!", "morph": "\nZac wzhi!", "gloss": "Good afternoon!", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "2769"}
+{"ipa": "za\u2019cawxi\u2019ihnny !", "morph": "\nZacawxiny!", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "2759"}
+{"ipa": "za\u2019cawzhih!", "morph": "\nZacawzhi!", "gloss": "Good afternoon!", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "2770"}
+{"ipa": null, "morph": "\ngaldbts\u00eb\t", "gloss": "thirty", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3272"}
+{"ipa": null, "morph": "\nrnyity\t", "gloss": "is missing (something)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3270"}
+{"ipa": null, "morph": "\nrnyity\t", "gloss": "misses (something)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3271"}
+{"ipa": null, "morph": "\nrra\t", "gloss": "runs out, gets finished", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3273"}
+{"ipa": null, "morph": "\nrrady\t", "gloss": "radio", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3274"}
+{"ipa": null, "morph": "\nrran\t", "gloss": "frog", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3275"}
+{"ipa": null, "morph": "\nrran\t", "gloss": "frog", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3276"}
+{"ipa": null, "morph": "\nrrech\t", "gloss": "spills", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3277"}
+{"ipa": null, "morph": "\nrrelo\t", "gloss": "watch", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3278"}
+{"ipa": null, "morph": "\nrresieb\t", "gloss": "bill; receipt", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3279"}
+{"ipa": null, "morph": "\nb\u00ebdy\t", "gloss": "chicken", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "2927"}
+{"ipa": null, "morph": "\ngan\t", "gloss": "gain", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3027"}
+{"ipa": null, "morph": "\ngeb las\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3427"}
+{"ipa": null, "morph": "\nlay\t", "gloss": "tooth", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3627"}
+{"ipa": null, "morph": "\nman guelze\u2019\u00e9\t", "gloss": "zanate bird", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3527"}
+{"ipa": null, "morph": "\nren\t", "gloss": "here", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3227"}
+{"ipa": null, "morph": "\nrun z\u00ebny\t", "gloss": "works", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3426", "id": "3327"}
+{"ipa": null, "morph": "\n\u00a1Zac rsily!\t", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2858"}
+{"ipa": null, "morph": "\n\u00a1Zak laizhi!\t", "gloss": "Good day (midday)!", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2859"}
+{"ipa": null, "morph": "\n\u00a1Zak wxiin!\t", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2861"}
+{"ipa": null, "morph": "\n\u00a1Zak wzhi!\t", "gloss": "Good afternoon!", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2860"}
+{"ipa": null, "morph": "\n\u00bfCali chu?\t", "gloss": "where are you going?", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2856"}
+{"ipa": null, "morph": "\n\u00bfCali guiu?\t", "gloss": "where did you go? (cultural note: used as a greeting when meeting someone on the street as they are headed towards their home)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2857"}
+{"ipa": null, "morph": "\nbadia\t", "gloss": "roadrunner", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2883"}
+{"ipa": null, "morph": "\nbagh\t", "gloss": "cow", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2884"}
+{"ipa": null, "morph": "\nbaguidy\t", "gloss": "butterfly", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2885"}
+{"ipa": null, "morph": "\nbaly\t", "gloss": "fire, flame", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2887"}
+{"ipa": null, "morph": "\nbangual\t", "gloss": "old", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2889"}
+{"ipa": null, "morph": "\nbanua\t", "gloss": "scorpion", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2890"}
+{"ipa": null, "morph": "\nbar\t", "gloss": "stick", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2891"}
+{"ipa": null, "morph": "\nbarga\t", "gloss": "type of medium-sized grasshopper", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2892"}
+{"ipa": null, "morph": "\nbaxat\t", "gloss": "toad", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2893"}
+{"ipa": null, "morph": "\nbchily\t", "gloss": "knife", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2895"}
+{"ipa": null, "morph": "\nbdi\t", "gloss": "ant", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2896"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9cu\t", "gloss": "dog", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2899"}
+{"ipa": null, "morph": "\nb\u00ebngul\t", "gloss": "old person", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2888"}
+{"ipa": null, "morph": "\nbezaa\t", "gloss": "blackberry", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3327", "id": "2870"}
+{"ipa": "za\u2019c laizhih !", "morph": "\nZac laizhi!", "gloss": "Good midday!", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "295"}
+{"ipa": "za\u2019c rs\u00ecii\u2019lly !", "morph": "\nZac rsily!", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "293"}
+{"ipa": null, "morph": "\n\u00bfCali bsedyyu dizhsa?\t", "gloss": "Where did you learn Zapotec?", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2955"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9ld\t", "gloss": "snake", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2903"}
+{"ipa": null, "morph": "\nBecw nde.\t", "gloss": "This is a dog.", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2900"}
+{"ipa": null, "morph": "\nBed\t", "gloss": "Pedro", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2901"}
+{"ipa": null, "morph": "\nb\u00ebdy\t", "gloss": "chicken", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2927"}
+{"ipa": null, "morph": "\nbeich\t", "gloss": "buzzard", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2902"}
+{"ipa": null, "morph": "\nbel\t", "gloss": "meat", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2904"}
+{"ipa": null, "morph": "\nben\t", "gloss": "dregs, grounds (of liquid)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2907"}
+{"ipa": null, "morph": "\nb\u00ebny\t", "gloss": "person", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2934"}
+{"ipa": null, "morph": "\nbets\t", "gloss": "brother (of a male)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2908"}
+{"ipa": null, "morph": "\nbeu\t", "gloss": "turtle", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2909"}
+{"ipa": null, "morph": "\nbez\t", "gloss": "type of big jackrabbit", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2911"}
+{"ipa": null, "morph": "\nbi\t", "gloss": "air", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2913"}
+{"ipa": null, "morph": "\nbied\t", "gloss": "aunt", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2914"}
+{"ipa": null, "morph": "\nblal\t", "gloss": "blal", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2915"}
+{"ipa": null, "morph": "\nbo\u2019\u00f3\t", "gloss": "charcoal", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2916"}
+{"ipa": null, "morph": "\nbolz\t", "gloss": "bag", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2917"}
+{"ipa": null, "morph": "\nbsuaz\t", "gloss": "squirrel", "source": "tlacochahuaya", "sourcepage": "9", "prev": "2870", "id": "2920"}
+{"ipa": "x:tyooz\u00ebhnn l\u00ecu\u2019", "morph": "\nXtyoz\u00ebn liu", "gloss": "Thank you", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "300"}
+{"ipa": null, "morph": "\nb\u00ebn guixh\t", "gloss": "city person", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3070"}
+{"ipa": null, "morph": "\ncuas\t", "gloss": "temples (sides of head)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3040"}
+{"ipa": null, "morph": "\ndoctor\t", "gloss": "doctor", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3000"}
+{"ipa": null, "morph": "\ndolr\t", "gloss": "dollar", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3001"}
+{"ipa": null, "morph": "\ndub\t", "gloss": "maguey plant", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3002"}
+{"ipa": null, "morph": "\ndurazn\t", "gloss": "peach", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3003"}
+{"ipa": null, "morph": "\ndyag\t", "gloss": "ear", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3004"}
+{"ipa": null, "morph": "\ne\t", "gloss": "(used at the end of a question that can be answered with a yes or queity no\u201d)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3006"}
+{"ipa": null, "morph": "\nedifisy\t", "gloss": "building", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3007"}
+{"ipa": null, "morph": "\nfald\t", "gloss": "skirt", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3009"}
+{"ipa": null, "morph": "\nfasily\t", "gloss": "easy", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3010"}
+{"ipa": null, "morph": "\nfoc\t", "gloss": "light bulb", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3011"}
+{"ipa": null, "morph": "\nfot\t", "gloss": "picture", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3012"}
+{"ipa": null, "morph": "\nga\t", "gloss": "nine", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3013"}
+{"ipa": null, "morph": "\ngai\t", "gloss": "five", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3014"}
+{"ipa": null, "morph": "\ngalbchon\t", "gloss": "twenty-three", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3017"}
+{"ipa": null, "morph": "\ngalbga\t", "gloss": "twenty-nine", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3018"}
+{"ipa": null, "morph": "\ngalbgaiy\t", "gloss": "twenty-five", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3019"}
+{"ipa": null, "morph": "\ngalbgats\t", "gloss": "twenty-seven", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2920", "id": "3020"}
+{"ipa": null, "morph": "\nbugui\t", "gloss": "guava", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3170"}
+{"ipa": null, "morph": "\ngra\t", "gloss": "all", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3167"}
+{"ipa": null, "morph": "\ngrate de dich\t", "gloss": "all the words", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3172"}
+{"ipa": null, "morph": "\nLoby\t", "gloss": "Lopez", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3100"}
+{"ipa": null, "morph": "\nlor\u00ebng\t", "gloss": "their faces", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3101"}
+{"ipa": null, "morph": "\nmacy\u00ebm\t", "gloss": "machine", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3102"}
+{"ipa": null, "morph": "\nmaestr\t", "gloss": "master bricklayer", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3103"}
+{"ipa": null, "morph": "\nMandad.\t", "gloss": "Going on an errand.", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3104"}
+{"ipa": null, "morph": "\nmansan\t", "gloss": "apple", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3105"}
+{"ipa": null, "morph": "\nmany\t", "gloss": "animal", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3106"}
+{"ipa": null, "morph": "\nmanyser\t", "gloss": "bee", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3108"}
+{"ipa": null, "morph": "\nMazh\t", "gloss": "Tomas, Thomas", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3109"}
+{"ipa": null, "morph": "\nm\u00ebly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3123"}
+{"ipa": null, "morph": "\nmes\t", "gloss": "teacher", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3112"}
+{"ipa": null, "morph": "\nmeser\t", "gloss": "waiter", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3113"}
+{"ipa": null, "morph": "\nm\u00ebxh\t", "gloss": "blonde", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3124"}
+{"ipa": null, "morph": "\nmilagr\t", "gloss": "miracle", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3114"}
+{"ipa": null, "morph": "\nmini\u2019\u00ed\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3119"}
+{"ipa": null, "morph": "\nMixh\t", "gloss": "Mixe", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3115"}
+{"ipa": null, "morph": "\nmna\t", "gloss": "woman", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3020", "id": "3117"}
+{"ipa": null, "morph": "\ngaldbts\u00eb\t", "gloss": "thirty", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3272"}
+{"ipa": null, "morph": "\ngo\u2019\t", "gloss": "feeds", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3251"}
+{"ipa": null, "morph": "\nnde\u2019\t", "gloss": "this", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3217"}
+{"ipa": null, "morph": "\nrcwany\t", "gloss": "wakes (someone) up", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3200"}
+{"ipa": null, "morph": "\nrcwez\t", "gloss": "turns off (an appliance)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3201"}
+{"ipa": null, "morph": "\nrcwual\t", "gloss": "turns on (a radio)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3202"}
+{"ipa": null, "morph": "\nrcyetlaz\t", "gloss": "is happy", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3203"}
+{"ipa": null, "morph": "\nrcyi\t", "gloss": "cooks on an open fire", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3204"}
+{"ipa": null, "morph": "\nrcyia\t", "gloss": "I cook", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3205"}
+{"ipa": null, "morph": "\nrcyii\t", "gloss": "he cooks", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3206"}
+{"ipa": null, "morph": "\nrcyiu\t", "gloss": "you cook", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3207"}
+{"ipa": null, "morph": "\nrda\t", "gloss": "breaks (a round or compact object)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3208"}
+{"ipa": null, "morph": "\nrdaux\t", "gloss": "barks", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3209"}
+{"ipa": null, "morph": "\nrdeidy\t", "gloss": "gives (something) to (someone)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3210"}
+{"ipa": null, "morph": "\nrdets\t", "gloss": "is inside out", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3211"}
+{"ipa": null, "morph": "\nrdica\t", "gloss": "appears", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3212"}
+{"ipa": null, "morph": "\nrdieby\t", "gloss": "boils (of a liquid)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3213"}
+{"ipa": null, "morph": "\nrd\u00f3\u2019o\t", "gloss": "be sold", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3214"}
+{"ipa": null, "morph": "\nre\t", "gloss": "here", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3218"}
+{"ipa": null, "morph": "\nre\t", "gloss": "there", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3117", "id": "3219"}
+{"ipa": null, "morph": "\n\u00bfTu lo cha\u2019a?\t", "gloss": "To whom should I direct (my question)?", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3374"}
+{"ipa": null, "morph": "\nbahl\t", "gloss": "star", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3391"}
+{"ipa": null, "morph": "\nbugui\t", "gloss": "guava", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3386"}
+{"ipa": null, "morph": "\nCuan\t", "gloss": "alfalfa", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3399"}
+{"ipa": null, "morph": "\ndiscu\t", "gloss": "C.D.", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3346"}
+{"ipa": null, "morph": "\ngu ryulazu chocolat?\t", "gloss": "Do you like chocolate?", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3379"}
+{"ipa": null, "morph": "\nguie ts\u00ebli\t", "gloss": "endemic white wild aromatic orchid", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3398"}
+{"ipa": null, "morph": "\nguiiniag\t", "gloss": "local variety of fresh chilli pod", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3393"}
+{"ipa": null, "morph": "\ngush\t", "gloss": "relationship between parents of two spouses", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3345"}
+{"ipa": null, "morph": "\nk\u00ebti\t", "gloss": "No.", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3362"}
+{"ipa": null, "morph": "\nnantia\t", "gloss": "aunt (poss. form)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3344"}
+{"ipa": null, "morph": "\nrbeb niss\t", "gloss": "swims", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3321"}
+{"ipa": null, "morph": "\nrcabi\t", "gloss": "answers", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3313"}
+{"ipa": null, "morph": "\nrcuany bguia\t", "gloss": "ties a knot", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3306"}
+{"ipa": null, "morph": "\nrdedni gun\t", "gloss": "makes a charitable donation", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3319"}
+{"ipa": null, "morph": "\nrlalo\t", "gloss": "defends", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3315"}
+{"ipa": null, "morph": "\nrndis\t", "gloss": "praises", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3303"}
+{"ipa": null, "morph": "\nropnu\t", "gloss": "we two, two of us", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3378"}
+{"ipa": null, "morph": "\nrshal\t", "gloss": "gets opened", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3341"}
+{"ipa": null, "morph": "\nrshal\t", "gloss": "opens", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3219", "id": "3342"}
+{"ipa": null, "morph": "\nba\u2019\u00e1t\t", "gloss": "skunk", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3496"}
+{"ipa": null, "morph": "\nbach\t", "gloss": "punch (drink)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3488"}
+{"ipa": null, "morph": "\nbaiy\t", "gloss": "shawl", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3489"}
+{"ipa": null, "morph": "\nbatx\t", "gloss": "lion", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3490"}
+{"ipa": null, "morph": "\nbeeld\t", "gloss": "sister (of a female)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3413"}
+{"ipa": null, "morph": "\nbehts\t", "gloss": "brother (of a male)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3417"}
+{"ipa": null, "morph": "\nbelduy\t", "gloss": "Red cherry-like fruit", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3402"}
+{"ipa": null, "morph": "\nbelduy bes\t", "gloss": "wild nanche (type of wild fruit)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3448"}
+{"ipa": null, "morph": "\nbes\t", "gloss": "ocelote / tigrillo", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3493"}
+{"ipa": null, "morph": "\nbew\t", "gloss": "coyote", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3492"}
+{"ipa": null, "morph": "\nbextil\t", "gloss": "types of aromatic plants", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3463"}
+{"ipa": null, "morph": "\nbia lutx be\u2019kw\t", "gloss": "cactus", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3478"}
+{"ipa": null, "morph": "\nbia na\u2019ld\t", "gloss": "thick cactus", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3477"}
+{"ipa": null, "morph": "\nbia\u2019\u00e1\t", "gloss": " cactus leaves", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3415"}
+{"ipa": null, "morph": "\nbia\u2019\u00e1\t", "gloss": "cactus leaf", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3414"}
+{"ipa": null, "morph": "\nbigupy\t", "gloss": "armadillo", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3498"}
+{"ipa": null, "morph": "\nbin yech bee?\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3405"}
+{"ipa": null, "morph": "\nblapiat\t", "gloss": "white castor oil plant", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3456"}
+{"ipa": null, "morph": "\nblaxh guel\t", "gloss": "Avocado leaves", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3404"}
+{"ipa": null, "morph": "\nblaxh guel\t", "gloss": "avocado tree leaves (edible)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3342", "id": "3459"}
+{"ipa": null, "morph": "\n yarbay\t", "gloss": "type of hawk", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3561"}
+{"ipa": null, "morph": "\n\u00bfcali chet?\t", "gloss": "where are you all going?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3509"}
+{"ipa": null, "morph": "\nan chi\t", "gloss": "today", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3598"}
+{"ipa": null, "morph": "\nanym\t", "gloss": "soul", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3599"}
+{"ipa": null, "morph": "\nbai chukye\u2019\t", "gloss": "put on a shawl?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3501"}
+{"ipa": null, "morph": "\nbdua g\u00ebch\t", "gloss": "type of wild banana", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3502"}
+{"ipa": null, "morph": "\nbech\t", "gloss": "vulture", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3562"}
+{"ipa": null, "morph": "\nbedund\t", "gloss": "humming bird", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3572"}
+{"ipa": null, "morph": "\nbedxun\t", "gloss": "spider", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3584"}
+{"ipa": null, "morph": "\nbegidy\t", "gloss": "butterfly", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3575"}
+{"ipa": null, "morph": "\nbeguich\t", "gloss": "fly", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3574"}
+{"ipa": null, "morph": "\nbel kuan\t", "gloss": "wedding food with beef and oregano", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3503"}
+{"ipa": null, "morph": "\nbetsiny\t", "gloss": "bat", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3579"}
+{"ipa": null, "morph": "\nbezbyaw\t", "gloss": "bumble bee", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3567"}
+{"ipa": null, "morph": "\nbi dyeny\t", "gloss": "ant", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3583"}
+{"ipa": null, "morph": "\nbibih\t", "gloss": "fruit with which you can make soap", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3507"}
+{"ipa": null, "morph": "\nbie\u2019to\u2019\t", "gloss": "root with which you can make shampoo", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3505"}
+{"ipa": null, "morph": "\nbixstilih\t", "gloss": "soap", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3508"}
+{"ipa": null, "morph": "\nbl\u00f3\u2019o\t", "gloss": "raven", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3563"}
+{"ipa": null, "morph": "\nbtiloo\t", "gloss": "wild bush, roots used to treat hemorrhage (sensible to touch or clap)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3459", "id": "3587"}
+{"ipa": null, "morph": "\nbany \t", "gloss": "mud", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3604"}
+{"ipa": null, "morph": "\nbca\u2019\u00e1\t", "gloss": "grackle bird", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3675"}
+{"ipa": null, "morph": "\nbcha\u2019\u00e1\t", "gloss": "witch", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3608"}
+{"ipa": null, "morph": "\nbchie\t", "gloss": "barn owl", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3679"}
+{"ipa": null, "morph": "\nbcu \t", "gloss": "altar", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3601"}
+{"ipa": null, "morph": "\nbdu\u2019\u00fald\t", "gloss": "tadpole", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3693"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9\t", "gloss": "mushroom", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3684"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9u\t", "gloss": "moon", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3696"}
+{"ipa": null, "morph": "\nbe\u2019u z\u00eb\u2019ni\t", "gloss": "full moon", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3697"}
+{"ipa": null, "morph": "\nbel\t", "gloss": "if (conditional)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3602"}
+{"ipa": null, "morph": "\nbeld\t", "gloss": "fish", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3681"}
+{"ipa": null, "morph": "\nbeld guel\t", "gloss": "river fish", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3682"}
+{"ipa": null, "morph": "\nb\u00ebni laach\t", "gloss": "person from the same town", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3619"}
+{"ipa": null, "morph": "\nb\u00ebzh\t", "gloss": "grey dove", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3680"}
+{"ipa": null, "morph": "\nbga\t", "gloss": "necklace", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3607"}
+{"ipa": null, "morph": "\nbiach\t", "gloss": "ciruela fruit", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3691"}
+{"ipa": null, "morph": "\nbiub\t", "gloss": "leafcutter ant", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3692"}
+{"ipa": null, "morph": "\nbk\u00ebch guie\t", "gloss": "mockingbird", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3677"}
+{"ipa": null, "morph": "\nbshia\u2019\u00e1\t", "gloss": "house finch", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3676"}
+{"ipa": null, "morph": "\nbzia\u2019\u00e1\t", "gloss": "cocoa beans", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3587", "id": "3689"}
+{"ipa": null, "morph": "\nbad guidy\t", "gloss": "hen", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3740"}
+{"ipa": null, "morph": "\nbcwel\t", "gloss": "corn husk, used to feed cattle", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3780"}
+{"ipa": null, "morph": "\nbcwel buxh\t", "gloss": "corn husk (used to wrap food)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3782"}
+{"ipa": null, "morph": "\nb\u00ebd ingul\t", "gloss": "turkey", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3743"}
+{"ipa": null, "morph": "\nb\u00ebd lach\t", "gloss": "hen turkey", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3741"}
+{"ipa": null, "morph": "\nb\u00ebd xhigh\t", "gloss": "Guinea fowl", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3742"}
+{"ipa": null, "morph": "\nbeziu\t", "gloss": "underground honeybees", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3703"}
+{"ipa": null, "morph": "\nbndagh\t", "gloss": "leafcutter ant", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3793"}
+{"ipa": null, "morph": "\nbred\t", "gloss": "wood, logs of wood", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3767"}
+{"ipa": null, "morph": "\nbsu\t", "gloss": "adobe (clay bricks)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3777"}
+{"ipa": null, "morph": "\nbte\t", "gloss": "bee hive", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3701"}
+{"ipa": null, "morph": "\nbtiu\u2019\u00fash\t", "gloss": "tomato", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3746"}
+{"ipa": null, "morph": "\nbts\u00ebni\t", "gloss": "foam", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3791"}
+{"ipa": null, "morph": "\nbza lahs\t", "gloss": "black beans", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3754"}
+{"ipa": null, "morph": "\nbza ro\u2019\u00f3\t", "gloss": "kidney beans", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3755"}
+{"ipa": null, "morph": "\nbza ya\u2019\u00e1\t", "gloss": "green beans", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3756"}
+{"ipa": null, "morph": "\nbzi\t", "gloss": "pumpkin flowers (edible)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3765"}
+{"ipa": null, "morph": "\ncali chebiu\t", "gloss": "where are you going (formal)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3723"}
+{"ipa": null, "morph": "\ncali chu?\t", "gloss": "where are you going? (informal)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3722"}
+{"ipa": null, "morph": "\ncali na g\u00ebch?\t", "gloss": "What town are you from? (formal and informal)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3689", "id": "3730"}
+{"ipa": null, "morph": "\nbahl\t", "gloss": "fire", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3804"}
+{"ipa": null, "morph": "\nbchan\t", "gloss": "larvae of beetles", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3818"}
+{"ipa": null, "morph": "\nbdo\t", "gloss": "baby", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3801"}
+{"ipa": null, "morph": "\nbdua\t", "gloss": "banana", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3800"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9ldyu\t", "gloss": "garden worm", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3814"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9w r\u00eb\u2019ni\t", "gloss": "new moon", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3865"}
+{"ipa": null, "morph": "\nb\u00ebch\t", "gloss": "cracks in the soil", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3861"}
+{"ipa": null, "morph": "\nb\u00ebch\t", "gloss": "tule grass (used to make roofs)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3844"}
+{"ipa": null, "morph": "\nbelb\u00ebdy\t", "gloss": "chicken meat", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3828"}
+{"ipa": null, "morph": "\nbets\u00ebni\t", "gloss": "tick", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3813"}
+{"ipa": null, "morph": "\nbetsia\u2019\u00e1\t", "gloss": "louse", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3810"}
+{"ipa": null, "morph": "\nbiani\t", "gloss": "candle, light", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3802"}
+{"ipa": null, "morph": "\nblia\u2019\u00e1\t", "gloss": "black zapote", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3856"}
+{"ipa": null, "morph": "\nblory\t", "gloss": "pot used to serve water", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3832"}
+{"ipa": null, "morph": "\nbo\u2019\u00f3\t", "gloss": "coal", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3830"}
+{"ipa": null, "morph": "\nbshidyu\t", "gloss": "clods of soil", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3859"}
+{"ipa": null, "morph": "\nbsi\u2019\u00edni\t", "gloss": "roof tiles", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3862"}
+{"ipa": null, "morph": "\nbt\u00ebtz\t", "gloss": "squirrel", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3871"}
+{"ipa": null, "morph": "\nbtia\u2019\t", "gloss": "aromatic herb used to cook beans", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3839"}
+{"ipa": null, "morph": "\nbtiu\u2019\u00fashguizh\t", "gloss": "tomatillo (used for salsas)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3730", "id": "3809"}
+{"ipa": null, "morph": "\nbahl\t", "gloss": "star", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3391"}
+{"ipa": null, "morph": "\nCuan\t", "gloss": "alfalfa", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3399"}
+{"ipa": null, "morph": "\nguie ts\u00ebli\t", "gloss": "endemic white wild aromatic orchid", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3398"}
+{"ipa": null, "morph": "\nguiiniag\t", "gloss": "local variety of fresh chilli pod", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3393"}
+{"ipa": null, "morph": "\nxhubh\t", "gloss": "amarillo (a yellow mole)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3390"}
+{"ipa": null, "morph": "\nxiix\t", "gloss": "Edible leafy bush", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3392"}
+{"ipa": null, "morph": "\nyabelduuy\t", "gloss": "Tree that produces a red cherry-like fruit", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3396"}
+{"ipa": null, "morph": "\nyabiadxi\t", "gloss": "Tree that produces a yellow or red prune-like fruit", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3397"}
+{"ipa": null, "morph": "\nyabtz\u00eb nakiits\t", "gloss": "cactus that produces white cactus fruit", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3395"}
+{"ipa": null, "morph": "\nyabugii\t", "gloss": "Tree of guava", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3394"}
+{"ipa": null, "morph": "\nbtia\u2019\t", "gloss": "aromatic herb used to cook beans", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3839"}
+{"ipa": null, "morph": "\nbzeiny\t", "gloss": "deer", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "2939"}
+{"ipa": null, "morph": "\nGuc bzenyu na?\t", "gloss": "When did you arrive?", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3039"}
+{"ipa": null, "morph": "\nl\u00e1\u2019ania\t", "gloss": "stomach", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3739"}
+{"ipa": null, "morph": "\nnagats\t", "gloss": "yellow", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3639"}
+{"ipa": null, "morph": "\nni ca ni guet\t", "gloss": "what follows", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3139"}
+{"ipa": null, "morph": "\nrguich\t", "gloss": "breaks (a long object)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3239"}
+{"ipa": null, "morph": "\nrzhiiz\t", "gloss": "laughs; smiles", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3339"}
+{"ipa": null, "morph": "\nyag\t", "gloss": "tree", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3439"}
+{"ipa": null, "morph": "\nyaguchibe\u2019e\t", "gloss": "hawthorn (type of tree); mequite tree", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3809", "id": "3539"}
+{"ipa": null, "morph": "\nbelduy\t", "gloss": "Red cherry-like fruit", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3402"}
+{"ipa": null, "morph": "\nbin yech bee?\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3405"}
+{"ipa": null, "morph": "\nblaxh guel\t", "gloss": "Avocado leaves", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3404"}
+{"ipa": null, "morph": "\nbugii\t", "gloss": "Guava", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3403"}
+{"ipa": null, "morph": "\ng\u00ebch biub\t", "gloss": "wild thorny flower", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3408"}
+{"ipa": null, "morph": "\ngie\u2019 bia\u2019?\t", "gloss": "flower of prickly pear", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3409"}
+{"ipa": null, "morph": "\ngueb\t", "gloss": "endemic bush used to feed chickens and turkeys", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3401"}
+{"ipa": null, "morph": "\nl\u00e1\u2019a\t", "gloss": "huge pod", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3407"}
+{"ipa": null, "morph": "\nxlachi wxadi\t", "gloss": "aromatic edible wild bush", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3400"}
+{"ipa": null, "morph": "\nbad guidy\t", "gloss": "hen", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3740"}
+{"ipa": null, "morph": "\ncuas\t", "gloss": "temples (sides of head)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3040"}
+{"ipa": null, "morph": "\nnan gual ??\t", "gloss": "old woman", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3640"}
+{"ipa": null, "morph": "\nNi na gyixeiny.\t", "gloss": "Like, higaditos.", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3140"}
+{"ipa": null, "morph": "\nrguieb\t", "gloss": "sews", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3240"}
+{"ipa": null, "morph": "\nrzhuny\t", "gloss": "runs", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3340"}
+{"ipa": null, "morph": "\nxhit\t", "gloss": "cat", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3540"}
+{"ipa": null, "morph": "\nya yash\t", "gloss": "avocado tree", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3440"}
+{"ipa": null, "morph": "\nza\t", "gloss": "pork lard, fat from the meat", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3539", "id": "3840"}
+{"ipa": null, "morph": "\nbeeld\t", "gloss": "sister (of a female)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3413"}
+{"ipa": null, "morph": "\nbehts\t", "gloss": "brother (of a male)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3417"}
+{"ipa": null, "morph": "\nbia\u2019\u00e1\t", "gloss": " cactus leaves", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3415"}
+{"ipa": null, "morph": "\nbia\u2019\u00e1\t", "gloss": "cactus leaf", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3414"}
+{"ipa": null, "morph": "\ngaiy\t", "gloss": "rooster", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3410"}
+{"ipa": null, "morph": "\nshk\u00ed\u2019i b\u00ebdi\t", "gloss": "type of wild berry (edible)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3412"}
+{"ipa": null, "morph": "\nxtiezh\t", "gloss": "garlic", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3411"}
+{"ipa": null, "morph": "\nzhily\t", "gloss": "sheep", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3419"}
+{"ipa": null, "morph": "\nb\u00ebd lach\t", "gloss": "hen turkey", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3741"}
+{"ipa": null, "morph": "\nca za\u2019\u00e1 lyz wbich\t", "gloss": "solar halo ", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3841"}
+{"ipa": null, "morph": "\nguet\t", "gloss": "tortilla(s)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3041"}
+{"ipa": null, "morph": "\nnagui\u2019\u00ed\t", "gloss": "jealous", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3141"}
+{"ipa": null, "morph": "\nnald \t", "gloss": "cold", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3641"}
+{"ipa": null, "morph": "\nrguied\t", "gloss": "pierces", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3241"}
+{"ipa": null, "morph": "\nrshal\t", "gloss": "gets opened", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3341"}
+{"ipa": null, "morph": "\nwagh\t", "gloss": "rat", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3541"}
+{"ipa": null, "morph": "\nxk\u00ed\u2019i b\u00ebdy\t", "gloss": "wild flower", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3840", "id": "3441"}
+{"ipa": null, "morph": "\nbza\u2019an\t", "gloss": "brother (of a female), sister (of a male)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3420"}
+{"ipa": null, "morph": "\ngeb las\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3427"}
+{"ipa": null, "morph": "\ngueb quietio\u2019\u00f3\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3425"}
+{"ipa": null, "morph": "\nguel\t", "gloss": "corn field", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3422"}
+{"ipa": null, "morph": "\nguet belduub\t", "gloss": "tortilla made out of blue corn", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3423"}
+{"ipa": null, "morph": "\nl\u00e0\u2019a cu\u00e8\u2019cw\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3424"}
+{"ipa": null, "morph": "\nxquit wrau\t", "gloss": "wild pumpkin", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3429"}
+{"ipa": null, "morph": "\nyag btz\u00eb xub\t", "gloss": "cactus", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3426"}
+{"ipa": null, "morph": "\nyag wamutx\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3428"}
+{"ipa": null, "morph": "\nb\u00ebd xhigh\t", "gloss": "Guinea fowl", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3742"}
+{"ipa": null, "morph": "\nbtz\u00eb wlax\t", "gloss": "white dragonfruit", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3442"}
+{"ipa": null, "morph": "\nbzigui\t", "gloss": "black widow spider", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "2942"}
+{"ipa": null, "morph": "\nca za\u2019\u00e1 lyz be\u2019\u00e9u\t", "gloss": "lunar halo", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3842"}
+{"ipa": null, "morph": "\nguet xtily\t", "gloss": "bread", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3042"}
+{"ipa": null, "morph": "\nnash\t", "gloss": "sweet, fruit", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3642"}
+{"ipa": null, "morph": "\nnaxh\u00ebni\t", "gloss": "wide", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3142"}
+{"ipa": null, "morph": "\nrguily\t", "gloss": "looks for", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3242"}
+{"ipa": null, "morph": "\nrshal\t", "gloss": "opens", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3342"}
+{"ipa": null, "morph": "\nyaguxbixu\u2019un\t", "gloss": "huizache", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3441", "id": "3542"}
+{"ipa": null, "morph": "\nbxhi\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3430"}
+{"ipa": null, "morph": "\ng\u00ebch biub\t", "gloss": "thistle", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3433"}
+{"ipa": null, "morph": "\ng\u00ebtx niis\t", "gloss": "Mexican prickly poppy", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3434"}
+{"ipa": null, "morph": "\nwlas\t", "gloss": "amaranth plant", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3435"}
+{"ipa": null, "morph": "\nya g\u00ebtx be\t", "gloss": "mesquite", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3438"}
+{"ipa": null, "morph": "\nya gun ingul\t", "gloss": "dumb parrot", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3437"}
+{"ipa": null, "morph": "\nyag\t", "gloss": "tree", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3439"}
+{"ipa": null, "morph": "\nyag\u00ebtx xubdxidx\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3431"}
+{"ipa": null, "morph": "\nyagun wna\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3436"}
+{"ipa": null, "morph": "\nyashi\t", "gloss": "saltbush plant", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3432"}
+{"ipa": null, "morph": "\nb\u00ebd ingul\t", "gloss": "turkey", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3743"}
+{"ipa": null, "morph": "\nbtzi ri\t", "gloss": "round dragonfruit", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3443"}
+{"ipa": null, "morph": "\nbzilo\t", "gloss": "eye", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "2943"}
+{"ipa": null, "morph": "\nguet xtily\t", "gloss": "bread, loaf of bread", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3043"}
+{"ipa": null, "morph": "\nnez yu \t", "gloss": "road, path, way", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3643"}
+{"ipa": null, "morph": "\nNu enchiladas\u2014 aty nanyu xii...\t", "gloss": "There are enchiladas\u2014 but you know what they are...", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3143"}
+{"ipa": null, "morph": "\nrguiny\t", "gloss": "hits", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3243"}
+{"ipa": null, "morph": "\nrzu\t", "gloss": "flies", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3343"}
+{"ipa": null, "morph": "\nyalach\t", "gloss": "type of tree", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3543"}
+{"ipa": null, "morph": "\nzini\t", "gloss": "straw ", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3542", "id": "3843"}
+{"ipa": null, "morph": "\nbelduy bes\t", "gloss": "wild nanche (type of wild fruit)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3448"}
+{"ipa": null, "morph": "\nbtz\u00eb wlax\t", "gloss": "white dragonfruit", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3442"}
+{"ipa": null, "morph": "\nbtzi ri\t", "gloss": "round dragonfruit", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3443"}
+{"ipa": null, "morph": "\nchiiv\t", "gloss": "goat", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3447"}
+{"ipa": "gyahg gwii", "morph": "\ngyag gwi", "gloss": "guava tree", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3449"}
+{"ipa": null, "morph": "\nxk\u00ed\u2019i b\u00ebdy\t", "gloss": "wild flower", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3441"}
+{"ipa": null, "morph": "\nya bts\u00eb\t", "gloss": "pipe-organ cactus", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3444"}
+{"ipa": null, "morph": "\nya ladx\t", "gloss": "red spruce tree", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3445"}
+{"ipa": null, "morph": "\nya yash\t", "gloss": "avocado tree", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3440"}
+{"ipa": null, "morph": "\nb\u00ebch\t", "gloss": "tule grass (used to make roofs)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3844"}
+{"ipa": null, "morph": "\nbziny\t", "gloss": "mouse", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "2944"}
+{"ipa": null, "morph": "\ngueu\t", "gloss": "river", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3044"}
+{"ipa": null, "morph": "\nnantia\t", "gloss": "aunt (poss. form)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3344"}
+{"ipa": null, "morph": "\nnis doo\t", "gloss": "sea, ocean", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3644"}
+{"ipa": null, "morph": "\nnuan\t", "gloss": "chirimoya", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3144"}
+{"ipa": null, "morph": "\nrguiny\t", "gloss": "borrows", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3244"}
+{"ipa": null, "morph": "\nyanun\t", "gloss": "custard apple (green fruit with whitish flesh)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3544"}
+{"ipa": null, "morph": "\nz\u00ebt b\u00ebd guidy\t", "gloss": "egg(s) of a chicken", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3843", "id": "3744"}
+{"ipa": null, "morph": "\nblapiat\t", "gloss": "white castor oil plant", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3456"}
+{"ipa": null, "morph": "\nblaxh guel\t", "gloss": "avocado tree leaves (edible)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3459"}
+{"ipa": null, "morph": "\nblaxo\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3458"}
+{"ipa": null, "morph": "\ng\u00ebtx blo\u2019\t", "gloss": "yellow flatbud prickly poppy", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3452"}
+{"ipa": null, "morph": "\ngixha\u2019\u00e1\t", "gloss": "pasture", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3457"}
+{"ipa": null, "morph": "\nma\u2019nngw?\t", "gloss": "mango", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3454"}
+{"ipa": null, "morph": "\nrraab?\t", "gloss": "radish", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3451"}
+{"ipa": null, "morph": "\ntrunj?\t", "gloss": "grapefruit", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3453"}
+{"ipa": null, "morph": "\nyag blap\t", "gloss": "castor oil plant", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3455"}
+{"ipa": null, "morph": "\nbzya\t", "gloss": "beans", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "2945"}
+{"ipa": null, "morph": "\nguez\t", "gloss": "cigarette", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3045"}
+{"ipa": null, "morph": "\ngush\t", "gloss": "relationship between parents of two spouses", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3345"}
+{"ipa": null, "morph": "\ningul\t", "gloss": "male (for animals)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3645"}
+{"ipa": null, "morph": "\nnyis\t", "gloss": "water", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3145"}
+{"ipa": null, "morph": "\nrguix\t", "gloss": "lays (a long object) down", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3245"}
+{"ipa": null, "morph": "\nya ladx\t", "gloss": "red spruce tree", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3445"}
+{"ipa": null, "morph": "\nyaringi\u2019in\t", "gloss": "pestle", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3545"}
+{"ipa": null, "morph": "\nyu\u2019\u00fab\u00ebch\t", "gloss": "tule home", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3845"}
+{"ipa": null, "morph": "\nz\u00ebt b\u00ebd lach\t", "gloss": "Egg of a hen turkey", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3744", "id": "3745"}
+{"ipa": null, "morph": "\nbextil\t", "gloss": "types of aromatic plants", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3463"}
+{"ipa": null, "morph": "\nbtiun\t", "gloss": "bushy matgrass", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3461"}
+{"ipa": null, "morph": "\nyag bdwa\t", "gloss": "banana tree grove", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3466"}
+{"ipa": null, "morph": "\nyag biax\t", "gloss": "plum", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3469"}
+{"ipa": null, "morph": "\nyag buxi\t", "gloss": "guava tree grove", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3465"}
+{"ipa": null, "morph": "\nyag geld\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3468"}
+{"ipa": null, "morph": "\nyag narax\t", "gloss": "orange tree grove", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3464"}
+{"ipa": null, "morph": "\nyag nuez\t", "gloss": "walnut", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3462"}
+{"ipa": null, "morph": "\nyag yax\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3460"}
+{"ipa": null, "morph": "\nyag ze\u2019 xtil\t", "gloss": "pomegranate grove", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3467"}
+{"ipa": null, "morph": "\nbtiu\u2019\u00fash\t", "gloss": "tomato", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3746"}
+{"ipa": null, "morph": "\nbzan\t", "gloss": "brother (of a female)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "2946"}
+{"ipa": null, "morph": "\ndiscu\t", "gloss": "C.D.", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3346"}
+{"ipa": null, "morph": "\nGwenag\t", "gloss": "Fine", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3046"}
+{"ipa": null, "morph": "\nnity\t", "gloss": "sugar cane", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3646"}
+{"ipa": null, "morph": "\nnzhung\t", "gloss": "hard", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3146"}
+{"ipa": null, "morph": "\nrguix\t", "gloss": "puts (a long object) down", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3246"}
+{"ipa": null, "morph": "\nye\u2019e bzhii\t", "gloss": "type of purple flower", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3546"}
+{"ipa": null, "morph": "\nyu\u2019\u00fab\u00ebch\t", "gloss": "tule home", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3745", "id": "3846"}
+{"ipa": null, "morph": "\nbia lutx be\u2019kw\t", "gloss": "cactus", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3478"}
+{"ipa": null, "morph": "\nbia na\u2019ld\t", "gloss": "thick cactus", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3477"}
+{"ipa": null, "morph": "\nbru\u2019\u00fan\t", "gloss": "prickly pear cactus fruit", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3470"}
+{"ipa": null, "morph": "\nbza\t", "gloss": "bean", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3471"}
+{"ipa": null, "morph": "\nguel\t", "gloss": "maize field", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3473"}
+{"ipa": null, "morph": "\nniz\t", "gloss": "cob", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3476"}
+{"ipa": null, "morph": "\nxub\t", "gloss": "corn", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3475"}
+{"ipa": null, "morph": "\nyag btiush\t", "gloss": "tomato plant", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3479"}
+{"ipa": null, "morph": "\nyag la\u2019 gib\t", "gloss": "wild ?", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3474"}
+{"ipa": null, "morph": "\nze\u2019\u00e9\t", "gloss": "cob", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3472"}
+{"ipa": null, "morph": "\nbzyan\t", "gloss": "sister (of a male)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "2947"}
+{"ipa": null, "morph": "\nchiiv\t", "gloss": "goat", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3447"}
+{"ipa": null, "morph": "\ngui\u2019\u00edts\t", "gloss": "flat grinding stone", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3747"}
+{"ipa": null, "morph": "\nguie gaiy\t", "gloss": "type of wild red flower", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3547"}
+{"ipa": null, "morph": "\nGwenag.\t", "gloss": "Fine.", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3047"}
+{"ipa": null, "morph": "\nrguixicy\t", "gloss": "nods off", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3247"}
+{"ipa": null, "morph": "\nxhiguet\t", "gloss": "decorated gourd used for storage", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3846", "id": "3847"}
+{"ipa": null, "morph": "\nbach\t", "gloss": "punch (drink)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3488"}
+{"ipa": null, "morph": "\nbaiy\t", "gloss": "shawl", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3489"}
+{"ipa": null, "morph": "\ndub pasm\t", "gloss": "aloe", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3486"}
+{"ipa": null, "morph": "\ngin\t", "gloss": "chili, chili pepper", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3480"}
+{"ipa": null, "morph": "\nguit\t", "gloss": "pumpkin", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3481"}
+{"ipa": null, "morph": "\ngyea\t", "gloss": "flower", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3484"}
+{"ipa": null, "morph": "\nkwan da\t", "gloss": "bitter herb ", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3487"}
+{"ipa": null, "morph": "\nxtiezh\t", "gloss": "garlic", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3482"}
+{"ipa": null, "morph": "\nya\u2019\u00e1\t", "gloss": "carrizo reed", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3485"}
+{"ipa": null, "morph": "\nyag limon\t", "gloss": "lemon grove", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3483"}
+{"ipa": null, "morph": "\nbelduy bes\t", "gloss": "wild nanche (type of wild fruit)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3448"}
+{"ipa": null, "morph": "\ncub\t", "gloss": "cocoa and corn traditional drink", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3748"}
+{"ipa": null, "morph": "\ngyag\t", "gloss": "stick", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3048"}
+{"ipa": null, "morph": "\nPamy\u00ebl\t", "gloss": "Panfilo", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3148"}
+{"ipa": null, "morph": "\nrguizh\t", "gloss": "pays", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3248"}
+{"ipa": null, "morph": "\nsolisitu\t", "gloss": "application", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3348"}
+{"ipa": null, "morph": "\ntsompchon\t", "gloss": "eighteen", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3848"}
+{"ipa": null, "morph": "\nye\u2019e bzalobudy\t", "gloss": "type of flower (chicken\u2019s eye)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3847", "id": "3548"}
+{"ipa": null, "morph": "\nba\u2019\u00e1t\t", "gloss": "skunk", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3496"}
+{"ipa": null, "morph": "\nbatx\t", "gloss": "lion", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3490"}
+{"ipa": null, "morph": "\nbes\t", "gloss": "ocelote / tigrillo", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3493"}
+{"ipa": null, "morph": "\nbew\t", "gloss": "coyote", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3492"}
+{"ipa": null, "morph": "\nbigupy\t", "gloss": "armadillo", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3498"}
+{"ipa": null, "morph": "\nbliany\t", "gloss": "hare", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3499"}
+{"ipa": null, "morph": "\ningulbes\t", "gloss": "opposum", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3497"}
+{"ipa": null, "morph": "\ncabai\t", "gloss": "horse", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "2949"}
+{"ipa": null, "morph": "\nguia\t", "gloss": "rock, stone", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3649"}
+{"ipa": "gyahg gwii", "morph": "\ngyag gwi", "gloss": "guava tree", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3449"}
+{"ipa": null, "morph": "\nGyeily\t", "gloss": "Miguel", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3049"}
+{"ipa": null, "morph": "\npasaport\t", "gloss": "passport", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3149"}
+{"ipa": null, "morph": "\nrguny\t", "gloss": "scratches", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3249"}
+{"ipa": null, "morph": "\nsyuda\t", "gloss": "city", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3349"}
+{"ipa": null, "morph": "\ntiwa\t", "gloss": "forty", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3849"}
+{"ipa": null, "morph": "\ntuv xhigh cub\t", "gloss": "a bowl of tejate ", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3749"}
+{"ipa": null, "morph": "\nye\u2019e bzii\t", "gloss": "yellow flower of a type of squash", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3548", "id": "3549"}
+{"ipa": null, "morph": "\n\u00bfcali chet?\t", "gloss": "where are you all going?", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3509"}
+{"ipa": null, "morph": "\nbai chukye\u2019\t", "gloss": "put on a shawl?", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3501"}
+{"ipa": null, "morph": "\nbdua g\u00ebch\t", "gloss": "type of wild banana", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3502"}
+{"ipa": null, "morph": "\nbel kuan\t", "gloss": "wedding food with beef and oregano", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3503"}
+{"ipa": null, "morph": "\nbibih\t", "gloss": "fruit with which you can make soap", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3507"}
+{"ipa": null, "morph": "\nbie\u2019to\u2019\t", "gloss": "root with which you can make shampoo", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3505"}
+{"ipa": null, "morph": "\nbixstilih\t", "gloss": "soap", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3508"}
+{"ipa": null, "morph": "\nmikw\t", "gloss": "monkey", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3500"}
+{"ipa": null, "morph": "\nCabai nde e, guala becw\u00ebng?\t", "gloss": "\u201cIs this a horse, or a dog?\u201d", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "2950"}
+{"ipa": null, "morph": "\ngyet wez\t", "gloss": "chilacayote (type of large squash)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3050"}
+{"ipa": null, "morph": "\npelot\t", "gloss": "ball", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3150"}
+{"ipa": null, "morph": "\nra\u2019\u00e1t \t", "gloss": "lies down", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3650"}
+{"ipa": null, "morph": "\nrgwezac\t", "gloss": "speaks (a language) well", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3250"}
+{"ipa": null, "morph": "\ntiwapts\u00eb\t", "gloss": "fifty", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3850"}
+{"ipa": null, "morph": "\nye\u2019e nda\t", "gloss": "white bitter tasting bush", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3550"}
+{"ipa": null, "morph": "\nz\u00ebly\t", "gloss": "flat round surface made out of clay (used to cook/dry roast)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3549", "id": "3750"}
+{"ipa": null, "morph": "\nchiguuxunu\t", "gloss": "we are going to eat lunch", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3511"}
+{"ipa": null, "morph": "\nchiguxunya\u2019ah\t", "gloss": "I\u2019m going to eat lunch", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3510"}
+{"ipa": null, "morph": "\ngib rug cuan\t", "gloss": "hand scythe", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3515"}
+{"ipa": null, "morph": "\ngiizha\u2019a\t", "gloss": "reddish field plant", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3516"}
+{"ipa": null, "morph": "\nginiag\t", "gloss": "type of small chile", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3517"}
+{"ipa": null, "morph": "\nguel\t", "gloss": "cornfield", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3513"}
+{"ipa": null, "morph": "\nguet na naguizh\t", "gloss": "the tortilla is delicious", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3514"}
+{"ipa": null, "morph": "\ngugiyu\t", "gloss": "small bird that sings a sad song", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3518"}
+{"ipa": null, "morph": "\nguie gueb\t", "gloss": "type of yellow flower", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3512"}
+{"ipa": null, "morph": "\ngulte\t", "gloss": "bird similar to dove and pigeon", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3519"}
+{"ipa": null, "morph": "\nCabai nde e?\t", "gloss": "Is this a horse?", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "2951"}
+{"ipa": null, "morph": "\ngayon\t", "gloss": "sixty", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3851"}
+{"ipa": null, "morph": "\ngo\u2019\t", "gloss": "feeds", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3251"}
+{"ipa": null, "morph": "\nPepsy\t", "gloss": "Pepsi", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3151"}
+{"ipa": null, "morph": "\nra\u2019\u00e1t\t", "gloss": "lies down (to sleep)?", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3651"}
+{"ipa": null, "morph": "\nrraab?\t", "gloss": "radish", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3451"}
+{"ipa": null, "morph": "\nxhumily\t", "gloss": "corn cooked with lime mixture (used to prepare tortillas)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3751"}
+{"ipa": null, "morph": "\nye\u2019e tz\u00ebli\t", "gloss": "white tree orchid", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3750", "id": "3551"}
+{"ipa": null, "morph": "\ncuan\t", "gloss": " alfalfa", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3523"}
+{"ipa": null, "morph": "\ngugh\t", "gloss": "zebra dove", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3520"}
+{"ipa": null, "morph": "\nida te guxuuntu\t", "gloss": "you all come eat (morning time meal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3521"}
+{"ipa": null, "morph": "\nketeganti\u2019ah\t", "gloss": "I don\u2019t know!", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3522"}
+{"ipa": null, "morph": "\nlacue\u2019\u00e9cu\t", "gloss": "blue flower", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3525"}
+{"ipa": null, "morph": "\nlagu\t", "gloss": " wild herb used to cook beans", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3524"}
+{"ipa": null, "morph": "\nlatchi\u2019i\t", "gloss": "type of herb", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3526"}
+{"ipa": null, "morph": "\nman guelze\u2019\u00e9\t", "gloss": "zanate bird", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3527"}
+{"ipa": null, "morph": "\nnabadih\t", "gloss": "gritty, unripe food texture", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3528"}
+{"ipa": null, "morph": "\nnagizhni\t", "gloss": "tasty, delicious", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3529"}
+{"ipa": null, "morph": "\ncachuch\t", "gloss": "baseball cap", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "2952"}
+{"ipa": null, "morph": "\nchoon\t", "gloss": "three", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "2852"}
+{"ipa": null, "morph": "\ngayonpts\u00eb\t", "gloss": "seventy", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3852"}
+{"ipa": null, "morph": "\ng\u00ebtx blo\u2019\t", "gloss": "yellow flatbud prickly poppy", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3452"}
+{"ipa": null, "morph": "\ngues\t", "gloss": "clay pot", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3752"}
+{"ipa": null, "morph": "\nguie guini\t", "gloss": "red flower used to make and decorate a type of punch", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3552"}
+{"ipa": null, "morph": "\ngyia bugambily\t", "gloss": "bougainvillea", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3052"}
+{"ipa": null, "morph": "\npes\t", "gloss": "peso", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3152"}
+{"ipa": null, "morph": "\nrac ??\t", "gloss": "be, be able to", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3652"}
+{"ipa": null, "morph": "\nrgyet\t", "gloss": "plays", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3551", "id": "3252"}
+{"ipa": null, "morph": "\nbtiushguixh guel\t", "gloss": "wild tomatillo", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3532"}
+{"ipa": null, "morph": "\npargak xubiyi\u2019in\t", "gloss": "needs translation", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3530"}
+{"ipa": null, "morph": "\npladiech\t", "gloss": "plate for grinding food", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3531"}
+{"ipa": null, "morph": "\ntuwan\t", "gloss": "who knows (interjection)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3533"}
+{"ipa": null, "morph": "\nya\u2019a\t", "gloss": "carrizo reed", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3534"}
+{"ipa": null, "morph": "\nyablap\t", "gloss": "red plant with thorns", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3535"}
+{"ipa": null, "morph": "\nyag bduaguch\t", "gloss": "bduaguch (type of squash) tree", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3538"}
+{"ipa": null, "morph": "\nyag belduy\t", "gloss": "belduih (type of fruit) tree", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3537"}
+{"ipa": null, "morph": "\nyag bibih\t", "gloss": "bibih (type of fruit) tree", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3536"}
+{"ipa": null, "morph": "\nyaguchibe\u2019e\t", "gloss": "hawthorn (type of tree); mequite tree", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3539"}
+{"ipa": null, "morph": "\ncafe\t", "gloss": "coffee", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "2953"}
+{"ipa": null, "morph": "\ndxa\u2019ap\t", "gloss": "girl, young woman", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3553"}
+{"ipa": null, "morph": "\ngues uchach\t", "gloss": "clay pot strainer (used to drain cooked corn)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3753"}
+{"ipa": null, "morph": "\ngyia carnad\t", "gloss": "pomegranate tree", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3053"}
+{"ipa": null, "morph": "\nplati\t", "gloss": "cymbals", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3153"}
+{"ipa": null, "morph": "\nracne\t", "gloss": "help", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3653"}
+{"ipa": null, "morph": "\nri\t", "gloss": "are around,scattered", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3253"}
+{"ipa": null, "morph": "\nta\t", "gloss": "eighty", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3853"}
+{"ipa": null, "morph": "\ntrunj?\t", "gloss": "grapefruit", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3453"}
+{"ipa": null, "morph": "\ntuby\t", "gloss": "one", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3252", "id": "3353"}
+{"ipa": null, "morph": "\nguie gaiy\t", "gloss": "type of wild red flower", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3547"}
+{"ipa": null, "morph": "\nwagh\t", "gloss": "rat", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3541"}
+{"ipa": null, "morph": "\nxhit\t", "gloss": "cat", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3540"}
+{"ipa": null, "morph": "\nyaguxbixu\u2019un\t", "gloss": "huizache", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3542"}
+{"ipa": null, "morph": "\nyalach\t", "gloss": "type of tree", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3543"}
+{"ipa": null, "morph": "\nyanun\t", "gloss": "custard apple (green fruit with whitish flesh)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3544"}
+{"ipa": null, "morph": "\nyaringi\u2019in\t", "gloss": "pestle", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3545"}
+{"ipa": null, "morph": "\nye\u2019e bzalobudy\t", "gloss": "type of flower (chicken\u2019s eye)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3548"}
+{"ipa": null, "morph": "\nye\u2019e bzhii\t", "gloss": "type of purple flower", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3546"}
+{"ipa": null, "morph": "\nye\u2019e bzii\t", "gloss": "yellow flower of a type of squash", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3549"}
+{"ipa": null, "morph": "\nbza lahs\t", "gloss": "black beans", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3754"}
+{"ipa": null, "morph": "\ncald\t", "gloss": "soup", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "2954"}
+{"ipa": null, "morph": "\ngyia cub\t", "gloss": "marigold", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3054"}
+{"ipa": null, "morph": "\nma\u2019nngw?\t", "gloss": "mango", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3454"}
+{"ipa": null, "morph": "\nplum\t", "gloss": "pen", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3154"}
+{"ipa": null, "morph": "\nra\u2019\u00e1n\t", "gloss": "plow", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3654"}
+{"ipa": null, "morph": "\nriab\t", "gloss": "falls", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3254"}
+{"ipa": null, "morph": "\ntaap\t", "gloss": "four", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "2854"}
+{"ipa": null, "morph": "\ntapts\u00eb\t", "gloss": "ninety", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3854"}
+{"ipa": null, "morph": "\nzhi\u2019ix\t", "gloss": "type of herb", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3353", "id": "3554"}
+{"ipa": null, "morph": "\ndxa\u2019ap\t", "gloss": "girl, young woman", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3553"}
+{"ipa": null, "morph": "\nguie guini\t", "gloss": "red flower used to make and decorate a type of punch", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3552"}
+{"ipa": null, "morph": "\nwrau\t", "gloss": "lizard", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3558"}
+{"ipa": null, "morph": "\nxhub guini\t", "gloss": "salsa", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3556"}
+{"ipa": null, "morph": "\nye\u2019e nda\t", "gloss": "white bitter tasting bush", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3550"}
+{"ipa": null, "morph": "\nye\u2019e tz\u00ebli\t", "gloss": "white tree orchid", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3551"}
+{"ipa": null, "morph": "\nzhi\u2019ix\t", "gloss": "type of herb", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3554"}
+{"ipa": null, "morph": "\nzhub parkiebza\u2019\t", "gloss": "needs translation", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3555"}
+{"ipa": null, "morph": "\nzo latchi?\t", "gloss": "do you want to try this chepiche? (offering chepiche to others)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3559"}
+{"ipa": null, "morph": "\nzo?\t", "gloss": "do you want? Do you want some? (offering what you\u2019re eating to others.", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3557"}
+{"ipa": null, "morph": "\n\u00bfCali bsedyyu dizhsa?\t", "gloss": "Where did you learn Zapotec?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "2955"}
+{"ipa": null, "morph": "\nbza ro\u2019\u00f3\t", "gloss": "kidney beans", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3755"}
+{"ipa": null, "morph": "\ngyia daly\t", "gloss": "dahlia", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3055"}
+{"ipa": null, "morph": "\npryem\t", "gloss": "cousin", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3155"}
+{"ipa": null, "morph": "\nrcaza\u2019\t", "gloss": "love", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3655"}
+{"ipa": null, "morph": "\nricy\t", "gloss": "there", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3255"}
+{"ipa": null, "morph": "\nshi ca yuunu?\t", "gloss": "what are you doing?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "2855"}
+{"ipa": null, "morph": "\ntuv gayua\t", "gloss": "a hundred", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3855"}
+{"ipa": null, "morph": "\nyag blap\t", "gloss": "castor oil plant", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3554", "id": "3455"}
+{"ipa": null, "morph": "\n yarbay\t", "gloss": "type of hawk", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3561"}
+{"ipa": null, "morph": "\nbech\t", "gloss": "vulture", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3562"}
+{"ipa": null, "morph": "\nbezbyaw\t", "gloss": "bumble bee", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3567"}
+{"ipa": null, "morph": "\nbl\u00f3\u2019o\t", "gloss": "raven", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3563"}
+{"ipa": null, "morph": "\nbzya\t", "gloss": "eagle", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3564"}
+{"ipa": null, "morph": "\ndam\t", "gloss": "owl", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3565"}
+{"ipa": null, "morph": "\nwelduch\t", "gloss": "type of grasshopper", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3569"}
+{"ipa": null, "morph": "\nwxady\t", "gloss": "grasshopper (edible)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3568"}
+{"ipa": null, "morph": "\nzuuny\t", "gloss": "San Jer\u00f3nimo Tlacochahuaya (town)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3560"}
+{"ipa": null, "morph": "\n\u00bfCali chu?\t", "gloss": "where are you going?", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "2856"}
+{"ipa": null, "morph": "\nblapiat\t", "gloss": "white castor oil plant", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3456"}
+{"ipa": null, "morph": "\nblia\u2019\u00e1\t", "gloss": "black zapote", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3856"}
+{"ipa": null, "morph": "\nbza ya\u2019\u00e1\t", "gloss": "green beans", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3756"}
+{"ipa": null, "morph": "\nCali chiu?\t", "gloss": "Where are you going?", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "2956"}
+{"ipa": null, "morph": "\ngyia gradyol\t", "gloss": "gladiola", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3056"}
+{"ipa": null, "morph": "\npwen\t", "gloss": "bridge", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3156"}
+{"ipa": null, "morph": "\nrap\t", "gloss": "have", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3656"}
+{"ipa": null, "morph": "\nrieny\u00ebn\t", "gloss": "we do", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3256"}
+{"ipa": null, "morph": "\nxhub guini\t", "gloss": "salsa", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3455", "id": "3556"}
+{"ipa": null, "morph": "\nbedund\t", "gloss": "humming bird", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3572"}
+{"ipa": null, "morph": "\nbegidy\t", "gloss": "butterfly", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3575"}
+{"ipa": null, "morph": "\nbeguich\t", "gloss": "fly", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3574"}
+{"ipa": null, "morph": "\nbetsiny\t", "gloss": "bat", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3579"}
+{"ipa": null, "morph": "\nbzug\t", "gloss": "caterpillar", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3576"}
+{"ipa": null, "morph": "\nman lo bi\t", "gloss": "bird", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3571"}
+{"ipa": null, "morph": "\nmatrgas\t", "gloss": "millipede", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3578"}
+{"ipa": null, "morph": "\nwetip\t", "gloss": "wetip", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3573"}
+{"ipa": null, "morph": "\nyiets\u00ebny\t", "gloss": "cricket", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3570"}
+{"ipa": null, "morph": "\n\u00bfCali guiu?\t", "gloss": "where did you go? (cultural note: used as a greeting when meeting someone on the street as they are headed towards their home)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "2857"}
+{"ipa": null, "morph": "\ncampan\t", "gloss": "bell", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "2957"}
+{"ipa": null, "morph": "\ngixha\u2019\u00e1\t", "gloss": "pasture", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3457"}
+{"ipa": null, "morph": "\nguet baz\t", "gloss": "tamal (no meat, usually contains leaves, lard or sugar)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3757"}
+{"ipa": null, "morph": "\ngyia jerany\t", "gloss": "geranium", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3057"}
+{"ipa": null, "morph": "\npwert\t", "gloss": "door", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3157"}
+{"ipa": null, "morph": "\nraty\t", "gloss": "be dead", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3657"}
+{"ipa": null, "morph": "\nrinylo\t", "gloss": "sees", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3257"}
+{"ipa": null, "morph": "\ntub gayua\t", "gloss": "one hundred", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3357"}
+{"ipa": null, "morph": "\nxhily\t", "gloss": "cotton", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3857"}
+{"ipa": null, "morph": "\nzo?\t", "gloss": "do you want? Do you want some? (offering what you\u2019re eating to others.", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3556", "id": "3557"}
+{"ipa": null, "morph": "\nbedxun\t", "gloss": "spider", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3584"}
+{"ipa": null, "morph": "\nbi dyeny\t", "gloss": "ant", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3583"}
+{"ipa": null, "morph": "\nbtiloo\t", "gloss": "wild bush, roots used to treat hemorrhage (sensible to touch or clap)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3587"}
+{"ipa": null, "morph": "\ncuan lia\t", "gloss": "wild bush, used to treat \"craving\" desease ", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3589"}
+{"ipa": null, "morph": "\ngueeb dani\t", "gloss": "wild yellow flower", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3586"}
+{"ipa": null, "morph": "\nguie cach\t", "gloss": "\"horn\" flower (wild flower, sweet aroma and edible seeds)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3585"}
+{"ipa": null, "morph": "\ningulbruz\t", "gloss": "tarantula", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3582"}
+{"ipa": null, "morph": "\nman xhaku\t", "gloss": "cockroach", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3580"}
+{"ipa": null, "morph": "\nnixuby\t", "gloss": "scorpion", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3581"}
+{"ipa": null, "morph": "\noregh gu\u00ed\u2019ish \t", "gloss": "wild oregano (condiment)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3588"}
+{"ipa": null, "morph": "\n\u00a1Zac rsily!\t", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "2858"}
+{"ipa": null, "morph": "\nblaxo\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3458"}
+{"ipa": null, "morph": "\ncanel\t", "gloss": "cinnamon", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "2958"}
+{"ipa": null, "morph": "\ngeut baxhixh\t", "gloss": "tamal with chepil leaves", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3758"}
+{"ipa": "gy\u00eca\u2019 nuub", "morph": "\ngyia nub", "gloss": "flor de nubes, type of white flower", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3058"}
+{"ipa": null, "morph": "\npyeiny\t", "gloss": "altar", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3158"}
+{"ipa": null, "morph": "\nristi\t", "gloss": "gets up (out of bed)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3258"}
+{"ipa": null, "morph": "\nrria \t", "gloss": "go out, leave", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3658"}
+{"ipa": null, "morph": "\nt\u00eb\u2019x\t", "gloss": "chest", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3358"}
+{"ipa": null, "morph": "\nwrau\t", "gloss": "lizard", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3557", "id": "3558"}
+{"ipa": null, "morph": "\nan chi\t", "gloss": "today", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3598"}
+{"ipa": null, "morph": "\nanym\t", "gloss": "soul", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3599"}
+{"ipa": null, "morph": "\nguie gu\u00ecdi\t", "gloss": "orange flower, stems covered in velcro-like surface ", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3591"}
+{"ipa": null, "morph": "\nromer gu\u00ed\u2019ish\t", "gloss": "wild rosemary", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3593"}
+{"ipa": null, "morph": "\nxub r\u00f9bh\t", "gloss": "wild white and purple flower ", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3590"}
+{"ipa": null, "morph": "\nya yaal\t", "gloss": "wild bush (fruits used in the treatment of acne)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3592"}
+{"ipa": null, "morph": "\n\u00a1Zak laizhi!\t", "gloss": "Good day (midday)!", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "2859"}
+{"ipa": null, "morph": "\nblaxh guel\t", "gloss": "avocado tree leaves (edible)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3459"}
+{"ipa": null, "morph": "\nbshidyu\t", "gloss": "clods of soil", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3859"}
+{"ipa": null, "morph": "\ncapi\t", "gloss": "shrine", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "2959"}
+{"ipa": null, "morph": "\nguet gu\u2019\u00fa\t", "gloss": "Tamal (with meat, usually chicken or pork)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3759"}
+{"ipa": null, "morph": "\ngyia panumr\t", "gloss": "(type of red flower)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3059"}
+{"ipa": null, "morph": "\nnabany\t", "gloss": "be alive", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3659"}
+{"ipa": null, "morph": "\nqueity\t", "gloss": "not", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3159"}
+{"ipa": null, "morph": "\nrmudy\t", "gloss": "medicine", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3259"}
+{"ipa": null, "morph": "\ntelebisyony\t", "gloss": "television", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3359"}
+{"ipa": "za\u2019cawxi\u2019ihnny !", "morph": "\nZacawxiny!", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "2759"}
+{"ipa": null, "morph": "\nzo latchi?\t", "gloss": "do you want to try this chepiche? (offering chepiche to others)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3558", "id": "3559"}
+{"ipa": null, "morph": "\nbany \t", "gloss": "mud", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3604"}
+{"ipa": null, "morph": "\nbcha\u2019\u00e1\t", "gloss": "witch", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3608"}
+{"ipa": null, "morph": "\nbcu \t", "gloss": "altar", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3601"}
+{"ipa": null, "morph": "\nbel\t", "gloss": "if (conditional)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3602"}
+{"ipa": null, "morph": "\nbga\t", "gloss": "necklace", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3607"}
+{"ipa": null, "morph": "\ncali\t", "gloss": "where", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3609"}
+{"ipa": null, "morph": "\nnabiz\t", "gloss": "dry", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3605"}
+{"ipa": null, "morph": "\nnayu\t", "gloss": "man", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3603"}
+{"ipa": null, "morph": "\n\u00a1Zak wzhi!\t", "gloss": "Good afternoon!", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "2860"}
+{"ipa": null, "morph": "\ncarnad\t", "gloss": "pomegranate", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "2960"}
+{"ipa": null, "morph": "\nguet gu\u2019\u00fa la\u2019\u00e1n bndagh bdua\t", "gloss": "Tamal in banana leaves ", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3760"}
+{"ipa": null, "morph": "\ngyia reiny\t", "gloss": "poinsettia", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3060"}
+{"ipa": null, "morph": "\nqu\u00ebity\t", "gloss": "not", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3160"}
+{"ipa": null, "morph": "\nRmudy\u00ebng\t", "gloss": "It is medicine.", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3260"}
+{"ipa": null, "morph": "\ntenizy\t", "gloss": "tennis shoes", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3360"}
+{"ipa": null, "morph": "\nyag yax\t", "gloss": null, "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3460"}
+{"ipa": null, "morph": "\nyan\t", "gloss": "dried cobs (used as fuel in the kitchen)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3860"}
+{"ipa": null, "morph": "\nzuuny\t", "gloss": "San Jer\u00f3nimo Tlacochahuaya (town)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3559", "id": "3560"}
+{"ipa": null, "morph": "\nb\u00ebni laach\t", "gloss": "person from the same town", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3619"}
+{"ipa": null, "morph": "\nchi\t", "gloss": "day", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3612"}
+{"ipa": null, "morph": "\ndyoz \t", "gloss": "God", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3617"}
+{"ipa": null, "morph": "\ngaxh\t", "gloss": "near", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3610"}
+{"ipa": null, "morph": "\ngayon \t", "gloss": "sixty", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3611"}
+{"ipa": null, "morph": "\nnacuby\t", "gloss": "new", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3615"}
+{"ipa": null, "morph": "\nruld\t", "gloss": "half", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3618"}
+{"ipa": null, "morph": "\nrzhiby\t", "gloss": "be afraid/be scared", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3613"}
+{"ipa": null, "morph": "\ntsomptap \t", "gloss": "nineteen", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3614"}
+{"ipa": null, "morph": "\nwbich \t", "gloss": "sun", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3616"}
+{"ipa": null, "morph": "\n yarbay\t", "gloss": "type of hawk", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3561"}
+{"ipa": null, "morph": "\n\u00a1Zak wxiin!\t", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "2861"}
+{"ipa": null, "morph": "\nb\u00ebch\t", "gloss": "cracks in the soil", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3861"}
+{"ipa": null, "morph": "\nbtiun\t", "gloss": "bushy matgrass", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3461"}
+{"ipa": null, "morph": "\ncart\t", "gloss": "letter", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "2961"}
+{"ipa": "gy\u00eca\u2019 rro\u2019s", "morph": "\ngyia rros", "gloss": "rose", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3061"}
+{"ipa": null, "morph": "\nQueity gucbeyu ni mni\u00ebb e?\t", "gloss": "Didn\u2019t you understand what she said?", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3161"}
+{"ipa": null, "morph": "\nrnab\t", "gloss": "asks for", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3261"}
+{"ipa": null, "morph": "\nsiab\t", "gloss": "atole (hot beverage made out of corn)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3761"}
+{"ipa": null, "morph": "\ntequily\t", "gloss": "tequila", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3560", "id": "3361"}
+{"ipa": null, "morph": "\ngal rbis laaz\t", "gloss": "thirstiness ", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3621"}
+{"ipa": null, "morph": "\nlaat\t", "gloss": "you (plural) ", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3626"}
+{"ipa": null, "morph": "\nlach\t", "gloss": "homeland", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3620"}
+{"ipa": null, "morph": "\nlad\t", "gloss": "between", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3623"}
+{"ipa": null, "morph": "\nlani\t", "gloss": "party", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3624"}
+{"ipa": null, "morph": "\nlats\t", "gloss": "flat part", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3625"}
+{"ipa": null, "morph": "\nlay\t", "gloss": "tooth", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3627"}
+{"ipa": null, "morph": "\nlaz do\t", "gloss": "heart", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3622"}
+{"ipa": null, "morph": "\nlo nya\t", "gloss": "fields", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3628"}
+{"ipa": null, "morph": "\nbech\t", "gloss": "vulture", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3562"}
+{"ipa": null, "morph": "\nbsi\u2019\u00edni\t", "gloss": "roof tiles", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3862"}
+{"ipa": null, "morph": "\ncason\t", "gloss": "pants", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "2962"}
+{"ipa": null, "morph": "\nguinia\u2019\u00e1\t", "gloss": "De agua chili pods", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3762"}
+{"ipa": null, "morph": "\ngyia rrue\t", "gloss": "basil flower", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3062"}
+{"ipa": null, "morph": "\nk\u00ebti\t", "gloss": "No.", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3362"}
+{"ipa": null, "morph": "\npts\u0268\t", "gloss": "pitaya (fruit of several cactus species)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "2862"}
+{"ipa": null, "morph": "\nQueity.\t", "gloss": "No.", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3162"}
+{"ipa": null, "morph": "\nrnab\t", "gloss": "sends for (a family member)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3262"}
+{"ipa": null, "morph": "\nyag nuez\t", "gloss": "walnut", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3462"}
+{"ipa": null, "morph": "\nzha\t", "gloss": "quantifier of plants", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3361", "id": "3662"}
+{"ipa": null, "morph": "\ndizh di \t", "gloss": "truth", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3631"}
+{"ipa": null, "morph": "\ngal na \t", "gloss": "punishment", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3638"}
+{"ipa": null, "morph": "\nguich lo\t", "gloss": "beard", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3634"}
+{"ipa": null, "morph": "\nliu\t", "gloss": "you (singular)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3633"}
+{"ipa": null, "morph": "\nliz gyb\t", "gloss": "jail", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3630"}
+{"ipa": null, "morph": "\nluzh\t", "gloss": "tongue", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3632"}
+{"ipa": null, "morph": "\nna\t", "gloss": "be", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3637"}
+{"ipa": null, "morph": "\nna\u2019\t", "gloss": "hand", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3636"}
+{"ipa": null, "morph": "\nnagats\t", "gloss": "yellow", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3639"}
+{"ipa": null, "morph": "\nnare\t", "gloss": "I", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3635"}
+{"ipa": null, "morph": "\nbextil\t", "gloss": "types of aromatic plants", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3463"}
+{"ipa": null, "morph": "\nbl\u00f3\u2019o\t", "gloss": "raven", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3563"}
+{"ipa": null, "morph": "\ngeld\t", "gloss": "anona fruit", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "2863"}
+{"ipa": null, "morph": "\nguew ro\u2019\u00f3\t", "gloss": "grand river (local point of interest in Tlacochahuaya)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3863"}
+{"ipa": null, "morph": "\nguinmixh\t", "gloss": "Pasilla of Oaxaca child pods", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3763"}
+{"ipa": null, "morph": "\ngyia susen\t", "gloss": "azucena (type of lily)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3063"}
+{"ipa": null, "morph": "\nqu\u00ebn\t", "gloss": "and", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3163"}
+{"ipa": null, "morph": "\nrnalaz\t", "gloss": "thinks about (someone)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3263"}
+{"ipa": null, "morph": "\nTi\u00f9u\t", "gloss": "Uncle", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3363"}
+{"ipa": null, "morph": "\nxhity \t", "gloss": "onion", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3662", "id": "3663"}
+{"ipa": null, "morph": "\nguia\t", "gloss": "rock, stone", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3649"}
+{"ipa": null, "morph": "\ningul\t", "gloss": "male (for animals)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3645"}
+{"ipa": null, "morph": "\nnald \t", "gloss": "cold", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3641"}
+{"ipa": null, "morph": "\nnan gual ??\t", "gloss": "old woman", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3640"}
+{"ipa": null, "morph": "\nnash\t", "gloss": "sweet, fruit", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3642"}
+{"ipa": null, "morph": "\nnez yu \t", "gloss": "road, path, way", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3643"}
+{"ipa": null, "morph": "\nnis doo\t", "gloss": "sea, ocean", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3644"}
+{"ipa": null, "morph": "\nnity\t", "gloss": "sugar cane", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3646"}
+{"ipa": null, "morph": "\nbzya\t", "gloss": "eagle", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3564"}
+{"ipa": null, "morph": "\ngeld xu\t", "gloss": "mamey", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "2864"}
+{"ipa": null, "morph": "\nqu\u00ebn\t", "gloss": "with", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3164"}
+{"ipa": null, "morph": "\nrnalaz\t", "gloss": "remembers (someone)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3264"}
+{"ipa": null, "morph": "\ntreen\t", "gloss": "train", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3364"}
+{"ipa": null, "morph": "\nya bts\u00eb\t", "gloss": "organ-pipe cactus", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3064"}
+{"ipa": null, "morph": "\nyag narax\t", "gloss": "orange tree grove", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3464"}
+{"ipa": null, "morph": "\nyap g\u00ebch\t", "gloss": "spiny chayote squash", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3864"}
+{"ipa": null, "morph": "\nyash\t", "gloss": "avocado ", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3764"}
+{"ipa": null, "morph": "\nzhily ??\t", "gloss": "cotton", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3663", "id": "3664"}
+{"ipa": null, "morph": "\nnabany\t", "gloss": "be alive", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3659"}
+{"ipa": null, "morph": "\nra\u2019\u00e1n\t", "gloss": "plow", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3654"}
+{"ipa": null, "morph": "\nra\u2019\u00e1t \t", "gloss": "lies down", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3650"}
+{"ipa": null, "morph": "\nra\u2019\u00e1t\t", "gloss": "lies down (to sleep)?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3651"}
+{"ipa": null, "morph": "\nrac ??\t", "gloss": "be, be able to", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3652"}
+{"ipa": null, "morph": "\nracne\t", "gloss": "help", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3653"}
+{"ipa": null, "morph": "\nrap\t", "gloss": "have", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3656"}
+{"ipa": null, "morph": "\nraty\t", "gloss": "be dead", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3657"}
+{"ipa": null, "morph": "\nrcaza\u2019\t", "gloss": "love", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3655"}
+{"ipa": null, "morph": "\nrria \t", "gloss": "go out, leave", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3658"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9w r\u00eb\u2019ni\t", "gloss": "new moon", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3865"}
+{"ipa": null, "morph": "\nbzi\t", "gloss": "pumpkin flowers (edible)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3765"}
+{"ipa": null, "morph": "\ncha\t", "gloss": "a piece, a, an", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "2965"}
+{"ipa": null, "morph": "\ndam\t", "gloss": "owl", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3565"}
+{"ipa": null, "morph": "\ngeld dz\u0268n\t", "gloss": "sapodilla, chicozapote", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "2865"}
+{"ipa": null, "morph": "\ngyibya\t", "gloss": "prickly pear cactus", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3065"}
+{"ipa": null, "morph": "\nquily\t", "gloss": "kilo", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3165"}
+{"ipa": null, "morph": "\nRnany\t", "gloss": "Hernandez", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3265"}
+{"ipa": null, "morph": "\ntrus\t", "gloss": "(a male\u2019s) underpants", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3365"}
+{"ipa": null, "morph": "\nxhon\t", "gloss": "eight", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3664", "id": "3665"}
+{"ipa": null, "morph": "\ngdo \t", "gloss": "church", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3668"}
+{"ipa": null, "morph": "\ntyiuua\u2019\t", "gloss": "forty", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3661"}
+{"ipa": null, "morph": "\nxhity \t", "gloss": "onion", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3663"}
+{"ipa": null, "morph": "\nxhon\t", "gloss": "eight", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3665"}
+{"ipa": null, "morph": "\nxo\u2019\u00f3p\t", "gloss": "six", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3666"}
+{"ipa": null, "morph": "\nyuu\t", "gloss": "land", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3667"}
+{"ipa": null, "morph": "\nyz\t", "gloss": "year", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3669"}
+{"ipa": null, "morph": "\nzha\t", "gloss": "quantifier of plants", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3662"}
+{"ipa": null, "morph": "\nzhily ??\t", "gloss": "cotton", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3664"}
+{"ipa": null, "morph": "\nchaa mandad\t", "gloss": "I am going on an errand.", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "2966"}
+{"ipa": null, "morph": "\ndub guie\t", "gloss": "cooked agave leaves ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3766"}
+{"ipa": null, "morph": "\ngyichicy\t", "gloss": "hair", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3066"}
+{"ipa": null, "morph": "\nlaas geld\t", "gloss": "mamey seed", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "2866"}
+{"ipa": null, "morph": "\nquizh\t", "gloss": "will pay", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3166"}
+{"ipa": null, "morph": "\nrnaz\t", "gloss": "grabs", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3266"}
+{"ipa": null, "morph": "\nts\u00eb\t", "gloss": "ten", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3366"}
+{"ipa": null, "morph": "\nxhub be\u2019\u00e9ldub\t", "gloss": "purple corn ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3866"}
+{"ipa": null, "morph": "\nyag bdwa\t", "gloss": "banana tree grove", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3665", "id": "3466"}
+{"ipa": null, "morph": "\nbca\u2019\u00e1\t", "gloss": "grackle bird", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3675"}
+{"ipa": null, "morph": "\nbchie\t", "gloss": "barn owl", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3679"}
+{"ipa": null, "morph": "\nbk\u00ebch guie\t", "gloss": "mockingbird", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3677"}
+{"ipa": null, "morph": "\nbshia\u2019\u00e1\t", "gloss": "house finch", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3676"}
+{"ipa": null, "morph": "\nman guelze\u2019\u00e9\t", "gloss": "zanate bird", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3674"}
+{"ipa": null, "morph": "\nwbuich\t", "gloss": "sun", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3673"}
+{"ipa": null, "morph": "\nxhi\u2019\u00edn ghan\t", "gloss": "son", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3672"}
+{"ipa": null, "morph": "\nxhi\u2019\u00edni\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3670"}
+{"ipa": null, "morph": "\nzhiny cha\u2019\u00e1p\t", "gloss": "daughter", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3671"}
+{"ipa": null, "morph": "\nbezbyaw\t", "gloss": "bumble bee", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3567"}
+{"ipa": null, "morph": "\nbliaa\t", "gloss": "zapote", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "2867"}
+{"ipa": null, "morph": "\nbred\t", "gloss": "wood, logs of wood", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3767"}
+{"ipa": null, "morph": "\nChan\t", "gloss": "Feliciano", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "2967"}
+{"ipa": null, "morph": "\ngra\t", "gloss": "all", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3167"}
+{"ipa": null, "morph": "\ngyiluzh\t", "gloss": "pepper tree", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3067"}
+{"ipa": null, "morph": "\nnity\t", "gloss": "sugar cane ", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3867"}
+{"ipa": null, "morph": "\nrnudizh\t", "gloss": "questions", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3267"}
+{"ipa": null, "morph": "\nts\u00ebbtuby\t", "gloss": "eleven", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3367"}
+{"ipa": null, "morph": "\nyag ze\u2019 xtil\t", "gloss": "pomegranate grove", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3467"}
+{"ipa": null, "morph": "\nyuu\t", "gloss": "land", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3466", "id": "3667"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9\t", "gloss": "mushroom", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3684"}
+{"ipa": null, "morph": "\nbeld\t", "gloss": "fish", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3681"}
+{"ipa": null, "morph": "\nbeld guel\t", "gloss": "river fish", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3682"}
+{"ipa": null, "morph": "\nb\u00ebzh\t", "gloss": "grey dove", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3680"}
+{"ipa": null, "morph": "\nbzia\u2019\u00e1\t", "gloss": "cocoa beans", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3689"}
+{"ipa": null, "morph": "\nchum xhuagh\t", "gloss": "carrizo container to go to the market", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3686"}
+{"ipa": null, "morph": "\nchumi\t", "gloss": "carrizo container", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3685"}
+{"ipa": null, "morph": "\nguew\t", "gloss": "river ", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3687"}
+{"ipa": null, "morph": "\nguts\t", "gloss": "stem of agave plant", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3683"}
+{"ipa": null, "morph": "\nyap\t", "gloss": "chayote squash", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3688"}
+{"ipa": null, "morph": "\nbiach\t", "gloss": "Mexican plum ", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "2868"}
+{"ipa": null, "morph": "\ncha guet\t", "gloss": "a piece of tortilla", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3868"}
+{"ipa": null, "morph": "\nchat\t", "gloss": "kiss", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "2968"}
+{"ipa": null, "morph": "\ngdo \t", "gloss": "church", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3668"}
+{"ipa": null, "morph": "\nguie yan\t", "gloss": "wild flower, resembles a corn cob", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3768"}
+{"ipa": null, "morph": "\ngyiny\t", "gloss": "chili", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3068"}
+{"ipa": null, "morph": "\nra dizh\t", "gloss": "words", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3168"}
+{"ipa": null, "morph": "\nrnyity\t", "gloss": "gets lost", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3268"}
+{"ipa": null, "morph": "\nts\u00ebbtyop\t", "gloss": "twelve", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3368"}
+{"ipa": null, "morph": "\nwxady\t", "gloss": "grasshopper (edible)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3667", "id": "3568"}
+{"ipa": null, "morph": "\nbdu\u2019\u00fald\t", "gloss": "tadpole", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3693"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9u\t", "gloss": "moon", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3696"}
+{"ipa": null, "morph": "\nbe\u2019u z\u00eb\u2019ni\t", "gloss": "full moon", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3697"}
+{"ipa": null, "morph": "\nbiach\t", "gloss": "ciruela fruit", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3691"}
+{"ipa": null, "morph": "\nbiub\t", "gloss": "leafcutter ant", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3692"}
+{"ipa": null, "morph": "\nbzia\u2019\u00e1 yu\t", "gloss": "peanut(s)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3690"}
+{"ipa": null, "morph": "\nnis guia\t", "gloss": "rain", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3695"}
+{"ipa": null, "morph": "\nza\t", "gloss": "cloud(s)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3694"}
+{"ipa": null, "morph": "\nchia\t", "gloss": "will go", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "2969"}
+{"ipa": null, "morph": "\ndxidx\t", "gloss": "pineapple", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "2869"}
+{"ipa": null, "morph": "\nguiba\t", "gloss": "the sky", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3769"}
+{"ipa": null, "morph": "\ngyiwi\t", "gloss": "guava tree", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3069"}
+{"ipa": null, "morph": "\nRa guan re ryulaza.\t", "gloss": "I like these bulls.", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3169"}
+{"ipa": null, "morph": "\nrnyity\t", "gloss": "has lost (something)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3269"}
+{"ipa": null, "morph": "\nts\u00ebda\t", "gloss": "fourteen", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3369"}
+{"ipa": null, "morph": "\nwelduch\t", "gloss": "type of grasshopper", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3569"}
+{"ipa": null, "morph": "\nxhubla\u2019\u00e1\t", "gloss": "ground corn ", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3869"}
+{"ipa": null, "morph": "\nyag biax\t", "gloss": "plum", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3469"}
+{"ipa": null, "morph": "\nyz\t", "gloss": "year", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "3669"}
+{"ipa": "za\u2019c wzhih!", "morph": "\nZac wzhi!", "gloss": "Good afternoon!", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3568", "id": "2769"}
+{"ipa": null, "morph": "\nbeziu\t", "gloss": "underground honeybees", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3703"}
+{"ipa": null, "morph": "\nbte\t", "gloss": "bee hive", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3701"}
+{"ipa": null, "morph": "\ndanyado\t", "gloss": "rainforest", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3700"}
+{"ipa": null, "morph": "\ndoo\t", "gloss": "corn tassel", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3705"}
+{"ipa": null, "morph": "\ng\u00ebch\t", "gloss": "jilote", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3706"}
+{"ipa": null, "morph": "\nguini\t", "gloss": "black beeswax ", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3704"}
+{"ipa": null, "morph": "\nnaquits\t", "gloss": "white", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3708"}
+{"ipa": null, "morph": "\nnaquits la xhily\t", "gloss": "very white ", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3709"}
+{"ipa": null, "morph": "\nze\u2019\u00e9\t", "gloss": "sweet corn", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3707"}
+{"ipa": null, "morph": "\nz\u00ebni\t", "gloss": "honey", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3702"}
+{"ipa": null, "morph": "\nb\u00ebn guixh\t", "gloss": "city person", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3070"}
+{"ipa": null, "morph": "\nbezaa\t", "gloss": "blackberry", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "2870"}
+{"ipa": null, "morph": "\nbru\u2019\u00fan\t", "gloss": "prickly pear cactus fruit", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3470"}
+{"ipa": null, "morph": "\nbugui\t", "gloss": "guava", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3170"}
+{"ipa": null, "morph": "\nbzini\t", "gloss": "mouse", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3870"}
+{"ipa": null, "morph": "\nChiecw\t", "gloss": "Chico", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "2970"}
+{"ipa": null, "morph": "\nrnyity\t", "gloss": "is missing (something)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3270"}
+{"ipa": null, "morph": "\ntz\u00f3\u2019ony\t", "gloss": "thirteen", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3370"}
+{"ipa": null, "morph": "\nxhi\u2019\u00edni\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3670"}
+{"ipa": null, "morph": "\nxhig\t", "gloss": "gourd containers", "source": "tlacochahuaya", "sourcepage": "0", "prev": "2769", "id": "3770"}
+{"ipa": null, "morph": "\ncualazu\t", "gloss": "see you later", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3719"}
+{"ipa": null, "morph": "\nnaga\u2019\u00e1\t", "gloss": "green", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3710"}
+{"ipa": null, "morph": "\nnaga\u2019\u00e1 cha\u2019\u00e1ch\t", "gloss": "dark green", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3711"}
+{"ipa": null, "morph": "\nnagas\t", "gloss": "black beeswax ", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3716"}
+{"ipa": null, "morph": "\nnagas la bo\u2019\u00f3\t", "gloss": "black like charcoal ", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3717"}
+{"ipa": null, "morph": "\nnagats la gulia\u2019\u00e1\t", "gloss": "very dark yellow", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3713"}
+{"ipa": null, "morph": "\nnags guini\t", "gloss": "black like woot ", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3718"}
+{"ipa": null, "morph": "\nnegats la gul\t", "gloss": "dark yellow", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3712"}
+{"ipa": null, "morph": "\nxhnia\t", "gloss": "red", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3714"}
+{"ipa": null, "morph": "\nxhnia r\u00ebni\t", "gloss": "dark red ", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3715"}
+{"ipa": null, "morph": "\nbt\u00ebtz\t", "gloss": "squirrel", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3871"}
+{"ipa": null, "morph": "\nbza\t", "gloss": "bean", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3471"}
+{"ipa": null, "morph": "\nbzia\u2019\u00e1yu\t", "gloss": "peanut", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "2871"}
+{"ipa": null, "morph": "\nchiel\t", "gloss": "spouse", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "2971"}
+{"ipa": null, "morph": "\nGyo subga\u00ebn rega.\t", "gloss": "Let\u2019s sit right here.", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3071"}
+{"ipa": null, "morph": "\nman lo bi\t", "gloss": "bird", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3571"}
+{"ipa": null, "morph": "\nRanu lo betsa Rony ladi e?\t", "gloss": "Do you see my brother Jeronimo over there?", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3171"}
+{"ipa": null, "morph": "\nrnyity\t", "gloss": "misses (something)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3271"}
+{"ipa": null, "morph": "\ntsoni\t", "gloss": "fifteen", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3371"}
+{"ipa": null, "morph": "\nxhig ri\u2019\u00ed\t", "gloss": "Gourd to carry water", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3770", "id": "3771"}
+{"ipa": null, "morph": "\ncali chebiu\t", "gloss": "where are you going (formal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3723"}
+{"ipa": null, "morph": "\ncali chu?\t", "gloss": "where are you going? (informal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3722"}
+{"ipa": null, "morph": "\ncali zabiu?\t", "gloss": "Where are you from? (formal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3729"}
+{"ipa": null, "morph": "\ncali zo?\t", "gloss": "Where are you from? (informal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3728"}
+{"ipa": null, "morph": "\ncualazbiu\t", "gloss": "see you later (formal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3720"}
+{"ipa": null, "morph": "\nicha gadnu\t", "gloss": "we\u2019ll meet later", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3721"}
+{"ipa": null, "morph": "\nshi ca yunbiu?\t", "gloss": "What are you doing? (formal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3725"}
+{"ipa": null, "morph": "\nshi ca yunu?\t", "gloss": "what are you doing? (informal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3724"}
+{"ipa": null, "morph": "\ntu la biu?\t", "gloss": "What\u2019s your name? (formal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3727"}
+{"ipa": null, "morph": "\ntu lo?\t", "gloss": "What\u2019s your name? (informal)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3726"}
+{"ipa": null, "morph": "\nbedund\t", "gloss": "humming bird", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3572"}
+{"ipa": null, "morph": "\nbz\u00ebny\t", "gloss": "deer", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3872"}
+{"ipa": null, "morph": "\nchinzh\t", "gloss": "bedbug", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "2972"}
+{"ipa": null, "morph": "\ngaldbts\u00eb\t", "gloss": "thirty", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3272"}
+{"ipa": null, "morph": "\ngrate de dich\t", "gloss": "all the words", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3172"}
+{"ipa": null, "morph": "\nGyo yde\u00ebn nax.\t", "gloss": "Let\u2019s drink chocolate", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3072"}
+{"ipa": null, "morph": "\npts\u0268 gix\t", "gloss": "tunilla (type of small cactus fruit)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "2872"}
+{"ipa": null, "morph": "\nri\u2019\u00ed\t", "gloss": "clay water container", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3772"}
+{"ipa": null, "morph": "\nts\u00f3\u2019onbtuby\t", "gloss": "sixteen", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3372"}
+{"ipa": null, "morph": "\nxhi\u2019\u00edn ghan\t", "gloss": "son", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3771", "id": "3672"}
+{"ipa": null, "morph": "\ncali na g\u00ebch?\t", "gloss": "What town are you from? (formal and informal)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3730"}
+{"ipa": null, "morph": "\ngugh\t", "gloss": "zebra dove", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3735"}
+{"ipa": null, "morph": "\nl\u00e1\u2019ania\t", "gloss": "stomach", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3739"}
+{"ipa": null, "morph": "\nlab nis\t", "gloss": "drop of water ", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3733"}
+{"ipa": null, "morph": "\nri za\t", "gloss": "it\u2019s cloudy", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3734"}
+{"ipa": null, "morph": "\ntu liu?\t", "gloss": "Who are you? (informal)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3731"}
+{"ipa": null, "morph": "\nTu lliviu?\t", "gloss": "Who are you? (informal)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3732"}
+{"ipa": null, "morph": "\ntuv nda gu\u2019\u00fan\t", "gloss": "a single bull", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3737"}
+{"ipa": null, "morph": "\ntuv nes gu\u2019\u00fan\t", "gloss": "A pair of bulls", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3738"}
+{"ipa": null, "morph": "\nguel\t", "gloss": "maize field", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3473"}
+{"ipa": null, "morph": "\nguib\t", "gloss": "metal, brass, iron, steel", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3773"}
+{"ipa": null, "morph": "\nguie bgwa\t", "gloss": "marigold (this flower is used for All Saint\u2019s Day festivities)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3873"}
+{"ipa": null, "morph": "\nIngles\t", "gloss": "English Language", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3073"}
+{"ipa": null, "morph": "\nrra\t", "gloss": "runs out, gets finished", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3273"}
+{"ipa": null, "morph": "\ntz\u00f3\u2019onbptyop\t", "gloss": "seventeen", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3373"}
+{"ipa": null, "morph": "\nwbuich\t", "gloss": "sun", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3673"}
+{"ipa": null, "morph": "\nwetip\t", "gloss": "wetip", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3573"}
+{"ipa": null, "morph": "\nxhixhi te\t", "gloss": "every day", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "3173"}
+{"ipa": "za\u2019cars\u00ecii\u2019ly!", "morph": "\nZacarsily!", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3672", "id": "1973"}
+{"ipa": null, "morph": "\nbad guidy\t", "gloss": "hen", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3740"}
+{"ipa": null, "morph": "\nb\u00ebd ingul\t", "gloss": "turkey", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3743"}
+{"ipa": null, "morph": "\nb\u00ebd lach\t", "gloss": "hen turkey", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3741"}
+{"ipa": null, "morph": "\nb\u00ebd xhigh\t", "gloss": "Guinea fowl", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3742"}
+{"ipa": null, "morph": "\nbtiu\u2019\u00fash\t", "gloss": "tomato", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3746"}
+{"ipa": null, "morph": "\ncub\t", "gloss": "cocoa and corn traditional drink", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3748"}
+{"ipa": null, "morph": "\ngui\u2019\u00edts\t", "gloss": "flat grinding stone", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3747"}
+{"ipa": null, "morph": "\ntuv xhigh cub\t", "gloss": "a bowl of tejate ", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3749"}
+{"ipa": null, "morph": "\nz\u00ebt b\u00ebd guidy\t", "gloss": "egg(s) of a chicken", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3744"}
+{"ipa": null, "morph": "\nz\u00ebt b\u00ebd lach\t", "gloss": "Egg of a hen turkey", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3745"}
+{"ipa": null, "morph": "\n\u00bfTu lo cha\u2019a?\t", "gloss": "To whom should I direct (my question)?", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3374"}
+{"ipa": null, "morph": "\nbeguich\t", "gloss": "fly", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3574"}
+{"ipa": null, "morph": "\nchirmia\t", "gloss": "traditional flute", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "2974"}
+{"ipa": null, "morph": "\ngye t\u0268n\t", "gloss": "poinsettia", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "2874"}
+{"ipa": null, "morph": "\nIzyla\t", "gloss": "Fine", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3074"}
+{"ipa": null, "morph": "\nman guelze\u2019\u00e9\t", "gloss": "zanate bird", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3674"}
+{"ipa": null, "morph": "\nrbab\t", "gloss": "gets itchy", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3174"}
+{"ipa": null, "morph": "\nrrady\t", "gloss": "radio", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3274"}
+{"ipa": null, "morph": "\nxhbew\t", "gloss": "oval-shaped gourd used to serve liquids", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3874"}
+{"ipa": null, "morph": "\nyag la\u2019 gib\t", "gloss": "wild ?", "source": "tlacochahuaya", "sourcepage": "4", "prev": "1973", "id": "3474"}
+{"ipa": null, "morph": "\nbza lahs\t", "gloss": "black beans", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3754"}
+{"ipa": null, "morph": "\nbza ro\u2019\u00f3\t", "gloss": "kidney beans", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3755"}
+{"ipa": null, "morph": "\nbza ya\u2019\u00e1\t", "gloss": "green beans", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3756"}
+{"ipa": null, "morph": "\ngeut baxhixh\t", "gloss": "tamal with chepil leaves", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3758"}
+{"ipa": null, "morph": "\ngues\t", "gloss": "clay pot", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3752"}
+{"ipa": null, "morph": "\ngues uchach\t", "gloss": "clay pot strainer (used to drain cooked corn)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3753"}
+{"ipa": null, "morph": "\nguet baz\t", "gloss": "tamal (no meat, usually contains leaves, lard or sugar)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3757"}
+{"ipa": null, "morph": "\nguet gu\u2019\u00fa\t", "gloss": "Tamal (with meat, usually chicken or pork)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3759"}
+{"ipa": null, "morph": "\nxhumily\t", "gloss": "corn cooked with lime mixture (used to prepare tortillas)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3751"}
+{"ipa": "za\u2019cawxi\u2019ihnny !", "morph": "\nZacawxiny!", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "2759"}
+{"ipa": null, "morph": "\nz\u00ebly\t", "gloss": "flat round surface made out of clay (used to cook/dry roast)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3750"}
+{"ipa": null, "morph": "\nbca\u2019\u00e1\t", "gloss": "grackle bird", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3675"}
+{"ipa": null, "morph": "\nbegidy\t", "gloss": "butterfly", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3575"}
+{"ipa": null, "morph": "\nbza naquits \t", "gloss": "white beans", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3875"}
+{"ipa": null, "morph": "\ngye roag\t", "gloss": "basil flower", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "2875"}
+{"ipa": null, "morph": "\nIzyla.\t", "gloss": "Fine.", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3075"}
+{"ipa": null, "morph": "\nrban\t", "gloss": "follows a medical diet", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3175"}
+{"ipa": null, "morph": "\nrran\t", "gloss": "frog", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3275"}
+{"ipa": null, "morph": "\ntyop\t", "gloss": "two", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3375"}
+{"ipa": null, "morph": "\nxub\t", "gloss": "corn", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3474", "id": "3475"}
+{"ipa": null, "morph": "\nbred\t", "gloss": "wood, logs of wood", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3767"}
+{"ipa": null, "morph": "\nbzi\t", "gloss": "pumpkin flowers (edible)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3765"}
+{"ipa": null, "morph": "\ndub guie\t", "gloss": "cooked agave leaves ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3766"}
+{"ipa": null, "morph": "\nguet gu\u2019\u00fa la\u2019\u00e1n bndagh bdua\t", "gloss": "Tamal in banana leaves ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3760"}
+{"ipa": null, "morph": "\nguiba\t", "gloss": "the sky", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3769"}
+{"ipa": null, "morph": "\nguie yan\t", "gloss": "wild flower, resembles a corn cob", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3768"}
+{"ipa": null, "morph": "\nguinia\u2019\u00e1\t", "gloss": "De agua chili pods", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3762"}
+{"ipa": null, "morph": "\nguinmixh\t", "gloss": "Pasilla of Oaxaca child pods", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3763"}
+{"ipa": null, "morph": "\nsiab\t", "gloss": "atole (hot beverage made out of corn)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3761"}
+{"ipa": null, "morph": "\nyash\t", "gloss": "avocado ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3764"}
+{"ipa": "za\u2019c wzhih!", "morph": "\nZac wzhi!", "gloss": "Good afternoon!", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "2769"}
+{"ipa": null, "morph": "\nbshia\u2019\u00e1\t", "gloss": "house finch", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3676"}
+{"ipa": null, "morph": "\nbzug\t", "gloss": "caterpillar", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3576"}
+{"ipa": null, "morph": "\nclarinet\t", "gloss": "clarinet", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "2976"}
+{"ipa": null, "morph": "\nguie ts\u00ebli\t", "gloss": "endemic white wild aromatic orchid", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "2876"}
+{"ipa": null, "morph": "\njiqu\u00ebm\t", "gloss": "jicama", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3076"}
+{"ipa": null, "morph": "\nniz\t", "gloss": "cob", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3476"}
+{"ipa": null, "morph": "\nnupy\t", "gloss": "agave nectar", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3776"}
+{"ipa": null, "morph": "\nrbany\t", "gloss": "wakes up", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3176"}
+{"ipa": null, "morph": "\nrran\t", "gloss": "frog", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3475", "id": "3276"}
+{"ipa": null, "morph": "\nbsu\t", "gloss": "adobe (clay bricks)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3777"}
+{"ipa": null, "morph": "\nguib\t", "gloss": "metal, brass, iron, steel", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3773"}
+{"ipa": null, "morph": "\nnupy\t", "gloss": "agave nectar", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3776"}
+{"ipa": null, "morph": "\nri\u2019\u00ed\t", "gloss": "clay water container", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3772"}
+{"ipa": null, "morph": "\nxhig\t", "gloss": "gourd containers", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3770"}
+{"ipa": null, "morph": "\nxhig ri\u2019\u00ed\t", "gloss": "Gourd to carry water", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3771"}
+{"ipa": null, "morph": "\nxhigh du\u2019\u00fa\t", "gloss": "oval shaped gourd (used to drink)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3778"}
+{"ipa": null, "morph": "\nxhubzha\u2019\u00e1ts\t", "gloss": "yellow corn", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3779"}
+{"ipa": null, "morph": "\nyu\t", "gloss": "soil", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3774"}
+{"ipa": null, "morph": "\nyu\u2019\u00fa\t", "gloss": "house", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3775"}
+{"ipa": "za\u2019cawzhih!", "morph": "\nZacawzhi!", "gloss": "Good afternoon!", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "2770"}
+{"ipa": null, "morph": "\nbia na\u2019ld\t", "gloss": "thick cactus", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3477"}
+{"ipa": null, "morph": "\nbk\u00ebch guie\t", "gloss": "mockingbird", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3677"}
+{"ipa": null, "morph": "\nComedor Mary uas nizh nax.\t", "gloss": "The chocolate is very good at the Comedor Mary. ", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "2977"}
+{"ipa": null, "morph": "\ngye bxi\t", "gloss": "lei flower", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "2877"}
+{"ipa": null, "morph": "\njug\t", "gloss": "juice", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3077"}
+{"ipa": null, "morph": "\nrbe\t", "gloss": "chooses", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3177"}
+{"ipa": null, "morph": "\nrrech\t", "gloss": "spills", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3277"}
+{"ipa": null, "morph": "\ntyop gayua\t", "gloss": "two hundred", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3377"}
+{"ipa": null, "morph": "\nyagues nde\u2019\u00e9\t", "gloss": "bay leaves ", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3276", "id": "3877"}
+{"ipa": null, "morph": "\nbcwel\t", "gloss": "corn husk, used to feed cattle", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3780"}
+{"ipa": null, "morph": "\nbcwel buxh\t", "gloss": "corn husk (used to wrap food)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3782"}
+{"ipa": null, "morph": "\ndeh\t", "gloss": "ash, ashes", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3789"}
+{"ipa": null, "morph": "\nguia guew\t", "gloss": "river stones (pebbles)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3788"}
+{"ipa": null, "morph": "\nguiaringuini\t", "gloss": "stone used to grind chilis ", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3787"}
+{"ipa": null, "morph": "\nguizh\t", "gloss": "dry corn plants, used to feed cattle", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3781"}
+{"ipa": null, "morph": "\nlo guit\t", "gloss": "pumpkin plant", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3783"}
+{"ipa": null, "morph": "\npladyach\t", "gloss": "bowl where salsa is prepared ", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3785"}
+{"ipa": null, "morph": "\nxhub guini\t", "gloss": "salsa", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3784"}
+{"ipa": null, "morph": "\nbia lutx be\u2019kw\t", "gloss": "cactus", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3478"}
+{"ipa": null, "morph": "\nComedor ren ryulaza riedtauwa.\t", "gloss": "I like to come and eat at this caf\u00e9.", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "2978"}
+{"ipa": null, "morph": "\ngye dud\t", "gloss": "angel\u2019s trumpet flower", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "2878"}
+{"ipa": null, "morph": "\nJwany\t", "gloss": "Juan", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3078"}
+{"ipa": null, "morph": "\nmatrgas\t", "gloss": "millipede", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3578"}
+{"ipa": null, "morph": "\nrbe\t", "gloss": "takes (something) out", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3178"}
+{"ipa": null, "morph": "\nropnu\t", "gloss": "we two, two of us", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3378"}
+{"ipa": null, "morph": "\nrrelo\t", "gloss": "watch", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3278"}
+{"ipa": null, "morph": "\nxhigh du\u2019\u00fa\t", "gloss": "oval shaped gourd (used to drink)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3877", "id": "3778"}
+{"ipa": null, "morph": "\nbndagh\t", "gloss": "leafcutter ant", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3793"}
+{"ipa": null, "morph": "\nbts\u00ebni\t", "gloss": "foam", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3791"}
+{"ipa": null, "morph": "\nchych\t", "gloss": "pineapple", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3799"}
+{"ipa": null, "morph": "\nguit guh\t", "gloss": "yellow pumpkin", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3796"}
+{"ipa": null, "morph": "\nguitues\t", "gloss": "pumpkin used to prepare water", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3797"}
+{"ipa": null, "morph": "\nguydy\t", "gloss": "leather", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3798"}
+{"ipa": null, "morph": "\nwziu\t", "gloss": "thunder ", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3792"}
+{"ipa": null, "morph": "\nxhubguin btiu\u2019\u00fash\t", "gloss": "tomato sauce with chili", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3794"}
+{"ipa": null, "morph": "\nxhubguin lahy\t", "gloss": "salsa made with chilis, garlic and salt only", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3795"}
+{"ipa": null, "morph": "\nyagh\t", "gloss": "woodfire", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3790"}
+{"ipa": null, "morph": "\nbchie\t", "gloss": "barn owl", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3679"}
+{"ipa": null, "morph": "\nbetsiny\t", "gloss": "bat", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3579"}
+{"ipa": null, "morph": "\ncomputador\t", "gloss": "computer", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "2979"}
+{"ipa": null, "morph": "\ngu ryulazu chocolat?\t", "gloss": "Do you like chocolate?", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3379"}
+{"ipa": null, "morph": "\nguiewa\u2019\u00e1s\t", "gloss": "poleo (a wild flower used in religious ceremonies, mayordomias, and weddings)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "2879"}
+{"ipa": null, "morph": "\nrbeb\t", "gloss": "rides (an animal)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3179"}
+{"ipa": null, "morph": "\nrresieb\t", "gloss": "bill; receipt", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3279"}
+{"ipa": null, "morph": "\nxhubzha\u2019\u00e1ts\t", "gloss": "yellow corn", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3779"}
+{"ipa": null, "morph": "\nyag btiush\t", "gloss": "tomato plant", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3778", "id": "3479"}
+{"ipa": null, "morph": "\nbahl\t", "gloss": "fire", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3804"}
+{"ipa": null, "morph": "\nbdo\t", "gloss": "baby", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3801"}
+{"ipa": null, "morph": "\nbdua\t", "gloss": "banana", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3800"}
+{"ipa": null, "morph": "\nbiani\t", "gloss": "candle, light", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3802"}
+{"ipa": null, "morph": "\nbtiu\u2019\u00fashguizh\t", "gloss": "tomatillo (used for salsas)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3809"}
+{"ipa": null, "morph": "\ngu\u2019\u00faxh\t", "gloss": "smoke", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3807"}
+{"ipa": null, "morph": "\ngue\u2019\u00e9\t", "gloss": "groove", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3808"}
+{"ipa": null, "morph": "\ngui\t", "gloss": "burning coals", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3806"}
+{"ipa": null, "morph": "\nbcwel\t", "gloss": "corn husk, used to feed cattle", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3780"}
+{"ipa": null, "morph": "\nb\u00ebzh\t", "gloss": "grey dove", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3680"}
+{"ipa": null, "morph": "\nconejw\t", "gloss": "cottontail", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "2980"}
+{"ipa": null, "morph": "\ngin\t", "gloss": "chili, chili pepper", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3480"}
+{"ipa": null, "morph": "\nguiewe\t", "gloss": "(small, yellow, wild flower, used in All Saint\u2019s Day festivities)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "2880"}
+{"ipa": null, "morph": "\nla\t", "gloss": "name", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3080"}
+{"ipa": null, "morph": "\nman xhaku\t", "gloss": "cockroach", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3580"}
+{"ipa": null, "morph": "\nrbecy\t", "gloss": "puts on", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3180"}
+{"ipa": null, "morph": "\nrria\t", "gloss": "goes out, leaves", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3479", "id": "3280"}
+{"ipa": null, "morph": "\nbchan\t", "gloss": "larvae of beetles", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3818"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9ldyu\t", "gloss": "garden worm", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3814"}
+{"ipa": null, "morph": "\nbets\u00ebni\t", "gloss": "tick", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3813"}
+{"ipa": null, "morph": "\nbetsia\u2019\u00e1\t", "gloss": "louse", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3810"}
+{"ipa": null, "morph": "\ndu\u2019\t", "gloss": "rope", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3816"}
+{"ipa": null, "morph": "\ngueld\t", "gloss": "mamey fruit", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3815"}
+{"ipa": null, "morph": "\ngutbily\t", "gloss": "praying mantis", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3817"}
+{"ipa": null, "morph": "\nlazgueld\t", "gloss": "seeds of mamey fruit (edible, used to prepare drinks)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3819"}
+{"ipa": null, "morph": "\nman bde\t", "gloss": "weevil (of corn, beans and others grains)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3811"}
+{"ipa": null, "morph": "\nxhubde\t", "gloss": "cron with weevils (used to feed porks)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3812"}
+{"ipa": null, "morph": "\nbeld\t", "gloss": "fish", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3681"}
+{"ipa": null, "morph": "\ncotony\t", "gloss": "shirt", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "2981"}
+{"ipa": null, "morph": "\nguie toh\t", "gloss": "(a wild flower that grows in the hills, used in the celebrations of Holy Week and Christmas)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "2881"}
+{"ipa": null, "morph": "\nguit\t", "gloss": "pumpkin", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3481"}
+{"ipa": null, "morph": "\nguizh\t", "gloss": "dry corn plants, used to feed cattle", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3781"}
+{"ipa": null, "morph": "\nlady\t", "gloss": "clothes", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3081"}
+{"ipa": null, "morph": "\nnixuby\t", "gloss": "scorpion", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3581"}
+{"ipa": null, "morph": "\nrbez\t", "gloss": "waits for", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3181"}
+{"ipa": null, "morph": "\nrrica\t", "gloss": "appears", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3280", "id": "3281"}
+{"ipa": null, "morph": "\nbelb\u00ebdy\t", "gloss": "chicken meat", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3828"}
+{"ipa": null, "morph": "\nbzia\t", "gloss": "well", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3822"}
+{"ipa": null, "morph": "\ng\u00ebch guib\t", "gloss": "nail", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3821"}
+{"ipa": null, "morph": "\ng\u00ebdy\t", "gloss": "hole", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3826"}
+{"ipa": null, "morph": "\ngu\u00ed\u2019its\t", "gloss": "paper", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3820"}
+{"ipa": null, "morph": "\nguixha\u2019\u00e1\t", "gloss": "grass", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3825"}
+{"ipa": null, "morph": "\nnaxhy\t", "gloss": "salty", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3824"}
+{"ipa": null, "morph": "\nsiabgues\t", "gloss": "hot foamy drink made of corn and cocoa ", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3829"}
+{"ipa": null, "morph": "\nxhublad\t", "gloss": "corn with weevils (still edible)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3827"}
+{"ipa": null, "morph": "\nzed\t", "gloss": "salt", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3823"}
+{"ipa": null, "morph": "\nbcwel buxh\t", "gloss": "corn husk (used to wrap food)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3782"}
+{"ipa": null, "morph": "\nbeld guel\t", "gloss": "river fish", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3682"}
+{"ipa": null, "morph": "\ncun\t", "gloss": "and; with", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "2982"}
+{"ipa": null, "morph": "\nguie guini\t", "gloss": "(red and white wild flower used to make necklaces for saints or special pots for religious ceremonies and mayordomias)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "2882"}
+{"ipa": null, "morph": "\ningulbruz\t", "gloss": "tarantula", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3582"}
+{"ipa": null, "morph": "\nnabis \t", "gloss": "dry", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3082"}
+{"ipa": null, "morph": "\nrbi\t", "gloss": "sits down", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3182"}
+{"ipa": null, "morph": "\nrrilo\t", "gloss": "thinks", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3282"}
+{"ipa": null, "morph": "\nunida\t", "gloss": "unit", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3382"}
+{"ipa": null, "morph": "\nxtiezh\t", "gloss": "garlic", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3281", "id": "3482"}
+{"ipa": null, "morph": "\nblory\t", "gloss": "pot used to serve water", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3832"}
+{"ipa": null, "morph": "\nbo\u2019\u00f3\t", "gloss": "coal", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3830"}
+{"ipa": null, "morph": "\nbtia\u2019\t", "gloss": "aromatic herb used to cook beans", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3839"}
+{"ipa": null, "morph": "\nda\u2019\u00e1\t", "gloss": "blanket made out of straw (used to rest and sleep)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3838"}
+{"ipa": null, "morph": "\ngue\u2019\u00e9\t", "gloss": "market", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3837"}
+{"ipa": null, "morph": "\nguexhuagh\t", "gloss": "round pot used to carry food", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3831"}
+{"ipa": null, "morph": "\nladguich\t", "gloss": "rug, blanket", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3836"}
+{"ipa": null, "morph": "\nlhady\t", "gloss": "cloth, rug", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3835"}
+{"ipa": null, "morph": "\nxhigbisa\u2019\u00e1ty\t", "gloss": "big bowl made out of gourd", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3833"}
+{"ipa": null, "morph": "\nxhigxhnia\t", "gloss": "red-decorated gourds (used to serve drinks)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3834"}
+{"ipa": null, "morph": "\nbadia\t", "gloss": "roadrunner", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "2883"}
+{"ipa": null, "morph": "\nbi dyeny\t", "gloss": "ant", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3583"}
+{"ipa": null, "morph": "\ncuan\t", "gloss": "with", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "2983"}
+{"ipa": null, "morph": "\nguts\t", "gloss": "stem of agave plant", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3683"}
+{"ipa": null, "morph": "\nlapy\t", "gloss": "pencil", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3083"}
+{"ipa": null, "morph": "\nlo guit\t", "gloss": "pumpkin plant", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3783"}
+{"ipa": null, "morph": "\nrbix\t", "gloss": "rings (of a bell)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3183"}
+{"ipa": null, "morph": "\nrro\t", "gloss": "grows", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3283"}
+{"ipa": null, "morph": "\nutale\t", "gloss": "wow", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3383"}
+{"ipa": null, "morph": "\nyag limon\t", "gloss": "lemon grove", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3482", "id": "3483"}
+{"ipa": null, "morph": "\nb\u00ebch\t", "gloss": "tule grass (used to make roofs)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3844"}
+{"ipa": null, "morph": "\nca za\u2019\u00e1 lyz be\u2019\u00e9u\t", "gloss": "lunar halo", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3842"}
+{"ipa": null, "morph": "\nca za\u2019\u00e1 lyz wbich\t", "gloss": "solar halo ", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3841"}
+{"ipa": null, "morph": "\ntiwa\t", "gloss": "forty", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3849"}
+{"ipa": null, "morph": "\ntsompchon\t", "gloss": "eighteen", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3848"}
+{"ipa": null, "morph": "\nxhiguet\t", "gloss": "decorated gourd used for storage", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3847"}
+{"ipa": null, "morph": "\nyu\u2019\u00fab\u00ebch\t", "gloss": "tule home", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3845"}
+{"ipa": null, "morph": "\nyu\u2019\u00fab\u00ebch\t", "gloss": "tule home", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3846"}
+{"ipa": null, "morph": "\nza\t", "gloss": "pork lard, fat from the meat", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3840"}
+{"ipa": null, "morph": "\nzini\t", "gloss": "straw ", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3843"}
+{"ipa": null, "morph": "\nbagh\t", "gloss": "cow", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "2884"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9\t", "gloss": "mushroom", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3684"}
+{"ipa": null, "morph": "\nbedxun\t", "gloss": "spider", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3584"}
+{"ipa": null, "morph": "\ngyea\t", "gloss": "flower", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3484"}
+{"ipa": null, "morph": "\nlechugh\t", "gloss": "lettuce", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3084"}
+{"ipa": null, "morph": "\nrbuzh\t", "gloss": "calls", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3184"}
+{"ipa": null, "morph": "\nrrompecabes\t", "gloss": "puzzle", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3284"}
+{"ipa": null, "morph": "\nwbwan\t", "gloss": "thief", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3384"}
+{"ipa": null, "morph": "\nxhub guini\t", "gloss": "salsa", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3483", "id": "3784"}
+{"ipa": null, "morph": "\n\u00a1Zac rsily!\t", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "2858"}
+{"ipa": null, "morph": "\n\u00a1Zak laizhi!\t", "gloss": "Good day (midday)!", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "2859"}
+{"ipa": null, "morph": "\n\u00bfCali chu?\t", "gloss": "where are you going?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "2856"}
+{"ipa": null, "morph": "\n\u00bfCali guiu?\t", "gloss": "where did you go? (cultural note: used as a greeting when meeting someone on the street as they are headed towards their home)", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "2857"}
+{"ipa": null, "morph": "\nblia\u2019\u00e1\t", "gloss": "black zapote", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3856"}
+{"ipa": null, "morph": "\nbshidyu\t", "gloss": "clods of soil", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3859"}
+{"ipa": null, "morph": "\nchoon\t", "gloss": "three", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "2852"}
+{"ipa": null, "morph": "\ngayon\t", "gloss": "sixty", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3851"}
+{"ipa": null, "morph": "\ngayonpts\u00eb\t", "gloss": "seventy", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3852"}
+{"ipa": null, "morph": "\nshi ca yuunu?\t", "gloss": "what are you doing?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "2855"}
+{"ipa": null, "morph": "\nta\t", "gloss": "eighty", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3853"}
+{"ipa": null, "morph": "\ntaap\t", "gloss": "four", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "2854"}
+{"ipa": null, "morph": "\ntapts\u00eb\t", "gloss": "ninety", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3854"}
+{"ipa": null, "morph": "\ntiwapts\u00eb\t", "gloss": "fifty", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3850"}
+{"ipa": null, "morph": "\ntuv gayua\t", "gloss": "a hundred", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3855"}
+{"ipa": null, "morph": "\nxhily\t", "gloss": "cotton", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3857"}
+{"ipa": null, "morph": "\nyube\t", "gloss": "hoe", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3858"}
+{"ipa": null, "morph": "\nbaguidy\t", "gloss": "butterfly", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "2885"}
+{"ipa": null, "morph": "\nchumi\t", "gloss": "carrizo container", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "3685"}
+{"ipa": null, "morph": "\ncuch\t", "gloss": "pig", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3784", "id": "2985"}
+{"ipa": null, "morph": "\n\u00a1Zak wxiin!\t", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "2861"}
+{"ipa": null, "morph": "\n\u00a1Zak wzhi!\t", "gloss": "Good afternoon!", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "2860"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9w r\u00eb\u2019ni\t", "gloss": "new moon", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "3865"}
+{"ipa": null, "morph": "\nb\u00ebch\t", "gloss": "cracks in the soil", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "3861"}
+{"ipa": null, "morph": "\nbiach\t", "gloss": "Mexican plum ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "2868"}
+{"ipa": null, "morph": "\nbliaa\t", "gloss": "zapote", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "2867"}
+{"ipa": null, "morph": "\nbsi\u2019\u00edni\t", "gloss": "roof tiles", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "3862"}
+{"ipa": null, "morph": "\ncha guet\t", "gloss": "a piece of tortilla", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "3868"}
+{"ipa": null, "morph": "\ndxidx\t", "gloss": "pineapple", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "2869"}
+{"ipa": null, "morph": "\ngeld\t", "gloss": "anona fruit", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "2863"}
+{"ipa": null, "morph": "\ngeld dz\u0268n\t", "gloss": "sapodilla, chicozapote", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "2865"}
+{"ipa": null, "morph": "\ngeld xu\t", "gloss": "mamey", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "2864"}
+{"ipa": null, "morph": "\nguew ro\u2019\u00f3\t", "gloss": "grand river (local point of interest in Tlacochahuaya)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "3863"}
+{"ipa": null, "morph": "\nlaas geld\t", "gloss": "mamey seed", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "2866"}
+{"ipa": null, "morph": "\nnity\t", "gloss": "sugar cane ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "3867"}
+{"ipa": null, "morph": "\npts\u0268\t", "gloss": "pitaya (fruit of several cactus species)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "2862"}
+{"ipa": null, "morph": "\nxhub be\u2019\u00e9ldub\t", "gloss": "purple corn ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "3866"}
+{"ipa": null, "morph": "\nxhubla\u2019\u00e1\t", "gloss": "ground corn ", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "3869"}
+{"ipa": null, "morph": "\nyan\t", "gloss": "dried cobs (used as fuel in the kitchen)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "3860"}
+{"ipa": null, "morph": "\nyap g\u00ebch\t", "gloss": "spiny chayote squash", "source": "tlacochahuaya", "sourcepage": "6", "prev": "2985", "id": "3864"}
+{"ipa": null, "morph": "\nbezaa\t", "gloss": "blackberry", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2870"}
+{"ipa": null, "morph": "\nbt\u00ebtz\t", "gloss": "squirrel", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "3871"}
+{"ipa": null, "morph": "\nbza naquits \t", "gloss": "white beans", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "3875"}
+{"ipa": null, "morph": "\nbz\u00ebny\t", "gloss": "deer", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "3872"}
+{"ipa": null, "morph": "\nbzia\u2019\u00e1yu\t", "gloss": "peanut", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2871"}
+{"ipa": null, "morph": "\nbzini\t", "gloss": "mouse", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "3870"}
+{"ipa": null, "morph": "\nguie bgwa\t", "gloss": "marigold (this flower is used for All Saint\u2019s Day festivities)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "3873"}
+{"ipa": null, "morph": "\nguie ts\u00ebli\t", "gloss": "endemic white wild aromatic orchid", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2876"}
+{"ipa": null, "morph": "\nguiewa\u2019\u00e1s\t", "gloss": "poleo (a wild flower used in religious ceremonies, mayordomias, and weddings)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2879"}
+{"ipa": null, "morph": "\ngye bxi\t", "gloss": "lei flower", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2877"}
+{"ipa": null, "morph": "\ngye dud\t", "gloss": "angel\u2019s trumpet flower", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2878"}
+{"ipa": null, "morph": "\ngye roag\t", "gloss": "basil flower", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2875"}
+{"ipa": null, "morph": "\ngye t\u0268n\t", "gloss": "poinsettia", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2874"}
+{"ipa": null, "morph": "\npts\u0268 gix\t", "gloss": "tunilla (type of small cactus fruit)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2872"}
+{"ipa": null, "morph": "\nsequini warau\t", "gloss": "cactus fruit that lizards eat", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "3876"}
+{"ipa": null, "morph": "\nxhbew\t", "gloss": "oval-shaped gourd used to serve liquids", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "3874"}
+{"ipa": null, "morph": "\nyagues nde\u2019\u00e9\t", "gloss": "bay leaves ", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "3877"}
+{"ipa": null, "morph": "\nbaly\t", "gloss": "fire, flame", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2887"}
+{"ipa": null, "morph": "\nbtiloo\t", "gloss": "wild bush, roots used to treat hemorrhage (sensible to touch or clap)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "3587"}
+{"ipa": null, "morph": "\nCwana, yu zhi, bal zicy rniyu zhi zicy gac\u2026.\t", "gloss": "I don\u2019t know, it\u2019s up to you, if you say so, that\u2019s how it will be\u2026", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3864", "id": "2987"}
+{"ipa": null, "morph": "\nbadia\t", "gloss": "roadrunner", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "2883"}
+{"ipa": null, "morph": "\nbagh\t", "gloss": "cow", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "2884"}
+{"ipa": null, "morph": "\nbaguidy\t", "gloss": "butterfly", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "2885"}
+{"ipa": null, "morph": "\nbaly\t", "gloss": "fire, flame", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "2887"}
+{"ipa": null, "morph": "\nbangual\t", "gloss": "old", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "2889"}
+{"ipa": null, "morph": "\nb\u00ebngul\t", "gloss": "old person", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "2888"}
+{"ipa": null, "morph": "\nguie guini\t", "gloss": "(red and white wild flower used to make necklaces for saints or special pots for religious ceremonies and mayordomias)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "2882"}
+{"ipa": null, "morph": "\nguie toh\t", "gloss": "(a wild flower that grows in the hills, used in the celebrations of Holy Week and Christmas)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "2881"}
+{"ipa": null, "morph": "\nguiewe\t", "gloss": "(small, yellow, wild flower, used in All Saint\u2019s Day festivities)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "2880"}
+{"ipa": null, "morph": "\nbach\t", "gloss": "punch (drink)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "3488"}
+{"ipa": null, "morph": "\ncwet\t", "gloss": "firecracker", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "2988"}
+{"ipa": null, "morph": "\nguia guew\t", "gloss": "river stones (pebbles)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "3788"}
+{"ipa": null, "morph": "\nLia\t", "gloss": "girl\u2019s title, Miss, Se\u00f1orita", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "3088"}
+{"ipa": null, "morph": "\noregh gu\u00ed\u2019ish \t", "gloss": "wild oregano (condiment)", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "3588"}
+{"ipa": null, "morph": "\nrcha\t", "gloss": "warms", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "3188"}
+{"ipa": null, "morph": "\nrsan\t", "gloss": "leaves (something) behind", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "3288"}
+{"ipa": null, "morph": "\nXgui\u00e9\u2019e\t", "gloss": "Teotitl\u00e1n del Valle", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "3388"}
+{"ipa": null, "morph": "\nyap\t", "gloss": "chayote squash", "source": "tlacochahuaya", "sourcepage": "8", "prev": "2987", "id": "3688"}
+{"ipa": null, "morph": "\nbanua\t", "gloss": "scorpion", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "2890"}
+{"ipa": null, "morph": "\nbar\t", "gloss": "stick", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "2891"}
+{"ipa": null, "morph": "\nbarga\t", "gloss": "type of medium-sized grasshopper", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "2892"}
+{"ipa": null, "morph": "\nbaxat\t", "gloss": "toad", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "2893"}
+{"ipa": null, "morph": "\nbchily\t", "gloss": "knife", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "2895"}
+{"ipa": null, "morph": "\nbdi\t", "gloss": "ant", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "2896"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9cu\t", "gloss": "dog", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "2899"}
+{"ipa": null, "morph": "\nbaiy\t", "gloss": "shawl", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "3489"}
+{"ipa": null, "morph": "\nbangual\t", "gloss": "old", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "2889"}
+{"ipa": null, "morph": "\nbzia\u2019\u00e1\t", "gloss": "cocoa beans", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "3689"}
+{"ipa": null, "morph": "\ncuan lia\t", "gloss": "wild bush, used to treat \"craving\" desease ", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "3589"}
+{"ipa": null, "morph": "\ndad\t", "gloss": "dice", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "2989"}
+{"ipa": null, "morph": "\ndeh\t", "gloss": "ash, ashes", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "3789"}
+{"ipa": null, "morph": "\nLia Glory\t", "gloss": "Gloria", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "3089"}
+{"ipa": null, "morph": "\nrcha\u2019\u00e1\t", "gloss": "I warm", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "3189"}
+{"ipa": null, "morph": "\nrse\t", "gloss": "echo of (someone\u2019s) voice", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "3289"}
+{"ipa": null, "morph": "\nxhub guin g\u00fa\u2019u zah\t", "gloss": "salsa de huevo (a dish with eggs and salsa)", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3688", "id": "3389"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9ld\t", "gloss": "snake", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "2903"}
+{"ipa": null, "morph": "\nBecw nde.\t", "gloss": "This is a dog.", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "2900"}
+{"ipa": null, "morph": "\nBed\t", "gloss": "Pedro", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "2901"}
+{"ipa": null, "morph": "\nbeich\t", "gloss": "buzzard", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "2902"}
+{"ipa": null, "morph": "\nbel\t", "gloss": "meat", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "2904"}
+{"ipa": null, "morph": "\nben\t", "gloss": "dregs, grounds (of liquid)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "2907"}
+{"ipa": null, "morph": "\nbets\t", "gloss": "brother (of a male)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "2908"}
+{"ipa": null, "morph": "\nbeu\t", "gloss": "turtle", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "2909"}
+{"ipa": null, "morph": "\nbanua\t", "gloss": "scorpion", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "2890"}
+{"ipa": null, "morph": "\nbatx\t", "gloss": "lion", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "3490"}
+{"ipa": null, "morph": "\nbzia\u2019\u00e1 yu\t", "gloss": "peanut(s)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "3690"}
+{"ipa": null, "morph": "\ndad\t", "gloss": "father", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "2990"}
+{"ipa": null, "morph": "\nLia Len\t", "gloss": "Elena", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "3090"}
+{"ipa": null, "morph": "\nrcha\u2019\u00e1ni\t", "gloss": "he warms", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "3190"}
+{"ipa": null, "morph": "\nrsed\t", "gloss": "learns (something)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "3290"}
+{"ipa": null, "morph": "\nxhubh\t", "gloss": "amarillo (a yellow mole)", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "3390"}
+{"ipa": null, "morph": "\nxub r\u00f9bh\t", "gloss": "wild white and purple flower ", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "3590"}
+{"ipa": null, "morph": "\nyagh\t", "gloss": "woodfire", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3389", "id": "3790"}
+{"ipa": null, "morph": "\nbez\t", "gloss": "type of big jackrabbit", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "2911"}
+{"ipa": null, "morph": "\nbi\t", "gloss": "air", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "2913"}
+{"ipa": null, "morph": "\nbied\t", "gloss": "aunt", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "2914"}
+{"ipa": null, "morph": "\nblal\t", "gloss": "blal", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "2915"}
+{"ipa": null, "morph": "\nbo\u2019\u00f3\t", "gloss": "charcoal", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "2916"}
+{"ipa": null, "morph": "\nbolz\t", "gloss": "bag", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "2917"}
+{"ipa": null, "morph": "\nbahl\t", "gloss": "star", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "3391"}
+{"ipa": null, "morph": "\nbar\t", "gloss": "stick", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "2891"}
+{"ipa": null, "morph": "\nbiach\t", "gloss": "ciruela fruit", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "3691"}
+{"ipa": null, "morph": "\nbts\u00ebni\t", "gloss": "foam", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "3791"}
+{"ipa": null, "morph": "\nguie gu\u00ecdi\t", "gloss": "orange flower, stems covered in velcro-like surface ", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "3591"}
+{"ipa": null, "morph": "\nLia Mony\t", "gloss": "Monica", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "3091"}
+{"ipa": null, "morph": "\nrsed\t", "gloss": "teaches (someone) (something)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "3291"}
+{"ipa": null, "morph": "\nrxhaxh\t", "gloss": "sneezes", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3790", "id": "3191"}
+{"ipa": null, "morph": "\nb\u00ebdy\t", "gloss": "chicken", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "2927"}
+{"ipa": null, "morph": "\nbsuaz\t", "gloss": "squirrel", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "2920"}
+{"ipa": null, "morph": "\nbts\u00eb\t", "gloss": "tuna fruit", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "2921"}
+{"ipa": null, "morph": "\nbtsya\t", "gloss": "louse", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "2922"}
+{"ipa": null, "morph": "\nbtyep\t", "gloss": "wasp", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "2923"}
+{"ipa": null, "morph": "\nbtyux\t", "gloss": "tomato", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "2924"}
+{"ipa": null, "morph": "\nbuarr\t", "gloss": "donkey", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "2926"}
+{"ipa": null, "morph": "\nbudy\t", "gloss": "chicken", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "2929"}
+{"ipa": null, "morph": "\nbarga\t", "gloss": "type of medium-sized grasshopper", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "2892"}
+{"ipa": null, "morph": "\nbew\t", "gloss": "coyote", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "3492"}
+{"ipa": null, "morph": "\nbiub\t", "gloss": "leafcutter ant", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "3692"}
+{"ipa": null, "morph": "\ndany\t", "gloss": "mountain", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "2992"}
+{"ipa": null, "morph": "\nLia Petr\t", "gloss": "Petra", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "3092"}
+{"ipa": null, "morph": "\nrchiby\t", "gloss": "scares (someone)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "3192"}
+{"ipa": null, "morph": "\nrsily\t", "gloss": "morning", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "3292"}
+{"ipa": null, "morph": "\nwziu\t", "gloss": "thunder ", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "3792"}
+{"ipa": null, "morph": "\nxiix\t", "gloss": "Edible leafy bush", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "3392"}
+{"ipa": null, "morph": "\nya yaal\t", "gloss": "wild bush (fruits used in the treatment of acne)", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3191", "id": "3592"}
+{"ipa": "za\u2019c rs\u00ecii\u2019lly !", "morph": "\nZac rsily!", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "293"}
+{"ipa": null, "morph": "\nb\u00ebny\t", "gloss": "person", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "2934"}
+{"ipa": null, "morph": "\nbxady\t", "gloss": "chapulin (edible grasshopper)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "2935"}
+{"ipa": null, "morph": "\nbyiu\t", "gloss": "flea", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "2937"}
+{"ipa": null, "morph": "\nbyol\t", "gloss": "century plant flower", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "2938"}
+{"ipa": null, "morph": "\nbzeiny\t", "gloss": "deer", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "2939"}
+{"ipa": null, "morph": "\nbaxat\t", "gloss": "toad", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "2893"}
+{"ipa": null, "morph": "\nbdu\u2019\u00fald\t", "gloss": "tadpole", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "3693"}
+{"ipa": null, "morph": "\nbes\t", "gloss": "ocelote / tigrillo", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "3493"}
+{"ipa": null, "morph": "\nbndagh\t", "gloss": "leafcutter ant", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "3793"}
+{"ipa": null, "morph": "\nde\t", "gloss": "dust, powder", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "2993"}
+{"ipa": null, "morph": "\nguiiniag\t", "gloss": "local variety of fresh chilli pod", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "3393"}
+{"ipa": null, "morph": "\nliz  \t", "gloss": "house (e-poss.)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "3093"}
+{"ipa": null, "morph": "\nrchoo\t", "gloss": "you warm", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "3193"}
+{"ipa": null, "morph": "\nromer gu\u00ed\u2019ish\t", "gloss": "wild rosemary", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "3593"}
+{"ipa": null, "morph": "\nrsubiaz\t", "gloss": "dries (something)", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3592", "id": "3293"}
+{"ipa": null, "morph": "\nbzan\t", "gloss": "brother (of a female)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "2946"}
+{"ipa": null, "morph": "\nbzigui\t", "gloss": "black widow spider", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "2942"}
+{"ipa": null, "morph": "\nbzilo\t", "gloss": "eye", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "2943"}
+{"ipa": null, "morph": "\nbziny\t", "gloss": "mouse", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "2944"}
+{"ipa": null, "morph": "\nbzya\t", "gloss": "beans", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "2945"}
+{"ipa": null, "morph": "\nbzyan\t", "gloss": "sister (of a male)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "2947"}
+{"ipa": null, "morph": "\ncabai\t", "gloss": "horse", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "2949"}
+{"ipa": null, "morph": "\nderech\t", "gloss": "right", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "2994"}
+{"ipa": null, "morph": "\nliebr\t", "gloss": "book", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "3094"}
+{"ipa": null, "morph": "\nrchu\t", "gloss": "changes (something)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "3194"}
+{"ipa": null, "morph": "\nrsandieby\t", "gloss": "boils (something)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "3294"}
+{"ipa": null, "morph": "\nxhubguin btiu\u2019\u00fash\t", "gloss": "tomato sauce with chili", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "3794"}
+{"ipa": null, "morph": "\nyabugii\t", "gloss": "Tree of guava", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "3394"}
+{"ipa": null, "morph": "\nza\t", "gloss": "cloud(s)", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3293", "id": "3694"}
+{"ipa": "za\u2019c laizhih !", "morph": "\nZac laizhi!", "gloss": "Good midday!", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "295"}
+{"ipa": null, "morph": "\n\u00bfCali bsedyyu dizhsa?\t", "gloss": "Where did you learn Zapotec?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2955"}
+{"ipa": null, "morph": "\nCabai nde e, guala becw\u00ebng?\t", "gloss": "\u201cIs this a horse, or a dog?\u201d", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2950"}
+{"ipa": null, "morph": "\nCabai nde e?\t", "gloss": "Is this a horse?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2951"}
+{"ipa": null, "morph": "\ncachuch\t", "gloss": "baseball cap", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2952"}
+{"ipa": null, "morph": "\ncafe\t", "gloss": "coffee", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2953"}
+{"ipa": null, "morph": "\ncald\t", "gloss": "soup", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2954"}
+{"ipa": null, "morph": "\nCali chiu?\t", "gloss": "Where are you going?", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2956"}
+{"ipa": null, "morph": "\ncampan\t", "gloss": "bell", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2957"}
+{"ipa": null, "morph": "\ncanel\t", "gloss": "cinnamon", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2958"}
+{"ipa": null, "morph": "\ncapi\t", "gloss": "shrine", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2959"}
+{"ipa": null, "morph": "\nbchily\t", "gloss": "knife", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2895"}
+{"ipa": null, "morph": "\ndets\t", "gloss": "back", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "2995"}
+{"ipa": null, "morph": "\nlimony\t", "gloss": "lime", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "3095"}
+{"ipa": null, "morph": "\nnis guia\t", "gloss": "rain", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "3695"}
+{"ipa": null, "morph": "\nrchu yu\t", "gloss": "moves", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "3195"}
+{"ipa": null, "morph": "\nrtaz\t", "gloss": "beat ", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "3295"}
+{"ipa": null, "morph": "\nxhubguin lahy\t", "gloss": "salsa made with chilis, garlic and salt only", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "3795"}
+{"ipa": null, "morph": "\nyabtz\u00eb nakiits\t", "gloss": "cactus that produces white cactus fruit", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3694", "id": "3395"}
+{"ipa": null, "morph": "\ncarnad\t", "gloss": "pomegranate", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "2960"}
+{"ipa": null, "morph": "\ncart\t", "gloss": "letter", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "2961"}
+{"ipa": null, "morph": "\ncason\t", "gloss": "pants", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "2962"}
+{"ipa": null, "morph": "\ncha\t", "gloss": "a piece, a, an", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "2965"}
+{"ipa": null, "morph": "\nchaa mandad\t", "gloss": "I am going on an errand.", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "2966"}
+{"ipa": null, "morph": "\nChan\t", "gloss": "Feliciano", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "2967"}
+{"ipa": null, "morph": "\nchat\t", "gloss": "kiss", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "2968"}
+{"ipa": null, "morph": "\nchia\t", "gloss": "will go", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "2969"}
+{"ipa": null, "morph": "\nba\u2019\u00e1t\t", "gloss": "skunk", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "3496"}
+{"ipa": null, "morph": "\nbdi\t", "gloss": "ant", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "2896"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9u\t", "gloss": "moon", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "3696"}
+{"ipa": null, "morph": "\ndich\t", "gloss": "language", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "2996"}
+{"ipa": null, "morph": "\nguit guh\t", "gloss": "yellow pumpkin", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "3796"}
+{"ipa": null, "morph": "\nrculo\t", "gloss": "takes care of", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "3196"}
+{"ipa": null, "morph": "\nrtaz\t", "gloss": "hits", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "3296"}
+{"ipa": null, "morph": "\nyabelduuy\t", "gloss": "Tree that produces a red cherry-like fruit", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3395", "id": "3396"}
+{"ipa": null, "morph": "\nChiecw\t", "gloss": "Chico", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "2970"}
+{"ipa": null, "morph": "\nchiel\t", "gloss": "spouse", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "2971"}
+{"ipa": null, "morph": "\nchinzh\t", "gloss": "bedbug", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "2972"}
+{"ipa": null, "morph": "\nchirmia\t", "gloss": "traditional flute", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "2974"}
+{"ipa": null, "morph": "\nclarinet\t", "gloss": "clarinet", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "2976"}
+{"ipa": null, "morph": "\nComedor Mary uas nizh nax.\t", "gloss": "The chocolate is very good at the Comedor Mary. ", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "2977"}
+{"ipa": null, "morph": "\nComedor ren ryulaza riedtauwa.\t", "gloss": "I like to come and eat at this caf\u00e9.", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "2978"}
+{"ipa": null, "morph": "\ncomputador\t", "gloss": "computer", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "2979"}
+{"ipa": "za\u2019c wxi\u2019ihnny !", "morph": "\nZac wxiny!", "gloss": "Good evening!", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "1975"}
+{"ipa": "za\u2019cars\u00ecii\u2019ly!", "morph": "\nZacarsily!", "gloss": "Good morning!", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "1973"}
+{"ipa": null, "morph": "\nbe\u2019u z\u00eb\u2019ni\t", "gloss": "full moon", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "3697"}
+{"ipa": null, "morph": "\ndizh beu!\t", "gloss": "cheers! [inf.]", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "2997"}
+{"ipa": null, "morph": "\nguitues\t", "gloss": "pumpkin used to prepare water", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "3797"}
+{"ipa": null, "morph": "\ningulbes\t", "gloss": "opposum", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "3497"}
+{"ipa": null, "morph": "\nlo\t", "gloss": "face", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "3097"}
+{"ipa": null, "morph": "\nrcuzh\t", "gloss": "plays (a wind instrument)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "3197"}
+{"ipa": null, "morph": "\nrto\u2019o\t", "gloss": "sells", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "3297"}
+{"ipa": null, "morph": "\nyabiadxi\t", "gloss": "Tree that produces a yellow or red prune-like fruit", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3396", "id": "3397"}
+{"ipa": null, "morph": "\nconejw\t", "gloss": "cottontail", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "2980"}
+{"ipa": null, "morph": "\ncotony\t", "gloss": "shirt", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "2981"}
+{"ipa": null, "morph": "\ncuan\t", "gloss": "with", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "2983"}
+{"ipa": null, "morph": "\ncuch\t", "gloss": "pig", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "2985"}
+{"ipa": null, "morph": "\ncudy\t", "gloss": "thigh", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "2986"}
+{"ipa": null, "morph": "\ncun\t", "gloss": "and; with", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "2982"}
+{"ipa": null, "morph": "\nCwana, yu zhi, bal zicy rniyu zhi zicy gac\u2026.\t", "gloss": "I don\u2019t know, it\u2019s up to you, if you say so, that\u2019s how it will be\u2026", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "2987"}
+{"ipa": null, "morph": "\ncwet\t", "gloss": "firecracker", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "2988"}
+{"ipa": null, "morph": "\ndad\t", "gloss": "dice", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "2989"}
+{"ipa": null, "morph": "\nan chi\t", "gloss": "today", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "3598"}
+{"ipa": null, "morph": "\nbigupy\t", "gloss": "armadillo", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "3498"}
+{"ipa": null, "morph": "\nDizhsa\t", "gloss": "Zapotec Language", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "2998"}
+{"ipa": null, "morph": "\nguie ts\u00ebli\t", "gloss": "endemic white wild aromatic orchid", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "3398"}
+{"ipa": null, "morph": "\nguydy\t", "gloss": "leather", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "3798"}
+{"ipa": null, "morph": "\nrcwa\t", "gloss": "writes", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "3198"}
+{"ipa": null, "morph": "\nrt\u00ed\u2019ipy\t", "gloss": "whistles", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3397", "id": "3298"}
+{"ipa": null, "morph": "\ndad\t", "gloss": "father", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "2990"}
+{"ipa": null, "morph": "\ndany\t", "gloss": "mountain", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "2992"}
+{"ipa": null, "morph": "\nde\t", "gloss": "dust, powder", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "2993"}
+{"ipa": null, "morph": "\nderech\t", "gloss": "right", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "2994"}
+{"ipa": null, "morph": "\ndets\t", "gloss": "back", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "2995"}
+{"ipa": null, "morph": "\ndich\t", "gloss": "language", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "2996"}
+{"ipa": null, "morph": "\ndizh beu!\t", "gloss": "cheers! [inf.]", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "2997"}
+{"ipa": null, "morph": "\nDizhsa\t", "gloss": "Zapotec Language", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "2998"}
+{"ipa": null, "morph": "\nDizhtily\t", "gloss": "Spanish Language", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "2999"}
+{"ipa": null, "morph": "\nanym\t", "gloss": "soul", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "3599"}
+{"ipa": null, "morph": "\nbe\u2019\u00e9cu\t", "gloss": "dog", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "2899"}
+{"ipa": null, "morph": "\nbliany\t", "gloss": "hare", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "3499"}
+{"ipa": null, "morph": "\nchych\t", "gloss": "pineapple", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "3799"}
+{"ipa": null, "morph": "\nCuan\t", "gloss": "alfalfa", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "3399"}
+{"ipa": null, "morph": "\nlo zhia\t", "gloss": "field", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "3099"}
+{"ipa": null, "morph": "\nrcwa\t", "gloss": "throws", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "3199"}
+{"ipa": null, "morph": "\nrtyas\t", "gloss": "jumps", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3298", "id": "3299"}
+{"ipa": null, "morph": "\nLoby\t", "gloss": "Lopez", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3299", "id": "3100"}
+{"ipa": null, "morph": "\nlor\u00ebng\t", "gloss": "their faces", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3100", "id": "3101"}
+{"ipa": null, "morph": "\nmacy\u00ebm\t", "gloss": "machine", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3101", "id": "3102"}
+{"ipa": null, "morph": "\nmaestr\t", "gloss": "master bricklayer", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3102", "id": "3103"}
+{"ipa": null, "morph": "\nMandad.\t", "gloss": "Going on an errand.", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3103", "id": "3104"}
+{"ipa": null, "morph": "\nmansan\t", "gloss": "apple", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3104", "id": "3105"}
+{"ipa": null, "morph": "\nmany\t", "gloss": "animal", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3105", "id": "3106"}
+{"ipa": null, "morph": "\nLoby\t", "gloss": "Lopez", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3100"}
+{"ipa": null, "morph": "\nlor\u00ebng\t", "gloss": "their faces", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3101"}
+{"ipa": null, "morph": "\nmacy\u00ebm\t", "gloss": "machine", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3102"}
+{"ipa": null, "morph": "\nmaestr\t", "gloss": "master bricklayer", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3103"}
+{"ipa": null, "morph": "\nMandad.\t", "gloss": "Going on an errand.", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3104"}
+{"ipa": null, "morph": "\nmansan\t", "gloss": "apple", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3105"}
+{"ipa": null, "morph": "\nmany\t", "gloss": "animal", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3106"}
+{"ipa": null, "morph": "\nmanyser\t", "gloss": "bee", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3108"}
+{"ipa": null, "morph": "\nMazh\t", "gloss": "Tomas, Thomas", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3109"}
+{"ipa": null, "morph": "\nbetsia\u2019\u00e1\t", "gloss": "louse", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3810"}
+{"ipa": null, "morph": "\nchiguxunya\u2019ah\t", "gloss": "I\u2019m going to eat lunch", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3510"}
+{"ipa": null, "morph": "\nfasily\t", "gloss": "easy", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3010"}
+{"ipa": null, "morph": "\ngaiy\t", "gloss": "rooster", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3410"}
+{"ipa": null, "morph": "\ngaxh\t", "gloss": "near", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3610"}
+{"ipa": null, "morph": "\nnabisy\t", "gloss": "stingy", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3110"}
+{"ipa": null, "morph": "\nnaga\u2019\u00e1\t", "gloss": "green", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3710"}
+{"ipa": null, "morph": "\nrdeidy\t", "gloss": "gives (something) to (someone)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3210"}
+{"ipa": null, "morph": "\nruny col\t", "gloss": "stands in line", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3106", "id": "3310"}
+{"ipa": null, "morph": "\nmanyser\t", "gloss": "bee", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3310", "id": "3108"}
+{"ipa": null, "morph": "\nMazh\t", "gloss": "Tomas, Thomas", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3108", "id": "3109"}
+{"ipa": null, "morph": "\nnabisy\t", "gloss": "stingy", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3109", "id": "3110"}
+{"ipa": null, "morph": "\nmes\t", "gloss": "teacher", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3112"}
+{"ipa": null, "morph": "\nmeser\t", "gloss": "waiter", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3113"}
+{"ipa": null, "morph": "\nmilagr\t", "gloss": "miracle", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3114"}
+{"ipa": null, "morph": "\nmini\u2019\u00ed\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3119"}
+{"ipa": null, "morph": "\nMixh\t", "gloss": "Mixe", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3115"}
+{"ipa": null, "morph": "\nmna\t", "gloss": "woman", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3117"}
+{"ipa": null, "morph": "\nMnabagzaga nax yquinyyu.\t", "gloss": "I also ordered hot chocolate for you to drink.", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3118"}
+{"ipa": null, "morph": "\nnabisy\t", "gloss": "stingy", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3110"}
+{"ipa": null, "morph": "\nwna\t", "gloss": "woman", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3116"}
+{"ipa": null, "morph": "\nbez\t", "gloss": "type of big jackrabbit", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "2911"}
+{"ipa": null, "morph": "\nchiguuxunu\t", "gloss": "we are going to eat lunch", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3511"}
+{"ipa": null, "morph": "\nfoc\t", "gloss": "light bulb", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3011"}
+{"ipa": null, "morph": "\ngayon \t", "gloss": "sixty", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3611"}
+{"ipa": null, "morph": "\nman bde\t", "gloss": "weevil (of corn, beans and others grains)", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3811"}
+{"ipa": null, "morph": "\nnaga\u2019\u00e1 cha\u2019\u00e1ch\t", "gloss": "dark green", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3711"}
+{"ipa": null, "morph": "\nrdets\t", "gloss": "is inside out", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3211"}
+{"ipa": null, "morph": "\nruny company\t", "gloss": "accomanies", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3311"}
+{"ipa": null, "morph": "\nxtiezh\t", "gloss": "garlic", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3110", "id": "3411"}
+{"ipa": null, "morph": "\nmes\t", "gloss": "teacher", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3411", "id": "3112"}
+{"ipa": null, "morph": "\nmeser\t", "gloss": "waiter", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3112", "id": "3113"}
+{"ipa": null, "morph": "\nmilagr\t", "gloss": "miracle", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3113", "id": "3114"}
+{"ipa": null, "morph": "\nMixh\t", "gloss": "Mixe", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3114", "id": "3115"}
+{"ipa": null, "morph": "\nwna\t", "gloss": "woman", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3115", "id": "3116"}
+{"ipa": null, "morph": "\nmna\t", "gloss": "woman", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3116", "id": "3117"}
+{"ipa": null, "morph": "\nMnabagzaga nax yquinyyu.\t", "gloss": "I also ordered hot chocolate for you to drink.", "source": "tlacochahuaya", "sourcepage": "8", "prev": "3117", "id": "3118"}
+{"ipa": null, "morph": "\nmini\u2019\u00ed\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "9", "prev": "3118", "id": "3119"}
+{"ipa": null, "morph": "\nmniny\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "0", "prev": "3119", "id": "3120"}
+{"ipa": null, "morph": "\nmon\t", "gloss": "doll", "source": "tlacochahuaya", "sourcepage": "1", "prev": "3120", "id": "3121"}
+{"ipa": null, "morph": "\nmuly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "2", "prev": "3121", "id": "3122"}
+{"ipa": null, "morph": "\nm\u00ebly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "3", "prev": "3122", "id": "3123"}
+{"ipa": null, "morph": "\nm\u00ebxh\t", "gloss": "blonde", "source": "tlacochahuaya", "sourcepage": "4", "prev": "3123", "id": "3124"}
+{"ipa": null, "morph": "\nmyes\t", "gloss": "mass", "source": "tlacochahuaya", "sourcepage": "5", "prev": "3124", "id": "3125"}
+{"ipa": null, "morph": "\nm\u00ebly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3123"}
+{"ipa": null, "morph": "\nm\u00ebxh\t", "gloss": "blonde", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3124"}
+{"ipa": null, "morph": "\nmniny\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3120"}
+{"ipa": null, "morph": "\nmon\t", "gloss": "doll", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3121"}
+{"ipa": null, "morph": "\nmuly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3122"}
+{"ipa": null, "morph": "\nmyes\t", "gloss": "mass", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3125"}
+{"ipa": null, "morph": "\nNaa zicygagza, niegza gauwa.\t", "gloss": "And the same for me, I\u2019ll have them too.", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3128"}
+{"ipa": null, "morph": "\nnan\t", "gloss": "mother", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3129"}
+{"ipa": null, "morph": "\nchi\t", "gloss": "day", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3612"}
+{"ipa": null, "morph": "\nfot\t", "gloss": "picture", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3012"}
+{"ipa": null, "morph": "\nguie gueb\t", "gloss": "type of yellow flower", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3512"}
+{"ipa": null, "morph": "\nmes\t", "gloss": "teacher", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3112"}
+{"ipa": null, "morph": "\nnegats la gul\t", "gloss": "dark yellow", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3712"}
+{"ipa": null, "morph": "\nrdica\t", "gloss": "appears", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3212"}
+{"ipa": null, "morph": "\nruny comprender\t", "gloss": "understands", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3312"}
+{"ipa": null, "morph": "\nshk\u00ed\u2019i b\u00ebdi\t", "gloss": "type of wild berry (edible)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3412"}
+{"ipa": null, "morph": "\nxhubde\t", "gloss": "cron with weevils (used to feed porks)", "source": "tlacochahuaya", "sourcepage": "6", "prev": "3125", "id": "3812"}
+{"ipa": null, "morph": "\nm\u00ebly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3123"}
+{"ipa": null, "morph": "\nm\u00ebxh\t", "gloss": "blonde", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3124"}
+{"ipa": null, "morph": "\nmniny\t", "gloss": "child", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3120"}
+{"ipa": null, "morph": "\nmon\t", "gloss": "doll", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3121"}
+{"ipa": null, "morph": "\nmuly\t", "gloss": "money", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3122"}
+{"ipa": null, "morph": "\nmyes\t", "gloss": "mass", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3125"}
+{"ipa": null, "morph": "\nNaa zicygagza, niegza gauwa.\t", "gloss": "And the same for me, I\u2019ll have them too.", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3128"}
+{"ipa": null, "morph": "\nnan\t", "gloss": "mother", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3129"}
+{"ipa": null, "morph": "\nchi\t", "gloss": "day", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3612"}
+{"ipa": null, "morph": "\nfot\t", "gloss": "picture", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3012"}
+{"ipa": null, "morph": "\nguie gueb\t", "gloss": "type of yellow flower", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3512"}
+{"ipa": null, "morph": "\nmes\t", "gloss": "teacher", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3112"}
+{"ipa": null, "morph": "\nnegats la gul\t", "gloss": "dark yellow", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3712"}
+{"ipa": null, "morph": "\nrdica\t", "gloss": "appears", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3212"}
+{"ipa": null, "morph": "\nruny comprender\t", "gloss": "understands", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3312"}
+{"ipa": null, "morph": "\nshk\u00ed\u2019i b\u00ebdi\t", "gloss": "type of wild berry (edible)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3412"}
+{"ipa": null, "morph": "\nxhubde\t", "gloss": "cron with weevils (used to feed porks)", "source": "tlacochahuaya", "sourcepage": "7", "prev": "3812", "id": "3812"}
+{"ipa": null, "morph": "\nbengul\t", "gloss": "old person, elderly person", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "18"}
+{"ipa": null, "morph": "\nbiaj", "gloss": "shirt", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "http://www.nepalo.com/teotitlan/dictionary/index-spanish/index.htm"}
+{"ipa": null, "morph": "\nbini\u2019n\t", "gloss": "child", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "10"}
+{"ipa": null, "morph": "\ndxang\t", "gloss": "saint", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "13"}
+{"ipa": null, "morph": "\ngit\t", "gloss": "squash", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "15"}
+{"ipa": null, "morph": "\nkety\t", "gloss": "no", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "17"}
+{"ipa": null, "morph": "\nnia\u2019\t", "gloss": "my hand", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "19"}
+{"ipa": null, "morph": "\ntxaa\t", "gloss": "pot for making tejate and atole", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "11"}
+{"ipa": null, "morph": "\n\u00a1Gwente\u2019 a bedu!\t", "gloss": "How great that you arrived!", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "188"}
+{"ipa": null, "morph": "\na zak nii yubyu stubru txila\u2019s\t", "gloss": "Can you speak more slowly?", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "187"}
+{"ipa": null, "morph": "\nbakuinia\u2019\t", "gloss": "my finger", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "128"}
+{"ipa": null, "morph": "\nbakuinie\u2019\t", "gloss": "my toe", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "126"}
+{"ipa": null, "morph": "\nbel\t", "gloss": "meat", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "197"}
+{"ipa": null, "morph": "\nbeniit\t", "gloss": "people", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "130"}
+{"ipa": null, "morph": "\nbeny gun\u00e0\u2019\t", "gloss": "woman", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "132"}
+{"ipa": null, "morph": "\nbeny ngiu\t", "gloss": "man", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "131"}
+{"ipa": null, "morph": "\nbixugnia\t", "gloss": "my fingernail ", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "107"}
+{"ipa": null, "morph": "\nbixugnie\u2019e\t", "gloss": "my toenail ", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "119"}
+{"ipa": null, "morph": "\ndxapen\t", "gloss": "young girl", "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "116"}
+{"ipa": null, "morph": "\ngal rau\t", "gloss": null, "source": "teotitlan", "sourcepage": "1", "prev": "", "id": "122"}
+{"ipa": null, "morph": "\nbell\t", "gloss": "snake", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "26"}
+{"ipa": null, "morph": "\nbinny\t", "gloss": "seed", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "20"}
+{"ipa": null, "morph": "\ndxummiag\t", "gloss": "basket", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "28"}
+{"ipa": null, "morph": "\nmedy\t", "gloss": "money", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "27"}
+{"ipa": null, "morph": "\npity\t", "gloss": "curly hair", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "21"}
+{"ipa": null, "morph": "\nru\u2019u\t", "gloss": "mouth", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "22"}
+{"ipa": null, "morph": "\ntap\t", "gloss": "four", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "24"}
+{"ipa": null, "morph": "\nxtxang\t", "gloss": "greeting with handshake", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "25"}
+{"ipa": null, "morph": "\nyu\u2019u\t", "gloss": "house", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "29"}
+{"ipa": null, "morph": "\na balluxha\t", "gloss": "I\u2019m finished", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "219"}
+{"ipa": null, "morph": "\na bidz\u00efnia\t", "gloss": "I\u2019ve arrived", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "209"}
+{"ipa": null, "morph": "\na gubie\u2019\t", "gloss": "I\u2019ve returned", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "210"}
+{"ipa": null, "morph": "\na gudxa le\u2019nia\t", "gloss": "I\u2019m full", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "211"}
+{"ipa": null, "morph": "\nbagaly\t", "gloss": "how much (money)", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "230"}
+{"ipa": null, "morph": "\nballak\t", "gloss": "how much (money)", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "231"}
+{"ipa": null, "morph": "\nbeu\t", "gloss": "moon, month", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "282"}
+{"ipa": null, "morph": "\nbi\u00f9\u2019z\t", "gloss": "engagement ", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "270"}
+{"ipa": null, "morph": "\ndiend\t", "gloss": "store", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "249"}
+{"ipa": null, "morph": "\ndubxii\t", "gloss": "all day long", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "285"}
+{"ipa": null, "morph": "\ndxii\t", "gloss": "day", "source": "teotitlan", "sourcepage": "2", "prev": "122", "id": "284"}
+{"ipa": null, "morph": "\nganiun xtxan\t", "gloss": "we\u2019re going to say hello", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "33"}
+{"ipa": null, "morph": "\ngaxagtiun\t", "gloss": "we\u2019ll see each other", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "38"}
+{"ipa": null, "morph": "\nxhit\t", "gloss": "cat", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "31"}
+{"ipa": null, "morph": "\nZaktxi!\t", "gloss": "Good afternoon! Hello! (said in the afternoon)", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "36"}
+{"ipa": null, "morph": "\nZakxdily!\t", "gloss": "Good morning! Hello! (said in the morning)", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "34"}
+{"ipa": null, "morph": "\nZakxiny!\t", "gloss": "Good evening! Hello! (said in the evening)", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "37"}
+{"ipa": null, "morph": "\nz\u00eft\t", "gloss": "bone", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "32"}
+{"ipa": null, "morph": "\nabril\t", "gloss": "April", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "316"}
+{"ipa": null, "morph": "\nagost\t", "gloss": "August ", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "320"}
+{"ipa": null, "morph": "\nbaang\t", "gloss": "opaque", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "361"}
+{"ipa": null, "morph": "\nbal\t", "gloss": "bullet", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "390"}
+{"ipa": null, "morph": "\nbal\u00e8\u2019\t", "gloss": "nanche (type of fruit)", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "332"}
+{"ipa": null, "morph": "\nbatep\t", "gloss": "chayote (type of edible squash)", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "351"}
+{"ipa": null, "morph": "\nbaxhunia\t", "gloss": "I ran", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "362"}
+{"ipa": null, "morph": "\nbee\t", "gloss": "mushroom", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "344"}
+{"ipa": null, "morph": "\nbell\t", "gloss": "fish", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "388"}
+{"ipa": null, "morph": "\nbi\t", "gloss": "air", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "370"}
+{"ipa": null, "morph": "\nbidwa\u2019\t", "gloss": "banana ", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "329"}
+{"ipa": null, "morph": "\nbidz\u00ef\t", "gloss": "tuna (type of cactus fruit)", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "334"}
+{"ipa": null, "morph": "\nbiern\t", "gloss": "Friday", "source": "teotitlan", "sourcepage": "3", "prev": "284", "id": "310"}
+{"ipa": null, "morph": "\nbaly\t", "gloss": "star", "source": "teotitlan", "sourcepage": "4", "prev": "310", "id": "4"}
+{"ipa": null, "morph": "\ntxonn\t", "gloss": "three", "source": "teotitlan", "sourcepage": "5", "prev": "4", "id": "5"}
+{"ipa": null, "morph": "\nget\t", "gloss": "tortilla", "source": "teotitlan", "sourcepage": "6", "prev": "5", "id": "6"}
+{"ipa": null, "morph": "\nguna\u2019\t", "gloss": "woman", "source": "teotitlan", "sourcepage": "7", "prev": "6", "id": "7"}
+{"ipa": null, "morph": "\ntip\t", "gloss": "strong", "source": "teotitlan", "sourcepage": "8", "prev": "7", "id": "8"}
+{"ipa": null, "morph": "\n\u00a1a zaa!\t", "gloss": "I\u2019m leaving!  Goodbye!", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "91"}
+{"ipa": null, "morph": "\nBak\t", "gloss": "Tlacolula", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "93"}
+{"ipa": null, "morph": "\nbi\u2019in\t", "gloss": "young boy ", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "94"}
+{"ipa": null, "morph": "\nBirutz\t", "gloss": "Santo Domingo Tomaltepec", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "95"}
+{"ipa": null, "morph": "\ngelze\t", "gloss": "Guelac\u00e9 (name of town)", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "96"}
+{"ipa": null, "morph": "\nGwix\t", "gloss": "Macuilxochitl (the name of a town)", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "97"}
+{"ipa": null, "morph": "\nkuxtan\t", "gloss": "Juchit\u00e1n", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "98"}
+{"ipa": null, "morph": "\nte mil\t", "gloss": "one thousand ", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "90"}
+{"ipa": null, "morph": "\nXmigyely\t", "gloss": "San Miguel del Valle", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "99"}
+{"ipa": null, "morph": "\nyoo\u2019\t", "gloss": "yes (used in acknowledgement of a goodbye)", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "92"}
+{"ipa": null, "morph": "\nbalaj yex\t", "gloss": "avocado leaf", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "995"}
+{"ipa": null, "morph": "\nbedry beky\t", "gloss": "hen of the age to produce eggs", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "953"}
+{"ipa": null, "morph": "\nbedy gay\t", "gloss": "rooster", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "949"}
+{"ipa": null, "morph": "\nbegw lai\t", "gloss": "riddle (a big comb for weaving)", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "921"}
+{"ipa": null, "morph": "\nbella\t", "gloss": "my sister (for a woman)", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "948"}
+{"ipa": null, "morph": "\nben gixh\t", "gloss": "a dandy", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "905"}
+{"ipa": null, "morph": "\nben ka\u2019da\u2019ng\t", "gloss": "rich person", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "936"}
+{"ipa": null, "morph": "\nben li\t", "gloss": "honest person", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "957"}
+{"ipa": null, "morph": "\nben txiba\u2019 \t", "gloss": "poor person", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "931"}
+{"ipa": null, "morph": "\nbigwel\t", "gloss": "guitar", "source": "teotitlan", "sourcepage": "9", "prev": "8", "id": "926"}
+{"ipa": null, "morph": "\nbini\u2019n\t", "gloss": "child", "source": "teotitlan", "sourcepage": "0", "prev": "926", "id": "10"}
+{"ipa": null, "morph": "\ntxaa\t", "gloss": "pot for making tejate and atole", "source": "teotitlan", "sourcepage": "1", "prev": "10", "id": "11"}
+{"ipa": null, "morph": "\nbakuinia\u2019\t", "gloss": "my finger", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "128"}
+{"ipa": null, "morph": "\nbakuinie\u2019\t", "gloss": "my toe", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "126"}
+{"ipa": null, "morph": "\ngal rau\t", "gloss": null, "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "122"}
+{"ipa": null, "morph": "\ngal ree\t", "gloss": "drink ", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "120"}
+{"ipa": null, "morph": "\ngal ridie\u2019e\t", "gloss": " leave", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "123"}
+{"ipa": null, "morph": "\ngal rugie\t", "gloss": "to see", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "121"}
+{"ipa": null, "morph": "\ngal ruinlau", "gloss": "to care for", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "http://www.nepalo.com/teotitlan/dictionary/index-spanish/index.htm"}
+{"ipa": null, "morph": "\ngal rului\t", "gloss": "listening", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "125"}
+{"ipa": null, "morph": "\nnia\t", "gloss": "hand", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "129"}
+{"ipa": null, "morph": "\nnie\u2019e\t", "gloss": "my foot", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "127"}
+{"ipa": null, "morph": "\nbagegw\t", "gloss": "mosquito", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "1283"}
+{"ipa": null, "morph": "\nbala\u2019n\t", "gloss": "defame", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "1231"}
+{"ipa": null, "morph": "\nbaliki \t", "gloss": "a moment ago", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "1232"}
+{"ipa": null, "morph": "\nbalui\t", "gloss": "blow", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "1259"}
+{"ipa": null, "morph": "\nbaxhat\t", "gloss": "toad", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "1270"}
+{"ipa": null, "morph": "\nbes\t", "gloss": "a small wild cat", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "1282"}
+{"ipa": null, "morph": "\nbet\t", "gloss": "skunk", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "1268"}
+{"ipa": null, "morph": "\nbigidy\t", "gloss": "butterfly", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "1263"}
+{"ipa": null, "morph": "\nbiri\t", "gloss": "ant", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "1274"}
+{"ipa": "bsihah", "morph": "\nbisia", "gloss": "eagle", "source": "teotitlan", "sourcepage": "2", "prev": "11", "id": "1292"}
+{"ipa": null, "morph": "\ndxang\t", "gloss": "saint", "source": "teotitlan", "sourcepage": "3", "prev": "1292", "id": "13"}
+{"ipa": null, "morph": "\nnguus\t", "gloss": "young girl", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "140"}
+{"ipa": null, "morph": "\nte gayoa\t", "gloss": "one hundred ", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "141"}
+{"ipa": null, "morph": "\ntiuaa bi ts\u00ef\t", "gloss": "fifty ", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "142"}
+{"ipa": null, "morph": "\nXigie\t", "gloss": "Teotit\u00e1n del Valle", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "143"}
+{"ipa": null, "morph": "\nxoon\t", "gloss": "eight", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "144"}
+{"ipa": null, "morph": "\na gudxa\t", "gloss": "be full already", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1403"}
+{"ipa": null, "morph": "\na gull\t", "gloss": "be mature, be adult", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1491"}
+{"ipa": null, "morph": "\na gull\t", "gloss": "be just about to, be ready to ", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1492"}
+{"ipa": null, "morph": "\na guty\t", "gloss": "be dead already", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1415"}
+{"ipa": null, "morph": "\na guxhaa\t", "gloss": "satisfy his desire for, get enough of", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1467"}
+{"ipa": null, "morph": "\na guxhaing\t", "gloss": "it\u2019s late morning", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1408"}
+{"ipa": null, "morph": "\na na _____\t", "gloss": "it is _____ o\u2019clock", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1494"}
+{"ipa": null, "morph": "\na naa pahr, a naabag pahr??\t", "gloss": "should, ought to (right now)", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1496"}
+{"ipa": null, "morph": "\na raal runian\t", "gloss": "do something well, in a mature way", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1499"}
+{"ipa": null, "morph": "\na zizaw kon dunun\t", "gloss": "Are you coming with us?", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1455"}
+{"ipa": null, "morph": "\nbadxag \t", "gloss": "be tired", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1406"}
+{"ipa": null, "morph": "\nbalub dang\t", "gloss": "gets hit", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1456"}
+{"ipa": null, "morph": "\nda\u2019\t", "gloss": "petate (woven reed mat)", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1466"}
+{"ipa": null, "morph": "\ngabi\u2019 gabanian\t", "gloss": "be resurrected", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1443"}
+{"ipa": null, "morph": "\ngac neu\t", "gloss": "be able to help", "source": "teotitlan", "sourcepage": "4", "prev": "13", "id": "1436"}
+{"ipa": null, "morph": "\ngit\t", "gloss": "squash", "source": "teotitlan", "sourcepage": "5", "prev": "1436", "id": "15"}
+{"ipa": null, "morph": "\nbiaj", "gloss": "shirt", "source": "teotitlan", "sourcepage": "6", "prev": "15", "id": "http://www.nepalo.com/teotitlan/dictionary/index-spanish/index.htm"}
+{"ipa": null, "morph": "\nkety\t", "gloss": "no", "source": "teotitlan", "sourcepage": "7", "prev": "http://www.nepalo.com/teotitlan/dictionary/index-spanish/index.htm", "id": "17"}
+{"ipa": null, "morph": "\nbengul\t", "gloss": "old person, elderly person", "source": "teotitlan", "sourcepage": "8", "prev": "17", "id": "18"}
+{"ipa": null, "morph": "\nnia\u2019\t", "gloss": "my hand", "source": "teotitlan", "sourcepage": "9", "prev": "18", "id": "19"}
+{"ipa": null, "morph": "\nbinny\t", "gloss": "seed", "source": "teotitlan", "sourcepage": "0", "prev": "19", "id": "20"}
+{"ipa": null, "morph": "\npity\t", "gloss": "curly hair", "source": "teotitlan", "sourcepage": "1", "prev": "20", "id": "21"}
+{"ipa": null, "morph": "\nru\u2019u\t", "gloss": "mouth", "source": "teotitlan", "sourcepage": "2", "prev": "21", "id": "22"}
+{"ipa": null, "morph": "\nbagaly\t", "gloss": "how much (money)", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "230"}
+{"ipa": null, "morph": "\nballak\t", "gloss": "how much (money)", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "231"}
+{"ipa": null, "morph": "\nkali\t", "gloss": "where", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "232"}
+{"ipa": null, "morph": "\nkechi kanie\t", "gloss": "I\u2019m not saying anything", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "235"}
+{"ipa": null, "morph": "\nkechi yu\u2019\t", "gloss": "There is nothing", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "239"}
+{"ipa": null, "morph": "\nket xhui\u2019di\t", "gloss": "doesn\u2019t work ", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "238"}
+{"ipa": null, "morph": "\nketin\t", "gloss": "it is not here (of a thing)", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "236"}
+{"ipa": null, "morph": "\nketuudi\t", "gloss": "nobody", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "234"}
+{"ipa": null, "morph": "\nxur\t", "gloss": "at what time", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "233"}
+{"ipa": null, "morph": "\nbi \t", "gloss": null, "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2300"}
+{"ipa": null, "morph": "\nbidz\u00ef \t", "gloss": " tuna (type of cactus fruit)", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2318"}
+{"ipa": null, "morph": "\nbikay \t", "gloss": null, "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2312"}
+{"ipa": null, "morph": "\nbinni \t", "gloss": "candle", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2311"}
+{"ipa": null, "morph": "\nbip\t", "gloss": "spindle used to make warp yarn", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2301"}
+{"ipa": null, "morph": "\nbira\u2019u \t", "gloss": null, "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2309"}
+{"ipa": null, "morph": "\nbirangw \t", "gloss": null, "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2310"}
+{"ipa": null, "morph": "\nbiru\u2019ing\t", "gloss": null, "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2319"}
+{"ipa": null, "morph": "\nbirulliu \t", "gloss": null, "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2307"}
+{"ipa": null, "morph": "\nbisi\t", "gloss": "brick", "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2316"}
+{"ipa": null, "morph": "\nbiskutx \t", "gloss": null, "source": "teotitlan", "sourcepage": "3", "prev": "22", "id": "2304"}
+{"ipa": null, "morph": "\ntap\t", "gloss": "four", "source": "teotitlan", "sourcepage": "4", "prev": "2304", "id": "24"}
+{"ipa": null, "morph": "\nxtxang\t", "gloss": "greeting with handshake", "source": "teotitlan", "sourcepage": "5", "prev": "24", "id": "25"}
+{"ipa": null, "morph": "\nbell\t", "gloss": "snake", "source": "teotitlan", "sourcepage": "6", "prev": "25", "id": "26"}
+{"ipa": null, "morph": "\nmedy\t", "gloss": "money", "source": "teotitlan", "sourcepage": "7", "prev": "26", "id": "27"}
+{"ipa": null, "morph": "\ndxummiag\t", "gloss": "basket", "source": "teotitlan", "sourcepage": "8", "prev": "27", "id": "28"}
+{"ipa": null, "morph": "\nyu\u2019u\t", "gloss": "house", "source": "teotitlan", "sourcepage": "9", "prev": "28", "id": "29"}
+{"ipa": null, "morph": "\ngudxii\t", "gloss": "in the afternoon", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "304"}
+{"ipa": null, "morph": "\nguxiny\t", "gloss": "at night", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "305"}
+{"ipa": null, "morph": "\nledxii\t", "gloss": "at noon", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "303"}
+{"ipa": null, "morph": "\nmarty\t", "gloss": "Tuesday", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "307"}
+{"ipa": null, "morph": "\nmierkw\t", "gloss": "Wednesday", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "308"}
+{"ipa": null, "morph": "\nor\t", "gloss": "hour", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "300"}
+{"ipa": null, "morph": "\ntubior\t", "gloss": "one hour", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "301"}
+{"ipa": null, "morph": "\ntxi loin\t", "gloss": "Monday", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "306"}
+{"ipa": null, "morph": "\nxdily\t", "gloss": "in the morning", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "302"}
+{"ipa": null, "morph": "\nxueb\t", "gloss": "Thursday", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "309"}
+{"ipa": null, "morph": "\nbagaly\t", "gloss": "how much (money)", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "230"}
+{"ipa": null, "morph": "\nbeniit\t", "gloss": "people", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "130"}
+{"ipa": null, "morph": "\ngetxer\t", "gloss": "scissors", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "930"}
+{"ipa": null, "morph": "\ngup\t", "gloss": "humid, damp", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "530"}
+{"ipa": null, "morph": "\nxhidx\t", "gloss": "pineapple", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "330"}
+{"ipa": null, "morph": "\nz\u00efly\t", "gloss": "comal; clay griddle (used for cooking tortillas)", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "630"}
+{"ipa": null, "morph": "\nbeny\t", "gloss": "person", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "1304"}
+{"ipa": null, "morph": "\nbi \t", "gloss": null, "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "2300"}
+{"ipa": null, "morph": "\nbip\t", "gloss": "spindle used to make warp yarn", "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "2301"}
+{"ipa": null, "morph": "\nbira\u2019u \t", "gloss": null, "source": "teotitlan", "sourcepage": "0", "prev": "29", "id": "2309"}
+{"ipa": null, "morph": "\nxhit\t", "gloss": "cat", "source": "teotitlan", "sourcepage": "1", "prev": "2309", "id": "31"}
+{"ipa": null, "morph": "\nz\u00eft\t", "gloss": "bone", "source": "teotitlan", "sourcepage": "2", "prev": "31", "id": "32"}
+{"ipa": null, "morph": "\nganiun xtxan\t", "gloss": "we\u2019re going to say hello", "source": "teotitlan", "sourcepage": "3", "prev": "32", "id": "33"}
+{"ipa": null, "morph": "\nZakxdily!\t", "gloss": "Good morning! Hello! (said in the morning)", "source": "teotitlan", "sourcepage": "4", "prev": "33", "id": "34"}
+{"ipa": null, "morph": "\nbatep\t", "gloss": "chayote (type of edible squash)", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "351"}
+{"ipa": null, "morph": "\nbinni gi\u00e8\u2019\t", "gloss": "type of candle decorated with flowers", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "357"}
+{"ipa": null, "morph": "\nbizaa\t", "gloss": "beans", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "354"}
+{"ipa": null, "morph": "\nbizayaa\t", "gloss": "green bean ", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "355"}
+{"ipa": null, "morph": "\nbizyee\t", "gloss": "cocoa", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "356"}
+{"ipa": null, "morph": "\ndz\u00efinxkuily\t", "gloss": "homework", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "359"}
+{"ipa": null, "morph": "\ngal ruintxei lady\t", "gloss": "weave", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "358"}
+{"ipa": null, "morph": "\nginiaj\t", "gloss": "chile de \u00e1rbol (bird\u2019s beak chile, rat\u2019s tail chile)", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "350"}
+{"ipa": null, "morph": "\ngit ri\u2019ng\t", "gloss": "zucchini", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "353"}
+{"ipa": null, "morph": "\ndxaa\t", "gloss": "livestock", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "935"}
+{"ipa": null, "morph": "\nja\u2019\t", "gloss": "nine", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "135"}
+{"ipa": null, "morph": "\nkechi kanie\t", "gloss": "I\u2019m not saying anything", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "235"}
+{"ipa": null, "morph": "\nnabiiz\t", "gloss": "dryness", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "535"}
+{"ipa": null, "morph": "\nnaraxh\t", "gloss": "orange", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "635"}
+{"ipa": null, "morph": "\nndiau\t", "gloss": "fat", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "435"}
+{"ipa": null, "morph": "\na basew\t", "gloss": "already be shut", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "1352"}
+{"ipa": null, "morph": "\na bidz\u00efine dius yubtu lagwar re\t", "gloss": "welcome to this place; God has brought you", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "1359"}
+{"ipa": null, "morph": "\nam bai\t", "gloss": "all right, okay", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "1354"}
+{"ipa": null, "morph": "\nbz\u00efin\t", "gloss": "deer", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "1356"}
+{"ipa": null, "morph": "\ndiabl\t", "gloss": "devil", "source": "teotitlan", "sourcepage": "5", "prev": "34", "id": "1351"}
+{"ipa": null, "morph": "\nZaktxi!\t", "gloss": "Good afternoon! Hello! (said in the afternoon)", "source": "teotitlan", "sourcepage": "6", "prev": "1351", "id": "36"}
+{"ipa": null, "morph": "\nZakxiny!\t", "gloss": "Good evening! Hello! (said in the evening)", "source": "teotitlan", "sourcepage": "7", "prev": "36", "id": "37"}
+{"ipa": null, "morph": "\ngaxagtiun\t", "gloss": "we\u2019ll see each other", "source": "teotitlan", "sourcepage": "8", "prev": "37", "id": "38"}
+{"ipa": null, "morph": "\nbal\t", "gloss": "bullet", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "390"}
+{"ipa": null, "morph": "\nbig\u00e0\u2019a\t", "gloss": "necklace", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "393"}
+{"ipa": null, "morph": "\nbixhui\t", "gloss": "green", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "394"}
+{"ipa": null, "morph": "\ngeez\t", "gloss": "cigarette", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "398"}
+{"ipa": null, "morph": "\nges\t", "gloss": "1. clay pot; pot; 2. pi\u00f1ata", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "399"}
+{"ipa": null, "morph": "\nguratx\t", "gloss": "sandal", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "397"}
+{"ipa": null, "morph": "\nla\u2019z\t", "gloss": "heart", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "395"}
+{"ipa": null, "morph": "\nlaang\t", "gloss": "he / she", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "396"}
+{"ipa": null, "morph": "\nna\u2019a\t", "gloss": "now", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "391"}
+{"ipa": null, "morph": "\nnaa\t", "gloss": "I; me", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "392"}
+{"ipa": null, "morph": "\nbatep\t", "gloss": "chayote (type of edible squash)", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "639"}
+{"ipa": null, "morph": "\nbitiuxy gixh\t", "gloss": "tomatillo", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "339"}
+{"ipa": null, "morph": "\nkechi yu\u2019\t", "gloss": "There is nothing", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "239"}
+{"ipa": null, "morph": "\nmi\u2019x\t", "gloss": "Mixe", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "139"}
+{"ipa": null, "morph": "\nni rakne\t", "gloss": "helper", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "439"}
+{"ipa": null, "morph": "\nnisle\u2019e\t", "gloss": "holy water ", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "539"}
+{"ipa": null, "morph": "\nriba\u2019\t", "gloss": "rob", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "839"}
+{"ipa": null, "morph": "\ntagu\u2019n\t", "gloss": "fast", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "939"}
+{"ipa": null, "morph": "\ndidx li\t", "gloss": "truth", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "1395"}
+{"ipa": null, "morph": "\ngitx kie ru\t", "gloss": "beard", "source": "teotitlan", "sourcepage": "9", "prev": "38", "id": "1396"}
+{"ipa": null, "morph": "\ntuu\u2019\t", "gloss": "let\u2019s go", "source": "teotitlan", "sourcepage": "0", "prev": "1396", "id": "40"}
+{"ipa": null, "morph": "\naxt dxii\t", "gloss": "until tomorrow ", "source": "teotitlan", "sourcepage": "1", "prev": "40", "id": "41"}
+{"ipa": null, "morph": "\nxhi gaxagun\t", "gloss": "see you tomorrow ", "source": "teotitlan", "sourcepage": "2", "prev": "41", "id": "42"}
+{"ipa": null, "morph": "\nbedy gidy\t", "gloss": "hen, chicken", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "437"}
+{"ipa": null, "morph": "\nbenzit\t", "gloss": "person from out of town; foreigner", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "438"}
+{"ipa": null, "morph": "\ngal gidx\t", "gloss": "sickness, illness; disease", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "436"}
+{"ipa": null, "morph": "\nkiermex\t", "gloss": "blonde", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "433"}
+{"ipa": null, "morph": "\nnaxhi\t", "gloss": "salty", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "431"}
+{"ipa": null, "morph": "\nnaxhieng\t", "gloss": "wide", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "432"}
+{"ipa": null, "morph": "\nndiau\t", "gloss": "fat", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "435"}
+{"ipa": null, "morph": "\nni rakne\t", "gloss": "helper", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "439"}
+{"ipa": null, "morph": "\nxhumbrel\t", "gloss": "hat", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "434"}
+{"ipa": null, "morph": "\nbalaj gie\u2019\t", "gloss": "petal (of a flower)", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "543"}
+{"ipa": null, "morph": "\ndidx ni rinidang\t", "gloss": "language", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "443"}
+{"ipa": null, "morph": "\nketihza\t", "gloss": "not as much ", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "243"}
+{"ipa": null, "morph": "\nkurand\t", "gloss": "cilantro", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "343"}
+{"ipa": null, "morph": "\nrap\t", "gloss": "have", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "843"}
+{"ipa": null, "morph": "\nruxhiis\t", "gloss": "laugh; smile", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "943"}
+{"ipa": null, "morph": "\nXigie\t", "gloss": "Teotit\u00e1n del Valle", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "143"}
+{"ipa": null, "morph": "\ngac neu\t", "gloss": "be able to help", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "1436"}
+{"ipa": null, "morph": "\nnupy\t", "gloss": "pulque (a drink made from fermented maguey)", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "1430"}
+{"ipa": null, "morph": "\nrak\t", "gloss": "be; can", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "1434"}
+{"ipa": null, "morph": "\nrakne\t", "gloss": "help", "source": "teotitlan", "sourcepage": "3", "prev": "42", "id": "1435"}
+{"ipa": null, "morph": "\nkie\u2019\t", "gloss": "my head", "source": "teotitlan", "sourcepage": "4", "prev": "1435", "id": "44"}
+{"ipa": null, "morph": "\ngitx kye\t", "gloss": "my hair", "source": "teotitlan", "sourcepage": "5", "prev": "44", "id": "45"}
+{"ipa": null, "morph": "\ndiaga\t", "gloss": "my ear", "source": "teotitlan", "sourcepage": "6", "prev": "45", "id": "46"}
+{"ipa": null, "morph": "\ngitx gyelaga\t", "gloss": "my eyebrow", "source": "teotitlan", "sourcepage": "7", "prev": "46", "id": "47"}
+{"ipa": null, "morph": "\ngitx balagwa\t", "gloss": "my eyelash", "source": "teotitlan", "sourcepage": "8", "prev": "47", "id": "48"}
+{"ipa": null, "morph": "\nbalawa\t", "gloss": "my eye", "source": "teotitlan", "sourcepage": "9", "prev": "48", "id": "49"}
+{"ipa": null, "morph": "\nxiee\u2019\t", "gloss": "my nose", "source": "teotitlan", "sourcepage": "0", "prev": "49", "id": "50"}
+{"ipa": null, "morph": "\nguid rua\u2019a\t", "gloss": "my lips", "source": "teotitlan", "sourcepage": "1", "prev": "50", "id": "51"}
+{"ipa": null, "morph": "\nrua\u2019a\t", "gloss": "my mouth", "source": "teotitlan", "sourcepage": "2", "prev": "51", "id": "52"}
+{"ipa": null, "morph": "\nludxa\t", "gloss": "my tongue ", "source": "teotitlan", "sourcepage": "3", "prev": "52", "id": "53"}
+{"ipa": null, "morph": "\nlaaya\t", "gloss": "my tooth", "source": "teotitlan", "sourcepage": "4", "prev": "53", "id": "54"}
+{"ipa": null, "morph": "\nteexa\t", "gloss": "my chest", "source": "teotitlan", "sourcepage": "5", "prev": "54", "id": "55"}
+{"ipa": null, "morph": "\nle\u2019nia\t", "gloss": "my stomach ", "source": "teotitlan", "sourcepage": "6", "prev": "55", "id": "56"}
+{"ipa": null, "morph": "\nxkepia\t", "gloss": "my navel, my bellybutton", "source": "teotitlan", "sourcepage": "7", "prev": "56", "id": "57"}
+{"ipa": null, "morph": "\ndetsa\t", "gloss": "my back", "source": "teotitlan", "sourcepage": "8", "prev": "57", "id": "58"}
+{"ipa": null, "morph": "\nxuka\t", "gloss": "my arm", "source": "teotitlan", "sourcepage": "9", "prev": "58", "id": "59"}
+{"ipa": null, "morph": "\nxtiubilia\t", "gloss": "my elbow", "source": "teotitlan", "sourcepage": "0", "prev": "59", "id": "60"}
+{"ipa": null, "morph": "\nkie\u2019xuka\t", "gloss": "my shoulder", "source": "teotitlan", "sourcepage": "1", "prev": "60", "id": "61"}
+{"ipa": null, "morph": "\nles nia\u2019a\t", "gloss": "palm of my hand", "source": "teotitlan", "sourcepage": "2", "prev": "61", "id": "62"}
+{"ipa": null, "morph": "\nbatep\t", "gloss": "chayote (type of edible squash)", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "639"}
+{"ipa": null, "morph": "\nbizayaa\t", "gloss": "green peas", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "638"}
+{"ipa": null, "morph": "\nges\t", "gloss": "1. clay pot; pot; 2. pi\u00f1ata", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "633"}
+{"ipa": null, "morph": "\ngit\t", "gloss": "squash", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "636"}
+{"ipa": null, "morph": "\nnaraxh\t", "gloss": "orange", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "635"}
+{"ipa": null, "morph": "\nsiaab\t", "gloss": "atole", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "634"}
+{"ipa": null, "morph": "\nxhi\u2019ixhy\t", "gloss": "pineapple", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "637"}
+{"ipa": null, "morph": "\nxhumbrel\t", "gloss": "hat", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "631"}
+{"ipa": null, "morph": "\nyagxhily\t", "gloss": "chair", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "632"}
+{"ipa": null, "morph": "\nz\u00efly\t", "gloss": "comal; clay griddle (used for cooking tortillas)", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "630"}
+{"ipa": null, "morph": "\nchuk\t", "gloss": "kiss", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "363"}
+{"ipa": null, "morph": "\ngup\t", "gloss": "humidity", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "563"}
+{"ipa": null, "morph": "\nkeith yua\u2019a sru\t", "gloss": "I\u2019m not okay", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "663"}
+{"ipa": null, "morph": "\nkong\t", "gloss": "and; with", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "463"}
+{"ipa": null, "morph": "\nlaani xten Nan gib\u00e0\u2019 Xsary\t", "gloss": "celebration of the Virgin of the Rosary", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "263"}
+{"ipa": null, "morph": "\ntedixbe\u2019eh\t", "gloss": "alms; handout; offering", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "863"}
+{"ipa": null, "morph": "\ntxinisa\u2019\t", "gloss": "I am going to pee.", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "963"}
+{"ipa": null, "morph": "\nxtiuzen lain\t", "gloss": "thanks to god ", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "163"}
+{"ipa": null, "morph": "\nare piang\t", "gloss": "tells (someone)", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "1634"}
+{"ipa": null, "morph": "\nbeez \t", "gloss": "grey or black with white stripes (of a bird, cat, or other animal)", "source": "teotitlan", "sourcepage": "3", "prev": "62", "id": "1633"}
+{"ipa": null, "morph": "\nlagua\t", "gloss": "my face", "source": "teotitlan", "sourcepage": "4", "prev": "1633", "id": "64"}
+{"ipa": null, "morph": "\ngultuu\u2019\t", "gloss": "now let\u2019s go", "source": "teotitlan", "sourcepage": "5", "prev": "64", "id": "65"}
+{"ipa": null, "morph": "\n\u00a1A zo\u2019n!\t", "gloss": "We\u2019re leaving! Goodbye!", "source": "teotitlan", "sourcepage": "6", "prev": "65", "id": "66"}
+{"ipa": null, "morph": "\nchi a na guxiny raniun\t", "gloss": "at night we say...", "source": "teotitlan", "sourcepage": "7", "prev": "66", "id": "67"}
+{"ipa": null, "morph": "\nchi a na lexi raniun\t", "gloss": "at midday we say...", "source": "teotitlan", "sourcepage": "8", "prev": "67", "id": "68"}
+{"ipa": null, "morph": "\ntxi a na guxi raniun\t", "gloss": "during the evening we say...", "source": "teotitlan", "sourcepage": "9", "prev": "68", "id": "69"}
+{"ipa": null, "morph": "\nchi na xdily raniun\t", "gloss": "in the morning we say ", "source": "teotitlan", "sourcepage": "0", "prev": "69", "id": "70"}
+{"ipa": null, "morph": "\ngal rakli\t", "gloss": "learning", "source": "teotitlan", "sourcepage": "1", "prev": "70", "id": "71"}
+{"ipa": null, "morph": "\ngal ruused \t", "gloss": "study", "source": "teotitlan", "sourcepage": "2", "prev": "71", "id": "72"}
+{"ipa": null, "morph": "\ngal ruusuchei\t", "gloss": "action of decorating", "source": "teotitlan", "sourcepage": "3", "prev": "72", "id": "73"}
+{"ipa": null, "morph": "\ngal rizibiny\t", "gloss": " sowing (seeds)", "source": "teotitlan", "sourcepage": "4", "prev": "73", "id": "74"}
+{"ipa": null, "morph": "\ngal ruintxei\t", "gloss": "weaving", "source": "teotitlan", "sourcepage": "5", "prev": "74", "id": "75"}
+{"ipa": null, "m
