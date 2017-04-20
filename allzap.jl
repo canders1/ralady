@@ -4465,4 +4465,74 @@
 {"ipa": null, "morph": "\ngal ruusuchei\t", "gloss": "action of decorating", "source": "teotitlan", "sourcepage": "3", "prev": "72", "id": "73"}
 {"ipa": null, "morph": "\ngal rizibiny\t", "gloss": " sowing (seeds)", "source": "teotitlan", "sourcepage": "4", "prev": "73", "id": "74"}
 {"ipa": null, "morph": "\ngal ruintxei\t", "gloss": "weaving", "source": "teotitlan", "sourcepage": "5", "prev": "74", "id": "75"}
-{"ipa": null, "m
+{"ipa": null, "m{"ipa": null, "morph": "\nguitzy\u00e9ek\t", "gloss": "hair", "source": "miahuatec_sbl", "sourcepage": "1", "prev": "", "id": "1"}
+{"ipa": null, "morph": "\ny\u00e9ek\t", "gloss": "head", "source": "miahuatec_sbl", "sourcepage": "2", "prev": "1", "id": "2"}
+{"ipa": null, "morph": "\nnz\u00e1a\t", "gloss": "ear", "source": "miahuatec_sbl", "sourcepage": "3", "prev": "2", "id": "3"}
+{"ipa": null, "morph": "\nngu\u00fadl\u00f3\t", "gloss": "eye", "source": "miahuatec_sbl", "sourcepage": "4", "prev": "3", "id": "4"}
+{"ipa": null, "morph": "\nxi\t", "gloss": "nose", "source": "miahuatec_sbl", "sourcepage": "5", "prev": "4", "id": "5"}
+{"ipa": null, "morph": "\nr\u00f3\t", "gloss": "mouth", "source": "miahuatec_sbl", "sourcepage": "6", "prev": "5", "id": "6"}
+{"ipa": null, "morph": "\nl\u00e9ehy\t", "gloss": "tooth", "source": "miahuatec_sbl", "sourcepage": "7", "prev": "6", "id": "7"}
+{"ipa": null, "morph": "\nloz\t", "gloss": "tongue", "source": "miahuatec_sbl", "sourcepage": "8", "prev": "7", "id": "8"}
+{"ipa": null, "morph": "\nmbch\u00f3ya\u2019\t", "gloss": "fingernail", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "8", "id": "9"}
+{"ipa": null, "morph": "\nni\t", "gloss": "foot", "source": "miahuatec_sbl", "sourcepage": "0", "prev": "9", "id": "10"}
+{"ipa": null, "morph": "\nxk\u00fau\t", "gloss": "leg", "source": "miahuatec_sbl", "sourcepage": "1", "prev": "10", "id": "11"}
+{"ipa": null, "morph": "\nx\u00edb\t", "gloss": "knee", "source": "miahuatec_sbl", "sourcepage": "2", "prev": "11", "id": "12"}
+{"ipa": null, "morph": "\ny\u00e1\u2019\t", "gloss": "hand", "source": "miahuatec_sbl", "sourcepage": "3", "prev": "12", "id": "13"}
+{"ipa": null, "morph": "\nxa\u2019nle\u2019n\t", "gloss": "belly", "source": "miahuatec_sbl", "sourcepage": "4", "prev": "13", "id": "14"}
+{"ipa": null, "morph": "\nxti\u2019\t", "gloss": "guts", "source": "miahuatec_sbl", "sourcepage": "5", "prev": "14", "id": "15"}
+{"ipa": null, "morph": "\ny\u00e9en\t", "gloss": "neck", "source": "miahuatec_sbl", "sourcepage": "6", "prev": "15", "id": "16"}
+{"ipa": null, "morph": "\nd\u00editz\t", "gloss": "back", "source": "miahuatec_sbl", "sourcepage": "7", "prev": "16", "id": "17"}
+{"ipa": null, "morph": "\nla\u2019zdo\u2019\t", "gloss": "heart", "source": "miahuatec_sbl", "sourcepage": "8", "prev": "17", "id": "18"}
+{"ipa": null, "morph": "\nla\u2019z\t", "gloss": "liver", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "18", "id": "19"}
+{"ipa": null, "morph": "\ngu\u00edd\t", "gloss": "skin", "source": "miahuatec_sbl", "sourcepage": "0", "prev": "19", "id": "20"}
+{"ipa": null, "morph": "\nr\u00e9en\t", "gloss": "blood", "source": "miahuatec_sbl", "sourcepage": "1", "prev": "20", "id": "21"}
+{"ipa": null, "morph": "\ndzith\t", "gloss": "bone", "source": "miahuatec_sbl", "sourcepage": "2", "prev": "21", "id": "22"}
+{"ipa": null, "morph": "\nde\u00e9h\t", "gloss": "fat (n.)", "source": "miahuatec_sbl", "sourcepage": "3", "prev": "22", "id": "23"}
+{"ipa": null, "morph": "\nb\u00e9h\u2019l\t", "gloss": "meat", "source": "miahuatec_sbl", "sourcepage": "4", "prev": "23", "id": "24"}
+{"ipa": null, "morph": "\nx\u00ed\u2019l\t", "gloss": "wing", "source": "miahuatec_sbl", "sourcepage": "5", "prev": "24", "id": "25"}
+{"ipa": null, "morph": "\nngo\t", "gloss": "egg", "source": "miahuatec_sbl", "sourcepage": "6", "prev": "25", "id": "26"}
+{"ipa": null, "morph": "\nw\u00e1d\t", "gloss": "horn", "source": "miahuatec_sbl", "sourcepage": "7", "prev": "26", "id": "27"}
+{"ipa": null, "morph": "\nxn\u00e9e\t", "gloss": "tail", "source": "miahuatec_sbl", "sourcepage": "8", "prev": "27", "id": "28"}
+{"ipa": null, "morph": "\nd\u00f3\u2019b\t", "gloss": "feather", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "28", "id": "29"}
+{"ipa": null, "morph": "\nw\u00ediz\t", "gloss": "sun", "source": "miahuatec_sbl", "sourcepage": "0", "prev": "29", "id": "30"}
+{"ipa": null, "morph": "\nmbeh\u2019\t", "gloss": "moon", "source": "miahuatec_sbl", "sourcepage": "1", "prev": "30", "id": "31"}
+{"ipa": null, "morph": "\nmby\u00e1z\t", "gloss": "star", "source": "miahuatec_sbl", "sourcepage": "2", "prev": "31", "id": "32"}
+{"ipa": null, "morph": "\nnit\t", "gloss": "water", "source": "miahuatec_sbl", "sourcepage": "3", "prev": "32", "id": "33"}
+{"ipa": null, "morph": "\ngu\u00edi\t", "gloss": "rain", "source": "miahuatec_sbl", "sourcepage": "4", "prev": "33", "id": "34"}
+{"ipa": null, "morph": "\ny\u00f3\u2019\t", "gloss": "river", "source": "miahuatec_sbl", "sourcepage": "5", "prev": "34", "id": "35"}
+{"ipa": null, "morph": "\nnitdo\u2019\t", "gloss": "sea", "source": "miahuatec_sbl", "sourcepage": "6", "prev": "35", "id": "36"}
+{"ipa": null, "morph": "\nd\u00e9ed\t", "gloss": "salt", "source": "miahuatec_sbl", "sourcepage": "7", "prev": "36", "id": "37"}
+{"ipa": null, "morph": "\ngu\u00e9\t", "gloss": "stone", "source": "miahuatec_sbl", "sourcepage": "8", "prev": "37", "id": "38"}
+{"ipa": null, "morph": "\ny\u00fax\t", "gloss": "sand", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "38", "id": "39"}
+{"ipa": null, "morph": "\nk\u00f3l\t", "gloss": "dust", "source": "miahuatec_sbl", "sourcepage": "0", "prev": "39", "id": "40"}
+{"ipa": null, "morph": "\ny\u00fa\t", "gloss": "earth", "source": "miahuatec_sbl", "sourcepage": "1", "prev": "40", "id": "41"}
+{"ipa": null, "morph": "\nb\u00e9h\t", "gloss": "cloud", "source": "miahuatec_sbl", "sourcepage": "2", "prev": "41", "id": "42"}
+{"ipa": null, "morph": "\nb\u00e9h\u2019\t", "gloss": "sky", "source": "miahuatec_sbl", "sourcepage": "3", "prev": "42", "id": "43"}
+{"ipa": null, "morph": "\nmb\u00edi\t", "gloss": "wind", "source": "miahuatec_sbl", "sourcepage": "4", "prev": "43", "id": "44"}
+{"ipa": null, "morph": "\ngu\u00edigu\u00e9\t", "gloss": "hail", "source": "miahuatec_sbl", "sourcepage": "5", "prev": "44", "id": "45"}
+{"ipa": null, "morph": "\ndzen\t", "gloss": "smoke", "source": "miahuatec_sbl", "sourcepage": "6", "prev": "45", "id": "46"}
+{"ipa": null, "morph": "\ngu\u00ed\t", "gloss": "fire", "source": "miahuatec_sbl", "sourcepage": "7", "prev": "46", "id": "47"}
+{"ipa": null, "morph": "\ndi\u00ed gu\u00e9\u2019rd\u00ed\t", "gloss": "ashes", "source": "miahuatec_sbl", "sourcepage": "8", "prev": "47", "id": "48"}
+{"ipa": null, "morph": "\nngu\u00fadl\u00f3\t", "gloss": "eye", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "4"}
+{"ipa": null, "morph": "\nb\u00e9h\t", "gloss": "cloud", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "42"}
+{"ipa": null, "morph": "\nb\u00e9h\u2019\t", "gloss": "sky", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "43"}
+{"ipa": null, "morph": "\ndi\u00ed gu\u00e9\u2019rd\u00ed\t", "gloss": "ashes", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "48"}
+{"ipa": null, "morph": "\ndzen\t", "gloss": "smoke", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "46"}
+{"ipa": null, "morph": "\ngu\u00ed\t", "gloss": "fire", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "47"}
+{"ipa": null, "morph": "\ngu\u00edigu\u00e9\t", "gloss": "hail", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "45"}
+{"ipa": null, "morph": "\nk\u00f3l\t", "gloss": "dust", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "40"}
+{"ipa": null, "morph": "\nmb\u00edi\t", "gloss": "wind", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "44"}
+{"ipa": null, "morph": "\ny\u00fa\t", "gloss": "earth", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "41"}
+{"ipa": null, "morph": "\nb\u00e9h\u2019l\t", "gloss": "meat", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "24"}
+{"ipa": null, "morph": "\ngu\u00edi\t", "gloss": "rain", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "34"}
+{"ipa": null, "morph": "\nxa\u2019nle\u2019n\t", "gloss": "belly", "source": "miahuatec_sbl", "sourcepage": "9", "prev": "48", "id": "14"}
+{"ipa": null, "morph": "\nxi\t", "gloss": "nose", "source": "miahuatec_sbl", "sourcepage": "0", "prev": "14", "id": "5"}
+{"ipa": null, "morph": "\ngu\u00edigu\u00e9\t", "gloss": "hail", "source": "miahuatec_sbl", "sourcepage": "0", "prev": "14", "id": "45"}
+{"ipa": null, "morph": "\nx\u00ed\u2019l\t", "gloss": "wing", "source": "miahuatec_sbl", "sourcepage": "0", "prev": "14", "id": "25"}
+{"ipa": null, "morph": "\nxti\u2019\t", "gloss": "guts", "source": "miahuatec_sbl", "sourcepage": "0", "prev": "14", "id": "15"}
+{"ipa": null, "morph": "\ny\u00f3\u2019\t", "gloss": "river", "source": "miahuatec_sbl", "sourcepage": "0", "prev": "14", "id": "35"}
+{"ipa": null, "morph": "\nxi\t", "gloss": "nose", "source": "miahuatec_sbl", "sourcepage": "1", "prev": "35", "id": "5"}
+{"ipa": null, "morph": "\ngu\u00edigu\u00e9\t", "gloss": "hail", "source": "miahuatec_sbl", "sourcepage": "1", "prev": "35", "id": "45"}
+{"ipa": null, "morph": "\nx\u00ed\u2019l\t", "gloss": "wing", "source": "miahuatec_sbl", "sourcepage": "1", "prev": "35", "id": "25"}
+{"ipa": null, "morph": "\nxti\u2019\t", "gloss": "guts", "source": "miahuatec_sbl", "sourcepage": "1", "prev": "35", "id": "15"}
+{"ipa": null, "morph": "\ny\u00f3\u2019\t", "gloss": "river", "source": "miahuatec_sbl", "sourcepage": "1", "prev": "35", "id": "35"}
