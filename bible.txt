@@ -1,4 +1,3 @@
-utf-8
 Xtiidx Dios Cun Ditsa
 
 El Nuevo Testamento
@@ -72307,3 +72306,4 @@ Ziyla Xtadnɨ Jesús, ¡quedaabiu!
 
 iratectɨ. Amén. 
 
+[u'San Mateo ', u'San Marcos ', u'San Lucas ', u'San Juan ', u'Hechos ', u'Romanos ', u'1 de Corintios ', u'2 de Corintios ', u'G\xe1latas ', u'Efesios ', u'Filipenses ', u'Colosenses ', u'1 de Tesalonicenses ', u'2 de Tesalonicenses ', u'1 de Timoteo ', u'2 de Timoteo ', u'Tito ', u'Filem\xf3n ', u'Hebreos ', u'Santiago ', u'1 de Pedro ', u'2 de Pedro ', u'1 de Juan ', u'2 de Juan ', u'3 de Juan ', u'Judas', u'Apocalipsis ']
