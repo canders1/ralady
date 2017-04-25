@@ -26,19 +26,15 @@ for title in titles:
 section = 0
 nextsection = titles[section+1].strip().upper()
 prev = ""
+prevnum = 0
 for line in soup.find_all('textline'):
 	lines = []
 	s = ""
-	prevnum = 0
 	for l in line.find_all('text'):
 		s = s + l.string
-	q = re.search('(.*:.*)',s)
-	if (s.strip().isdigit()):
-		print "Page number"
-	elif (q):
-		print "Quote!"
-		print(s.encode('utf-8'))
-	else:
+	q = re.search('\(.*:.*\)',s)
+	t = re.search(titles[section].strip(),s.strip())
+	if ((not s.strip().isdigit()) and (not q) and not t):
 		if (s.isupper()):
 			if (prev.isupper()):
 				prev = prev+s
@@ -60,8 +56,14 @@ for line in soup.find_all('textline'):
 				n = re.findall(('[0-9]+'),w)
 				if n:
 					for x in n:
-						if (int(x)==1):
-							print "Found next verse!"
+						print int(x)
+						print prevnum+1
+						if (int(x)==prevnum+1):
+							print "Found a verse!"
+							prevnum=prevnum+1
+						else:
+							print "Found next chapter!"
+							prevnum=1
 					print(s.encode('utf-8'))
 			if (w):
 				curBook.append(w.encode('utf-8'))
