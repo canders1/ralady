@@ -22,11 +22,12 @@ for line in soup.find_all('textline'):
 	if (s.find("....") > -1):
 		titles.append(s.split(".")[0])
 for title in titles:
-	books[title] = []
+	books[title] = {}
 section = 0
 nextsection = titles[section+1].strip().upper()
 prev = ""
-prevnum = 0
+verse = 0
+chapter = 1
 for line in soup.find_all('textline'):
 	lines = []
 	s = ""
@@ -56,18 +57,30 @@ for line in soup.find_all('textline'):
 				n = re.findall(('[0-9]+'),w)
 				if n:
 					for x in n:
-						print int(x)
-						print prevnum+1
-						if (int(x)==prevnum+1):
-							print "Found a verse!"
-							prevnum=prevnum+1
+						if (int(x)==verse+1):
+							#print "Found a verse!"
+							verse=verse+1
 						else:
-							print "Found next chapter!"
-							prevnum=1
-					print(s.encode('utf-8'))
+							#print "Found next chapter!"
+							verse=1
+							chapter = chapter+1
+					#print verse
+					#print chapter
+					#print(s.encode('utf-8'))
 			if (w):
-				curBook.append(w.encode('utf-8'))
+				if chapter not in curBook:
+					curBook[chapter] = {}
+				c = curBook[chapter]
+				if verse not in c:
+					c[verse] = []
+				v = c[verse]
+				v.append(w.encode('utf-8'))
 #for k in books.keys():
 	#print(k.encode('utf-8'))
-for h in books[titles[1]]:
-	print h
+b = books[titles[1]]
+cs = b.keys()
+for c in cs:
+	ch = b[c]
+	vs = ch.keys()
+	for v in vs:
+		print ch[v]
