@@ -15,16 +15,16 @@ titles = ['intro']
 introduction = []
 books = {}
 books['intro'] = introduction
-for line in soup.find_all('textline'):
+for line in soup.find_all('textline'): #Search first for book names
 	s = ""
 	for l in line.find_all('text'):
 		s = s + l.string
 	if (s.find("....") > -1):
-		titles.append(s.split(".")[0])
-for title in titles:
+		titles.append(s.split(".")[0]) #Append to list of titles
+for title in titles: #Initialize each book with an empty dictionary of chapters
 	books[title] = {}
-section = 0
-nextsection = titles[section+1].strip().upper()
+section = 0 #Set section to 0 (introduction)
+nextsection = titles[section+1].strip().upper() #Find name of next
 prev = ""
 verse = 0
 chapter = 1
