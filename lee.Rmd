@@ -40,5 +40,13 @@ ungrammatical <- grep("\\*",newtext)
 newtext <- newtext[-ungrammatical]
 infelicitious <- grep("\\#",newtext)
 newtext <- newtext[-infelicitious]
-newtext
+head(newtext,5)
+
+splitt <- vector(mode="character", length=length(newtext))
+for(i in 1:length(newtext)){
+  t <- newtext[i]
+  t <- stringr::str_replace_all(t,"[0-9]*\\.", "")
+  splitt[i] <- stringr::str_split(t, "“")
+}
+head(splitt,5)
 ```
