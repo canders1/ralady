@@ -40,17 +40,24 @@ ungrammatical <- grep("\\*",newtext)
 newtext <- newtext[-ungrammatical]
 infelicitious <- grep("\\#",newtext)
 newtext <- newtext[-infelicitious]
-
-splitt <- vector(mode="character", length=length(newtext))
+head(newtext,15)
+splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),stringsAsFactors=FALSE)
 for(i in 1:length(newtext)){
   t <- newtext[i]
   t <- stringr::str_replace_all(t,"[0-9]*\\.", "")
   lines <- stringr::str_split(t, "“")
-  l <-  stringr::str_replace_all(lines[[1]],"[\",”]","")
-  z <- stringr::str_split(l," ")
-  empties <- grep("",z)
-  lines <- z
-  splitt[i] <- lines
+  lines[[1]] <-  stringr::str_replace_all(lines[[1]],"[\",”]","")
+  trans <- lines[[1]][[2]]
+  z <- stringr::str_split(lines[[1]][[1]]," ")
+  indexes <- which(z == "")
+  if(length(indexes)>0){
+    z <- z[-indexes]
+  }
+  sep <- stringr::str_split(z, " ")
+  length <- length(sep[[1]])
+  half <- length/2
+  zap <- paste0(sep[[1]][-(half+1:length)],collapse = " ")
+  gloss <- paste0(sep[[1]][-(1:half)],collapse = " ")
+  splitt[i,] <- rbind(zap,gloss,trans)
 }
-head(splitt,50)
 ```
