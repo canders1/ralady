@@ -1,5 +1,5 @@
 ---
-title: "lee"
+title: "brook"
 output: html_document
 ---
 
@@ -9,19 +9,28 @@ library(stringr)
 ```
 
 ```{r}
-text <- readLines("~/scrapy/ralady/sources/lee.txt")#read in text
-#head(text, 50)
-nos <- grep("^[^0-9“”]",text)#remove lines that don't start with numbers
+text <- readLines("~/scrapy/ralady/sources/brook.txt")#read in text
+nos <- grep("^[0-9] ",text)#remove lines that start with a number but no period
+
 if(length(nos)>0){
   text <- text[-nos]
 }
-qs <- grep("^“",text)#Find lines that start with fancy quotes (i.e., translations that got cut)
+nosend <- grep("^[0-9]$",text)
+if(length(nosend)>0){
+  text <- text[-nosend]
+}
+text
+```
+
+qs <- grep("^'",text)#Find lines that start with fancy quotes (i.e., translations that got cut)
 for(i in 1:length(qs)){
   prev <- qs[i]-1
   text[prev] <- paste(text[prev],text[qs[i]])#reunite quotes with their example sentences
 }
 text <- text[-qs]
-ls <- grep("“",text)
+head(text, 200)
+
+ls <- grep("'",text)
 newtext<- vector(mode="character", length=length(ls))
 for(i in 1:length(ls)){
   newtext[i] <- text[ls[i]]
