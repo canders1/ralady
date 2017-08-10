@@ -2362,13 +2362,11 @@ Existential negation constructions are formed with the negative word tèe’bag
 This construction differs from that of negative indefinites in that -dya’ follows the negated nominal itself, rather than the verb. In the next section, I will discuss the semantic motivation for this difference.
 4.5.3 Semantic Correlates
 The differences in structure between the existential negation constructions in (101-102) and the negative indefinite constructions in (107-108) reflect differences in the semantic structure of the events involved. Thus, the pre- ceding two negative indefinite examples can be paraphrased as follows:
-￼￼￼109.
-110.
-Tèe’bag tu studya’aann-dya’ b-da’uw pap
+￼￼￼109. Tèe’bag tu studya’aann-dya’ b-da’uw pap
 no who student-dya’ perf-eat potatoes
 “No student ate potatoes”
 “There exists no x, x a student, such that x ate potatoes”
-Tèe’bag xi gueht-dya’ b-da’uw-a’
+110. Tèe’bag xi gueht-dya’ b-da’uw-a’
 no what tortilla-dya’ perf-eat-1s
 “I ate no tortillas”
 “There exists no x, x a tortilla, such as I ate x”
@@ -3074,26 +3072,22 @@ pears in (48)) show fewer syntactic constraints that those with uu. While, like 
 ￼(a typical example ap-
 184 5 More on the Structure of the Left Periphery: The Syntax of Questions
 they may appear with focus-fronted constituents (50) and in negative ques- tions (51):
-￼48.
-49.
-50.
-51.
-Laàa’ b-gyàa’ah Gye’eihlly? Q perf-dance Mike
+
+48. Laàa’ b-gyàa’ah Gye’eihlly? Q perf-dance Mike
 “Did Mike dance?”
-*Laàa’ a Gye’eihlly b-gyàa’ah ? Q top Mike perf-dance “Did Mike dance?”
-Laàa’ Gye’eihlly b-gyàa’ah ? Q Mike perf-dance
+49. *Laàa’ a Gye’eihlly b-gyàa’ah ? Q top Mike perf-dance “Did Mike dance?”
+50. Laàa’ Gye’eihlly b-gyàa’ah ? Q Mike perf-dance
 “Did MIKE dance?”
-Laàa’ cë’ity b-gyàa’-(dya’) Gye’eihlly? Q neg perf-dance-(dya’) Mike
+51. Laàa’ cë’ity b-gyàa’-(dya’) Gye’eihlly? Q neg perf-dance-(dya’) Mike
 “Didn’t Mike dance?”
 They may also appear with preverbal, as well as postverbal predicate nominals:
 52. Laàa’ do’ctoor nàa Gye’eihlly? Q doctor neut-be Mike
 “Is Mike a doctor?”
 The fact that the question marker laàa may co-occur with focus-fronted constituents (as seen in (50) further supports the existence of separate pro- jections for interrrogative and focused constituents.
 Unlike uu, they may form future questions with either Irrealis or Defi- nite-marked verbs:
-53.
-54.
-Laàa’ s-to’oh Gye’eihlly ca’rr? Q def-sell Mike car “Will Mike sell the car?”
-Laàa’ y-to’oh Gye’eihlly ca’rr Q irr-sell Mike car
+
+53. Laàa’ s-to’oh Gye’eihlly ca’rr? Q def-sell Mike car “Will Mike sell the car?”
+54. Laàa’ y-to’oh Gye’eihlly ca’rr Q irr-sell Mike car
 “Will Mike sell the car?”
 5.3 The Syntax of Yes/No Questions 185 This contrast will be shown to be directly correlated to the differing se-
 mantics of uu and laàa questions. Constraints on èee Questions
@@ -3188,10 +3182,9 @@ Another potentially ambiguous context is this: You haven’t seen Mike in a week
 ￼
 5.3 The Syntax of Yes/No Questions 191
 a mutual friend who’s with you, “Has Mike been sick?”. In this context, the question may be posed with either laàa’ or èee :
-￼74.
-75.
-Laàa’ r-a’cxùu Gye’eihlly? Q hab-be.sick Mike “Has Mike been sick?”
-R-a’cxùu Gye’eihlly èee? hab-be.sick Mike Q
+
+74. Laàa’ r-a’cxùu Gye’eihlly? Q hab-be.sick Mike “Has Mike been sick?”
+75. R-a’cxùu Gye’eihlly èee? hab-be.sick Mike Q
 “Has Mike been sick?”
 These contexts meet the criteria previously established for both laàa’ and èee questions. Like other laàa’ questions, the questions in the con- texts above both introduce a proposition and question its truth. Like èee questions, however, the questions introduce propositions that can be in- ferred by both speakers and hearers through real-world knowledge.
 Contexts for uu Questions
