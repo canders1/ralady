@@ -11,21 +11,32 @@ library(stringr)
 ```{r}
 text <- readLines("~/scrapy/ralady/sources/brook_out.txt")#read in text
 nos <- grep("^[0-9] ",text)#remove lines that start with a number but no period
-
-if(length(nos)>0){
-  text <- text[-nos]
-}
-nosend <- grep("^[0-9]$",text)
-if(length(nosend)>0){
-  text <- text[-nosend]
-}
+nosend <- grep("^[0-9]*$",text)
+nosempty <- grep("^[0-9]* $",text)
 empty1 <- grep("^$",text)
-if(length(empty1)>0){
-  text <- text[-empty1]
-}
 empty2 <- grep("^ $",text)
-if(length(empty2)>0){
-  text <- text[-empty2]
+outline <- grep("^ *[0-9]*\\.[0-9]",text)
+rm <- union(union(nos,nosend),union(union(nosempty,empty1),union(empty2,outline)))
+if(length(rm)>0){
+  text <- text[-rm]
+}
+subs <- grep("^[a-z]\\.",text)
+starts <- grep("^[0-9]*\\.",text)
+cands <- union(subs,starts)
+for(i in 1:length(cands)){
+  curr <- cands[i]
+  cat(curr)
+  cat("\n")
+  cat(text[curr])
+  if(i < length(cands)){
+    neigh <- cands[i+1]
+    if((neigh-curr)>5){
+      cat("\nGap!\n")
+      added <- paste(text[curr-1:curr+5],sep=" ")
+      cat("adding")
+      cat(added)
+    }
+  }
 }
 text
 ```
