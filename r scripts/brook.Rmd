@@ -20,25 +20,33 @@ rm <- union(union(nos,nosend),union(union(nosempty,empty1),union(empty2,outline)
 if(length(rm)>0){
   text <- text[-rm]
 }
+text <- str_trim(text)
+head(text,100)
 subs <- grep("^[a-z]\\.",text)
 starts <- grep("^[0-9]*\\.",text)
 cands <- union(subs,starts)
+cands
 for(i in 1:length(cands)){
   curr <- cands[i]
-  cat(curr)
-  cat("\n")
-  cat(text[curr])
   if(i < length(cands)){
     neigh <- cands[i+1]
     if((neigh-curr)>5){
-      cat("\nGap!\n")
-      added <- paste(text[curr-1:curr+5],sep=" ")
-      cat("adding")
-      cat(added)
+      end <- curr+4
+      added <- text[curr:end]
     }
+    else{
+      added <- text[curr:neigh-1]
+    }
+    text[curr]<- paste(added, sep=" ", collapse=" ")
   }
 }
-text
+all <- c(1:length(text))
+negs <- setdiff(all,cands)
+negs
+if(length(negs)>0){
+  text <- text[-negs]
+}
+head(text,100)
 ```
 
 qs <- grep("^'",text)#Find lines that start with fancy quotes (i.e., translations that got cut)
