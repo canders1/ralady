@@ -26437,4 +26437,18092 @@ The acquisition of TVZ component part prepositions, presented in Table 22, is co
 
 the cross-linguistic data. The analysis of component part locatives as prepositions predicts that 
 
-TVZ component part locatives would 
+TVZ component part locatives would be acquired as other prepositions are cross-linguistically, 
+
+and the SLQZ and SMTZ child language acquisition data seem to bear out this prediction. 
+
+Vanesa 1;6   Andrea 2;3  
+ 
+ 
+'in'   
+ 
+'in'   
+ 
+ 
+'on'  
+ 
+ 
+'on'  
+ 
+'under'   
+'under'   
+ 
+ 
+'in front of'  
+'in front of'  
+'behind' 
+ 
+'behind' 
+ 
+ 
+ 
+-- 
+ 
+'beside'   
+ 
+ 
+-- 
+ 
+ 
+-- 
+-- 
+ 
+ 
+-- 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+SMTZ child 2;6 
+ 
+ 
+'in'   
+ 
+'on'  
+ 
+ 
+-- 
+ 
+ 
+ 
+'in front of'  
+'behind' 
+ 
+ 
+ 
+ 
+ 
+-- 
+ 
+ 
+ 
+-- 
+-- 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SMTZ child 2;9 
+'in' 
+'on' 
+-- 
+'in front of' 
+'behind' 
+-- 
+'on top of' 
+'at the edge of' 
+
+Table 22. summary of acquisition of prepositions by TVZ acquiring children 
+
+ 
+ 
+3.9.5.  Conclusions 
+
+There is no evidence that the fact that component part prepositions are homophonous with 
+
+referential component part words affects their acquisition.  In fact, there is no evidence from my 
+
+data that the TVZ learning children acquire prepositions in a different order than children 
+
+acquiring any other language.  
+
+ 
+ 
+
+252 
+
+ 
+
+ 
+
+Patterns of dissociation, such as the fact that the Vanesa (1;6) had acquired làa'any 'in', but 
+
+not làa'any 'stomach' and ni'ih  'under' but not ni'ih 'foot', seem to be the strongest evidence in 
+
+support of a grammatical dissociation between the words.  If the child acquires 'in' before 
+
+'stomach', how can the child's use of 'in' be a metaphorical extension of  'stomach'?  Similar 
+
+patterns of dissociation were also found in Jensen de López's (1999, 2002) study on the 
+
+acquisition of SMTZ. 
+
+ 
+
+This may have implications for adult grammar as well, since children acquire component part 
+
+locatives as separate lexical items and do not necessarily derive the locational sense of the 
+
+component part locative from the referential component part noun.  If one wished to argue that 
+
+adults derive the meaning of all component part locatives from the referential component part 
+
+terms through active metaphor, one would have to specifically address the issue presented by the 
+
+acquisition data in SLQZ and SMTZ. 
+
+ 
+
+ 
+
+3.10.  Semantic change and syntactic reanalysis 
+
+The meanings of the component part terms as both nouns and prepositions can be accounted for 
+
+through a path of meaning extension through metaphor and syntactic reanalysis.  These terms, 
+
+though once purely lexical morphemes, referring to concrete objects, have developed into 
+
+functional morphemes.    
+
+  Adapting arguments from Hollenbach (1995), I categorize the meanings of the component 
+
+part locative into three types: basic meaning, meanings derived from metaphorical extension, and 
+
+meanings derived through "projecting space" extension; these are described below.  Hollenbach 
+
+(1995) uses these types of meaning change to account for all of the referential and locative 
+
+meanings of the body part terms in Mixtecan, another Otomanguean language family of Oaxaca.  
+
+The types of changes she describes for Mixtec seem to be able to account for all of the locational 
+
+meanings in TVZ.   
+
+ 
+
+3.10.1.  Basic meaning 
+
+The "basic meaning" of most of the body part terms seems to be the human body part, the 
+
+potential exceptions being cwe'eh (§2.2.1) and zh:àa' (§2.2.2).  The human body part meaning 
+
+seems most basic for two reasons: all the other meanings seem explainable with the body part as 
+
+ 
+ 
+
+253 
+
+ 
+
+the original source of the noun and speakers define these terms (when presented in isolation) as 
+
+body parts.  (However, it may be easier to define a noun out of context than it is to define a 
+
+preposition, so perhaps the task of defining a word in isolation lends itself to receiving the noun 
+
+definition.)  A similar phenomenon is attested by Hollenbach for Mixtecan.   
+
+ 
+
+For example, loh can mean many things including 'face', 'top (of something e.g. a table)', 
+
+'face (of a watch)', 'front (of a house)', and the locative prepositions 'on' and 'in front of'.  When 
+
+presented out of context loh is usually defined by speakers as '(a person's) face'.  'Face' seems to 
+
+be the most basic meaning of this term, and all the other meanings can be explained using 'face' 
+
+as a semantic base.   
+
+ 
+
+3.10.2.  Metaphorical extension 
+
+The other nominal meanings for the body part terms have resulted from metaphorical extension.  
+
+The human body is projected onto inanimate objects, such that tables can have faces, mouths, 
+
+and feet (Figure 108); houses can have faces, backs, sides, heads, stomach, and mouths.  This 
+
+process explains the development of all the nominal meanings beyond the basic meaning. 
+
+loh  me'es 
+face of the table 
+
+ru'uh me'es 
+mouth of the table 
+
+Figure 108. body part nouns metaphorically extended to component parts of  a table 
+
+ni'ih  me'es 
+foot of the table 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+3.10.3.  Projecting space 
+
+This extension can account for most of the locative meanings (see below for some problem 
+
+cases).  The process, along with syntactic reanalysis, can be used to explain the development of 
+
+the body parts into grammatical prepositions.  Projecting space extends the meaning of the terms 
+
+from the part of the object to the area 'projected' by that part of the object.  This seems to be a 
+
+metonymic extension: "the use of a word for something associated with its original meaning" 
+
+ 
+ 
+
+254 
+
+ 
+
+(Hollenbach 1995:171).  For example, loh has a basic meaning of 'face'.  Through a projecting 
+
+space extension it could also come to mean the area of space in front of a face; and loh 'face' 
+
+could undergo a metaphorical extension to mean 'top (of a table)';  this meaning could then 
+
+undergo a projecting space extension such that loh could also refer to the area above the top of 
+
+the table, i.e. the area projected from the top of the table. 
+
+ 
+
+Examples of all three types of meaning are given below in Table 23, which gives examples in 
+
+Meaning 
+Basic  
+Meaning 
+
+Metaphorical 
+Extension 
+
+Projecting 
+Space 
+
+English 
+My side hurts. 
+ 
+ 
+I painted the side of the 
+house.   
+ 
+
+English, Copala Trique  (a Mixtecan language), and TMZ. 
+Copala Trique27 
+rian32 ne?e3h  a32  
+face    baby    DEC 
+'the baby's face' 
+rian32  we3?      a32       
+face     house    DEC 
+'the front surface of the 
+house' 
+rian32 we3?          a32       
+face    house    DEC 
+'the area in front of the 
+house' 
+
+The dog is beside me. 
+ 
+The lawnmower is on 
+the side of the house.28 
+
+TMZ 
+Rahc zh:ààa'n=a'.   
+hurts buttocks=1SG 
+'My bottom hurts' 
+zh:ààa'n ca'rr 
+buttocks  car 
+'trunk (car's buttocks)' 
+
+Bìinny n-u'uh   zh:ààa'n  
+ca'rr  
+person NEU-be buttocks  car 
+'The person is under the car'  
+ 
+
+Table 23.  component part terms and their range of meanings 
+
+ 
+
+3.10.4.  Syntactic reanalysis 
+
+The meaning changes described above are not sufficient to account for the development of 
+
+prepositions (see Chapter 4).  However, these types of changes, especially the projecting space 
+
+extension together with the metaphorical extension, produce a situation that lends itself to 
+
+syntactic reanalysis, especially since TVZ languages are head initial.  This means that possessed 
+
+noun phrases and prepositional phrases can be phonetically identical.  As can be seen in Table 
+
+23, for all three languages, the same phrase can be found in both the metaphorical extension cell 
+
+and the projecting space cell: the side of the house for English, rian we for Trique, and zh:ààa'n 
+
+ca'rr for TMZ.  In all three languages, these phrases can be analyzed as possessed noun phrases 
+
+in the metaphorical extension row.  The syntactic reanalysis of a possessed noun phrase seems 
+
+especially likely given that it would be string identical to a prepositional phrase.  
+
+                                                 
+27 Data from Hollenbach 1995: 174-175.  Tone marking is denoted with superscript numbers following 
+the word; DEC stands for her "declarative". 
+28 Some English speakers prefer The lawnmower is at the side of the house for this meaning. 
+
+ 
+ 
+
+255 
+
+ 
+
+ 
+
+If the component part prepositional phrases were originally possessed noun phrases, it also 
+
+seems likely that the verb carried some locative information and c-selected for a noun phrase 
+
+complement.  There are a few verbs in modern TVZ languages that do this.  For example SLQZ 
+
+zàa  'to be from' and rbèez 'resides in', which both take noun phrase complements (Munro and 
+
+Lopez, et. al 1999)  These verb cannot take prepositional phrase complements, and a potentially 
+
+ambiguous phrase such as làa'any Sann Lu'uc, which out of context can either mean 'in San 
+
+Lucas' or 'Saint Luke's stomach' will be interpreted as a noun phrase when it is the complement 
+
+of the verb rbèez even if the semantic context favors the prepositional phrase, as in (162b) below. 
+
+ 
+
+ 
+
+ 
+
+a.  Rbèez=a'      
+
+Sann   Lu'uc.  (SLQZ) 
+San     Lucas 
+
+ 
+reside_in=1SG  
+'I live in San Lucas' 
+
+162. 
+             
+ 
+ 
+ 
+            b.  Rbèez=a'       
+ 
+ 
+ 
+Given that verbs of this type exist in modern TVZ languages, it seems plausible that a sentence 
+
+ 
+reside_in=1SG   
+'I live in Saint Luke's stomach' / *'I live in San Lucas' 
+
+làa'iny     Sann   Lu'uc. (SLQZ) 
+stomach   Saint   Luke 
+
+ 
+ 
+
+ 
+ 
+
+like Bèe'cw zòob ni'ih me'es might originally have had the structure presented in (163).  (I use << 
+
+>> to enclose hypothetical sentences.  These are forms that I am conjecturing may have existed 
+
+at some previous stage of the language, but are not attested.) 
+
+163.  Stage 1. 
+ 
+
+ 
+
+             
+
+a.  <<   Bèe'ecw   zòob                 
+ 
+
+  me'es.>> 
+dog           NEU.sit_AT    
+ 
+  
+'The dog is sitting by the table' 
+
+          
+
+table 
+
+ 
+
+ 
+
+ 
+
+             
+
+ni'ih    me'es.>> 
+b.  <<  Bèe'ecw   zòob            
+dog          NEU.sit_ AT  
+foot     table      
+'The dog is sitting by the foot of the table' 
+
+ 
+                      
+ 
+  However, with the syntactic reanalysis of the possessed nouns as prepositions, perhaps 
+
+ 
+
+partially on analogy with non-component part prepositions such as xtèe'n 'of', it seems likely that 
+
+the locative information shifted from the verb to the newly available grammatical morpheme, 
+
+and could then be analyzed as in (164), in which the component part locatives have been 
+
+reanalyzed as prepositions, and the locative verbs c-select for locational phrases. 
+
+ 
+ 
+
+256 
+
+164.  Stage 2: Modern Language 
+ 
+
+ 
+
+                  dog          
+
+zòob            
+NEU.sit        
+
+a.  *Bèe'ecw    
+ 
+
+ 
+ 
+      'The dog is sitting by the table' 
+ 
+b.  Bèe'ecw  
+                 dog          
+                 'The dog is sitting under the table' 
+
+zòob       
+NEU.sit  
+
+ 
+ 
+
+  me'es.  (TMZ)  
+ 
+
+table 
+
+  
+
+ 
+ 
+
+ni'ih     me'es.  (TMZ) 
+under   table.      
+
+ 
+
+ 
+
+  While more historical and comparative work is required, it seems that the path of syntactic 
+
+and semantic change that would be necessary to develop this system can be accounted for using 
+
+already existing and well established types of change such as metaphor and metonymic 
+
+extension.  Whatever the exact path of historical development, these changes must have 
+
+happened very early, since the use of component part prepositions seems to be reconstructable 
+
+for Proto-Zapotecan. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+257 
+
+ 
+
+ 
+
+ 
+ 
+
+258 
+
+CHAPTER 4 
+
+ 
+
+Toward a Typology of Component Part Locatives 
+
+ 
+
+ 
+4.1  Towards a syntactic typology: prepositions and relational nouns 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4.1.1  Prepositions 
+  4.1.1.1  Adjunction 
+  4.1.1.2  Selection 
+  4.1.1.3  Modification 
+4.1.2  Relational nouns 
+  4.1.2.1  Adjunction 
+  4.1.2.2  Selection 
+  4.1.2.3  Modification 
+  4.1.2.4  Case marking 
+ 
+
+4.2  Towards a semantic typology 
+ 
+ 
+ 
+
+4.2.1  The meaning of TVZ component part locatives 
+  4.2.1.1  Meanings referring to the corresponding component part 
+  4.2.1.2  Meanings synchronically unrelated to the corresponding referential 
+
+component part 
+
+ 
+
+4.2.2  The meaning of Chickasaw component part locatives 
+ 
+
+4.3  Conclusions 
+ 
+
+ 
+
+262 
+262 
+262 
+263 
+264 
+265 
+265 
+267 
+268 
+269 
+
+269 
+270 
+270 
+271 
+
+273 
+
+276 
+
+ 
+ 
+
+259 
+
+ 
+
+ 
+
+4. 
+
+Towards a Typology of Component Part Locatives1 
+
+In this chapter, I present work on the typology of component part locatives, showing that the 
+
+syntactic category (e.g. preposition or relational noun) cannot be inferred from the semantics (i.e. 
+
+whether the meaning of the locative is synchronically related to the meaning of the component or 
+
+not) and vice versa.  I cite data from the Muskogean language Chickasaw, which has relational 
+
+nouns, some of which have meanings that are not synchronically related to the meaning of the 
+
+corresponding component, based on data from  Munro (2006b) and Lillehaugen and Munro 
+
+(2006 and in prep.). (Examples cited from Lillehaugen and Munro 2006 will be referenced with 
+
+LM:#, where # refers to the example number in Lillehaugen and Munro 2006.  Examples from 
+
+Lillehaugen and Munro in prep. will be referenced with LM in prep.)  This chapter is based 
+
+primarily on joint work with Pamela Munro (e.g. Lillehaugen and Munro 2006 and in prep.) and 
+
+would be impossible without Munro's extensive work on Chickasaw (e.g. Munro and Willmond 
+
+1994, Munro 2000 and 2006b).  
+
+Chickasaw, like TVZ, uses component part words both as referential nouns and in locative 
+
+constructions.  In Chickasaw, for example, the word pakna' 'top' is used both to refer to the top of 
+
+the table (1a) and in a locative construction (1b).  In (2), the word nota' 'underside' is used both 
+
+to refer to a part of the table (2a), and in locative constructions (2b, c).  (In Chickasaw, the 
+
+component part locatives are generally words for component parts of objects, and not human 
+
+body parts.)   
+
+                                                 
+1 Parts of this chapter were presented at the 2006 LSA annual meeting (Lillehaugen and Munro 2006). 
+
+ 
+ 
+
+260 
+
+1.  a.  Aai'pa'  
+table      
+'The top of the table is red' 
+
+pakna'-at     homma. (Chickasaw) 
+top-NOM       be_red   
+
+ 
+
+pakna'  
+top          on-stand2 
+
+o-wáyya'a. (Chickasaw) 
+
+cat-NOM 
+'The cat is on the table' 
+
+b.  Kowi'-at  aai'pa'   
+ 
+table     
+ 
+
+ 
+ 
+ 
+ 
+ 
+2.  a.  Aai'pa'  
+table      
+'The underside of the table is dirty' 
+
+nota'-at             
+underside-NOM 
+
+litiha. (Chickasaw) 
+be_dirty 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+b.  Kowi'-at     aai'pa'   
+cat-NOM     table     
+ 
+ 
+'The cat is under the table' 
+
+ 
+
+nota' 
+underside   
+
+stand 
+
+  wáyya'a. (Chickasaw) 
+
+c.  Cholhkan-at 
+spider-NOM 
+ 
+ 
+'The spider is walking around under the table' 
+
+nota' 
+underside  LOC-go_around 
+
+aai'pa'   
+ 
+table 
+
+ 
+ 
+
+ 
+
+aa-áa.  (Chickasaw; LM:2b) 
+
+In the following sections, I use data from TVZ and Chickasaw to sketch out a beginning 
+
+typology of component part locatives, based on work done in Lillehaugen and Munro 2006 and 
+
+in preparation.  In §4.1,  I discuss the syntax of component part locatives, particularly contrasting 
+
+the syntax of TVZ component part prepositions and Chickasaw relational nouns.  In §4.2, I 
+
+discuss the semantics of component part locatives, primarily contrasting component part 
+
+locatives whose meaning references the meaning of the component part it is related to, and those 
+
+that do not.  In §4.3, I present the conclusions, based on Lillehaugen and Munro 2006 and in 
+
+preparation, that the syntactic category of any component part locative is not inferable from its 
+
+meaning, nor is the type of meaning of a component part locative inferable from its syntactic 
+
+category.   
+
+ 
+
+                                                 
+2 The semantics of Chickasaw positional verbs is complex (Munro 2006); glosses here have been 
+simplified.  For example, wáyya'a actually is used to mean 'stand' only of objects thought of as having 
+their primary opening down, with four-legged animals apparently seen as defining an open area with their 
+legs. 
+
+ 
+ 
+
+261 
+
+4.1.  Towards a syntactic typology: prepositions and relational nouns 
+
+In this section I look at the syntactic characteristics of component part locatives that are 
+
+prepositions, as in TVZ (§4.1.1) and those that are relational nouns, as in Chickasaw (§4.1.2). 
+
+ 
+
+ 
+
+4.1.1.  Prepositions 
+
+SIL's online Glossary of Linguistic Terms offers the following definition for adposition: 
+
+An adposition is a cover term for prepositions and postpositions. It is a member of a closed set of 
+items  that  occur  before  or  after  a  complement  composed  of  a  noun  phrase,  noun,  pronoun,  or 
+clause  that  functions  as  a  noun  phrase,  and  form  a  single  structure  with  the  complement  to 
+express its grammatical and semantic relation to another unit within a clause.   
+
+Loos et al. 1999 
+
+ 
+
+ 
+
+In the following sections I will remind the reader of arguments for the syntactic status of 
+
+TVZ component part locatives as prepositions:  component part prepositions can function as 
+
+locational adjuncts (§4.1.1.1), component part locative phrases are selected as preposition 
+
+phrases in contrast to noun phrases (§4.1.1.2), they cannot be modified as nouns can (§4.1.1.3).  
+
+In each case I simply present a summary of my previous arguments, and direct the reader to the 
+
+appropriate section in the dissertation for a full discussion. 
+
+ 
+
+4.1.1.1. 
+
+  Adjunction 
+
+In §2.4 I show that TVZ component part prepositional phrases can function as adjuncts, and I 
+
+repeat one of the examples here below (cf. Lillehaugen 2003, Lillehaugen and Munro 2006 and 
+
+in preparation, and Munro 2006b).  Usually, a noun phrase cannot be added to a sentence like 
+
+ 
+ 
+
+262 
+
+(3a) as a locational adjunct (3c).3  Instead, in order to add such an adjunct, one must use a 
+
+preposition to license the additional participant (3b).   
+
+ 
+
+3.  a.  Cay-ùu'll=nàa'. (TMZ) 
+ 
+ 
+
+PROG-sing=3DST 
+'He is singing' 
+
+ 
+ 
+ 
+b.  Cay-ùu'll=nàa'  
+ 
+ 
+
+PROG-sing=3DST   in   
+ 
+'He is singing in the house' 
+
+ 
+ 
+ 
+
+làa'any   yu'uh. (TMZ) 
+
+house 
+
+c.  *Cay-ùu'll=nàa'   yu'uh. (TMZ) 
+ 
+ 
+
+PROG-sing=3DST   house 
+bad with any meaning; i.e, not 'He is singing at / by the house' 
+
+ 
+ 
+ 
+This is one way in which TVZ component part locatives differ in their syntax from nouns: 
+
+component part locative phrases may appear as adjuncts, while noun phrases usually cannot. 
+
+ 
+
+4.1.1.2. 
+
+  Selection 
+
+In §2.5 I show that TVZ component part prepositions are selected as prepositional phrases, and 
+
+that they do not pattern with noun phrases in this respect.   
+
+4.  a.  *Bèe'cw   zùub.  (SLQZ)  
+
+dog         NEU.sit 
+bad with any meaning; e.g. cannot mean 'The dog is sitting (there)' 
+
+ 
+
+ 
+ 
+
+   
+ 
+ 
+
+   
+ 
+ 
+
+b.  Bèe'cw  
+
+zùub  
+
+ni'ih   me'es. (SLQZ) 
+ 
+dog         NEU.sit  
+under  table 
+'The dog is sitting under the table' 
+
+ 
+
+c.  *Bèe'cw   zùub           me'es.  (SLQZ) 
+   
+ 
+
+  dog         NEU.sit       table 
+bad with any meaning; e.g. cannot mean 'The dog is sitting by the table' 
+
+d.  *Bèe'cw    zùub        x:-me'es=a'.  (SLQZ) 
+    
+ 
+
+  dog         NEU.sit  
+bad with any meaning; e.g. cannot mean 'The dog is sitting by my table' 
+
+POSS-table=1SG 
+
+                                                 
+3 Recall that there are certain locative phrases which may be added to a sentence as locational adjuncts 
+without a preposition (Munro 2005). These are discussed in §1.4.5. 
+
+ 
+ 
+
+263 
+
+ 
+
+4.1.1.3. 
+
+  Modification 
+
+In §2.7 I show that while nouns can be modified with plural marker, quantifiers, numbers, and 
+
+adjectives, component prepositions cannot (cf. Lillehaugen 2004, Lillehaugen and Munro 2006 
+
+and in preparation, and Munro 2006b).  One example is given below, where loh 'on' (5a) cannot 
+
+be modified by quantifiers (5c) or adjectives (5e) when it is a preposition, but can when it is a 
+
+noun (5d) and (5f).   
+
+loh  
+dog 
+on   
+'The dog is standing on the chair' 
+
+zuu  
+ 
+NEU.stand   
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+gyizhi'iilly.  (TMZ; LM:1b) 
+chair 
+
+b.   *Bèe'ecw   zuu  
+ 
+ 
+
+ 
+NEU.stand   
+
+ 
+
+ 
+
+dog 
+bad with any meaning; i.e., not 'The dog is standing on / by the chair' 
+
+gyizhi'iilly. (TMZ; LM:5b) 
+chair 
+
+ 
+ 
+
+5.  a.   Bèe'ecw 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+c.   *Da   bèe'ecw   zuu  
+ 
+
+ 
+NEU.stand   
+
+ 
+
+tyo'p 
+two 
+
+ 
+ 
+
+dog 
+
+PL   
+bad with any meaning; i.e., not 'The dogs are standing on two chairs' 
+ 
+
+ 
+
+loh  
+on   
+
+gyizhi'iilly. (TMZ; LM:5c) 
+chair 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+d.   B-dìi'by=a'  
+ 
+
+ 
+PERF-wash=1SG 
+'I washed two tabletops' 
+
+tyo'p 
+two 
+
+ 
+ 
+
+loh   me'es. (TMZ) 
+face 
+
+table 
+
+e.   *Bèe'ecw   zuu  
+ 
+
+ 
+NEU.stand   
+
+ 
+
+ 
+
+dog 
+bad with any meaning; i.e., not 'The dog is standing on the white chair' 
+ 
+
+loh  
+on    white 
+
+ncye'ts   
+ 
+
+gyizhi'iilly. (TMZ; LM:5d) 
+chair 
+
+ 
+
+ 
+
+f.   B-dìi'by=a'  
+ 
+
+ 
+PERF-wash=1SG 
+'I washed the white tabletop (lit. the white face of the table)' 
+ 
+
+loh  
+face  white 
+
+ncye'ts   me'es. (TMZ) 
+
+table 
+
+ 
+
+In this way, TVZ component locatives differ in their syntax yet again from nouns: noun 
+
+phrases may be modified by the plural marker, quantifiers, numbers, and adjectives, while 
+
+component part prepositional phrases may not. 
+
+ 
+
+ 
+ 
+
+264 
+
+ 
+
+4.1.2.  Relational nouns 
+
+The term "relational noun" can be problematic, since it is not a well defined term or class.  
+
+Linguists have used the term relational noun in many ways.  In the Meso-American literature, it 
+
+has been used for locatives with body or component part etymology, regardless or their 
+
+synchronic syntactic category (and often in absence of data regarding their syntactic 
+
+classification).  Following Munro 2006b and Lillehaugen and Munro 2006 and in preparation, I 
+
+use the term relational noun to mean words that express relational, locational concepts, but which 
+
+have nominal syntax. Levinson (2003: 102) refers to such items as "relational nominals", a 
+
+subclass of his class of "spatial nominals".  Our definition seems similar in spirit to Larsen's 
+
+definition for Kiche below,  although note that the order of relational noun and "object" noun 
+
+may of course differ depending on the language: 
+
+Relational  nouns  are  like  prepositions  in  that  they  are  placed  before  an  "object"  noun  phrase  to 
+indicate the case of that noun phrase, but unlike prepositions they are formally possessed nouns 
+with the following object noun phrase being formally the possessor of the relational noun. 
+
+Larsen 1988, quoted in Heinz 2005:3 
+
+ 
+
+  Chickasaw has relational nouns.  The class of relational nouns is a sub-set of inalienably 
+
+possessed component part words.  In the following sections I present evidence that Chickasaw 
+
+relational phrases cannot function as adjuncts (§4.1.2.1), are selected for as nouns are (§4.1.2.2), 
+
+can be modified as nouns can (§4.1.2.3), and can be case marked as nouns can (§4.1.2.4) (cf. 
+
+Lillehaugen and Munro 2006 and in preparation, Munro 2006b).   
+
+ 
+
+4.1.2.1. 
+
+  Adjunction 
+
+In Chickasaw, relational nouns cannot function to license the presence of an additional 
+
+participant, in this case a location or place.  Instead, relational nouns function just like other 
+
+nouns, in that their presence as an adjunct needs to be licensed by the verb or an applicative 
+
+ 
+ 
+
+265 
+
+ 
+
+prefix on the verb.    
+
+Chickasaw has no prepositions, no postpositions, and no oblique case markers.  All nominals that 
+would be the objects of adpositions in more typical languages must be licensed in a  Chickasaw 
+sentence  by  applicative  affixes  on  the  verb,  appearing  as  arguments  rather  than  syntactic 
+obliques. 
+
+Munro 2006b:332; bold added 
+
+ 
+
+  Chickasaw is a language with very strict lexical transitivity. An intransitive verb takes one 
+
+and only one argument: a subject.  (Chickasaw is also a pro-drop language, so that subject need 
+
+not appear overtly).  In (6) we see an example of an intransitive verb in Chickasaw: áa 'go 
+
+around'.  No other nominals can be added to the sentence, regardless of their semantic role.4  
+
+ 
+ 
+
+áa.  (Chickasaw; LM:7) 
+go_around 
+
+6.  Cholhkan-at 
+spider-NOM 
+ 
+ 
+'The spider is walking around'  
+ 
+  One way to license the presence of an additional participant is by adding an applicative 
+
+prefix to the verb.  "Adpositional relations are shown by applicative prefixes on the verb… 
+
+which increases the valence of the verb and licenses the inclusion of the locative object … 
+
+(Munro 2000)" ( Lillehaugen and Munro 2006:3).  This is demonstrated below where on- 'on' 
+
+(7a) licenses the presence of location aai'pa' 'table'.  Note that the location aai'pa' 'table' cannot 
+
+be included in the sentence, unless the applicative prefix is present (7b).   
+
+ 
+ 
+ 
+b.  *Cholhkan-at   
+
+7.  a.  Cholhkan-at 
+ 
+spider-NOM  
+'The spider is walking around on the table' 
+ 
+ 
+ 
+ 
+  Relational nouns may be used in locative constructions, but are syntactically optional.  "A 
+
+on-áa. (Chickasaw; LM:8) 
+on-go_around 
+
+áa.  (Chickasaw; LM:10) 
+
+aai'pa'   
+
+ 
+ 
+
+aai'pa'   
+table 
+ 
+
+ 
+ 
+
+ 
+
+Chickasaw C[omponent] P[art] L[ocative] like pakna' 'top' can be used to indicate a more 
+
+specific location… Pakna' adds specificity to the locative construction …but is syntactically 
+
+                                                 
+4 More general locative phrases, such as place names, may sometimes be added to Chickasaw sentences 
+whose verbs are otherwise strictly intransitive. I will not discuss these here. 
+
+ 
+ 
+
+266 
+
+ 
+
+optional" (Lillehaugen and Munro 2006:4).  This is demonstrated in the examples below, where 
+
+(8a) is minimally different from (7a) in that (8a) includes the relational noun pakna' 'top'.  Both 
+
+(7a) and (8a) are grammatical.   
+
+ 
+
+Similarly, (8b) is minimally different from (7b) in that (8b) includes the relational noun 
+
+pakna' 'top'.  Notice here, though, that neither (7b) not (8b) are grammatical.  Recall that (7b) is 
+
+ungrammatical because the verb áa 'go around' is strictly intransitive.  The location aai'pa' 'table' 
+
+cannot be added as an argument of the verb, nor can it function as an adjunct.  Its presence in 
+
+(7b) is illicit.  (8b) shows that pakna' cannot salvage this construction by licensing the presence 
+
+of aai'pa' 'table'. 
+
+on-áa.  (Chickasaw; LM:9) 
+spider-NOM 
+on-go_around 
+'The spider is walking around on (the) top of the table' 
+
+pakna'  
+ 
+top  
+
+aai'pa'   
+ 
+table 
+
+ 
+  
+
+aai'pa'   
+
+pakna'  
+
+áa.  (Chickasaw; LM:10) 
+
+ 
+ 
+
+8.  a.  Cholhkan-at  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1.2.2. 
+
+b.  *Cholhkan-at   
+
+  Selection 
+
+There are two ways we can talk about selection of relational nouns phrases in Chickasaw.  The 
+
+first is the selection of a locative phrase by a verb with an applicative prefix, of the type shown 
+
+above.  The second has to do with the selection of locative phrases directly by the verb.   
+
+Since much of what was said above in §4.1.2.1 relates to the selection of locative phrases by 
+
+a verb with an applicative prefix, I will comment only briefly on it here.  A verb with a locative 
+
+applicative prefix selects for a locational phrase, which may be satisfied with a common noun 
+
+phrase, a locative demonstrative, a relational noun phrase (9b), or a proper place name (9a). 
+
+Sentence (66) [(9b) below] is syntactically entirely parallel to (61a) [(9a)], but with a more 
+specific locative ... Aachompa' anonka' is case-marked just like any other noun, and functions in 
+(66) [(9b)] as a nominal argument just like Albertsons in (61a) [(9a)] (thus, whether or not the 
+relational noun is present, the verb must have the locative applicative prefix aa-). 
+
+Munro 2006b: 334 
+
+ 
+ 
+
+267 
+
+  Albertsons-a 
+
+ 
+
+bala'   aa-chompa.  (Chickasaw) 
+
+ 
+
+ 
+9.  a.  Ihoo-at  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  woman-NOM   Albertsons-ACC   beans   LOC-buy 
+ 
+
+'The woman buys beans at Albertsons' 
+
+   (Munro 2006b: ex 61a) 
+
+ 
+
+b.  Ihoo-at  
+  woman-NOM   store 
+ 
+
+aachompa'  
+ 
+
+ 
+
+'The woman buys beans in(side) the store'  
+
+anonk-a   bala'  aa-chompa. (Chickasaw) 
+inside-ACC beans  LOC-buy    (Munro 2006b: ex 66) 
+
+In Chickasaw, as in TVZ, positional verbs are transitive.  For example (10a) may seem 
+
+intransitive at first glance, but it has a pro-dropped third person location (Munro p.c.).  Positional 
+
+verbs select for a location phrase (10b) and (10c).  
+
+'The man is sitting (there)' 
+
+bínni'li. (Chickasaw) 
+be_sitting_sg 
+
+b.  Hattak-at    
+  man-NOM   
+ 
+
+10. a.  Hattak-at    
+  man-NOM   
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+But, unlike the TVZ component part prepositions, the Chickasaw relational nouns are not 
+
+anonka'   bínni'li. (Chickasaw; Munro 2006: ex 22a) 
+inside   
+
+c.  Hattak-at    
+  man-NOM   
+ 
+
+bínni'li. (Chickasaw) 
+be_sitting_sg 
+
+'The man is sitting in the house' 
+
+'The man is sitting at the house' 
+
+abooha  
+house   
+
+abooha  
+house   
+
+be_sitting_sg 
+
+obligatory in such constructions (10c).  Instead, they are "used to further specify the precise 
+
+location of locative objects" (Munro 2006b: 334). 
+
+Positional verbs are transitive.  The subject of such a verb is the item whose position or location 
+is being asserted ("the figure"), and the object is the item with regard to which it is positioned or 
+located (the "ground").  In contrast to most other Chickasaw verbs, these verbs do not require an 
+applicative  prefix...  to  license  these  semantic  "obliques",  which  are  syntactic  direct  objects  of 
+such verbs.                                   
+
+Munro 2006:6 
+
+ 
+4.1.2.3.  Modification 
+
+Chickasaw relational nouns can be modified by adjectives, demonstratives, and quantifiers, just 
+
+like any other noun (Lillehaugen and Munro 2006 and in prep.).  In Chickasaw, these modifiers 
+
+follow the head.  In (11a) the yammako 'that' is modifying aai'pa' 'table' while in (11b) it is 
+
+ 
+ 
+
+268 
+
+ 
+
+modifying the whole relational noun phrase aai'pa' nota' 'underside of the table'.  Note that in 
+
+English, the most natural translations of the sentences in (11) are identical, but in (11a) yammako 
+
+follows and is modifying 'table', while in (11b) yammako follows and is modifying 'underside of 
+
+the table'.   
+
+ 
+
+ 
+ 
+
+tí'wa. 
+
+aai'pa'   
+table 
+ 
+
+ (Chickasaw; LM:12a) 
+
+nota' 
+underside  be_lying 
+
+yamm-ako  
+dog-NOM 
+that-CONTR 
+'The dog is lying under that table' 
+
+11. a.  Ofi'-at   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Here we see, then, that Chickasaw relational nouns can be modified just as nouns can, quite 
+
+nota' 
+ 
+dog-NOM 
+underside   
+'The dog is lying under that table'  
+
+tí'wa.  (Chickasaw; LM:12b) 
+be_lying 
+
+b.  Ofi'-at   
+ 
+ 
+
+yamm-ako  
+that-CONTR 
+
+aai'pa'   
+table 
+ 
+
+ 
+
+in contrast to the TVZ data presented earlier. 
+
+ 
+
+4.1.2.4.  Case marking 
+
+Chickasaw relational nouns can receive case marking, as illustrated in (12) below.  "Aachompa' 
+
+anonka' is case-marked just like any other noun, and functions in (61a) [(12a)] as a nominal 
+
+argument just like Albertsons in (66) [(12b)]…" (Munro 2006b: 334). 
+
+anonk-a   bala' 
+inside-ACC beans  LOC-buy 
+ 
+
+ 
+
+ 
+
+ 
+
+aa-chompa. (Chickasaw) 
+
+(Munro 2006b: ex 66) 
+ 
+
+  Albertsons-a 
+
+b.  Ihoo-at  
+  woman-NOM   Albertsons-ACC   beans   LOC-buy 
+ 
+ 
+
+'The woman buys beans at Albertsons' 
+
+ 
+
+ 
+
+bala'   aa-chompa.  (Chickasaw) 
+
+   (Munro 2006b: ex 61a) 
+    
+
+'The woman buys beans in(side) the store'  
+
+ 
+
+ 
+
+aachompa'  
+ 
+
+  woman-NOM   store 
+ 
+
+12. a.  Ihoo-at  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2.  Towards a semantic typology 
+
+ 
+
+In this section I explore the meaning of the component part locatives in TVZ (§4.2.1) and 
+
+Chickasaw (§4.2.2).  Some component part locatives have meanings that directly relate to the 
+
+meaning of the corresponding component part (§4.2.1.1), while others do not (§4.2.1.2, §4.2.2).  
+
+ 
+ 
+
+269 
+
+ 
+
+I conclude (based on Lillehaugen and Munro 2006 and in prep.) that there is no relation between 
+
+the syntactic category (e.g. preposition or noun) and the type of meaning (i.e. whether the 
+
+locative has a meaning that directly relates to the meaning of the corresponding component part).  
+
+This is significant in that it separates the question of syntactic category and meaning, and  shows 
+
+that  a researcher cannot use the type of meaning of a locative as evidence for its syntactic 
+
+category.  This are really two very separate questions. 
+
+ 
+
+4.2.1.  The meaning of TVZ component part locatives 
+
+In the following sections I present examples of TVZ component part prepositions which refer to 
+
+the meaning of the corresponding component part (§4.2.1.1), as well as those that do not 
+
+(§4.2.1.2).  Chapter 3 of this dissertation is dedicated to the description and analysis of the 
+
+meaning of TVZ component part prepositions, and I refer the reader there for a more thorough 
+
+discussion of the (complex) meanings of these prepositions. 
+
+ 
+
+4.2.1.1. 
+
+  Meanings referring to the corresponding component part 
+
+Some component part prepositions in TVZ have meanings that must (or may, given the right 
+
+conditions) refer to the meaning of the corresponding component part, for example zh:ààa'n 'at 
+
+the buttocks of' (cf. §2.2.6.12, Lillehaugen and Munro 2006 and in prep.).  Recall that the TMZ 
+
+preposition zh:ààa'n requires that the Figure be located in the area of space projecting from the 
+
+Ground's buttocks (indicated with arrows in Figure 1, Figure 2, and Figure 3) , as in the case of 
+
+the woman and the deer in (13).  
+
+The meaning of the TVZ preposition zh:ààa'n, in other words, relates directly to the meaning of 
+the  corresponding  referential  component  part  noun  'buttocks',  and  does  not  express  a  more 
+abstract relational meaning.  
+
+Lillehaugen and Munro 2006:9 
+
+ 
+
+ 
+ 
+
+270 
+
+ 
+
+13. Mnnààa'  
+
+ 
+ 
+
+ 
+
+ 
+zuu  
+NEU.stand   
+
+woman  
+'The woman is standing at the buttocks of the deer'; √ Figure 1; √ Figure 2; #Figure 3 
+
+ 
+zh:ààa'n 
+at_buttocks_of   
+
+ 
+
+bzêiny. (TMZ; LM:19) 
+deer 
+
+ 
+
+ 
+
+ 
+Figure 1. woman 
+
+and deer I 
+
+Figure 2. woman and deer II 
+
+Figure 3. woman and 
+
+ 
+
+ 
+
+deer III 
+
+ 
+ 
+4.2.1.2.  Meanings synchronically unrelated to the corresponding referential component 
+
+part 
+
+ 
+In contrast, there are other TVZ prepositions that may, under the right conditions, have a 
+
+meaning that does not refer to the meaning of the corresponding referential component part.  
+
+Consider the examples with the component part preposition loh 'on' related to the component part 
+
+'face'.  The referential noun phrase loh me'es means 'tabletop (literally 'the face of the table')'.  
+
+Loh 'face' is an inherent component part of the table (cf. §2.2.2); its usage does not change, no 
+
+matter which way the table is oriented: the tabletop is the tabletop even if the table is upside-
+
+down or on its side.  
+
+ 
+
+In (14b), the component part preposition loh 'on' is used to describe the relationship between 
+
+the dog and the table, but note that as (14a) shows, the part of the table the dog is touching is not 
+
+loh me'es 'the tabletop'.   
+
+14. a.  Loh   me'es   me'eu. (TMZ) 
+
+ 
+ 
+
+table   dirty 
+
+face  
+'The tabletop is dirty'; cannot refer to the circled area in Figure 4. 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+b.  Bèe'ecw   zuu  
+ 
+ 
+
+dog  
+'The dog is on the table'; √ Figure 5 
+
+ 
+NEU.stand   
+
+loh   me'es.  (TMZ) 
+on   
+
+table 
+
+ 
+
+ 
+
+ 
+
+ 
+
+271 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Figure 4. topmost part of 
+
+ 
+Figure 5.  dog and table 
+
+the table 
+
+ 
+
+ 
+ 
+
+The following data complements the paradigm presented above.  In (15a) we see that the 
+
+tabletop can be referred to as loh me'es 'tabletop' even if it is not the topmost part of the table.  
+
+However, a Figure located next to this area in (15b) cannot be located in relation to the table 
+
+using the preposition loh 'on'. 
+
+15. a.  Loh   me'es   me'eu. (TMZ) 
+
+ 
+ 
+
+table   dirty 
+
+face  
+'The tabletop is dirty'; cannot refer to the circled area in Figure 6. 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+b.  Bèe'ecw   zuu  
+ 
+ 
+
+dog  
+'The dog is on the table'; #Figure 7 
+
+ 
+NEU.stand   
+
+ 
+
+ 
+
+loh   me'es.  (TMZ) 
+on   
+
+table 
+
+ 
+
+ 
+
+Figure 6.  tabletop 
+
+Figure 7.  dog and table 
+
+ 
+
+ 
+
+272 
+
+ 
+
+Even though loh 'on' is related to loh 'face', then, the meaning of the component part word loh 
+
+'face' is not used in calculating the locative relationships expressed with loh 'on' in the examples 
+
+above.5  Specifically, this TVZ component part preposition does not locate the Figure in relation 
+
+ 
+
+to an inanimate Ground by naming a subpart of the Ground.  
+
+ 
+ 
+4.2.2.  The meaning of Chickasaw component part locatives 
+
+Since component part locatives in Chickasaw are relational nouns, it may seem a good starting 
+
+hypothesis that the relational nouns have referential meaning is locative sentences like (16a), just 
+
+as in non-locative sentences like (16b).  This hypothesis, then, would predict that the meaning of 
+
+pakna' 'top' is either the same in (16a) and (16b), or that one meaning is directly derived from the 
+
+other.  Under this analysis, another translation of (16a) might be 'The cat is on the top (i.e. lid) of 
+
+the box'. 
+
+ 
+ 
+
+box  
+box 
+
+ 
+ 
+
+ 
+ 
+
+pakna'  
+16. a.  Kowi'-at  
+top  
+ 
+ 
+cat-NOM 
+'The cat is on the box'; √ Figure 8 
+ 
+ 
+ 
+ 
+
+b.  Box   pakn-aat 
+ 
+top-NOM 
+
+ 
+ 
+
+ 
+ 
+
+o-wáyya'a. (Chickasaw; LM:14a) 
+on-stand 
+
+litiha. (Chickasaw; LM:14b) 
+be_dirty 
+
+box 
+'The top of the box is dirty';  can describe the area circled in Figure 9. box 
+  
+ 
+
+ 
+Figure 8. cat and box 
+
+(LM Figure 6) 
+
+Figure 9. box 
+ (LM Figure 7) 
+
+ 
+
+ 
+
+ 
+
+                                                 
+5 However, these prepositions may have different semantics with different types of Grounds (§3.6). 
+
+ 
+ 
+
+273 
+
+ 
+
+  However, this hypothesis can only be tested if one forces a contrast between the potential 
+
+meanings of 'on' and 'on the lid (i.e. top) of'.  In Figure 8 the cat is both on the box and located on 
+
+the lid (top) of the box, so there is no way to disambiguate these potential meanings.  However, 
+
+in Figure 10, where the box is upside-down, this contrast becomes apparent. While pakna' can be 
+
+used to describe the location of the cat on an upside-down box in (17a), it cannot be used 
+
+referentially to refer to the component part of the box that the cat is standing on in (17b).  
+
+ 
+ 
+
+ 
+ 
+
+o-wáyya'a.  (Chickasaw; LM:23a) 
+on-stand 
+
+ 
+
+ 
+
+ 
+ 
+
+box  
+box 
+
+pakna'  
+17. a.  Kowi'-at  
+cat-NOM 
+ 
+top  
+ 
+'The cat is on the box'; √ Figure 10 
+ 
+ 
+ 
+ 
+
+b.  Box   pakn-aat 
+ 
+
+litiha. (Chickasaw; LM:23b) 
+
+top-NOM  be_dirty 
+
+box 
+'The top of the box is dirty'; cannot be used to describe the area circled in Figure 11; i.e., 
+does not mean 'The topmost part of the box is dirty' 
+ 
+
+ 
+Figure 10.  cat and box 
+
+ (LM Figure 8) 
+
+Figure 11.  box 
+ (LM Figure 9) 
+
+ 
+
+ 
+  When we force a contrast between the meanings of 'on' and 'on the top (i.e. lid) of',6 we can 
+
+see that in fact the relational noun pakna' is not functioning by naming a component part of the 
+
+Ground: 
+
+Even though pakna' is syntactically a noun (licensed by the applicative prefix on the verb), in a 
+locative  construction  like  (18a)  it  asserts  a  locative  relationship  between  the  Figure  and  the 
+Ground, and does not refer to a component part of the Ground.  
+
+Lillehaugen and Munro 2006:6 
+
+ 
+
+                                                 
+6 For some but not all English speakers, this difference is the same as the contrast between on the top of 
+the box and on top of the box. However, not all English speakers share the judgment that these phrases 
+differ in meaning. 
+
+ 
+ 
+
+274 
+
+ 
+
+ 
+
+I present one final paradigm showing that relational nouns in Chickasaw, specifically in this 
+
+case pakna', do not necessarily derive their meaning from the corresponding referential 
+
+component part.  Consider (18a) where pakna' is used to express the location between the cat and 
+
+the basket.  Now note that while (18b) is syntactically well formed, it does not mean anything; 
+
+i.e. there is no component part of the basket that can be named pakna' 'top'.  So pakna' cannot be 
+
+functioning by naming a part of the Ground, since there is no part of this Ground (the basket) 
+
+that can thus named. 
+
+ 
+
+The sentences in (18c) and (18d) complete the paradigm, by showing that even if the basket 
+
+has a named component part, e.g. nota' 'underside' in (18c), and the Figure is located at or near 
+
+that component part, as in Figure 12 , the corresponding relational noun nota' 'under' may not 
+
+necessarily be appropriate (18d).  We see that (18d) cannot describe Figure 12, because the 
+
+Figure is not under the Ground, even though the Figure is located at the basket's nota' 
+
+'underside'.7    
+
+ 
+ 
+
+cat-NOM  basket   
+'The cat is on the basket'; √ Figure 12  
+
+18. a.  Kowi'-at   talhpak   pakna'  
+ 
+ 
+ 
+ 
+ 
+ 
+
+b.  #Talhpak   pakn-aat 
+ 
+
+top  
+
+litiha.  (Chickasaw) 
+
+o-wáyya'a.  (Chickasaw) 
+on-stand 
+
+top-NOM  be_dirty 
+
+basket   
+anomalous because there is no part of the basket called pakna'; cannot be used to 
+describe the areas circled in Figure 13 or Figure 14 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+c.  Talhpak   nota'-at 
+ 
+
+ 
+underside-NOM 
+
+ 
+
+litiha.  (Chickasaw)  
+be_dirty 
+
+basket   
+'The underside of the basket is dirty';  can be used to describe the area circled in Figure 
+13 
+ 
+
+d.  #Kowi'-at   
+ 
+ 
+ 
+
+talhpak   nota'    
+basket   
+
+cat-NOM 
+'The cat is standing on the underside of the basket'; #Figure 12 
+
+underside  on-stand 
+
+o-wáyya'a.  (Chickasaw) 
+
+                                                 
+7 Mrs. Willmond's usual characterization of a picture like Figure 12 is to say  
+(a) Talhpak-at 
+ 
+ 
+
+ 
+basket-NOM  
+'The basket is standing upside down and the cat is standing on top of it' 
+
+lhímpa-t  
+  wáyya'a-na   
+be_overturned-PRT  stand-CNJ.DS 
+
+ 
+
+kowi'-at pakna' o-wáyya'a. (Chickasaw) 
+cat-NOM top 
+
+on-stand 
+
+ 
+ 
+
+275 
+
+ 
+
+ 
+
+Figure 12.  cat and basket 
+
+Figure 13.  basket I 
+
+Figure 14.  basket II 
+
+ 
+
+ 
+
+ 
+
+ 
+  We can see then, that the original hypothesis, that the meaning of relational nouns might 
+
+ 
+
+ 
+
+correspond directly to the meaning of the related referential nouns is not supported by these data.  
+
+We can also phrase this in the terms of Levinson (2003), that Chickasaw relational nouns do not 
+
+necessarily express their locational meaning by  naming a component part of the Ground and 
+
+thereby "defining" a "search domain".  
+
+ 
+ 
+ 
+4.3.  Conclusions 
+
+In this chapter I have shown based on  joint work (Lillehaugen and Munro 2006 and in prep.) 
+
+that the form and function of component part locatives are independent, i.e. the syntactic 
+
+category and the type of meaning of any particular locative is not deducible from the other.  
+
+Knowing the syntactic category of a locative will not facilitate in determining the type of 
+
+meaning it has, and understanding the type of meaning a locative has is not a clue as to its 
+
+syntactic category.  These are two distinct questions. 
+
+ 
+
+I have provided data that component part locatives can be syntactically realized as 
+
+prepositions (TVZ) or relational nouns (Chickasaw).  Additionally, they can have meanings that 
+
+relate directly to the meaning of the referential component part (TVZ zh:ààa'n 'at the buttocks 
+
+ 
+ 
+
+276 
+
+ 
+
+of') or meanings that are synchronically unrelated (TVZ loh 'on' and Chickasaw pakna' 'on' and 
+
+nota' 'under').  This is summarized below in the table below.  
+
+ 
+component part locative 
+
+syntactic 
+category 
+
+Chickasaw relational nouns pakna' 
+'top' and nota' 'underside'  
+TVZ preposition loh 'on'  
+TVZ preposition zh:ààa'n 'at the 
+buttocks of' 
+
+N 
+
+P 
+P 
+
+Is the meaning of the locative 
+calculated based on  the meaning of 
+the referential component part of the 
+Ground? 
+no 
+
+no 
+yes 
+
+Table.  summary of types of component part locatives presented in this chapter 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+277 
+
+ 
+
+ 
+
+ 
+ 
+
+278 
+
+CHAPTER 5 
+
+ 
+
+Positional Verbs 
+
+ 
+ 
+
+5.1  Methodology and data sources 
+
+5.2  More on the basic locative construction  
+
+5.3 
+
+Positional verbs as a formal class 
+
+5.4   Positional verbs and their subjects  
+ 
+ 
+
+5.4.1  Positional verbs with animate subjects  
+5.4.2  Positional verbs with inanimate subjects  
+
+5.5  Lexical semantics of TVZ positional verbs  
+ 
+ 
+ 
+ 
+ 
+
+5.5.1  Zuu 'is standing  
+5.5.2  Niga'ah 'is lying'  
+5.5.3  Dêêi'dy 'is (positioned across)'  
+5.5.4  Rii 'are around' 
+5.5.5  Nàa' 'is lying' 
+ 
+
+5.6  Conclusions 
+ 
+
+ 
+
+281 
+ 
+285 
+ 
+289 
+ 
+291 
+291 
+292 
+ 
+294 
+295 
+299 
+304 
+309 
+312 
+
+314 
+
+ 
+
+279 
+
+ 
+
+ 
+
+5. 
+
+Positional Verbs 
+
+This chapter presents the system of positional verbs employed in Tlacolula Valley Zapotec 
+
+(TVZ). Many of the examples in this chapter available in audio format at AILLA 
+
+(www.ailla.utexas.org), records ZAB005R006 and ZAB005R009. 
+
+  While in English the copula verb be can be used in locative constructions (1), in TVZ there is 
+
+no one such verb that can be used in this way.  Instead, there is a set of positional verbs, such as 
+
+zuu 'is standing' (2a), zòo'b 'is sitting' (2b), and niga'ah 'is lying' (2c).  Unlike the English be, 
+
+these verbs convey information about the shape and position of the Figure. 
+
+1.  a.  The cup is on the table. 
+
+b.  The woman is on the chair. 
+c.  The boy is on the bed. 
+ 
+
+2.  a.  Ba's   zuu  
+
+ 
+
+ 
+cup   NEU.stand   
+table 
+'The cup is (standing) on the table' 
+
+loh   me'es. (TMZ) 
+on   
+
+guezhi'iilly. (TMZ) 
+chair 
+'The woman is (sitting) on the chair' 
+
+ 
+ 
+ 
+b.  Mnnààa'   zòob  
+  woman  
+ 
+ 
+c.  Mnìi'iny   n-iga'ah 
+ 
+ 
+ 
+In this chapter I describe this class of verbs and present a lexical analysis.  I describe the 
+
+child 
+'The child is (lying) on the bed' 
+
+ca'mm. (TMZ) 
+bed 
+
+ 
+
+NEU-lie  
+
+ 
+NEU.sit  
+
+loh  
+on   
+
+loh  
+on   
+
+ 
+
+morphological and syntactic behavior of these verbs and analyze their semantic behavior by 
+
+formalizing the restrictions they put on the Figure (such as the ratio of the horizontal and vertical 
+
+axes, size, and presence or absence of a flat bottom) and / or the locative relationship between 
+
+the Figure and the Ground (such as requiring the Figure to be supported by the Ground).   
+
+ 
+
+I do not discuss the use of positional verbs in possessive or existential constructions.  This 
+
+use of positional verbs has been described for other Zapotec varieties including SLQZ (Munro 
+
+ 
+
+280 
+
+ 
+
+ 
+
+and Lopez, et al. 1999), San Bartolomé Zoogocho Zapotec (Sonnenschein 2005), and 
+
+Texmelucan Zapotec (Speck 1994), and I hope to investigate this in TMZ in the future. 
+
+ 
+
+5.1.  Methodology and data sources 
+
+Most of the data presented in this chapter was gathered using the Picture Series for Positional 
+
+Verbs (Ameka, de Witte, and Wilkins 1999, hereafter PosB) as an elicitation stimulus. This book 
+
+was developed and used at the Max Planck Institute for Psycholinguistics in Nijmegen.  I find it 
+
+very useful in my research.  Pictures from this book, such as the one presented below in Figure 1, 
+
+were used as prompts.  (I describe the elicitation process in detail at the end of this section.)  
+
+When I include pictures from PosB in my text, I will include the following information in the 
+
+caption: Figure (Ground) (PosB:pg).  For example, in Figure 1 the Figure is the bottle, the 
+
+Ground is the table, and this picture is page 37 in PosB. 
+
+Figure 1.  bottle (table) (PosB:37) 
+
+ 
+
+ 
+ 
+
+Table 1 is a summary of the pictures from PosB that are included in this Chapter.  They are 
+
+listed by page number in PosB refer the reader to the Figure number. 
+
+ 
+
+281 
+
+ 
+
+ 
+
+page number in PosB 
+(Ameka et al. 1999) 
+
+3 
+7 
+8 
+10 
+11 
+14 
+17 
+19 
+21 
+22 
+24 
+26 
+37 
+43 
+50 
+52 
+56 
+67 
+
+Figure number(s) in this chapter 
+Figure 10 
+Figure 11 
+Figure 22 
+Figure 2, Figure 29 
+Figure 14, Figure 25 
+Figure 21, Figure 24 
+Figure 20 
+Figure 16 
+Figure 5, Figure 23 
+Figure 18 
+Figure 17 
+Figure 6, Figure 12, Figure 19, Figure 28 
+Figure 1, Figure 4, Figure 30 
+Figure 15 
+Figure 3 
+Figure 13, Figure 26 
+Figure 27 
+Figure 9 
+
+Table 1. list of pictures from PosB cross-referenced to Figure number 
+
+ 
+ 
+
+The PosB data reported in this chapter is from a pilot study with five speakers of TVZ: two 
+
+are speakers of TMZ (Roberto Antonio Ruiz and Josefina Antonio) and three are speakers of 
+
+SLQZ (Victoria Lopez, Felipe Lopez, and Silvia Lopez).  I plan to collect more data from 
+
+speakers of these language varieties in the future, and hopefully from other TVZ language 
+
+varieties as well.  While currently the data is limited, it begins to show a picture of the 
+
+characteristics of the positional verb system in TVZ. 
+
+ 
+
+The type of data I have from each consultant is slightly different: for Mr. Antonio Ruiz 
+
+(TMZ) and Ms. V. Lopez (SLQZ) I have a full set of data: i.e. I have volunteered sentences and 
+
+additional grammaticality judgments for every picture in PosB.  For Mr. Lopez (SLQZ) I have a 
+
+full set of volunteered sentences for PosB with few additional grammaticality judgments.  The 
+
+volunteered sentences were collected by Pamela Munro, and I was not present for the elicitation.  
+
+I was able to follow up with him to ask a few grammaticality judgments.  For Ms. S. Lopez 
+
+ 
+
+282 
+
+ 
+
+ 
+
+(SLQZ) and Ms. Antonio (TMZ) I have a partial set of volunteered sentences with a few 
+
+additional grammaticality judgments.  Throughout this chapter, I cite the data I feel is relevant to 
+
+the immediate discussion.  However, there is undoubtedly related data that might be of interest to 
+
+the reader.  Since it would be cumbersome to cite all of the data related to the verb or locative 
+
+relationship under discussion, I have instead provided a summary of the PosB data from all five 
+
+speakers in Appendix II.  These summaries are listed in tables by the page number (picture 
+
+number) from PosB and mark the positional verbs that were volunteered (x), accepted (√), or 
+
+judged as infelicitous (*) by the speaker for each picture.  A blank cell indicates that there is no 
+
+data for that combination.  In addition to the individual summaries, Appendix II also contains a 
+
+summary by language variety and a combined summary, however these later summaries are 
+
+limited to the PosB pictures presented and discussed in this chapter.     
+
+The methodology I used in eliciting the data evolved throughout my work with the elicitation 
+
+materials, with the later methodology improving on potential problems found with the earlier 
+
+methodology.  Below I will describe the methodologies used, in chronological order. 
+
+I first used these elicitation materials with Mr. Antonio Ruiz (TMZ).  We began at the 
+
+beginning of the book, and for the first few pictures, I prompted him verbally in various ways.  I 
+
+asked him to describe the picture, but this did not get the kind of responses I was looking for, so I 
+
+tried narrowing down my question by asking explicitly where the Figure was in English, e.g. 
+
+"Where is the bottle?", or given a model in English, e.g. "If I were describing this in English I 
+
+would say: The bottle is on the table."  I now feel that modeling the answer in English is best 
+
+avoided, since it may prime the speaker towards a translation equivalent, or affect the answer in 
+
+other unexpected ways.   In addition, I would now prefer to have the task all done in Zapotec, 
+
+and not even ask the 'Where is the Figure' question in English or Spanish. 
+
+ 
+
+283 
+
+ 
+
+ 
+
+  However, after the first few pictures, Mr. Antonio Ruiz quickly learned the elicitation task, 
+
+and for the vast majority of pictures, the only prompt was the visual presentation of the picture.  
+
+Thus, overall, the data from Mr. Antonio Ruiz is not a result of a translation task or a question-
+
+response task. 
+
+  After Mr. Antonio Ruiz initially described the picture, I asked if he could think of another 
+
+way to say it (looking for other possible positional verbs).  If he responded with another option, I 
+
+would ask him again if there were any more ways.  When he offered no additional ways, I asked 
+
+for judgments on some additional positional verbs.  I kept track of verbs that were volunteered 
+
+(marked with "x" in the Appendix), judged grammatical (√), and judged ungrammatical (*).  
+
+However, I now feel that suggesting alternative verbs for any particular picture, may affect what 
+
+is volunteered for later pictures.1 
+
+  With Ms. S. Lopez (SLQZ) I began by asking in English 'Where is the Figure?' for the first 
+
+pictures, and thereafter no verbal prompt was needed or used.  I did not ask for alternative ways 
+
+to describe each picture, and rarely did I ask for any judgments on alternative verbs.  In a few 
+
+cases, I did ask judgments on alternative prepositions.  I did not elicit the data from Mr. Lopez 
+
+(SLQZ), but Pamela Munro (p.c.) describes her method to me as similar to that which I just 
+
+described for Ms. S. Lopez.   
+
+  When I worked with Ms. V. Lopez (SLQZ) and Ms. Antonio (TMZ) I used a methodology 
+
+that I feel is much improved.  First of all, I used no English.  For the first few pictures, I asked in 
+
+SLQZ Cu'an Figure? 'Where is the Figure?', and as in the other cases, after the first few pictures 
+
+no verbal prompt was needed or used.  The other major difference, was that I met with Ms. V. 
+
+Lopez on two separate occasions.   On the first meeting, I did not ask for any grammaticality 
+
+                                                 
+1 Thanks to Pamela Munro and Aaron Sonnenschein for helpful discussion on this particular 
+methodological issue. 
+
+ 
+
+284 
+
+ 
+
+ 
+
+judgments.  After she described the picture, I would ask if there was any other way. When she 
+
+had told me any alternatives we would just move on to the next picture.  Verbs given in this 
+
+setting are marked with "x" in the Appendix.  (Note, then that an "x" for Mr. Antonio Ruiz and 
+
+an "x" for Ms. V. Lopez mean slightly different things.)  On our second session, we went 
+
+through the book a second time.  This time I asked for judgments on other verbs for each picture.  
+
+Verbs that were judged appropriate are marked with "√" in the Appendix.  Those that were 
+
+judged as ungrammatical are marked with "*".  I feel this method is an improvement over that 
+
+used earlier because I have volunteered responses (in the case of Ms. V. Lopez for the whole 
+
+book, and in the case of Ms. Antonio for a subset of the book) without any interference from me.  
+
+I have not yet done any analysis to see if there may be differences in verbs that were truly 
+
+volunteered versus those that were approved, but with this methodology I will be able to look at 
+
+that question.   
+
+ 
+5.2.  More on the basic locative construction 
+
+In §1.4 I offered a preliminary definition for the basic locative construction, saying it is a 
+
+complete sentence which asserts the location of a Figure in relation to a Ground.  In this section I 
+
+will slightly refine my definition of the basic locative construction, because I use the basic 
+
+locative construction in order to define the class of positional verbs.  My definition differs 
+
+slightly from the definition usually found in the literature, although I believe the spirits of the 
+
+definitions are the same.   
+
+The basic locative construction is often defined as the simplest response to a "Where is the 
+
+Figure?" question, as in the quotations below: 
+
+…the  basic  locative  construction  (BLC),  the  basic  construction  used  as  an  answer  to  a  'where' 
+question 
+
+Kutscher and Schultze-Berndt to appear: 2 
+
+ 
+
+ 
+
+285 
+
+ 
+
+ 
+
+We  ask,  e.g.  "where  is  the  cup?",  and  get  the  answer  "The  cup  is  on  the  table",  the  latter 
+exemplifying what we will call the Basic Locative Construction for English. 
+
+ Levinson 2000: 215 
+
+ 
+
+I choose not to define the basic locative construction in these terms, specifically because the 
+
+basic locative construction in my usage is not exactly the "the basic construction used as an 
+
+answer to a 'where' question" (Kutscher and Schultze-Berndt to appear: 2).  For many languages, 
+
+including Zapotec and English, the simplest construction that is used in response to 'where is the 
+
+Figure' questions, e.g. (3a) and (4a), does not include a full noun phrase for the Figure, but rather 
+
+a pronoun (3c) and (4c), or even more pragmatically normal, only a locational phrase (3b) and 
+
+(4b).  However, for methodological reasons, I want to define the basic locative construction as 
+
+containing a full noun phrase for the Figure, as in (3d) and (4d).   
+
+3.  a.  Where is John? 
+
+b.  In his room. 
+c.  He is in his room. 
+d.  John is in his room. 
+ 
+
+bèe'ecw? (TMZ) 
+dog 
+
+'Where is the dog?' 
+
+4.  a.  Cu'an    
+  Where  
+ 
+ 
+b.  Loh   me'es. (TMZ) 
+ 
+ 
+ 
+c.  Bèe'ecw   zuu  
+ 
+ 
+
+table 
+on   
+'On the table' 
+
+ 
+NEU.stand   
+
+ 
+
+loh   me'es. (TMZ) 
+on   
+
+table 
+
+ 
+
+dog 
+'The dog is (standing) on the table' 
+ 
+
+Therefore, of all the sentences in (3) and (4) above, I only consider (3d) and (4c) to be examples 
+
+of the basic locative construction for English and Zapotec respectively.  Because these are not 
+
+basic responses to a 'where is the Figure' question, I thus depart slightly from previous 
+
+definitions of the basic locative construction.2   However, consider the following, where 
+
+                                                 
+2 The most basic response to a where is the Figure question would usually be (3b) or (4b), and probably in 
+actual conversation only rarely be (3d) or (4d).  I do feel that studying pragmatically appropriate 
+
+ 
+
+286 
+
+ 
+
+ 
+
+Kutscher and Schultze-Berndt (to appear) and Kutscher and Genç (to appear) also require their 
+
+basic locative constructions (in German3 and Laz, respectively) to contain two full noun 
+
+phrases:4 
+
+The  German  Basic  Locative  Construction  (BLC),  i.e.  the  construction  that  is  employed  in 
+response to 'where' questions like wo ist X 'where is X', consists of a subject noun phrase in the 
+nominative  representing  the  Figure,  a  locative  verb,  and  a  prepositional  phrase,  where  the  NP 
+represents the ground, and is in dative case, indicating static location.  
+
+ 
+For Laz, we identified the BLC as consisting of a stative locative verb obligatorily occurring with 
+a preverb and two NPs unmarked for case denoting the Figure and the ground. 
+
+Kutscher and Schultze-Berndt to appear: 2 
+
+Kutcher and Genç to appear: 29 
+
+ 
+
+There are two additional conditions I put on my definition of the basic locative construction. 
+
+First, the basic locative construction should only assert information about the location of the 
+
+Figure with respect to a Ground.  However, in many languages (including Zapotec) it is not 
+
+possible to do this without also asserting additional information, e.g. the posture of the Figure.  
+
+Also, the basic locative construction includes only the minimal amount of information necessary 
+
+to assert the location of the Figure. For example, time and manner adverbs are not part of the 
+
+basic locative construction, though a language may require certain orientational or directional 
+
+particles as part of its basic locative construction (as reported for Pima, a Uto-Aztecan language 
+
+(Smith 2005)).  This sentiment also seems to be present in some earlier definitions of the basic 
+
+locative construction, such as below: 
+
+                                                                                                                                                            
+responses to where is questions is important in learning how a language expresses location. 
+3 I did an informal survey, by asking two native German speakers Wo ist der Stuhl? 'Where is the chair?'  
+(The speakers were asked the question individually; i.e. they were not together when I asked them.)  Both 
+speakers initially responded with the adverbial demonstrative hier 'here'.  When asked if they could be 
+more specific, both speakers provided prepositional phrases: one said an der Wand 'at the wall' and the 
+other said am Tisch 'at the desk'.  What is relevant here, is that in response to a Wo ist X question, neither 
+of them responded with a complete sentence.   
+4 Elsewhere in their paper Kutscher and Genç seem to say that the Figure noun phrase is optional: 
+"The Basic Locative Construction (BLC) – that is, the construction being employed in an answer 
+to a 'where is X' question—in Ardesen-Laz consists of an optional NP expressing the Figure 
+followed by the ground NP and the predicate" (to appear: 5). 
+
+ 
+
+287 
+
+ 
+
+ 
+
+The BLC… [is] the most basic construction that is ordinarily used in answers to a 'where' 
+question and only conveys the location of an entity…  
+
+Kutscher and Schultze-Berndt to appear: 7 
+
+ 
+
+Thus, while (5a) is an instance of the basic locative construction in English, (5b) and (5c) 
+are not. 
+ 
+5.  a.  John is in the computer lab. 
+
+b.  John is sitting quietly in the computer lab. 
+c.  Hopefully, John is in the computer lab. 
+
+ 
+ 
+
+Finally, the basic locative construction should be in the tense and aspect that would 
+
+be appropriate as a response to a Where is the Figure question in the given language.  
+
+Thus, in English, the past tense (6b), present progressive (6c), and future (6d) exclude 
+
+these examples from being classified as instances of the basic locative construction.  The 
+
+simple present tense is used in the basic locative construction in English (6a).   
+
+6.  a.  Marcus is in his office. 
+
+b.  Marcus was in his office. 
+c.  Marcus is sitting in his office. 
+d.  Hopefully, Marcus will be in his office. 
+ 
+The definition I will be using for the basic locative construction is as follows: a basic locative 
+
+ 
+
+construction is a complete sentence which asserts the location of a Figure in relation to a Ground.  
+
+No additional information should be asserted, unless it is unavoidable to do so in order to assert 
+
+the location of the Figure. The Figure and the Ground should be full, lexical (i.e. non-
+
+pronominal) noun phrases.  The tense and aspect should be those which are appropriate in a 
+
+response to a Where is the Figure? question. 
+
+ 
+
+The basic locative construction will be useful in Zapotec in defining the class of positional 
+
+verbs.  It can be useful in cross-linguistic and typological work in expressing location by 
+
+providing a structure for comparison. 
+
+ 
+
+ 
+
+288 
+
+ 
+
+ 
+
+5.3. 
+
+Positional verbs as a formal class 
+
+In many languages, positional verbs can be differentiated from other verbs as a separate 
+
+morphological class.  For example, in Yukatek Maya (YM), there are derivational and 
+
+morphological features that characterize positional verbs as distinct from other verbs: 
+
+Positionals in YM may be identified according to a number of formal properties.  Firstly, 
+positionals form the only root class in YM whose members never surface anywhere in the clause 
+without derivation… And secondly, in addition to the regular resultative derivation of intransitive 
+verbs in –a'n, positionals also allow for the formation of the positional resultative –Vkbal… the 
+positional resultative in –Vkbal is exclusively formed from positional roots.  
+
+Bohnemeyer and Stolz in press: 559 
+
+ 
+
+Similarly, for Chickasaw Munro (2006a) identifies "seven morphosyntactic characteristics of 
+
+Chickasaw positional verbs that serve to identify this group as a discrete class within the lexicon" 
+
+(Munro 2006a:7), which are listed below. 
+
+(1) Positional verbs can appear in locative answers to –hmano ['where is the …' ] questions. 
+(2) Positional verbs can be used in existential constructions. 
+(3) Positional verbs are stative with related active / punctual verbs. 
+(4) Positional verbs are transitive. 
+(5)  Positional  verbs  have  distinct  forms  for  singular,  dual,  and  triplural  (greater  than  two)  subjects 
+
+(figures). 
+
+(6) The non-triplural forms of positional verbs are (aspectual) grade forms. 
+(7) Positional verbs may be used in 'have' sentences. 
+
+from Munro 2006a 
+
+ 
+
+Munro identifies 24 positional verbs in Chickasaw, of which 23 meet all of these criteria.   
+
+Unfortunately, it is not clear whether there are any such defining morphological features of 
+
+the class of positional verbs in TVZ.  This is something I hope to pursue in the future.  There is 
+
+one fairly obvious morphological tendency that cannot be left unmentioned: TVZ positional 
+
+verbs tend to appear in the neutral aspect, although this is not true of rii (§5.5.4); and they also 
+
+tend to lack the n- prefix usually used for neutral aspect, although this is not true of niga'ah 
+
+(§5.5.2) and nàa' (§5.5.5).  The tendency to lack the neutral aspect prefix seems to be a relatively 
+
+new development, as preliminary work on CVZ shows that positional verbs appear with overt 
+
+ 
+
+289 
+
+ 
+
+ 
+
+neutral aspect markers such as CVZ naso and naço in (16), which are cognate to modern TVZ 
+
+zuu 'is standing'. 
+
+Much work remains to be done on defining the class of positional verbs in TVZ.  For now, I 
+
+will hypothesize that the class of positional verbs are those that can appear in a basic locative 
+
+construction.  Table 2 presents some positional verbs in TVZ, although this is not an exhaustive 
+
+list.  Preliminary glosses are also presented in this table, along with cross-references to later 
+
+sections in this chapter where the meaning of the positional verb is investigated in more depth. 
+
+Munro, in her work on Chickasaw positional verbs, develops the idea of "basic positional 
+
+verbs" (2006a:12).   
+
+It seems, though, that some of these [24 sets of positional verbs] are more basic than the others.  
+Nine  verbs  or  sets  can  be  identified  as  "basic"  positional  verbs,  in  that  they  seem  to  be  the 
+minimal set used to specify the location in canonical position of every type of item I've been able 
+to think of. 
+
+Munro 2006a:12 
+ 
+
+Undoubtedly, some TVZ positional verbs are more basic that others.  I have not yet identified the 
+
+basic positional verbs, but I think this is a very worthwhile notion, especially for allowing 
+
+comparative analysis of positional verb systems.   
+
+ 
+
+290 
+
+ 
+
+ 
+
+TVZ 
+bèe'b 
+dêêi'dy (TMZ), dèèi'dy 
+
+(SLQZ) 
+
+gloss 
+'is (located on a flat, elevated surface)' 
+'is (positioned across)' §5.5.3 
+
+nàa' (TMZ); nàa't (SLQZ; 
+
+'is lying' §5.5.5 
+
+ML:219) 
+
+niga'ah (TMZ); nàa'tga'ah, 
+
+'is lying' §5.5.2 
+
+na'ga'ah (SLQZ) 
+
+nu'uh 
+rii 
+zèèi'by 
+zòob (TMZ); zùub (SLQZ; 
+
+ML:376) 
+
+zugwa'ah (SLQZ; ML:375) 
+zundii, zuldii (SLQZ; 
+
+ML:375) 
+
+zuu (TMZ) (SLQZ; ML:375) 
+zu'bga'ah (SLQZ; ML:376) 
+zu'ùu'b (SLQZ)  
+
+'is (located); is (located inside)' 
+'are around' §5.5.4' 
+'is hanging' 
+'is sitting; is located, exists (sitting or 
+projecting' 
+'is standing' 
+is standing up, is in a standing position 
+
+'is standing' §5.5.1 
+'is sitting down, is in a sitting position' 
+'is (has been placed) (on a flat, elevated 
+surface)' 
+
+ML  is  an  abbreviation  for  Munro  and  Lopez,  et  al.  1999.    Glosses  in  double 
+quotes are direct citations from Munro and Lopez, et al. 1999. 
+Table 2. some TVZ positional verbs 
+
+5.4. 
+
+Positional verbs and their subjects 
+
+ 
+ 
+
+The basic meaning of positional verbs is based on their use with animate, perhaps human, 
+
+subjects.  These meanings are briefly described in §5.4.1.  Their use with inanimate subjects is 
+
+the main focus of this chapter, and an overview of this is given in §5.4.2. 
+
+   
+
+5.4.1.  Positional verbs with animate subjects 
+
+The first Zapotec grammar (Córdova 1578a) describes the prominent Zapotec phenomenon of 
+
+positional verbs (as pointed out by Operstein (2002)):  
+
+ 
+
+291 
+
+ 
+
+ 
+
+Now follow the compounds of sum, est, fui… The second compound is adsum, to be present.  
+This is said in many different ways… if I am standing, naçoa, if seated, tipeea.  If lying, naaya… 
+and thus the differences correspond to the posture or pose of the thing about which they are 
+speaking5 
+
+Córdova 1578a: 42 
+
+ 
+
+Córdova's Zapotec words in the passage above all are verbs with first person subjects.  His 
+
+examples all show the use of positional verbs with animate subjects.  (His reference to "the 
+
+posture or pose of the thing" suggests that inanimate can also be used as subjects, and these will 
+
+be discussed in more detail below.) 
+
+Positional verbs in modern TVZ can also be used with animate subjects, in which cases the 
+
+meanings of most positional verbs seem to correspond directly with the position of the subject, 
+
+which is also the Figure, as in (7)below. 
+
+ 
+
+7.  a.  Zùub         
+  
+ 
+
+ 
+NEU.sit  
+ 
+'The cat is sitting on the table' 
+ 
+
+zhye'et  
+cat          
+
+ 
+ 
+
+b.  Zuu             
+NEU.stand   
+'The cat is standing on the table' 
+ 
+
+    zhye'et  
+ 
+cat         
+
+ 
+ 
+
+loh   me'es.  (SLQZ; ML:376) 
+on   
+
+table 
+
+loh   me'es.  (SLQZ) 
+on    
+
+table 
+
+ 
+
+gyiah. (TMZ; Zhat:51) 
+rock 
+
+ 
+ 
+
+NEU-lie  
+
+cwe'eh  
+beside   
+
+dog 
+'The dog was lying beside the rock' 
+
+c.  Bèe'ecw  n-iga'ah 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+5.4.2.  Positional verbs with inanimate subjects 
+
+Positional verbs are also used to describe the location of inanimate Figures.  However, when 
+
+positional verbs are used with inanimate Figures their semantics are clearly different than when 
+
+used with animate Figures, as described in §5.4.1.  While it is clear when a person is sitting, or 
+
+                                                 
+5 This is my translation of Córdova's original Spanish: "Siguense agora los compuestos de sum est fuy. . . 
+. El segundo compuesto es. Adsum, estar presente. Este se dize por muchas maneras… Si estoy en pie, 
+naçoa, si assentado, tipeea.  Si echado, naaya… y assi los differencias conforme ala postura or asiento de 
+la cosa de que hablan." 
+
+ 
+
+292 
+
+ 
+
+ 
+
+standing, or lying, it is not necessarily obvious when one would say, or even if one could say, 
+
+that a box, for instance, is sitting, standing, or lying. 
+
+When the subject is animate, the positional verb will usually express its posture, whereas 
+
+when the subject is inanimate the verb can convey its shape or other properties. For example 
+
+consider (8); in this case, changing the positional verb does not correspond with a change in 
+
+position of the Figure.  Both (8a) and (8b) could be used to describe a cup that is in canonical 
+
+orientation (i.e. upright). 
+
+8.  a.  Ba's    zùu'b 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+loh   me'es. (TMZ) 
+on   
+
+table 
+
+cup     NEU.sit    
+'The cup is on the table'  
+ 
+
+b.  Ba's    zuu               
+cup     NEU.stand   
+'The cup is on the table'  
+ 
+
+loh   me'es. (TMZ) 
+on    
+
+table 
+
+When used with inanimate Figures, positional verbs can put selectional restrictions on the 
+
+shape of their subject, i.e. the Figure.  Consider the examples (9) and (10) below.  In each case, 
+
+the bottle can be used with the positional verb zuu 'stand', while the ball cannot.  In fact, the verb 
+
+zuu 'stand' is never used with a ball as its subject in my data, hence the "*": I believe these 
+
+sentences are never grammatical, because a ball cannot zuu.   
+
+9.  a.  Bote'iy  
+bottle   
+'The bottle is on the rock'; √ Figure 2 
+
+zuu 
+ 
+NEU.stand   
+
+ 
+
+ 
+
+guë'ëhcy  gyihah. (TMZ, re Pos:10)  
+on   
+
+rock 
+
+ 
+b.  *Baloon  zuu 
+
+ 
+
+ 
+NEU.stand   
+
+guë'ëhcy  gyihah. (TMZ)  
+on   
+
+rock 
+
+ 
+
+ 
+
+ ball 
+bad with any meaning; e.g. cannot be used to describe Figure 3 
+
+ 
+
+ 
+
+293 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2.  bottle (rock) (PosB:10) 
+
+Figure 3. ball (rock) (PosB:50) 
+
+ 
+
+ 
+10. a.  Bote'iy  
+bottle   
+ 
+'The bottle is on the table'; √ Figure 4 
+
+zuu 
+ 
+NEU.stand   
+
+ 
+ 
+
+ 
+
+ 
+
+loh   me'es.  (TMZ, re PosB:27)  
+on   
+
+table 
+
+b.  *Baloon 
+ 
+ 
+
+ 
+ 
+
+  ball 
+bad with any meaning; e.g. #Figure 5 
+
+ 
+
+zuu 
+ 
+NEU.stand   
+
+loh   me'es.  (TMZ)  
+on   
+
+table 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 4. bottle (table) (PosB: 37) 
+
+Figure 5. ball (table) (PosB:21) 
+
+ 
+
+ 
+ 
+5.5.  Lexical semantics of TVZ positional verbs 
+
+ 
+
+So why can a cup both 'sit' and 'stand'? Why can a bottle 'stand' but not a ball?  In this chapter I 
+
+will consider in detail these types of semantic restrictions for some common positional verbs in 
+
+TVZ.  (There are undoubtedly many semantic nuances to the other positional verbs, but I cannot 
+
+explore those here.)   
+
+ 
+ 
+
+ 
+
+294 
+
+ 
+
+ 
+
+5.5.1.  Zuu 'is standing' 
+
+The verb zuu is defined in the SLQZ dictionary as "is standing, is located (standing)" (Munro 
+
+and Lopez, et al. 1999:375), and is identified there as the neutral form of rzuh "stands" (Munro 
+
+and Lopez, et al. 1999:317).  In this section I look at what it means for an inanimate to be 
+
+"located (standing)".  We saw above that although a bottle could be used with the verb zuu 'is 
+
+standing', a ball could not.  It seems that the verb zuu 'is standing' requires that its subject must 
+
+be in an orientation in which its vertical axis is longer than its horizontal axis.  A bottle in its 
+
+canonical orientation has a longer vertical than horizontal axis, and thus can be used with the 
+
+verb zuu 'is standing'.  A ball does not have a vertical axis which is longer than its horizontal 
+
+axis, so it cannot be used with the verb zuu 'is standing' at all, according to my data.   
+
+When a bottle is lying on its side, in cannot be used with the verb zuu 'is standing', as shown 
+
+in (11) below.  This can be explained since in this orientation it no longer has a vertical axis 
+
+which is longer than its horizontal axis. 
+
+n-iga'ah 
+NEU-lie  
+
+ 
+ 
+
+loh  
+on   
+
+gyihah. (TMZ; 4:168 re PosB:26) 
+11. a.  Bote'iy  
+      bottle   
+rock 
+      'The bottle is on the rock'; √ Figure 6  
+ 
+b.  Bote'iy  
+      bottle   
+ 
+ 
+
+gyihah. (TMZ; 4:168) 
+rock 
+
+'The bottle is (standing) on the rock'; #Figure 6 
+
+ 
+
+zuu 
+ 
+NEU.stand   
+
+loh  
+on   
+
+ 
+
+Figure 6. bottle (rock) (PosB:26) 
+
+ 
+
+ 
+
+295 
+
+ 
+
+Likewise, zuu 'is standing' (12) can be used to describe a book when standing upright, as in 
+
+Figure 7.  However, if the book is lying flat on the table, as in Figure 8, zuu 'is standing' cannot 
+
+be used. 
+
+ 
+
+12. Li'ebr    
+ 
+ 
+ 
+
+book 
+'The book is (standing) on the table'; √ Figure 7, #Figure 8 
+
+ 
+
+ 
+
+zuu  
+ 
+NEU.stand   
+
+loh   me'es.  (TMZ; 4:171, 173) 
+on   
+
+table 
+
+ 
+
+ 
+Figure 7. a book standing 
+
+Figure 8. a book lying 
+
+ 
+
+ 
+So far, all of the examples I have provided for zuu 'is standing' have Figures which have flat 
+
+ 
+
+bottoms: is this a requirement of the verb zuu 'is standing'?  Example (13) shows that even 
+
+Figures which do not have flat bottoms can be used with zuu 'is standing', as demonstrated 
+
+below, with the unlikely event of an egg standing on its end. 
+
+13. Zë'ty   bë'ëhdy  
+bone  chicken 
+ 
+'The egg is (standing) on the ground'; can only be used to describe an egg standing upright, 
+not an egg lying down 
+
+yuhuh. (TMZ; 4:171) 
+ground 
+
+zuu  
+ 
+NEU.stand   
+
+loh  
+on   
+
+ 
+
+ 
+
+However, the verb zuu 'is standing' does seem to work differently if the Figure has a flat 
+
+bottom.  Consider (14) below.  It seems that if a box in the shape of a perfect cube, i.e. without a 
+
+longer vertical than horizontal axis, is on a table, the verb zuu 'is standing' can be used.  
+
+According to the behavior of this verb so far, this is unexpected. 
+
+14.  Ca'j   zuu  
+ 
+ 
+
+ 
+box   NEU.stand   
+'The box (a perfect cube) is on the table' 
+
+loh   me'es. (TMZ; 4:171) 
+on   
+
+table 
+
+ 
+
+ 
+
+296 
+
+ 
+
+ 
+
+ 
+Recall from (10b) above that if a ball (a perfect sphere) is on a table, zuu 'is standing' cannot be 
+
+used.  In order to account for these differences, I suggest that the positional verb zuu puts 
+
+different restrictions on its Figure depending on the shape of that Figure.  If the Figure used with 
+
+zuu 'is standing' has a flat bottom, then it must be in an orientation such that its horizontal axis is 
+
+not longer than its vertical axis: it can be the same length (e.g. the cube) or it could be shorter 
+
+(e.g. the bottle).  If the Figure does not have a flat bottom, then it must be in an orientation such 
+
+that its vertical axis is longer than the horizontal axis (e.g. the egg).  I summarize these 
+
+conditions on the verb in Table 3. 
+
+TMZ 
+verb 
+zuu 
+
+gloss 
+
+ 
+
+'is standing' 
+
+if the Figure has a 
+flat bottom… 
+
+ 
+
+ 
+
+if the Figure does 
+not have a flat 
+bottom… 
+
+restriction on shape and orientation of the 
+Figure 
+then it must be shaped or oriented in such a way 
+that its horizontal axis is not longer than its 
+vertical axis. 
+then it must be shaped or oriented in such a way 
+that its vertical axis is longer than its horizontal 
+axis. 
+
+Table 3.  TMZ: zuu 'is standing' (version I) 
+
+  However, this does not account for all the TVZ data obtained from using the PosB elicitation 
+
+material.  Consider Figure 9.  In this case, the use of zuu 'is standing' was judged as felicitous in 
+
+describing the bottle by one SLQZ speaker, and was judged as infelicitous by one TMZ speaker 
+
+(15).  Unfortunately, I only have data from one speaker from each variety for this picture, so I do 
+
+not know if this is an idiolectal or dialectal variation, yet.  For the SLQZ speaker who could use 
+
+zuu to describe Figure 9, the meaning of zuu as presented in Table 3 accounts for this use: the 
+
+Figure (a bottle) has a flat bottom, and it is oriented in such a way that its horizontal axis is not 
+
+longer than its vertical axis.  Thus Table 3 may appropriately characterize the SLQZ usage. 
+
+15.  a.  Bote'iy  
+      bottle   
+ 
+
+ 
+
+ 
+
+zuu 
+ 
+NEU.stand   
+
+làa'any  
+ 
+in   
+
+zhìi'mmy. (TMZ; 4:168) 
+basket 
+
+The bottle is (standing) in the basket'; #Figure 9 
+
+ 
+
+297 
+
+ 
+
+ 
+
+zuu 
+ 
+NEU.stand   
+
+làa'any  
+in   
+ 
+
+zhìi'mmy. (SLQZ; 5:20) 
+basket 
+
+ 
+
+ 
+
+b.  Bote'i   
+      bottle   
+ 
+
+ 
+
+ 
+
+ 
+
+The bottle is (standing) in the basket'; √ Figure 9 
+
+To account for the data from the TMZ speaker we will have to say more.  In (15a), zuu 
+
+ 
+
+cannot be used to describe the bottle, even though its vertical axis is longer than its horizontal 
+
+axis. 
+
+Figure 9.  bottle (basket) (PosB:67) 
+
+ 
+
+ 
+In order to account for this I need to specify that if the Figure has a longer vertical axis than 
+
+horizontal axis while in canonical orientation, then the Figure must be in canonical orientation in 
+
+order to be used with zuu 'is standing'.  A revised table summarizes the restrictions on zuu 'is 
+
+standing' below. 
+
+ 
+
+298 
+
+ 
+
+gloss 
+
+TMZ 
+verb 
+
+zuu 
+
+'is 
+standing' 
+
+restriction on 
+shape of the 
+Figure 
+If the Figure has a 
+longer vertical than 
+horizontal axis in 
+its canonical 
+orientation… 
+
+ 
+
+ 
+
+ 
+
+ 
+
+If not… 
+
+ 
+
+ 
+
+restriction on 
+shape of the 
+Figure 
+ 
+
+restriction on shape and 
+orientation of Figure 
+
+then it must be in canonical 
+orientation (as evidenced by 9a, 
+10a, #11b, 12, #15a, #19b). 
+
+if the Figure 
+has a flat 
+base… 
+if the Figure 
+does not have 
+a flat base… 
+
+then it must be oriented in such a 
+way that its horizontal axis is not 
+longer than its vertical axis (14). 
+then it must be shaped and or 
+oriented in such a way that its 
+vertical axis is longer than its 
+horizontal axis (*9b, *10b, 13, #17, 
+*18b, #21b). 
+
+Table 4.  TMZ: zuu 'is standing' for inanimate Figures (version II) 
+
+The use of the positional verb zuu is attested in CVZ as well.  Note that in these examples (16), 
+
+the verb seems to have an overt neutral aspect marker na-. 
+
+item     one=each   tomines   HAB-do=1SG offering  face   one-one=each  altar 
+
+  gona       lao     too-tobi=ga    beecoogo 
+
+16. a.  alanij   toby=ga     tomines    r-oni=ja  
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+nij        na-so=nij             lani           yochotoo     gueche (CVZ; Co721-2;9) 
+REL      NEU-stand=3 
+
+church         town   
+
+stomach 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'Also I make an offering of one real to each altar which is (standing) in the town church' 
+ 
+
+b.  huane   poerta  na-co          
+
+roa        
+door     NEU-stand    mouth   
+
+and   
+'and the door (standing) in the doorway' 
+
+yohio  (CVZ; Te616-2;21) 
+house  
+
+ 
+ 
+5.5.2.  Niga'ah 'is lying' 
+
+TMZ niga'ah and naga'ah are cognate to SLQZ nàa'tga'ah and na'ga'ah "is lying down, is 
+
+(located) in a lying position" (Munro and Lopez, et al. 1999:173), which are identified as neutral 
+
+forms of ràa'tga'ah "lies down, gets into a lying position" (Munro and Lopez, et al. 1999:219).  
+
+For simplicity, I will use the form niga'ah to refer to this verb, as well as any other cognate 
+
+variants. 
+
+ 
+
+299 
+
+ 
+
+ 
+
+ 
+
+The use of niga'ah 'is lying' in my data in most cases correlates inversely with the use of zuu 
+
+'is standing'.  There are no cases in my data where both zuu 'is stand' and niga'ah 'is lying' can be 
+
+used to describe the same picture from PosB.  That is to say, whenever zuu 'is standing' can be 
+
+used felicitously, niga'ah 'is lying' cannot; and whenever the conditions to use niga'ah 'is lying' 
+
+felicitously have been met, those to use zuu 'is standing' have not.  (The negative correlation is 
+
+not complete, however.  So it is not the case that if you cannot use zuu 'is standing' that you can 
+
+automatically use niga'ah 'is lying'; nor can you assume that if you cannot use niga'ah 'is lying' 
+
+that you can automatically use zuu 'is standing', because there are some Figures for which you 
+
+can use neither zuu 'is standing' nor niga'ah 'is lying'.) 
+
+  Consider first the simple examples below.  In (17), zuu 'is standing' cannot be used because 
+
+the Figure (the rope) has a longer horizontal axis than vertical axis.  In (18), zuu 'is standing' 
+
+cannot be used because the ball does not have a longer vertical axis than horizontal axis.  In (19), 
+
+zuu 'is standing' cannot be used because when in canonical orientation, the bottle has a longer 
+
+vertical axis than horizontal axis, and in this case the bottle is not in canonical orientation.  In 
+
+each of these three cases, it is appropriate to use niga'ah 'in lying' as illustrated below. 
+
+17. a.  Dùùu'   
+ 
+
+n-iga'ah 
+NEU-lie  
+
+ 
+ 
+
+loh  
+on   
+
+gyihah. (TMZ; 4:168; re PosB:3) 
+rock 
+
+rope 
+'The rope is (lying) on the rock'; √ Figure 10 
+
+ 
+
+b.  Dùùu'   
+ 
+
+ 
+
+zuu 
+ 
+NEU.stand   
+
+loh  
+on   
+
+gyihah. (TMZ; 4:168) 
+rock 
+
+rope 
+'The rope is (standing) on the rock'; #Figure 10 
+
+ 
+
+ 
+ 
+
+ 
+
+300 
+
+ 
+
+Figure 10.  rope (rock) (PosB:3) 
+
+ 
+18. a.  Baloon  
+ 
+
+n-iga'ah 
+NEU-lie  
+
+ 
+ 
+
+loh  
+on   
+
+yuhuh. (TMZ; re PosB:7) 
+dirt 
+
+ball 
+'The ball is on the ground'; √ Figure 11 
+
+ 
+
+b.  *Baloon  zuu 
+
+ 
+
+ 
+NEU.stand   
+
+loh  
+on   
+
+yuhuh. (TMZ; 4:168) 
+dirt 
+
+ 
+
+ball 
+bad with any meaning; e.g. #Figure 11 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 11. ball (ground) (PosB:7) 
+
+ 
+19. a.  Bote'iy  
+bottle   
+'The bottle is (lying) on the rock'; √ Figure 12 
+
+n-iga'ah 
+NEU-lie  
+
+loh  
+on   
+
+ 
+ 
+
+gyihah. (TMZ; re PosB:26) 
+rock 
+
+ 
+
+b.  Bote'iy  
+bottle   
+'The bottle is (standing) on the rock'; #Figure 12 
+
+zuu 
+ 
+NEU.stand   
+
+gyihah. (TMZ; 4:168) 
+rock 
+
+loh  
+on   
+
+ 
+
+ 
+
+ 
+
+301 
+
+ 
+
+ 
+
+Figure 12. bottle (rock) (PosB:26) 
+
+ 
+
+ 
+Based on this data, I present a preliminary summary on the restrictions for niga'ah 'is lying' in 
+
+Table 5. 
+
+TMZ 
+verb 
+
+gloss 
+
+restriction on shape 
+of Figure  
+
+niga'ah 
+
+'is lying' 
+
+If the Figure has a 
+flat base… 
+
+ 
+
+ 
+
+If the Figure does not 
+have a flat base… 
+
+restriction on shape and orientation of 
+Figure 
+ 
+then it must be shaped and / or orientated in 
+such a way that its horizontal axis is longer than 
+its vertical axis. 
+then it must be shaped and / or oriented in such 
+a way that its vertical axis is not longer than its 
+horizontal axis. 
+
+Table 5.  TMZ: niga'ah 'is lying' for inanimate Figures (preliminary) 
+
+ 
+
+Preliminary data suggests that there are some cases in TMZ where neither zuu 'is standing' 
+
+nor niga'ah 'is lying' can be used, however.6  Consider the following examples: while in (20) 
+
+niga'ah 'is lying' can be used to describe Figure 13 (which follows from the preliminary 
+
+summary in Table 5), it cannot be used in (21a) to describe Figure 14.  In order to account for 
+
+this, we must add additional details to the restrictions for niga'ah 'is lying'. 
+
+20. Da  
+PL   
+'The bottles are on the table'; √ Figure 13 
+
+n-iga'ah 
+NEU-lie  
+
+bote'iy  
+bottle   
+
+loh   me'es. (TMZ; re PosB:52) 
+on   
+
+table 
+
+                                                 
+6 The SLQZ data differs from the TMZ data here.  An explanation of the difference must be left for future 
+work. 
+
+ 
+
+302 
+
+ 
+
+ 
+
+ 
+
+21. a.  Bzìàah  
+ 
+
+  
+
+n-iga'ah 
+NEU-lie  
+
+ 
+ 
+
+loh  
+on   
+
+yuhuh. (TMZ; 4:168) 
+ground 
+
+bean 
+'The beans are on the ground'; #Figure 14  
+
+ 
+
+b.  Bzìàah  
+ 
+
+ 
+
+zuu 
+ 
+NEU.stand   
+
+loh  
+on   
+
+yuhuh. (TMZ; 4:168) 
+ground 
+
+ bean 
+'The beans are on the ground'; #Figure 14  
+ 
+
+c.  Bzìàah  
+ 
+
+ 
+
+rii   
+HAB_are_around 
+
+ 
+ 
+
+ 
+
+ 
+
+bean 
+'The beans are on the ground'; √ Figure 14 
+
+loh  
+on   
+
+yuhuh. (TMZ; 4:168, re PosB:11) 
+ground 
+
+ 
+
+ 
+
+Figure 13.  bottles (table) (PosB:52) 
+
+Figure 14. beans (ground) (PosB:11) 
+
+ 
+
+ 
+
+It appears that niga'ah 'is lying' cannot be used with a Figure that consists of many small 
+
+items, like the pile of beans in Figure 14.  Table 6 below presents the summary of the restrictions 
+
+on niga'ah 'is lying'.    
+
+TMZ 
+verb 
+
+gloss 
+
+restriction on 
+shape and number 
+of the Figure 
+
+niga'ah 
+
+'is lying'  The Figure must 
+
+not consist of many 
+small items (as 
+evidenced by #21a). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+restriction on 
+shape of the 
+Figure  
+If the Figure has 
+a flat base… 
+
+If the Figure 
+does not have a 
+flat base… 
+
+restriction on shape and 
+orientation of the Figure 
+ 
+then it must be shaped and / or 
+orientated in such a way that 
+its horizontal axis is longer 
+than its vertical axis (11a, 19a, 
+20). 
+then it must be shaped and / or 
+oriented in such a way that its 
+vertical axis is not longer than 
+its horizontal axis (17a, 18a). 
+
+Table 6.  TMZ: niga'ah 'is lying' with inanimate Figures 
+
+303 
+
+ 
+
+ 
+
+5.5.3.  Dêêi'dy 'is (positioned across)'  
+
+The verb dêêi'dy (or SLQZ dèèi'dy) is the neutral form of rdèèi'dy 'passes', for which the relevant 
+
+parts of the SLQZ dictionary entry are given below: 
+
+rdèèi'dy,  rdêêi'dy      1.  crosses  (a  street  or  border);  passes  by,  gets  by  (something);  passes  (as 
+exam)  (tr.)…  2.  crosses,  goes  across,  comes  across,  gets  across;  passes  by,  goes  by,  gets  by 
+(intr.)… 
+
+Munro and Lopez, et al. 1999:241 
+ 
+
+For simplicity, I will use the form dêêi'dy to refer to this verb and its other cognate variants. 
+
+ 
+
+TMZ and SLQZ differ in how the verb dêêi'dy 'is (positioned across)' is used, and the SLQZ 
+
+usage seems to be a proper subset of the TMZ usage, so I will begin by presenting the cases 
+
+which are acceptable in both SLQZ and TMZ. 
+
+ 
+
+In the examples (22) – (24) below, dêêi'dy 'is (positioned across)' is used for various Figures 
+
+positioned across the top of a basket.  The ends of the Figure are hanging off either end of the 
+
+basket.  Certain aspects of the Figures seem to be irrelevant: the stick (22) is firm, while the rope 
+
+(23) and cloth (24) are flexible. 
+
+ 
+
+22. a.  Gyahg  
+ 
+
+dêêi'dy 
+ 
+NEU.go_across  
+
+ 
+
+loh  
+on   
+
+stick 
+'The stick is on the basket (positioned across it)'; √ Figure 15 
+
+zhìi'mmy. (TMZ; 4:110; re PosB:43) 
+basket 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+b.  Gyahg  
+ 
+
+dèèi'dy 
+ 
+NEU.go_across    at_edge_of  
+
+ru'uh 
+
+  
+
+ 
+
+stick 
+'The stick is on the basket (positioned across it)'; √ Figure 15 
+
+zhìi'mmy. (SLQZ; 4:18; re PosB:43) 
+basket 
+
+23. a.  Dùùu'   
+ 
+
+dêêi'dy 
+ 
+NEU.go_across  
+
+ 
+
+loh  
+on   
+
+rope 
+'The rope is on the basket (positioned across it)'; √ Figure 16 
+
+zhìi'mmy. (TMZ; re PosB:19) 
+basket 
+
+ 
+
+ 
+
+ 
+
+b.  Dùùu'   
+ 
+
+dèèi'dy 
+ 
+NEU.go_across  
+
+ 
+
+ 
+
+ru'uh 
+at_edge_of      basket 
+
+rope 
+'The rope is on the basket (positioned across it)'; √ Figure 16 
+
+     zhìi'mmy. (SLQZ; 4:181; re PosB:19) 
+
+ 
+
+304 
+
+ 
+
+ 
+24. a.  Lahdy   
+ 
+
+dêêi'dy 
+ 
+NEU.go_across  
+
+ 
+
+loh  
+on   
+
+ 
+ 
+
+zhìi'mmy. (TMZ; re PosB:24) 
+basket 
+
+cloth 
+'The cloth is on the basket (positioned across it)'; √ Figure 17 
+
+ 
+
+ 
+
+b.  Lahdy   
+ 
+
+dèèi'dy 
+ 
+NEU.go_across  
+
+ 
+
+ 
+
+ru'uh 
+at_edge_of      basket 
+
+cloth 
+'The cloth is on the basket (positioned across it)'; √ Figure 17 
+ 
+
+     zhìi'mmy. (SLQZ; 4:181; re PosB:24) 
+
+ 
+
+ 
+
+ 
+
+Figure 15.  stick (basket) 
+
+Figure 16. rope (basket) 
+
+Figure 17. cloth (basket) 
+
+(PosB:43) 
+
+(PosB:19) 
+
+(PosB:24) 
+
+ 
+ 
+
+The pictures above could be described with dêêi'dy by every TVZ speaker consulted so far.  
+
+However, there are other configurations where the felicity of the use of dêêi'dy was not 
+
+unanimous, even within language variety.  For one scenario, the judgments seem to cut across 
+
+language varieties, while for the other two scenarios, the use of dêêi'dy was judged as 
+
+ungrammatical by one speaker of SLQZ, while other speakers of SLQZ and of TMZ judged it 
+
+grammatical.  I will address these in turn. 
+
+Example (25) below is the scenario for which judgments seem to align along language 
+
+variety.  While the two TMZ speakers accepted (25a) as felicitous in describing Figure 18, the 
+
+two SLQZ speakers judged (25b) as infelicitous.  In this scenario, the Figure (the bottle) is in 
+
+contact with the Ground (the basket) in two discontinuous places, but the bottle is not completely 
+
+horizontal.   The Figure is also contained within the Ground.  It appears that this kind of locative 
+
+relationship can be described with dêêi'dy in TMZ, but not in SLQZ.  However, I'm not sure at 
+
+ 
+
+305 
+
+ 
+
+this point if dèèi'dy cannot be used in SQLZ because the figure is not horizontal or because the 
+
+Figure is contained within the Ground (or possible for some other reason). 
+
+ 
+
+25. a.  Bote'iy  
+bottle   
+'The bottle is in the basket (positioned across it)'; √ Figure 18 
+
+dêêi'dy 
+ 
+NEU.go_across  
+
+zhìi'mmy. (TMZ; 4:168, re PosB:22) 
+basket 
+
+làa'any  
+ 
+in   
+
+ 
+
+ 
+
+b.  Bote'i   
+bottle   
+'The bottle is in the basket (positioned across it)'; # Figure 18 
+
+zhìi'mmy. (SLQZ; 4:181) 
+basket 
+
+dèèi'dy 
+ 
+NEU.go_across  
+
+làa'any  
+ 
+in   
+
+ 
+
+ 
+
+ 
+ 
+
+Figure 18. bottle (basket) (PosB:22) 
+
+ 
+
+In the two cases presented below, the locative relationship can be described by at least one 
+
+speaker of TMZ and one speaker of SLQZ with dêêi'dy, but one of the SLQZ speakers judged 
+
+the use of dêêi'dy in describing both of these scenarios as infelicitous.  His use of dêêi'dy seems 
+
+to be a subset of the use of dêêi'dy by the other SLQZ speakers, which in turn seems to be a 
+
+subset of the use of dêêi'dy in TMZ.  Below I present the two scenarios in question, and then 
+
+summarize this continuum of meaning of dêêi'dy in Table 7. 
+
+ 
+
+In the example below, the Figure is on the Ground, but in this case one (or both) of the 
+
+extreme ends is not in contact with the Ground (unlike the examples above, in which the Figure 
+
+is in contact with the Ground in two discontinuous places). 
+
+26. a.  Bote'iy  
+bottle   
+'The bottle is on the rock (positioned across it)'; √ Figure 19 
+
+gyihah. (TMZ; 4:168, re PosB:26) 
+rock 
+
+dêêi'dy 
+ 
+NEU.go_across  
+
+loh  
+on   
+
+ 
+
+ 
+
+ 
+
+306 
+
+ 
+
+b.  Bote'i   
+bottle   
+'The bottle is on the rock (positioned across it)'; %Figure 19 
+
+gyihah. (SLQZ; 4:181) 
+rock 
+
+dèèi'dy 
+ 
+NEU.go_across  
+
+loh  
+on   
+
+ 
+
+ 
+
+ 
+
+ 
+Figure 19. bottle (rock) (PosB:26) 
+
+Finally, Figure 20 shows a case in which the Figure is completely horizontal and in 
+
+ 
+ 
+
+ 
+ 
+
+continuous contact with the Ground.  Dêêi'dy 'is (positioned across)' can be used by one speaker 
+
+of TMZ (27a) and one speaker of SLQZ, but not by another speaker of SLQZ (27b).  Compare 
+
+this with Figure 21: in this case the Figure is also completely horizontal and in continuous 
+
+contact with the table, but in this case the use of dêêi'dy 'is (positioned across)' is judged 
+
+infelicitous by the same speakers who could use it to describe Figure 20, both in TMZ (28a) and 
+
+SLQZ (28b).   
+
+27. a.  Gyahg  
+ 
+
+dêêi'dy 
+ 
+NEU.go_across  
+
+ 
+
+loh   me'es. (TMZ; 4:168, re PosB:17) 
+on   
+
+table 
+
+stick 
+'The stick is on the table (positioned across it)'; √ Figure 20 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+b.  Gyahg  
+ 
+ 
+
+   
+
+dèèi'dy 
+ 
+NEU.go_across  
+
+ 
+
+loh   me'es. (SLQZ; 4:181) 
+on   
+
+table 
+
+stick 
+'The stick is on the table (positioned across it)'; % Figure 20 
+
+ 
+28. a.  Lahdy  dêêi'dy 
+
+ 
+ 
+
+ 
+
+ 
+cloth  NEU.go_across  
+'The cloth is on the table (positioned across it)'; #Figure 21 
+ 
+
+loh   me'es. (TMZ; 4:168) 
+on   
+
+table 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+cloth  NEU.go_across  
+'The cloth is on the table (positioned across it)'; #Figure 21 
+
+loh   me'es. (SLQZ) 
+on   
+
+table 
+
+ 
+ 
+
+ 
+
+b.  Lahdy  dèèi'dy 
+ 
+ 
+ 
+
+307 
+
+ 
+
+ 
+
+Figure 20.  stick (table) (PosB:17) 
+
+Figure 21. cloth (table) (PosB:14) 
+
+ 
+
+ 
+
+ 
+
+Since in these two scenarios the Ground (a table) and the locative relationship between the 
+
+Figure and the Ground (the Figure is on the Ground, completely supported by it and in both cases 
+
+the locative phrase loh me'es 'on the table' is used) are identical, some additional quality of the 
+
+Figure must be relevant.  I hypothesize that in both speech varieties the verb dêêi'dy 'is 
+
+(positioned across)' can only be used with Figures of a particular shape: long and thin, e.g. like a 
+
+stick or a piece of cloth folded up long and thin. 
+
+In Table 7 I summarize the range of meanings of dêêi'dy.  It seems to have the broadest range 
+
+of uses in TMZ.  In this language variety it can be used for Figures that are not completely 
+
+horizontal, as long as they have two discontinuous places of support from the Ground.  I don't 
+
+have enough data yet to determine the constraints involved with this verb in SLQZ, but it might 
+
+be that SLQZ dèèi'dy requires its subject to be horizontal.  Another hypothesis is that SLQZ 
+
+dèèi'dy disallows its subject to be contained within Ground.7 And one speaker seems to have an 
+
+even narrower use of the verb, requiring the Figure to be in contact with the Ground in two 
+
+discontinuous places.       
+
+                                                 
+7 Thanks to Pamela Munro for her suggestions on the meaning of this verb. 
+
+ 
+
+308 
+
+ 
+
+verb 
+
+gloss 
+
+dêêi'dy 
+(TMZ) 
+
+'is (positioned 
+across)' 
+
+ 
+
+ 
+
+restriction on 
+shape of the 
+Figure 
+The Figure must be 
+long and thin (as 
+evidenced by 
+#28a). 
+ 
+
+dèèi'dy 
+(SLQZ) 
+
+'is (positioned 
+across)' 
+
+The Figure must be 
+long and thin 
+(#28b). 
+
+dèèi'dy 
+(conservative? 
+SLQZ) 
+
+'is (suspended 
+across)' 
+
+The Figure must be 
+long and thin. 
+
+ 
+
+restriction on type of 
+contact with Ground 
+
+then it must have two 
+discontinuous places of 
+contact and support with 
+the Ground (25a). 
+then it can be in contact 
+with and supported by the 
+Ground in one (26a) or 
+more places (22a, 23a, 
+24a), or continuously 
+(27a). 
+and it can be in contact 
+with and supported by the 
+Ground in one (26b) or 
+more places (22b, 23b, 
+24b), or continuously 
+(27b). 
+
+and it must have two 
+discontinuous places of 
+contact and support with 
+Ground (22b, 23b, 24b, 
+#26b, #27b). 
+
+restriction on 
+orientation of 
+Figure 
+If the Figure is 
+not oriented such 
+that its long axis 
+is horizontal… 
+If the Figure is 
+oriented such that 
+its long axis is 
+horizontal… 
+
+H1: The Figure 
+must be oriented 
+such that its long 
+axis is horizontal /  
+H2: The Figure 
+cannot be 
+contained within 
+the Ground 
+(#25b)… 
+H1: The Figure 
+must be oriented 
+such that its long 
+axis is horizontal /  
+H2: The Figure 
+cannot be 
+contained within 
+the Ground 
+(#25b)… 
+
+Table 7.  TMZ dêêi'dy and SLQZ dèèi'dy with inanimate Figures 
+
+ 
+
+The positional verb dêêi'dy is also attested in CVZ (29).  Note that, as in the previous CVZ 
+
+example (16), the positional verb seems to have an overt neutral aspect marker (in this case ni-).  
+
+quique layoo  xiteni  Don Juan 
+head 
+of    Don Juan 
+
+land 
+
+'another planted field crosses the top of the land of Don Juan Perez' 
+
+ 
+DEF-one  planted_field  NEU-go_across  
+
+cueelayoo   
+
+ni-tete   
+
+ 
+
+peres  (CVZ; Te610-2;8) 
+Perez 
+
+29. se-tobi  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.5.4.  Rii 'are around'  
+
+ 
+
+Rii 'are around' is a positional verb that selects for a plural or mass Figure.   
+
+ 
+
+309 
+
+ 
+
+ 
+
+rii 1. is around; is there (inan[imate] subj[ect]) {Rii nnyi'his "Water is there (collecting in a hold 
+in the ground)"; Ua's rii zhi'ih "There's a lot of colds around"}; 2. are around; are there (p[lural] 
+subj[ect]) {Ua's rii zh:àa'cw ri'cy "There are really (a lot of) cockroaches there"; Riie ra bùunny 
+"People are around"} … neut. mbih… 
+
+Munro and Lopez, et al. 1999: 264; italics added, Spanish omitted 
+
+ 
+Unlike the other positional verbs rii seems to be in the habitual aspect.  The dictionary entry 
+
+above lists the neutral form mbih.  I have not seen this verb form in the responses to PosB.  The 
+
+status of this is important for future investigation of the morphological characteristics of the class 
+
+of positional verbs. 
+
+ 
+
+Rii 'are around' can be used with a Figure that is plural (30) or mass (31).  It cannot be used 
+
+with a singular countable Figure, such as a ball (32) or with a Figure that could be spread out, 
+
+such as a tablecloth (33). 
+
+30. Da baloon  
+ 
+ 
+
+ 
+PL  large_ball   with  PL  sm.ball  
+'The balls are on the table'; re PosB:8; √Figure 22 
+
+ cuhnn da  pelo't 
+
+rii   
+HAB.are_around  on   
+
+ 
+
+ 
+
+ 
+
+loh   me'es. (TMZ; 4:168) 
+
+table 
+
+ 
+
+31. Nnyi'ihs   rii   
+  water    
+ 
+
+'Water is on the ground' 
+
+ 
+
+loh  
+HAB.are_around  on   
+
+ 
+
+ 
+
+yuhuh. (TMZ; 5:168) 
+ground  
+
+ 
+
+ 
+
+loh   me'es. (TMZ; 4:168) 
+
+ 
+
+ 
+
+ 
+
+rii   
+HAB.are_around  on   
+
+ball 
+'Balls are on the table'; # Figure 23 
+
+32. Baloon   
+ 
+ 
+ 
+ 
+33. Lahdy   
+cloth     
+'Cloth is around on the table'; # Figure 24 
+
+rii   
+ 
+HAB.are_around 
+
+ 
+ 
+
+ 
+
+ 
+
+table 
+
+ 
+ 
+
+loh   me'es. (TMZ; 4:168) 
+on   
+
+table 
+
+Figure 22. balls (table) 
+
+Figure 23. ball (table) 
+
+Figure 24. cloth (table) 
+
+(PosB: 8) 
+
+(PosB:21) 
+
+(PosB:14) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+310 
+
+ 
+
+ 
+
+Beyond being plural or mass in number, size, shape and orientation of the Figure does not seem 
+
+to matter: rii can be used with balls, as shown above in (30), with beans, as in (34), and with 
+
+bottles, as in (35). 
+
+ 
+
+ 
+
+ 
+ 
+
+loh  
+on   
+
+rii   
+ 
+HAB.are_around 
+
+bean 
+'The beans are on the ground'; √ Figure 25 
+
+34. Bzìàah  
+ 
+ 
+ 
+ 
+35. Da bote'iy  
+ 
+PL  bottle   
+'The bottles are on the table'; √ Figure 26 
+ 
+ 
+
+rii   
+HAB.are_around  on   
+
+ 
+
+ 
+
+table 
+
+yuhuh. (TMZ; 4:168; re PosB:11) 
+dirt 
+
+ 
+
+ 
+
+loh   me'es. (TMZ; 4:168; re PosB:52) 
+
+Figure 25.  beans (ground) (PosB:11) 
+
+Figure 26. bottles (table) (PosB:52) 
+
+ 
+
+ 
+
+  While rii can be used with plural (and mass) Figures, it is not true that every plural Figure 
+
+ 
+
+ 
+
+can be used with rii.  The balls presented in Figure 27 cannot be used with rii, as shown in 36. 
+
+baloon  
+ball 
+ 
+
+36. *Da 
+ 
+PL   
+ 
+'The balls are in the basket'; #Figure 27 
+ 
+
+rii   
+ 
+HAB.are_around 
+
+ 
+
+ 
+
+làa'any  
+in   
+ 
+
+zhìi'mmy. (TMZ; 4:168) 
+basket 
+
+Figure 27.  balls (basket) (PosB: 56) 
+
+ 
+
+ 
+
+311 
+
+ 
+
+ 
+
+ 
+I hypothesize that the ungrammaticality of (36) lies in the fact that the balls are not spread out.  
+
+This is based on the SLQZ dictionary definition, which offers "are around" as one of the 
+
+definitions.  It is also possible that rii cannot be used with only two of an object.  The summary 
+
+of these restrictions associated with rii are presented below in Table 8. 
+
+TMZ 
+verb 
+rii 
+
+gloss 
+
+restriction on number of 
+Figure 
+
+are around  must be plural or mass in 
+
+number (as evidenced by 30, 
+31, #32, #33, 34, 35) 
+
+restriction on locative relationship 
+
+must be spread out around (30, 34, 35, 
+#36) 
+
+Table 8.  TMZ rii 'are around' 
+
+ 
+ 
+5.5.5.  Nàa' 'is lying'  
+
+At first glance it is not obvious what the SLQZ cognate of the TMZ verb nàa' is.  There are two 
+
+verbs which are potentially cognates: nàa "1. is; 2. is (located) in, is a part of; exists in" (Munro 
+
+and Lopez, et al. 1999:171) and nàa't, which is the neutral form of ràa't "lies down" (Munro and 
+
+Lopez, et al. 1999:219).  Based on its use in the PosB data presented below, I believe that TMZ 
+
+nàa' is cognate to SLQZ nàa't.      
+
+ 
+
+In the examples below, the bottle can be used with the verb nàa' 'is lying' in where it is 
+
+sideways on the rock, but not when it is upright on the rock (37). 
+
+37. Bote'iy  
+bottle   
+'The bottle is (lying) on the rock'; √ Figure 28, #Figure 29 
+
+guë'ëhcy  gyihah. (TMZ; 4:168) 
+on   
+
+n-àa' 
+ 
+NEU-lie  
+
+ 
+
+rock 
+
+ 
+
+312 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 28.  bottle (rock) (PosB:26) 
+
+Figure 29.  bottle (rock) (PosB:10) 
+
+ 
+
+ 
+
+ 
+Nàa' is never used for a bottle that is upright in my data; another examples of this is provided in 
+
+(38).   
+
+38. Bote'ij   
+    bottle   
+ 
+
+n-àa' 
+ 
+NEU-lie  
+
+loh   me'es. (TMZ; 4:168) 
+on   
+
+table 
+
+'The bottle is (lying) on the table'; #Figure 30 
+
+ 
+
+Figure 30.  bottle (table) (PosB:37) 
+
+ 
+
+ 
+ 
+
+In Table 9 I summarized my hypothesis for the restrictions associated with nàa'. 
+
+TMZ 
+verb 
+nàa'  
+
+ 
+ 
+
+ 
+
+gloss 
+
+restriction on shape and orientation of the Figure 
+
+is lying 
+
+the Figure must be shaped and / or oriented in such a way that the vertical 
+axis is not longer than the horizontal axis (as evidenced by 37, #37, #38) 
+
+Table 9.  Nàa' 'is lying' (TMZ) 
+
+313 
+
+ 
+
+ 
+
+5.6.  Conclusions 
+
+This chapter has presented a brief introduction to positional verbs in TVZ.  Much work remains 
+
+to be done on many aspects of the positional verb system of TVZ, including its syntactic and 
+
+semantic characteristics, its relationship and interaction with component part locatives, and its 
+
+relation to other positional verb systems cross-linguistically.  For example, Levinson offers the 
+
+following typology of positional verbs, and I hope to examine how the TVZ system fits into this 
+
+in future work. 
+
+Topological information is also often encoded in verbs… There appear to be two major types of 
+contrastive locative predicates, or verb classes (Ameka and  Levinson in preparation): small sets 
+of posture verbs of three to five members, on the one hand, and large sets of 'positional' verbs on 
+the other.  The small-set verbs are often drawn from the human posture verbs 'sit', 'stand', 'lie', but 
+also  from  verbs  meaning,  for  example,  'hang'…  The  large  sets  of  positional  verbs,  in  contrast, 
+tend not to have sortal presuppositions, but express directly the actual configuration of figure to 
+ground. 
+
+Levinson 2003:103 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+314 
+
+ 
+
+ 
+
+ 
+
+APPENDIX I 
+
+ 
+
+The Frog Story 
+
+Zh:àa'at, Cu'unùu', Zh:àa'at? 'Toad, where are you, toad?' 
+
+in Tlacolula de Matamoros Zapotec 
+
+ 
+
+Told by Roberto Antonio Ruiz, June 4, 2003, 
+
+from the pictures in Frog, Where are You? (Mayer 1969) 
+
+ 
+
+Examples from this narrative are referenced in the dissertation by "(Zhat:#)" where the # refers to 
+the line numbers below. 
+ 
+The audio file and (updated) interlinearized transcription of this text are digitally archived at 
+AILLA (www.ailla.utexas.org) under the code ZAB001R001 and are freely available without a 
+password. The version here was updated as of September 6, 2007.  To see the most up to date 
+version, please visit the AILLA archives. 
+
+ 
+
+ 
+
+ 
+ 
+
+to'ohby  
+one  
+ 
+
+istoory  
+story 
+ 
+
+x:tèe'   to'ohby   mìi'iny 
+of   
+
+child 
+
+one  
+
+ 
+
+REL 
+
+ 
+
+gyahg 
+tree 
+
+to'ohby  
+ 
+one  
+
+zh:àa'at 
+toad 
+ 
+
+x:tèe'n=nìi'; 
+of=3ANAP 
+
+this  
+This is a story of a child 
+
+guë'ëhcy 
+ 
+NEU.stand   
+ 
+on   
+standing on a log, 
+
+1.  Ndèe'   nàa  
+ 
+COP 
+ 
+ 
+2.  nih   w-ni'ihty 
+ 
+ 
+PERF-lose   
+  who lost his toad; 
+ 
+3.  zuu  
+ 
+ 
+ 
+4.  ca-bëhzha'=nìi'i, 
+PROG-call=3PROX 
+ 
+ 
+he was calling, 
+ 
+5.  "Zh:àa'at,  cu'un=ùu',   
+ 
+  where=2INF 
+ 
+ 
+ca-gyi'eht-nèe   
+6.  To'ohby 
+ 
+PROG-play-with 
+ 
+  One day, the child was playing with his toad, 
+ 
+7.  b-lùu'=nìi'i  
+ 
+ 
+ 
+
+làa'any  
+ 
+PERF-put=3PRX 
+in   
+ 
+and put it in a jar of water. 
+
+toad 
+"Toad, where are you, toad?" 
+
+zhihih  mìi'iny  
+day  
+ 
+
+child 
+
+zh:àa'at?" 
+toad 
+
+one  
+
+ 
+ 
+
+zh:àa'at 
+toad 
+ 
+
+x:tèe'n=nìi'; 
+of=3ANAP 
+
+to'ohby  
+one  
+ 
+
+nnyi'his. 
+
+bo't  
+jar    water 
+
+ 315 
+
+ 
+
+child 
+
+zh:àa'at. 
+toad 
+
+zh:àa'at. 
+toad 
+
+ca-lùu'uh 
+PROG-put 
+
+ 
+ 
+
+ 
+ 
+
+bo't  
+jar   
+
+  mìi'iny  
+ 
+
+child 
+
+zh:àa'at. 
+toad 
+
+ 
+PERF-leave  
+
+ 
+
+zh:àa'at 
+toad 
+ 
+
+ 
+
+z-èe 
+ 
+ZPROG-go   
+
+quë'ity=ru'  
+ 
+NEG=anymore  
+
+x:tèe'  nnyi'his. 
+of    water 
+
+chih=nìi' 
+
+  w-ta'ihsy 
+
+ 
+
+ 
+
+  mìi'iny, 
+
+but   when=NÌI'   
+
+PERF-go_to_sleep   
+
+in   
+in the jar of water. 
+
+x:-tro'omp=nìi'  
+ 
+POSS-snout=3ANAP 
+
+dog 
+
+then 
+Then the dog was putting his snout 
+
+ 
+already  
+The toad already left. 
+
+z-èe 
+ 
+DEF-go  
+
+toad 
+the toad came out and the toad was going—the toad. 
+
+8.  Chi'c  bèe'ecw 
+ 
+ 
+ 
+ 
+9.  làa'any  
+ 
+ 
+ 
+ 
+10. Pehr 
+ 
+  But when the child went to sleep, 
+ 
+11. zh:àa'at:  b-rììa'   
+ 
+ 
+ 
+12. Chih  g-wahnny   
+  when  PERF-wake_up  
+  When the child woke up, the toad wasn't there anymore. 
+ 
+13. A 
+ 
+ 
+ 
+14. Chih  b-dìi'lly 
+  when  PERF-look_for  
+ 
+ 
+15. raa  
+ 
+all   
+ 
+all in his clothes, 
+ 
+16. raa  
+ 
+ 
+ 
+17. Chi'c  bèe'ecw 
+ 
+ 
+ 
+ 
+18. Quë'ity =ru' 
+ 
+ 
+ 
+ 
+
+  mìi'iny  
+ 
+Then the child looked for the toad, 
+
+then 
+Then the dog put his head in the glass jar. 
+
+zh:àa'at. 
+NEG=still 
+toad 
+The toad wasn't there. 
+
+guë'ëhcy=nìi'  làa'any  
+ 
+head=3ANAP 
+
+in   
+
+x:ahb=nìi' 
+POSS.clothes=3ANAP 
+
+all    way=INTSV 
+everywhere. 
+
+làa'  
+LÀA' 
+
+ 
+ 
+
+zh:àa'at 
+toad 
+
+dog 
+
+b-lùu'uh 
+PERF-put 
+
+ 
+ 
+
+ 
+
+child 
+
+làa'any  
+in   
+ 
+
+nehz=te'. 
+
+ 
+
+ 
+ 
+
+bo't  
+jar   
+
+biedr 
+glass 
+
+ 316 
+
+ 
+
+venta'n. 
+  window 
+
+ 
+
+guë'ëhcy=nìi'   
+ 
+PERF-stick   
+head=3ANAP 
+The dog stuck his head out the window. 
+
+bèe'ecw 
+dog 
+ 
+
+ru'uh 
+
+venta'n. 
+  mouth    window 
+
+ 
+
+làa'any  
+in   
+ 
+
+bo't  
+jar   
+
+bi'edr. 
+glass 
+
+a'sta' 
+loh  
+until  on   
+
+yuhuh. 
+dirt 
+
+PERF-leave  
+
+then 
+Then the child went out through the other side 
+
+child 
+
+s-toohby 
+DEF-one 
+
+laad 
+side 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+dog 
+
+child 
+
+PERF-open  
+
+  mìi'iny  
+
+z-èe 
+ 
+DEF-go  
+
+zh:àa'at. 
+toad 
+
+guë'ëhcy  bèe'ecw 
+head 
+ 
+
+b-iahahb  bèe'ecw 
+PERF-fall  dog 
+ 
+
+ 
+already  
+The toad already left. 
+
+then 
+Then the child opened the window. 
+
+ 
+then=still   
+Then the dog fell to the ground. 
+
+19. A 
+ 
+ 
+ 
+20. Chi'c  b-xàaal  
+ 
+ 
+ 
+21. B-lèe 
+ 
+ 
+ 
+22. N-u'uh  
+NEU-be  
+ 
+ 
+The dog's head was in the glass jar. 
+ 
+23. Chi'c=ru' 
+ 
+ 
+ 
+24. Chi'c  b-rììa'   
+ 
+ 
+ 
+25. gw-a'-dèe'az 
+ 
+ 
+ 
+26. Chi'c  bèe'ecw 
+ 
+ 
+ 
+ 
+27. Chih=ru' 
+ 
+ 
+ 
+28. du'unn  
+ 
+ 
+ 
+29. cantidaa=za'  dyee'p   
+  many=very  wasp 
+ 
+  many wasps flew through there. 
+ 
+
+làa'  
+ 
+LÀA'  dog 
+PERF-AND-hug  
+and went and hugged the dog. 
+
+  mìi'iny  
+ 
+
+ca-lèe'   
+ 
+PROG-lick   
+
+bèe'ecw. 
+
+dog 
+
+then 
+Then the dog was licking the child's face. 
+
+loh   mìi'iny. 
+face 
+
+child 
+
+ 
+
+ 
+then=anymore  
+Then the child was calling everywhere 
+
+ca-bëzhtya'ah    mìi'iny  
+PROG-call_for   
+ 
+
+child 
+
+nehz=tèe' 
+
+raa   
+all    way=INTSV 
+
+ 
+
+ 
+in_order_to_see 
+in order to see where he could go and get the toad and went and 
+
+ 
+  where    way  HAB-AND-get  toad=and 
+
+r-i-càa'  
+
+nehz 
+
+càa  
+
+zh:àa'at=neh 
+
+ 
+
+ 
+
+zaihby  
+nehz=qui 
+NEU.fly   way=this 
+
+ 317 
+
+ 
+
+ 
+ 
+
+z-èe 
+ 
+DEF-go  
+
+zh:àa'at 
+toad 
+ 
+
+làa'any  
+in   
+ 
+
+guêêë'dy.  
+hole 
+
+làa'any  
+in   
+ 
+
+ 
+
+to'ohby  
+one  
+
+niilly. 
+  mole 
+
+ 
+
+càa  
+
+to'ohby  
+ 
+one  
+
+n-u'uh   
+NEU-be  
+
+guêêë'dy 
+ 
+hole 
+
+làa'any=nìi'. 
+in=3ANAP 
+
+  mìi'iny 
+ 
+
+child 
+
+niilly  x:-amiu 
+
+  mìi'iny. 
+
+a'sta'  gaht  
+ 
+until  where   
+
+gw-eheh  mìi'iny  
+ 
+PERF-go 
+
+child 
+
+guêêë'dy=qui  b-rììa'   
+hole=this 
+
+ 
+PERF-leave  
+
+There  PROG-look_for  
+There the child was looking 
+
+ 
+in_order_to_see 
+in order to see if the toad went in the hole. 
+
+ 
+nehz 
+  where  way 
+
+ 
+then=still   
+Then the child went to where there was a tree 
+
+30. Chih=ru' 
+ 
+ 
+ 
+31. nih  
+REL 
+ 
+ 
+that had a hole in it. 
+ 
+32. Ri'cy  ca-dìi'lly 
+ 
+ 
+ 
+33. du'unn  
+ 
+ 
+ 
+34. Per  
+ 
+but  
+  But a mole came out of this hole. 
+ 
+35. Chi'c  g-uhc   
+ 
+ 
+ 
+36. Chi'c  bèe'ecw 
+ 
+ 
+ 
+ 
+37. Duur 
+ 
+a_lot 
+ 
+The dog was barking a lot. 
+ 
+38. Chi'c  b-rììa'   
+ 
+ 
+ 
+39. Z-èe 
+ 
+ 
+ 
+40. Chi'c 
+then 
+ 
+ 
+Then from the hole which was on the side of the tree 
+ 
+
+then 
+Then the dog was barking and looking at the hive. 
+
+DEF-go   wasp 
+The wasps went up and followed the dog. 
+
+PERF-be  mole  POSS-friend 
+
+then 
+Then the mole became the child's friend. 
+
+PERF-leave   many 
+
+then 
+Then a lot of wasps came out. 
+
+guêêë'dy  nih  
+REL 
+hole 
+
+ 
+
+ 
+sanàall  
+DEF.follow  
+
+r-du'uhx 
+ 
+HAB-bark   
+
+ca-du'uhx   
+PROG-bark  
+
+ca-gwi' ih   
+PROG-look  
+
+ 
+
+cantidaad  dyee'p. 
+
+bèe'ecw. 
+dog 
+
+dyee'p   
+ 
+
+yaàa' 
+up   
+
+ 
+ 
+
+làa'any  
+ 
+in   
+
+làa'  
+LÀA' 
+
+dog 
+
+ 
+ 
+
+ 
+
+child 
+
+loh  
+to   
+
+  wasp 
+
+ 
+
+zòob 
+ 
+NEU.sit  
+
+to'ohby  
+ 
+one  
+
+gyahg 
+tree 
+
+to'ohby  
+one  
+ 
+
+bteheh. 
+hive 
+
+ 
+ 
+
+bèe'ecw. 
+dog 
+
+nàa  
+COP 
+
+ 
+ 
+
+ 
+
+têë'ix 
+ 
+on_side_of  
+
+gyahg   
+tree  
+
+ 318 
+
+ 
+
+yuhuh. 
+dirt 
+
+then 
+Then the child fell on the ground. 
+
+loh  
+to   
+
+ 
+
+gaan  
+ 
+reward  
+
+b-zh:êë'nny. 
+PERF-run 
+
+ 
+
+a 
+ 
+already  
+
+gu-hstìi. 
+PERF-get_up 
+
+da'amm 
+owl 
+
+  mìi'iny. 
+ 
+
+child 
+
+gyahg 
+tree 
+
+to'ohby  
+ 
+one  
+
+  mìi'iny  
+ 
+ 
+
+child 
+
+ 
+PERF-move  
+
+then 
+Then the tree shook. 
+
+ 
+PERF-leave  
+an owl came out 
+
+then=NÌI'  dog 
+Then the dog won running. 
+
+làa'  
+ 
+PERF-scare  
+LÀA' 
+and scared the child. 
+
+41. b-rììa'   
+ 
+ 
+ 
+42. b-chiiby 
+ 
+ 
+ 
+43. Chi'c  b-iahahb 
+ 
+PERF-fall 
+ 
+ 
+44. Chi'c  b-ni'ìi'by 
+ 
+ 
+ 
+45. Chih=nìi'   bèe'ecw   b-èi'ny  
+ 
+PERF-do 
+ 
+ 
+46. Chi'c  mìi'iny  
+ 
+ 
+ 
+ 
+47. B-zhihby 
+ 
+ 
+ 
+48. Chi'c  b-zuh   
+ 
+ 
+ 
+49. Z-èe 
+ 
+ 
+ 
+50. Chi'c  b-yèe'py 
+ 
+ 
+ 
+51. Bèe'ecw  n-iga'ah 
+ 
+NEU-lie  
+ 
+ 
+
+ 
+ 
+ 
+PERF-be_scared 
+The owl got scared. 
+
+ 
+da'amm. 
+DEF-go  
+owl 
+The owl went. 
+
+then 
+PERF-fly  owl 
+Then the owl flew off. 
+
+child 
+
+then 
+Then the child got up. 
+
+da'amm. 
+
+ 
+
+da'amm. 
+owl 
+
+ 
+PERF-go_up 
+
+  mìi'iny  
+then 
+ 
+ 
+Then the child went up on a rock. 
+
+child 
+
+cwe'eh  
+dog 
+beside   
+The dog was lying beside the rock. 
+
+ 
+ 
+
+ 
+
+guë'ëhcy 
+ 
+on   
+
+to'ohby  
+ 
+one  
+
+gyiah. 
+rock 
+
+gyiah. 
+rock 
+
+ 319 
+
+  mìi'iny  
+ 
+ 
+
+child 
+
+guë'ëhcy 
+ 
+on   
+
+to'ohby  
+ 
+one  
+
+gyiah, 
+rock 
+
+ 
+
+then 
+Then the child fell into the deer's antlers. 
+
+in   
+
+  mìi'iny làa'any  
+ 
+ 
+
+child 
+
+x:-ca'ch 
+ 
+POSS-horn   
+
+bzêëny. 
+deer 
+
+ 
+
+  mìi'iny  
+ 
+ZPROG-go-with 
+ 
+ 
+and was taking the child in his antlers. 
+
+làa'  
+LÀA' 
+
+child 
+
+ 
+
+child 
+
+chih=nìi' 
+
+bzêëny 
+deer 
+ 
+
+to'ohby  
+ 
+
+bzêëny. 
+deer 
+
+  mìi'iny. 
+ 
+
+then 
+PERF-run 
+Then the deer ran 
+
+ 
+but   when=NÌI'   
+
+PERF-appear  one  
+a deer appeared. 
+
+b-yèe'py 
+ 
+52. Per  
+ 
+PERF-go_up 
+  But the child climbed up on a rock, 
+ 
+53. b-riahah 
+ 
+ 
+ 
+54. Chi'c  b-iahahb 
+ 
+PERF-fall 
+ 
+ 
+55. B-iahahb 
+PERF-fall 
+ 
+ 
+The child fell. 
+ 
+56. Chi'c  b-zh:êë'nny 
+ 
+ 
+ 
+ 
+57. z-àa-nèe 
+ 
+ 
+ 
+58. Chi'c  bèe'ecw 
+ 
+ 
+ 
+ 
+59. Chi'c  b-zëhnny 
+ 
+ 
+ 
+60. Chi'c  b-ryàa'lly   
+ 
+ 
+ 
+61. B-riahahb    mìi'iny  
+ 
+ 
+ 
+ 
+62. bèe'ecw 
+ 
+ 
+ 
+ 
+
+PERF-fall 
+The child fell into the ditch 
+
+dog 
+the dog fell into the ditch. 
+
+b-riahahb   
+ 
+PERF-fall 
+
+  mìi'iny  
+ 
+
+child 
+
+ca-du'uhx   
+PROG-bark  
+
+làa'any  
+ 
+in   
+
+làa'any  
+ 
+in   
+
+ 
+
+child 
+
+ 
+PERF-arrive 
+
+ru'uh 
+ 
+then 
+at_edge_of  
+Then the deer arrived at the edge of the ditch. 
+
+bzêëny  
+deer 
+ 
+
+ 
+
+PERF-fall_out   
+
+then 
+Then the child fell out of the deer's antlers. 
+
+làa'any  
+in   
+ 
+
+dog 
+
+then 
+Then the dog was barking and looking at the child. 
+
+ca-gwi' ih  loh   mìi'iny. 
+PROG-look to   
+
+child 
+
+làa'any  
+in   
+ 
+
+x:-ca'ch=nìi'. 
+POSS-horn=3ANAP 
+
+schu' 
+edge 
+
+ 
+ 
+
+barra'annc. 
+ditch 
+
+x:-ca'ch 
+ 
+POSS-horn   
+
+bzêëny. 
+deer 
+
+barra'annc=neh 
+ditch=and 
+
+barra'annc. 
+ditch 
+
+ 320 
+
+n-u'uh   
+NEU-be   water 
+
+nnyi'his. 
+
+nnyi'ihs 
+
+  water 
+
+PERF-put  child 
+The child put the dog on his shoulders. 
+
+zh:a'-zhi'i=nìi'. 
+buttocks-nose=3ANAP 
+
+DEF-go-with  child  dog 
+The child took the dog to where there was a log. 
+
+a'sta'  gaht 
+n-u'uh   
+until  where  NEU-be  
+
+bèe'ecw, 
+
+làa'  
+LÀA'  dog 
+
+ 
+
+to'ohby  
+one  
+ 
+
+tru'unnc. 
+log 
+
+ 
+
+ 
+
+child 
+
+in   
+
+bèe'ecw 
+dog 
+ 
+
+  mìi'iny bèe'ecw 
+ 
+
+  mìi'iny  
+ 
+ 
+
+barra'annc   
+ 
+ditch 
+
+in   
+in the ditch there was water. 
+
+PERF-fall 
+The child fell into the water. 
+
+r-a'ihpy 
+then  HAB-tell 
+child 
+Then the child told the dog, 
+
+63. Làa'any 
+ 
+ 
+ 
+ 
+64. b-riahahb    mìi'iny làa'any  
+ 
+ 
+ 
+65. B-zêë'b  mìi'iny  
+ 
+ 
+ 
+ 
+66. Z-àa-nèe 
+ 
+ 
+ 
+67. Chi'c 
+ 
+ 
+ 
+68. "Bxxx!     Zhigah=nìi'!" 
+ 
+ 
+ 
+69. Nadòo'  
+ 
+ 
+ 
+ 
+70. Chi'c=ru' 
+ 
+ 
+ 
+71. Tru'unnc  z-àa-nèe 
+ 
+ 
+ 
+72. a'sta' 
+until 
+ 
+ 
+to the edge of the ditch. 
+ 
+73. Chi'c=ru' 
+ 
+ 
+ 
+
+shhh 
+"Shhh! Quiet!" 
+
+ 
+ru'uh 
+at_edge_of  
+
+bèe'ecw 
+dog 
+ 
+
+  w-èe'py 
+
+quietly=NÌI' 
+
+ 
+
+ 
+
+schu'  barra'annc. 
+edge  ditch 
+
+ 
+
+  mìi'iny  
+then=anymore  
+ 
+ 
+Then the child saw two toads. 
+
+  w-nàa   
+PERF-see 
+
+child 
+
+first 
+First the child put the dog on the log. 
+
+b-lèe'py 
+PERF-put_up  child 
+
+  mìi'iny  
+ 
+
+guë'ëhcy 
+on   
+ 
+
+tru'unnc 
+log 
+
+ 
+
+ 
+
+  mìi'iny. 
+
+then=anymore  
+Then the child went and got up. 
+
+PERF.AND-get_up  child 
+
+ 
+
+log  
+The log took the child and the dog  
+
+DEF-go-with  LÀA' 
+
+child 
+
+ 
+
+làa'   mìi'iny  
+
+cuhnn   
+ 
+
+  with 
+
+bèe'ecw 
+dog 
+ 
+
+ 
+ 
+
+loh  
+to   
+
+tyo'p  zh:àa'at 
+two 
+
+toad 
+
+ 321 
+
+ 
+
+ 
+
+guë'ëhcy  gyahg. 
+on   
+
+tree 
+
+ 
+
+staal 
+
+zh:àa'at. 
+
+  many  toad 
+
+child 
+
+ 
+
+ 
+
+child 
+
+  mìi'iny. 
+
+ 
+
+b-ìe'd 
+PERF-come  
+
+PERF-get_up-well   
+
+  w-nàa    mìi'iny  
+ 
+
+ 
+then=still   
+Then the child came. 
+
+to'ohby  
+PERF.take   
+one  
+ 
+The child took one little toad. 
+
+  mìi'iny  
+ 
+
+  mìi'iny  
+then 
+ 
+Then the child got up well on the log. 
+
+74. Chih  b-yèe'py-za'c 
+ 
+ 
+ 
+75. Chih=nìi' 
+then=NÌI' 
+ 
+PERF-see  child 
+ 
+Then the child saw lots of toads. 
+ 
+76. Chi'c=ru' 
+ 
+ 
+ 
+77. Wacàa'  
+ 
+ 
+ 
+78. z-àa-nèe 
+ 
+ 
+ 
+79. Chi'c=ru' 
+ 
+ 
+ 
+80. z-àa=nèe      mìi'iny      zh:àa'at=e'eh. 
+ 
+ 
+ 
+81. A 
+ 
+ 
+ 
+
+cuhnn   
+DEF-go-with  child 
+ 
+(that) the child and the dog took.  
+
+toad=DIM 
+DEF-go=with  child 
+the child would take the little toad. 
+
+ 
+already  
+It's already finished.  
+
+b-lùuzh=nìi'i. 
+PERF-finish=3PROX 
+
+  mìi'iny  
+
+  with 
+
+ 
+
+child 
+
+zh:àa'at 
+toad 
+ 
+
+bichi' 
+little 
+
+bèe'ecw. 
+dog 
+
+      raa=tèe       da    zh:àa'at  ca-gwi'       loh mìi'iny  
+
+then=still   
+Then all the toads were watching the child (to see) where 
+
+all=INTSV  PL   toad 
+
+PROG-see   to  child 
+
+ 
+
+càa  
+
+nehz 
+  where  way 
+
+ 322 
+
+ 
+
+APPENDIX II 
+
+ 
+
+Summary of use of positional verbs in PosB data from five TVZ speakers 
+
+ 
+
+These  summaries  are  listed  by  the  page  number  from  PosB  (Ameka  et  al.  1999)  and  mark  the 
+positional  verbs  that  were  volunteered  (x),  accepted  (√),  or  judged  as  infelicitous  (*)  by  the 
+speaker for each picture.  Page / picture numbers from PosB in bold are those that are pictured 
+and referenced in Chapter 5.  The verbs are listed in simplified spelling, i.e. to save space they 
+follow the orthographic conventions in Cali Chiu (Munro, Lillehaugen, and Lopez in prep.) and 
+leave out, among other things, markers of tone and phonation.  A blank cell indicates that there is 
+no  data  for  that  combination.    See  §5.1  for  a  detailed  description  of  the  methodology  used  in 
+eliciting the data.  The following table lists the contents of this appendix. 
+ 
+
+Table  Language 
+
+Speaker 
+
+type of data 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Variety 
+TMZ 
+
+TMZ 
+
+Mr. Antonio 
+Ruiz 
+Ms. Antonio 
+
+SLQZ 
+
+Ms. V. Lopez 
+
+SLQZ 
+
+Mr. Lopez 
+
+SLQZ 
+
+Ms. S. Lopez 
+
+TVZ 
+
+all five speakers 
+
+TMZ 
+
+both speakers 
+
+complete set of volunteered data, with 
+additional judgments 
+partial set of volunteered data with some 
+additional judgments 
+complete set of volunteered data with 
+additional judgments 
+complete set of volunteered data with some 
+additional judgments 
+partial set of volunteered data with a few 
+additional judgments 
+combined data for all five TVZ speakers for 
+all PosB pictures discussed in Chapter 5 
+combined data for both TMZ speakers for all 
+PosB pictures discussed in Chapter 5 
+
+SLQZ 
+
+all three speakers  combined data for all three SLQZ speakers 
+for all PosB pictures discussed in Chapter 5 
+
+page 
+
+324 
+
+327 
+
+329 
+
+332 
+
+334 
+
+336 
+
+337 
+
+338 
+
+Table 1.  Contents of Appendix II 
+
+ 
+
+ 323 
+
+ 
+
+Table 2.  PosB data for Mr. Antonio Ruiz (TMZ) 
+
+ 
+
+This is a summary of the data collected from Mr. Roberto Antonio Ruiz (TMZ) using PosB.  It 
+corresponds to elicitation sessions in my notebooks 4:103-111; 4:115-124; and 4:168-179. 
+ 
+
+# 
+
+Figure  Ground 
+
+data from Mr. 
+Antonio Ruiz 
+
+(TMZ) 
+
+stick 
+
+tree 
+
+ribbon 
+
+basket 
+
+rock 
+table 
+
+rope 
+cloth 
+camote  basket 
+
+stick 
+
+ball 
+
+ball 
+
+table 
+
+ground 
+
+table 
+
+ 
+ 
+
+1 
+
+2 
+
+3 
+4 
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+stick 
+
+ground 
+
+10  bottle 
+
+rock 
+
+11  beans 
+12  pot 
+13 
+
+stick 
+
+14 
+
+15 
+16 
+
+cloth 
+
+rope 
+cloth 
+
+stick 
+
+17 
+18  ball 
+
+19 
+20 
+
+rope 
+stick 
+
+ground 
+stump 
+basket 
+
+table 
+
+rock 
+basket 
+
+table 
+table 
+
+basket 
+ground 
+
+21  ball 
+
+table 
+
+22  bottle 
+
+basket 
+
+23 
+
+camote 
+
+stump 
+
+24 
+cloth 
+25  beans 
+
+basket 
+table 
+
+26  bottle 
+
+rock 
+
+rope 
+
+27 
+28  bottle 
+29  pot 
+30 
+
+cloth 
+
+basket 
+ground 
+tree 
+table 
+
+31 
+
+stick 
+
+stump 
+
+ 
+
+u
+n
+
+ 
+s
+i
+
+ 
+y
+b
+
+i
+a
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+i
+r
+
+ 
+d
+n
+u
+o
+r
+a
+ 
+e
+r
+a
+
+ 
+l
+a
+n
+y
+b
+
+i
+a
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+
+b
+o
+z
+
+ 
+s
+t
+i
+s
+
+ 
+
+u
+z
+
+ 
+s
+d
+n
+a
+t
+s
+
+* 
+
+  
+x 
+x 
+√ 
+
+x 
+* 
+x 
+
+* 
+x 
+√ 
+  
+  
+x 
+
+  
+√ 
+x 
+x 
+
+  
+  
+x 
+√ 
+
+  
+√ 
+x 
+* 
+
+  
+  
+  
+√ 
+
+  
+
+  
+
+  
+* 
+  
+  
+
+  
+  
+√ 
+
+  
+  
+
+x 
+  
+  
+* 
+
+  
+  
+  
+x 
+
+  
+  
+* 
+  
+
+  
+  
+x 
+  
+√ 
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+* 
+* 
+  
+
+* 
+* 
+* 
+
+√ 
+x 
+
+* 
+  
+  
+* 
+
+  
+  
+* 
+* 
+
+  
+√ 
+* 
+* 
+
+  
+  
+* 
+* 
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+* 
+* 
+  
+
+* 
+* 
+* 
+
+  
+x 
+
+* 
+  
+  
+* 
+
+  
+  
+* 
+* 
+
+  
+  
+* 
+* 
+
+  
+  
+* 
+* 
+
+  
+  
+  
+  
+
+  
+
+ 
+a
+w
+g
+u
+z
+
+ 
+s
+d
+n
+a
+t
+s
+
+√ 
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+√ 
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+√ 
+
+ 
+
+b
+e
+b
+
+ 
+n
+o
+ 
+s
+i
+
+  
+√ 
+x 
+√ 
+  
+
+x 
+* 
+x 
+
+* 
+* 
+
+* 
+√ 
+√ 
+x 
+
+  
+√ 
+x 
+x 
+
+  
+  
+x 
+  
+√ 
+* 
+x 
+√ 
+
+  
+  
+  
+  
+
+  
+
+ 
+y
+d
+i
+ë
+d
+
+ 
+s
+e
+s
+s
+a
+p
+
+  
+
+  
+x 
+  
+  
+
+x 
+  
+  
+
+  
+  
+
+  
+  
+  
+* 
+
+  
+√ 
+x 
+* 
+√ 
+  
+  
+ √ 
+
+  
+√ 
+* 
+x 
+
+  
+  
+  
+  
+
+  
+
+ 
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+  
+
+  
+√ 
+√ 
+  
+
+x 
+x 
+√ 
+
+  
+* 
+√ 
+  
+  
+√ 
+
+  
+  
+√ 
+√ 
+
+  
+  
+√ 
+ * 
+
+  
+  
+√ 
+√ 
+
+  
+  
+  
+  
+
+  
+
+ 
+a
+g
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+  
+
+  
+√ 
+x 
+  
+√ 
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+√ 
+  
+
+  
+
+ 
+l
+a
+n
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+  
+√ 
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+ 
+a
+g
+i
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+  
+
+  
+√ 
+x 
+  
+
+x 
+x 
+x / 
+* 
+  
+* 
+
+* 
+  
+  
+x 
+
+  
+√ 
+x 
+x 
+√ 
+  
+x 
+  
+√ 
+* 
+* 
+x 
+
+  
+  
+  
+  
+
+  
+
+ 324 
+
+ 
+
+# 
+
+Figure  Ground 
+
+data from Mr. 
+Antonio Ruiz 
+(TMZ) cont. 
+
+ 
+ 
+
+32 
+33 
+34 
+
+35 
+36 
+
+40 
+41 
+42 
+
+43 
+44 
+45 
+
+46 
+47 
+48 
+49 
+
+cloth 
+rope 
+cloth 
+
+stick 
+rope 
+
+rock 
+tree 
+stump 
+
+rock 
+stump 
+
+table 
+stump 
+
+37  bottle 
+38 
+
+stick 
+
+39 
+
+ball 
+
+ground 
+
+stump 
+table 
+
+pot 
+rope 
+camote  ground 
+
+stick 
+ball 
+rope 
+
+bottle 
+camote 
+pot 
+ribbon 
+
+basket 
+tree 
+stump 
+
+table 
+stump 
+tree 
+table 
+
+rock 
+
+50  ball 
+51 
+
+camote  ground 
+
+52  bottle 
+
+table 
+
+53 
+54 
+
+55 
+
+camote  basket 
+rope 
+stump 
+
+stick 
+
+tree 
+
+56  ball 
+
+basket 
+
+57 
+58 
+59 
+
+60 
+61 
+62 
+63 
+
+64 
+65 
+66 
+
+rope 
+bottle 
+ribbon 
+
+bottle 
+stick 
+bottle 
+rope 
+
+cloth 
+camote 
+stick 
+
+tree 
+ground 
+tree 
+
+basket 
+stump 
+basket 
+basket 
+
+tree 
+stump 
+tree 
+
+ 
+
+b
+e
+b
+
+ 
+n
+o
+ 
+s
+i
+
+ 
+y
+d
+i
+ë
+d
+
+ 
+s
+e
+s
+s
+a
+p
+
+ 
+a
+n
+
+ 
+s
+i
+
+√ 
+  
+√ 
+
+x 
+  
+* 
+  
+
+* 
+
+  
+  
+* 
+
+  
+* 
+  
+√ 
+x 
+* 
+* 
+
+x 
+  
+√ 
+
+  
+x 
+
+  
+* 
+
+x 
+* 
+x 
+
+  
+x 
+* 
+x 
+
+x 
+  
+x 
+
+  
+  
+  
+
+x 
+  
+  
+  
+
+  
+
+  
+  
+* 
+
+√ 
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+* 
+
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+* 
+  
+
+  
+  
+x 
+
+  
+  
+  
+√ 
+  
+* 
+  
+√ 
+
+  
+  
+√ 
+
+  
+  
+  
+
+  
+  
+  
+  
+√ 
+  
+x 
+
+* 
+√ 
+
+  
+* 
+
+  
+* 
+  
+
+  
+  
+* 
+  
+
+  
+  
+  
+
+ 
+a
+g
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+√ 
+  
+  
+
+  
+  
+  
+  
+
+x 
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+x 
+
+ 
+
+ 
+l
+a
+n
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+  
+√ 
+  
+
+  
+  
+  
+  
+
+  
+
+  
+√ 
+  
+
+  
+* 
+  
+
+  
+  
+  
+x 
+
+  
+  
+  
+
+  
+  
+
+x 
+  
+
+* 
+  
+x 
+
+  
+  
+  
+  
+
+  
+  
+  
+
+ 325 
+
+ 
+a
+g
+i
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+  
+  
+√ 
+
+x 
+  
+* 
+  
+
+x 
+
+√ 
+  
+x 
+
+  
+  
+  
+
+* 
+√ 
+  
+* 
+
+x 
+x 
+x 
+
+√ 
+x 
+
+  
+√ / 
+* 
+x 
+* 
+  
+
+  
+x 
+* 
+* 
+
+* 
+  
+√ 
+
+ 
+
+u
+n
+
+ 
+s
+i
+
+√ 
+√ 
+√ 
+
+  
+  
+√ 
+  
+
+x / 
+* 
+* 
+  
+x / 
+* 
+  
+√ 
+  
+√ 
+√ 
+√ 
+* 
+
+x 
+* 
+√ / 
+* 
+x 
+x 
+
+x 
+x 
+
+* 
+* 
+  
+
+x 
+x 
+x 
+* 
+
+x 
+* 
+√ 
+
+ 
+i
+r
+r
+
+ 
+d
+n
+u
+o
+r
+a
+ 
+e
+r
+a
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+√ 
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+x 
+
+  
+  
+
+  
+* 
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+ 
+y
+b
+
+i
+a
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+  
+√ 
+  
+
+  
+  
+  
+  
+
+  
+
+  
+√ 
+  
+
+  
+* 
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+ 
+l
+a
+n
+y
+b
+
+i
+a
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+
+b
+o
+z
+
+ 
+s
+t
+i
+s
+
+ 
+
+u
+z
+
+ 
+s
+d
+n
+a
+t
+s
+
+ 
+a
+w
+g
+u
+z
+
+ 
+s
+d
+n
+a
+t
+s
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+* 
+  
+√ 
+√ 
+
+* 
+
+* 
+  
+* 
+
+  
+* 
+  
+
+* 
+  
+* 
+  
+
+* 
+  
+* 
+
+  
+* 
+
+  
+  
+
+  
+x 
+  
+
+* 
+  
+x 
+  
+
+  
+  
+  
+
+  
+  
+  
+
+* 
+  
+x 
+  
+
+* 
+
+  
+  
+* 
+
+  
+* 
+  
+
+* 
+  
+  
+  
+
+* 
+  
+* 
+
+  
+* 
+
+  
+* 
+
+  
+x 
+  
+
+  
+  
+x 
+  
+
+  
+√ 
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+x 
+  
+
+ 
+
+# 
+
+Figure  Ground 
+
+data from Mr. 
+Antonio Ruiz 
+(TMZ) cont. 
+
+ 
+ 
+
+ 
+
+b
+e
+b
+
+ 
+n
+o
+ 
+s
+i
+
+ 
+y
+d
+i
+ë
+d
+
+ 
+s
+e
+s
+s
+a
+p
+
+ 
+a
+n
+
+ 
+s
+i
+
+ 
+a
+g
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+ 
+
+u
+n
+
+ 
+s
+i
+
+ 
+a
+g
+i
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+ 
+l
+a
+n
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+i
+r
+r
+
+ 
+d
+n
+u
+o
+r
+a
+ 
+e
+r
+a
+
+ 
+y
+b
+
+i
+a
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+l
+a
+n
+y
+b
+
+i
+a
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+
+b
+o
+z
+
+ 
+s
+t
+i
+s
+
+ 
+
+u
+z
+
+ 
+s
+d
+n
+a
+t
+s
+
+ 
+a
+w
+g
+u
+z
+
+ 
+s
+d
+n
+a
+t
+s
+
+67  bottle 
+ribbon 
+68 
+
+basket 
+stump 
+
+* 
+  
+
+  
+  
+
+* 
+  
+
+  
+  
+
+  
+  
+
+* 
+  
+
+√ 
+x 
+
+  
+  
+
+  
+  
+
+  
+  
+
+* 
+  
+
+* 
+  
+
+  
+  
+
+ 326 
+
+ 
+
+ Table 3.  PosB data for Ms. Antonio (TMZ) 
+
+ 
+
+This is a summary of the data collected from Ms. Antonio (TMZ) using PosB (Ameka et al. 
+1999).  It corresponds to elicitation sessions in my notebook 5:110-116. 
+ 
+
+#  Figure  Ground  beb  deidy  na  naga  nu 
+
+ri  zob  zu 
+
+data from Ms.  
+Antonio (TMZ) 
+
+ 
+ 
+
+  
+
+tree 
+basket 
+rock 
+table 
+
+stick 
+1 
+ribbon 
+2 
+rope 
+3 
+cloth 
+4 
+camote  basket 
+5 
+6 
+stick 
+7  ball 
+8  ball 
+9 
+stick 
+10  bottle 
+11  beans 
+12  pot 
+13  stick 
+14  cloth 
+15 
+rope 
+16  cloth 
+17  stick 
+18  ball 
+19  rope 
+20  stick 
+21  ball 
+22  bottle 
+23  camote 
+24  cloth 
+25  beans 
+26  bottle 
+27 
+28  bottle 
+29  pot 
+30  cloth 
+31  stick 
+32  cloth 
+
+table 
+ground 
+table 
+ground 
+rock 
+ground 
+stump 
+basket 
+table 
+rock 
+basket 
+table 
+table 
+basket 
+ground 
+table 
+basket 
+stump 
+basket 
+table 
+rock 
+basket 
+ground 
+tree 
+table 
+stump 
+rock 
+
+rope 
+
+ 
+s
+i
+
+ 
+d
+n
+u
+o
+r
+a
+ 
+e
+r
+a
+
+ 
+g
+n
+i
+t
+t
+i
+s
+ 
+s
+i
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x 
+  
+  
+  
+  
+  
+x 
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+√ 
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+* 
+  
+  
+  
+* 
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+* 
+  
+  
+  
+  
+  
+  
+
+ 
+n
+o
+ 
+s
+i
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x 
+x 
+  
+√ 
+x 
+x 
+x 
+  
+x 
+  
+x 
+x 
+  
+  
+x 
+  
+  
+x 
+  
+x 
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+  
+  
+x 
+  
+  
+  
+x 
+x 
+  
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+√ 
+  
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+
+ 
+s
+i
+
+ 
+d
+e
+n
+o
+i
+t
+i
+s
+o
+p
+(
+
+ 
+)
+s
+s
+o
+r
+c
+a
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+* 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+√ 
+  
+  
+  
+√ 
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x 
+√ 
+  
+√ 
+  
+  
+√ 
+  
+√ 
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 327 
+
+ 
+
+#  Figure  Ground  beb  deidy  na  naga  nu 
+
+ri  zob  zu 
+
+ 
+
+ 
+ 
+
+data from Ms.  
+Antonio (TMZ) 
+
+cont.  
+
+ 
+n
+o
+ 
+s
+i
+
+ 
+d
+e
+n
+o
+i
+t
+i
+s
+o
+p
+(
+ 
+s
+i
+
+ 
+)
+s
+s
+o
+r
+c
+a
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+ 
+s
+i
+
+ 
+d
+n
+u
+o
+r
+a
+ 
+e
+r
+a
+
+ 
+g
+n
+i
+t
+t
+i
+s
+ 
+s
+i
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+  
+  
+  
+* 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+* 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+x 
+x 
+  
+x 
+x 
+  
+  
+  
+  
+  
+  
+  
+x 
+x 
+  
+  
+  
+√ 
+  
+  
+  
+x 
+  
+  
+  
+  
+x 
+  
+x 
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x 
+  
+  
+x 
+x 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+√ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+? 
+  
+  
+  
+  
+  
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+x 
+x 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+x 
+x 
+x 
+  
+x 
+x 
+  
+  
+  
+x 
+  
+  
+  
+  
+  
+  
+  
+  
+x 
+x 
+x 
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+√ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 328 
+
+rope 
+
+ribbon 
+
+  
+tree 
+stump 
+rock 
+stump 
+table 
+stump 
+ground 
+stump 
+table 
+
+rope 
+33 
+34  cloth 
+35  stick 
+36 
+rope 
+37  bottle 
+38  stick 
+39  ball 
+40  pot 
+41 
+42  camote  ground 
+basket 
+43  stick 
+44  ball 
+tree 
+stump 
+45 
+rope 
+table 
+46  bottle 
+47  camote 
+stump 
+tree 
+48  pot 
+table 
+49 
+50  ball 
+rock 
+51  camote  ground 
+52  bottle 
+table 
+53  camote  basket 
+rope 
+54 
+stump 
+tree 
+55  stick 
+basket 
+56  ball 
+tree 
+57 
+rope 
+58  bottle 
+ground 
+tree 
+59 
+ribbon 
+basket 
+60  bottle 
+61  stick 
+stump 
+basket 
+62  bottle 
+basket 
+63 
+rope 
+64  cloth 
+tree 
+stump 
+65  camote 
+tree 
+66  stick 
+basket 
+67  bottle 
+68 
+ribbon 
+stump 
+
+ 
+
+ Table 4.  PosB data for Ms. V. Lopez (SLQZ) 
+
+ 
+
+This is a summary of the data collected from Ms. V. Lopez (SLQZ) using PosB (Ameka et al. 
+1999).  It corresponds to elicitation sessions in my notebooks 3:247-258 and 5:15-21. 
+ 
+ 
+
+ 
+l
+a
+n
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+  
+
+  
+
+√ 
+
+* 
+
+* 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+* 
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+u
+n
+
+ 
+i
+r
+
+ 
+d
+n
+u
+o
+r
+a
+ 
+e
+r
+a
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+* 
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+ 
+s
+i
+
+* 
+
+X 
+
+* 
+
+√ 
+
+X 
+
+√ 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+√ 
+
+* 
+
+x 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+√ 
+
+x 
+
+* 
+
+* 
+
+* 
+
+* 
+
+ 
+y
+b
+
+i
+e
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+
+x 
+
+√ 
+
+* 
+
+* 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+√ 
+
+  
+
+  
+
+* 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+x 
+
+* 
+
+* 
+
+x 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+ 
+
+b
+u
+z
+
+ 
+g
+n
+i
+t
+t
+i
+s
+ 
+s
+i
+
+* 
+
+* 
+
+√ 
+
+√ 
+
+* 
+
+√ 
+
+  
+
+x 
+
+X 
+
+√ 
+
+* 
+
+√ 
+
+√ 
+
+√ 
+
+* 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+x 
+
+√ 
+
+* 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+ 
+a
+w
+g
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+√ 
+
+* 
+
+* 
+
+* 
+
+  
+
+  
+
+  
+
+  
+
+√ 
+
+√ 
+
+  
+
+* 
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+i
+
+l
+
+d
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+x 
+
+* 
+
+* 
+
+* 
+
+  
+
+  
+
+  
+
+  
+
+√ 
+
+√ 
+
+  
+
+* 
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+* 
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+# 
+
+Figure  Ground 
+
+data from Ms. V. 
+Lopez (SLQZ) 
+
+stick 
+
+tree 
+
+ribbon 
+
+basket 
+
+rope 
+
+cloth 
+
+rock 
+
+table 
+
+camote 
+
+basket 
+
+stick 
+
+table 
+
+ball 
+
+ball 
+
+ground 
+
+table 
+
+stick 
+
+ground 
+
+ 
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10  bottle 
+
+rock 
+
+11  beans 
+
+ground 
+
+12  pot 
+
+stump 
+
+13 
+
+stick 
+
+basket 
+
+14 
+
+cloth 
+
+table 
+
+15 
+
+rope 
+
+rock 
+
+16 
+
+cloth 
+
+basket 
+
+17 
+
+stick 
+
+table 
+
+18  ball 
+
+table 
+
+19 
+
+rope 
+
+basket 
+
+20 
+
+stick 
+
+ground 
+
+21  ball 
+
+table 
+
+22  bottle 
+
+basket 
+
+23 
+
+camote 
+
+stump 
+
+24 
+
+cloth 
+
+basket 
+
+25  beans 
+
+table 
+
+26  bottle 
+
+rock 
+
+ 
+
+b
+e
+b
+
+ 
+n
+o
+ 
+s
+i
+
+  
+
+√ 
+
+X 
+
+X 
+
+* 
+
+X 
+
+* 
+
+X 
+
+* 
+
+X 
+
+* 
+
+x 
+
+x / 
+* 
+x 
+
+* 
+
+√ 
+
+x 
+
+x 
+
+x 
+
+* 
+
+x 
+
+* 
+
+x 
+
+x 
+
+√ 
+
+√ 
+
+ 
+y
+d
+i
+e
+d
+
+ 
+
+d
+e
+n
+o
+i
+t
+i
+s
+o
+p
+(
+ 
+s
+i
+
+ 
+y
+b
+
+i
+l
+
+ 
+)
+s
+s
+o
+r
+c
+a
+
+ 
+
+d
+e
+p
+p
+a
+r
+
+w
+ 
+s
+i
+
+ 
+d
+n
+u
+o
+r
+a
+
+* 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+√ 
+
+x 
+
+* 
+
+x 
+
+* 
+
+* 
+
+* 
+
+* 
+
+x 
+
+* 
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+a
+g
+t
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+* 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+X 
+
+X 
+
+√ 
+
+* 
+
+* 
+
+√ 
+
+x 
+
+√ 
+
+x 
+
+* 
+
+√ 
+
+x 
+
+x 
+
+√ 
+
+* 
+
+√ 
+
+x 
+
+x 
+
+√ 
+
+* 
+
+x 
+
+ 329 
+
+ 
+
+# 
+
+Figure  Ground 
+
+data from Ms. V. 
+
+Lopez (SLQZ) 
+
+ 
+ 
+
+cont. 
+
+ 
+
+b
+e
+b
+
+ 
+n
+o
+ 
+s
+i
+
+27 
+
+rope 
+
+basket 
+
+x 
+
+28  bottle 
+
+ground 
+
+29  pot 
+
+30 
+
+31 
+
+32 
+
+33 
+
+cloth 
+
+stick 
+
+cloth 
+
+rope 
+
+tree 
+
+table 
+
+stump 
+
+rock 
+
+tree 
+
+34 
+
+cloth 
+
+stump 
+
+35 
+
+36 
+
+stick 
+
+rope 
+
+rock 
+
+stump 
+
+37  bottle 
+
+table 
+
+38 
+
+stick 
+
+stump 
+
+39  ball 
+
+ground 
+
+40  pot 
+
+stump 
+
+41 
+
+rope 
+
+table 
+
+42 
+
+camote 
+
+ground 
+
+43 
+
+stick 
+
+basket 
+
+44  ball 
+
+tree 
+
+45 
+
+rope 
+
+stump 
+
+46  bottle 
+
+table 
+
+47 
+
+camote 
+
+stump 
+
+48  pot 
+
+tree 
+
+49 
+
+ribbon 
+
+table 
+
+50  ball 
+
+rock 
+
+51 
+
+camote 
+
+ground 
+
+52  bottle 
+
+table 
+
+53 
+
+camote 
+
+basket 
+
+54 
+
+55 
+
+rope 
+
+stick 
+
+stump 
+
+tree 
+
+56  ball 
+
+basket 
+
+57 
+
+rope 
+
+tree 
+
+58  bottle 
+
+ground 
+
+* 
+
+X 
+
+x 
+
+* 
+
+x 
+
+x 
+
+x 
+
+x 
+
+* 
+
+x 
+
+* 
+
+* 
+
+* 
+
+x 
+
+* 
+
+√ 
+
+x 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+x 
+
+* 
+
+√ 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+ 
+y
+d
+i
+e
+d
+
+ 
+
+d
+e
+n
+o
+i
+t
+i
+s
+o
+p
+(
+ 
+s
+i
+
+* 
+
+* 
+
+* 
+
+x 
+
+* 
+
+* 
+
+* 
+
+* 
+
+x 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+X 
+
+* 
+
+X 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+X 
+
+* 
+
+ 
+y
+b
+
+i
+l
+
+ 
+)
+s
+s
+o
+r
+c
+a
+
+ 
+
+d
+e
+p
+p
+a
+r
+
+w
+ 
+s
+i
+
+ 
+d
+n
+u
+o
+r
+a
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+ 
+a
+g
+t
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+√ 
+
+* 
+
+√ 
+
+√ 
+
+* 
+
+x 
+
+* 
+
+x 
+
+x 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+x 
+
+* 
+
+x 
+
+√ 
+
+√ 
+
+√ 
+
+* 
+
+x 
+
+* 
+
+* 
+
+√ 
+
+√ 
+
+x 
+
+√ 
+
+x 
+
+* 
+
+√ 
+
+√ 
+
+* 
+
+ 330 
+
+ 
+l
+a
+n
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+√ 
+
+  
+
+* 
+
+* 
+
+  
+
+√ 
+
+√ 
+
+  
+
+  
+
+* 
+
+  
+
+  
+
+  
+
+√ 
+
+  
+
+  
+
+  
+
+* 
+
+* 
+
+  
+
+  
+
+* 
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+* 
+
+√ 
+
+  
+
+√ 
+
+  
+
+ 
+
+u
+n
+
+ 
+i
+r
+
+ 
+d
+n
+u
+o
+r
+a
+ 
+e
+r
+a
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+x 
+
+√ 
+
+  
+
+  
+
+  
+
+x 
+
+√ 
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+s
+i
+
+x / 
+* 
+x 
+
+√ 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+√ 
+
+* 
+
+√ 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+x 
+
+* 
+
+* 
+
+x 
+
+* 
+
+√ 
+
+ 
+y
+b
+
+i
+e
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+x 
+
+  
+
+* 
+
+  
+
+  
+
+√ 
+
+x 
+
+  
+
+  
+
+* 
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+* 
+
+  
+
+  
+
+  
+
+  
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+* 
+
+x 
+
+  
+
+√ 
+
+  
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+x 
+
+√ 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+ 
+
+b
+u
+z
+
+ 
+g
+n
+i
+t
+t
+i
+s
+ 
+s
+i
+
+√ 
+
+* 
+
+X 
+
+* 
+
+* 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+* 
+
+√ 
+
+x 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+√ 
+
+* 
+
+√ 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+√ 
+
+x 
+
+ 
+a
+w
+g
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+
+  
+
+  
+
+  
+
+ 
+i
+
+l
+
+d
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+√ 
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+√ 
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+√ 
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+√ 
+
+√ 
+
+ 
+
+ 
+
+# 
+
+Figure  Ground 
+
+data from Ms. V. 
+
+Lopez (SLQZ) 
+
+ 
+ 
+
+cont. 
+
+59 
+
+ribbon 
+
+tree 
+
+60  bottle 
+
+basket 
+
+61 
+
+stick 
+
+stump 
+
+62  bottle 
+
+basket 
+
+63 
+
+64 
+
+65 
+
+66 
+
+rope 
+
+cloth 
+
+basket 
+
+tree 
+
+camote 
+
+stump 
+
+stick 
+
+tree 
+
+67  bottle 
+
+basket 
+
+68 
+
+ribbon 
+
+stump 
+
+ 
+
+b
+e
+b
+
+ 
+n
+o
+ 
+s
+i
+
+√ 
+
+* 
+
+X 
+
+* 
+
+√ 
+
+X 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+ 
+y
+d
+i
+e
+d
+
+ 
+
+d
+e
+n
+o
+i
+t
+i
+s
+o
+p
+(
+ 
+s
+i
+
+√ 
+
+* 
+
+x 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+x 
+
+* 
+
+* 
+
+ 
+y
+b
+
+i
+l
+
+ 
+)
+s
+s
+o
+r
+c
+a
+
+ 
+
+d
+e
+p
+p
+a
+r
+
+w
+ 
+s
+i
+
+ 
+d
+n
+u
+o
+r
+a
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+a
+g
+t
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+* 
+
+* 
+
+√ 
+
+* 
+
+√ 
+
+√ 
+
+* 
+
+√ 
+
+x 
+
+√ 
+
+ 
+l
+a
+n
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+√ 
+
+  
+
+  
+
+  
+
+√ 
+
+* 
+
+  
+
+* 
+
+  
+
+√ 
+
+ 
+
+u
+n
+
+ 
+i
+r
+
+ 
+d
+n
+u
+o
+r
+a
+ 
+e
+r
+a
+
+  
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+√ 
+
+  
+
+  
+
+  
+
+ 
+s
+i
+
+* 
+
+x 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+ 
+y
+b
+
+i
+e
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+x 
+
+  
+
+  
+
+  
+
+x 
+
+* 
+
+  
+
+  
+
+  
+
+x 
+
+ 
+
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+* 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+* 
+
+√ 
+
+* 
+
+√ 
+
+* 
+
+ 
+
+b
+u
+z
+
+ 
+g
+n
+i
+t
+t
+i
+s
+ 
+s
+i
+
+√ 
+
+* 
+
+* 
+
+* 
+
+√ 
+
+√ 
+
+* 
+
+√ 
+
+* 
+
+√ 
+
+ 
+a
+w
+g
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+
+  
+
+  
+
+√ 
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+ 
+i
+
+l
+
+d
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+
+  
+
+  
+
+√ 
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+ 331 
+
+ 
+
+Table 5.  PosB data for Mr. Lopez (SLQZ) 
+
+ 
+
+This is a summary of the data collected from Mr. Felipe Lopez (SLQZ) using PosB (Ameka et al. 
+1999).    The  volunteered  data  was  collected  by  Pamela  Munro.    I  collected  data  on 
+grammaticality  judgments,  together  with  Pamela  Munro,  which  corresponds  to  elicitation 
+sessions in my notebook 4:180-181. 
+ 
+
+# 
+
+Figure  Ground 
+
+data from Mr. 
+Lopez (SLQZ) 
+
+stick 
+ribbon 
+
+tree 
+basket 
+
+rope 
+
+rock 
+
+cloth 
+camote 
+stick 
+
+table 
+basket 
+table 
+
+ball 
+
+ball 
+stick 
+
+ground 
+
+table 
+ground 
+
+ 
+ 
+
+1 
+2 
+
+3 
+
+4 
+5 
+6 
+
+7 
+
+8 
+9 
+
+10  bottle 
+
+rock 
+
+11  beans 
+
+ground 
+
+12  pot 
+13 
+
+stick 
+
+14 
+15 
+
+16 
+
+cloth 
+rope 
+
+cloth 
+
+stick 
+
+17 
+18  ball 
+
+19 
+
+20 
+
+rope 
+
+stick 
+
+stump 
+basket 
+
+table 
+rock 
+
+basket 
+
+table 
+table 
+
+basket 
+
+ground 
+
+21  ball 
+
+table 
+
+22  bottle 
+23 
+camote 
+
+24 
+cloth 
+25  beans 
+
+26  bottle 
+27 
+
+rope 
+
+28  bottle 
+29  pot 
+30 
+31 
+
+cloth 
+stick 
+
+basket 
+stump 
+
+basket 
+table 
+
+rock 
+basket 
+
+ground 
+tree 
+table 
+stump 
+
+ 
+
+b
+e
+b
+
+ 
+n
+o
+ 
+s
+i
+
+ 
+y
+d
+i
+e
+d
+
+ 
+
+d
+e
+n
+o
+i
+t
+i
+s
+o
+p
+(
+ 
+s
+i
+
+ 
+)
+s
+s
+o
+r
+c
+a
+
+ 
+y
+b
+
+i
+l
+
+ 
+
+d
+e
+p
+p
+a
+r
+
+w
+ 
+s
+i
+
+ 
+d
+n
+u
+o
+r
+a
+
+ 
+l
+a
+n
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+a
+g
+t
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+ 
+
+u
+n
+
+ 
+s
+i
+
+ 
+i
+r
+
+ 
+d
+n
+u
+o
+r
+a
+ 
+e
+r
+a
+
+  
+  
+* 
+
+x 
+  
+x 
+  
+
+x 
+  
+√ 
+  
+
+  
+  
+x 
+  
+
+x 
+x 
+x 
+x 
+
+  
+x 
+  
+x 
+
+x 
+  
+x 
+  
+
+  
+x 
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+* 
+  
+√ 
+
+  
+  
+* 
+  
+√ 
+  
+* 
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+x 
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+x 
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+x 
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+x 
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+x 
+  
+
+  
+  
+  
+  
+
+x 
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+x 
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+x 
+  
+  
+
+  
+  
+  
+  
+
+ 332 
+
+ 
+l
+a
+n
+b
+e
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+  
+x 
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+x 
+
+  
+  
+  
+  
+
+ 
+y
+b
+
+i
+e
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+ 
+
+b
+u
+z
+
+ 
+g
+n
+i
+t
+t
+i
+s
+ 
+s
+i
+
+  
+  
+x 
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+ 
+a
+w
+g
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+ 
+i
+
+d
+n
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+x 
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+x 
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+x 
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+x 
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+x 
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+ 
+
+ 
+
+# 
+
+Figure  Ground 
+
+data from Mr. 
+Lopez (SLQZ) 
+
+cloth 
+rope 
+
+cloth 
+stick 
+rope 
+
+rock 
+tree 
+
+stump 
+rock 
+stump 
+
+ 
+ 
+
+32 
+33 
+
+34 
+35 
+36 
+
+37  bottle 
+
+table 
+
+38 
+stick 
+39  ball 
+40  pot 
+41 
+
+rope 
+
+stump 
+ground 
+stump 
+table 
+
+42 
+
+camote 
+
+ground 
+
+stick 
+
+43 
+44  ball 
+45 
+rope 
+
+camote 
+
+46  bottle 
+47 
+48  pot 
+49 
+
+ribbon 
+
+basket 
+tree 
+stump 
+
+table 
+stump 
+tree 
+table 
+
+50  ball 
+51 
+
+camote 
+
+rock 
+ground 
+
+52  bottle 
+53 
+camote 
+
+54 
+55 
+
+rope 
+stick 
+
+56  ball 
+57 
+rope 
+
+58  bottle 
+59 
+ribbon 
+60  bottle 
+61 
+stick 
+
+62  bottle 
+63 
+64 
+65 
+
+rope 
+cloth 
+camote 
+
+table 
+basket 
+
+stump 
+tree 
+
+basket 
+tree 
+
+ground 
+tree 
+basket 
+stump 
+
+basket 
+basket 
+tree 
+stump 
+
+66 
+
+stick 
+
+tree 
+
+67  bottle 
+68 
+ribbon 
+
+basket 
+stump 
+
+ 
+
+b
+e
+b
+
+ 
+n
+o
+ 
+s
+i
+
+ 
+y
+d
+i
+ë
+d
+
+ 
+
+d
+e
+n
+o
+i
+t
+i
+s
+o
+p
+(
+ 
+s
+i
+
+ 
+)
+s
+s
+o
+r
+c
+a
+
+ 
+y
+b
+
+i
+l
+
+ 
+
+d
+e
+p
+p
+a
+r
+
+w
+ 
+s
+i
+
+ 
+d
+n
+u
+o
+r
+a
+
+x 
+  
+
+x 
+x 
+  
+x 
+
+* 
+  
+  
+  
+
+  
+x 
+x 
+x 
+
+x 
+x 
+x 
+  
+
+x 
+  
+√ 
+* 
+
+x 
+  
+  
+x 
+
+  
+  
+  
+x 
+
+  
+x 
+x 
+  
+
+x 
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+√ 
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+* 
+  
+  
+  
+
+  
+  
+  
+* 
+
+  
+* 
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+x 
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+ 
+i
+r
+
+ 
+d
+n
+u
+o
+r
+a
+ 
+e
+r
+a
+
+  
+  
+
+  
+  
+  
+  
+
+  
+x 
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+ 
+
+ 
+a
+g
+t
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+ 
+
+u
+n
+
+ 
+s
+i
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+x 
+  
+
+x 
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+x 
+x 
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+* 
+  
+  
+  
+
+  
+  
+  
+x 
+
+  
+  
+x 
+  
+
+x 
+  
+x 
+  
+
+x 
+  
+  
+  
+
+  
+x 
+  
+
+ 
+l
+a
+n
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+  
+x 
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+ 333 
+
+ 
+l
+a
+n
+b
+e
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+y
+b
+
+i
+e
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+ 
+
+b
+u
+z
+
+ 
+g
+n
+i
+t
+t
+i
+s
+ 
+s
+i
+
+ 
+a
+w
+g
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+* 
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+x 
+  
+  
+
+  
+x 
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+x 
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+x 
+
+  
+  
+  
+  
+
+  
+  
+  
+x 
+
+  
+  
+  
+  
+
+  
+  
+  
+* 
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+x 
+  
+
+* 
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+x 
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+x 
+
+  
+  
+  
+
+ 
+i
+
+d
+n
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+  
+
+  
+  
+  
+x 
+
+x 
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+ 
+
+  
+
+Table 6.  PosB data for Ms. S. Lopez (SLQZ) 
+
+ 
+
+This  is  a  summary  of  the  data  collected  from  Ms.  Silvia  Lopez  (SLQZ)  using  PosB.    It 
+corresponds to elicitation sessions in my notebook 2a:85-100. 
+ 
+
+# 
+
+Figure  Ground 
+
+ 
+
+b
+e
+b
+
+ 
+n
+o
+ 
+s
+i
+
+ 
+t
+a
+n
+
+ 
+)
+s
+s
+o
+r
+c
+a
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+ 
+y
+d
+i
+e
+d
+
+ 
+
+d
+e
+n
+o
+i
+t
+i
+s
+o
+p
+(
+ 
+s
+i
+
+ 
+a
+g
+t
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+ 
+l
+a
+n
+
+ 
+
+u
+n
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+s
+i
+
+ 
+
+h
+c
+e
+r
+i
+r
+
+ 
+d
+e
+l
+l
+i
+p
+s
+ 
+s
+i
+
+ 
+l
+e
+r
+r
+
+ 
+
+d
+e
+p
+p
+a
+r
+
+w
+ 
+s
+i
+
+ 
+d
+n
+u
+o
+r
+a
+
+ 
+y
+b
+e
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+ 
+
+b
+u
+z
+
+ 
+g
+n
+i
+t
+t
+i
+s
+ 
+s
+i
+
+ 
+
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+
+x 
+
+  
+
+x 
+
+  
+
+x 
+
+  
+
+x 
+
+  
+
+x 
+
+  
+
+x 
+
+  
+
+? 
+
+  
+
+  
+
+  
+
+x 
+
+x 
+
+  
+
+x 
+
+  
+
+x 
+
+  
+
+  
+
+x 
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+√ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+a
+w
+g
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+data from Ms. S. 
+Lopez (SLQZ) 
+
+stick 
+
+tree 
+
+ribbon 
+
+basket 
+
+rope 
+
+cloth 
+
+rock 
+
+table 
+
+camote 
+
+basket 
+
+stick 
+
+table 
+
+ball 
+
+ball 
+
+ground 
+
+table 
+
+stick 
+
+ground 
+
+ 
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10  bottle 
+
+rock 
+
+11  beans 
+
+ground 
+
+12  pot 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+stick 
+
+cloth 
+
+rope 
+
+cloth 
+
+stick 
+
+18  ball 
+
+19 
+
+20 
+
+rope 
+
+stick 
+
+stump 
+
+basket 
+
+table 
+
+rock 
+
+basket 
+
+table 
+
+table 
+
+basket 
+
+ground 
+
+21  ball 
+
+table 
+
+22  bottle 
+
+basket 
+
+23 
+
+24 
+
+camote 
+
+stump 
+
+cloth 
+
+basket 
+
+25  beans 
+
+26  bottle 
+
+table 
+
+rock 
+
+27 
+
+rope 
+
+basket 
+
+28  bottle 
+
+ground 
+
+ 334 
+
+ 
+
+ 
+
+# 
+
+Figure  Ground 
+
+data from Ms. S. 
+Lopez (SLQZ) 
+
+ 
+ 
+
+29  pot 
+
+30 
+
+31 
+
+32 
+
+33 
+
+34 
+
+35 
+
+36 
+
+cloth 
+
+stick 
+
+cloth 
+
+rope 
+
+cloth 
+
+stick 
+
+rope 
+
+tree 
+
+table 
+
+stump 
+
+rock 
+
+tree 
+
+stump 
+
+rock 
+
+stump 
+
+37  bottle 
+
+table 
+
+38 
+
+stick 
+
+stump 
+
+39  ball 
+
+40  pot 
+
+ground 
+
+stump 
+
+41 
+
+42 
+
+43 
+
+rope 
+
+table 
+
+camote 
+
+ground 
+
+stick 
+
+basket 
+
+ 
+
+b
+e
+b
+
+ 
+n
+o
+ 
+s
+i
+
+x 
+
+  
+
+  
+
+x 
+
+  
+
+x 
+
+x 
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+44  ball 
+
+tree 
+
+* 
+
+ 
+y
+d
+i
+e
+d
+
+ 
+
+d
+e
+n
+o
+i
+t
+i
+s
+o
+p
+(
+ 
+s
+i
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+ 
+t
+a
+n
+
+ 
+)
+s
+s
+o
+r
+c
+a
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+a
+g
+t
+a
+n
+
+ 
+g
+n
+i
+y
+l
+ 
+s
+i
+
+  
+
+  
+
+  
+
+* 
+
+  
+
+* 
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+x 
+
+  
+
+x 
+
+  
+
+  
+
+ 
+l
+a
+n
+
+ 
+
+u
+n
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+s
+i
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+ 
+
+h
+c
+e
+r
+i
+r
+
+ 
+d
+e
+l
+l
+i
+p
+s
+ 
+s
+i
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+l
+e
+r
+r
+
+ 
+
+d
+e
+p
+p
+a
+r
+
+w
+ 
+s
+i
+
+ 
+d
+n
+u
+o
+r
+a
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+y
+b
+e
+z
+
+ 
+g
+n
+i
+g
+n
+a
+h
+ 
+s
+i
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+ 
+
+b
+u
+z
+
+ 
+g
+n
+i
+t
+t
+i
+s
+ 
+s
+i
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+* 
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+a
+w
+g
+u
+z
+
+ 
+g
+n
+i
+d
+n
+a
+t
+s
+ 
+s
+i
+
+  
+
+  
+
+x 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 335 
+
+ 
+
+ 
+
+Table 7.  Summary of PosB data in Chapter 5 for TVZ 
+
+ 
+
+# 
+
+Figure  Ground 
+
+deidy,  
+dëidy  
+
+'is 
+
+(positioned 
+
+across)' 
+
+na  
+
+naga, natga, 
+
+'is lying' 
+
+niga  
+
+ri  
+'are 
+
+zu  
+
+'is standing' 
+
+'is lying' 
+
+around' 
+
+rope 
+ball 
+ball 
+
+rock 
+ground 
+table 
+
+√ 2. 
+* 1 
+* 1 
+
+bottle 
+beans 
+
+rock 
+ground 
+
+* 1 
+* 1 
+
+3 
+7 
+8 
+
+10 
+11 
+
+14 
+17 
+
+19 
+21 
+22 
+
+37 
+43 
+50 
+
+52 
+56 
+
+cloth 
+stick 
+
+table 
+table 
+
+rope 
+ball 
+bottle 
+
+basket 
+table 
+basket 
+
+24 
+
+cloth 
+
+basket 
+
+26 
+
+bottle 
+
+rock 
+
+bottle 
+stick 
+ball 
+
+table 
+basket 
+rock 
+
+* 2. 
+√ 3.;  
+* 1 (SLQZ) 
+√ 4. 
+* 1 
+√ 2 (TMZ); 
+* 2 (SLQZ) 
+√ 4. 
+
+√ 2.; 
+* 1 (SLQZ) 
+* 1 
+√ 5. 
+* 1 
+
+√ 1 
+√ 1 
+√ 1 
+
+* 2 
+√ 1 
+
+√ 1 
+√ 1 
+
+  
+√ 1 
+√ 1 (TMZ); 
+* 1 (TMZ) 
+  
+
+√ 1 
+
+* 2 
+  
+√ 1 
+
+√ 1 
+* 2 
+
+* 1 
+
+√ 3. 
+√ 5. 
+√ 2.;  
+% 1 (TMZ) 
+* 2. 
+√ 1 (SLQZ);  
+* 1 (TMZ) 
+√ 3. 
+√ 3. 
+
+√ 2. 
+√ 2. 
+√ 4. 
+
+√ 1 (SLQZ); 
+* 1 (TMZ) 
+√ 5. 
+
+* 2. 
+√ 2. 
+√ 2. 
+
+* 1 
+  
+√ 3. 
+
+  
+√ 4. 
+
+* 1 
+  
+
+  
+* 1 
+  
+
+  
+
+  
+
+  
+  
+  
+
+√ 4. 
+√ 2.;  
+% 1 (TMZ) 
+√ 2.; 
+* 1 (TMZ) 
+
+√ 3. 
+* 1 
+
+  
+
+* 3. 
+* 3. 
+* 2. 
+
+√ 3. 
+* 2. 
+
+* 2. 
+* 2. 
+
+* 1 
+* 2. 
+* 2. 
+
+* 1 
+
+* 3. 
+
+√ 5. 
+* 1 
+* 2.; 
+% 1 (TMZ) 
+* 2. 
+* 2. 
+
+√ 1 (SLQZ); 
+* 1 (TMZ) 
+
+bottle 
+ball 
+
+table 
+basket 
+
+* 2. 
+* 1 
+
+67 
+
+bottle 
+
+basket 
+
+* 1 
+
+Key:  
+√ grammatical (volunteered or accepted) 
+* ungrammatical 
+% individual speaker judged both as grammatical and ungrammatical on separate occasions 
+. includes judgments from both language varieties 
+dark shading: all judgments = ungrammatical 
+light shading: some judgments = ungrammatical 
+ 
+
+ 336 
+
+ 
+
+ 
+
+Table 8.  Summary of PosB data in Chapter 5 for TMZ 
+
+# 
+
+Figure  Ground 
+
+dëidy  
+
+'is 
+
+na  
+
+'is lying' 
+
+naga, 
+niga  
+
+ri  
+'are 
+
+zu  
+'is 
+
+(positioned 
+
+across)' 
+
+'is lying' 
+
+around' 
+
+standing' 
+
+3 
+7 
+8 
+10 
+11 
+14 
+17 
+19 
+21 
+22 
+24 
+26 
+37 
+43 
+50 
+52 
+56 
+67 
+
+rope 
+ball 
+ball 
+bottle 
+beans 
+cloth 
+stick 
+rope 
+ball 
+bottle 
+cloth 
+bottle 
+bottle 
+stick 
+ball 
+bottle 
+ball 
+bottle 
+
+rock 
+ground 
+table 
+rock 
+ground 
+table 
+table 
+basket 
+table 
+basket 
+basket 
+rock 
+table 
+basket 
+rock 
+table 
+basket 
+basket 
+
+√ 1 
+  
+  
+  
+  
+* 1 
+√ 2 
+√ 2 
+  
+ √ 2 
+√ 1 
+√ 1 
+  
+√ 2 
+  
+* 1 
+  
+  
+
+* 1 
+  
+
+√ 2 
+√ 1 
+√ 2 
+√ 1 
+√ 1; % 1  √ 2 
+√ 1 
+  
+* 1 
+* 2 
+√ 2 
+√ 1 
+* 1 
+√ 1 
+√ 1 
+* 1 
+√ 1 
+√ 1 
+  
+√ 1 
+  
+  
+√ 1 
+√ 1 
+* 1 
+√ 1; * 1  √ 2 
+  
+  
+* 1 
+  
+√ 2 
+√ 1 
+  
+  
+* 2 
+* 1 
+√ 1 
+  
+  
+√ 1 
+√ 1 
+  
+√ 2 
+√ 1 
+√ 2 
+√ 1; % 1  * 1 
+* 2 
+* 1; √ 1 
+* 1 
+
+  
+
+* 2 
+* 2 
+* 1 
+√ 2 
+* 1 
+* 1 
+* 1 
+  
+* 1 
+* 1 
+  
+* 2 
+√ 2 
+  
+* 1; % 1 
+* 1 
+* 1 
+* 1 
+
+ 337 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Table 9.  Summary of PosB data in Chapter 5 for SLQZ 
+
+# 
+
+Figure  Ground 
+
+deidy  
+
+natga 
+
+ri  
+
+zu  
+
+'is (positioned across)' 
+
+'is lying' 
+
+'are around' 
+
+'is standing' 
+
+3 
+7 
+8 
+10 
+11 
+14 
+17 
+19 
+21 
+22 
+24 
+26 
+37 
+43 
+50 
+52 
+56 
+67 
+
+rope 
+ball 
+ball 
+bottle 
+beans 
+cloth 
+stick 
+rope 
+ball 
+bottle 
+cloth 
+bottle 
+bottle 
+stick 
+ball 
+bottle 
+ball 
+bottle 
+
+rock 
+ground 
+table 
+rock 
+ground 
+table 
+table 
+basket 
+table 
+basket 
+basket 
+rock 
+table 
+basket 
+rock 
+table 
+basket 
+basket 
+
+√ 1  
+* 1 
+* 1 
+* 1 
+* 1 
+* 1 
+√ 1 (VL); * 1(FL) 
+√ 2 
+* 1 
+* 2 
+√ 3 
+√ 1 (VL); * 1 (FL) 
+* 1 
+√ 3 
+* 1 
+* 1 
+* 1 
+* 1 
+
+√ 1 
+√ 3 
+√ 1 
+* 1 
+√ 1 
+√ 2 
+√ 2 
+√ 1 
+√ 1 
+√ 2 
+√ 1 
+√ 3 
+* 1 
+√ 1 
+√ 1 
+√ 2 
+√ 1 
+√ 1 
+
+ 
+
+ 
+√ 1 
+
+ 
+√ 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+√ 1 
+ 
+ 
+
+* 1 
+* 1 
+* 1 
+√ 1 
+* 1 
+* 1 
+* 1 
+* 1 
+* 1 
+* 1 
+* 1 
+* 1 
+√ 3 
+* 1 
+* 1 
+* 1 
+* 1 
+√ 1 
+
+ 338 
+
+ 
+
+REFERENCES 
+
+ 
+Ameka, Felix K., Carlien de Witte, and David P. Wilkins. 1999. "Picture series for positional 
+
+verbs: Eliciting the verbal component in locative descriptions." In Field manual 1999, David 
+P. Wilkins (ed.). Nijmegen: Max Planck Institute for Psycholinguistics, 48-56. (abbreviated 
+as PosB) 
+
+ 
+Angulo, Jaime de.  1925.  "The linguistic tangle of Oaxaca."  Language, vol. 1; 3:96-102. 
+ 
+Angulo, Jaime de.  1926.  "The development of affixes in a group of monosyllabic languages of 
+
+Oaxaca."  Language, vol. 2;  1:46-61 and 2:119-133. 
+
+ 
+Angulo, Jaime de and L. S. Freeland. 1935. "The Zapotekan linguistic group. A comparative 
+
+study of Chinanteco, Chocho, Mazateco, Cuiateco, Mixteco, Chatino, and especially of 
+Zapoteco proper and its dialects." International journal of American linguistics. vol 8; 1:46-
+61 and 2:111-130. 
+
+ 
+Avelino, Heriberto, John Foreman, Pamela Munro and Aaron Huey Sonnenschein. 2004. "Covert 
+Subjects in Zapotecan." Presented at the 2004 annual meeting of The Society for the Study of 
+the Indigenous Languages of the Americas; Boston.  
+
+ 
+Beam de Azcona, Rosemary G. 2004. A Coatlán-Loxicha Zapotec Grammar. Ph.D. Dissertation, 
+
+University of California, Berkeley. 
+
+ 
+Beam de Azcona, Rosemary G. in preparation.  Di7zh Ke7: the Zapotec language of the 
+
+Coatlanes and Loxichas, accessed at 
+http://www.linguistics.berkeley.edu/~rosemary/dissertation.htm 
+
+ 
+Blake, Barry J. 2001. Case.  2nd Edition.  Cambridge University Press: Cambridge. 
+ 
+Bloom, Paul, Mary A. Peterson, Lynn Nadel, and Merrill F. Garrett, Eds. 1996. Language and 
+
+Space. Cambridge: MIT Press. 
+
+ 
+Bohnemeyer, Jürgen and Penelope Brown. to appear. "Standing divided: Dispositional verbs and 
+locative predications in two Mayan language." In F. Ameka and S. C. Levinson, eds., special 
+edition of Linguistics. In prep. 
+
+ 
+Bohnemeyer, Jürgen and Christel Stolz. to appear. "Spatial reference in Yukatek Maya: A 
+
+survey." In Stephen C. Levinson, ed. Grammar of Space. In prep. 
+
+ 
+Bowerman, Melissa. n.d. Melissa Bowerman's Topological Relations Picture Series. ms: Max-
+
+Planck Institute for Psycholinguistics, Nijmegen. 
+
+ 
+Briggs, Elinore. 1961. Mitla Zapotec Grammar. Mexico: Instituto Lingüístico de Verano and 
+
+Centro de Investigaciones Antropológicas de México. 
+
+ 
+
+ 
+
+339 
+
+ 
+
+ 
+
+Broadwell, George Aaron. 2001. "Optimal Order and Pied-Piping in San Dionicio Zapotec." In 
+Peter Sells, ed. Formal and Empirical Issues in Optimality Theory, pp. 197-224. Stanford: 
+CSLI. 
+
+ 
+Broadwell, George Aaron. 2003a. "Optimality, Complex Predication, and Parallel Structures in 
+
+Zapotec."  In Miriam Butt and Tracy Holloway King, eds. Proceedings of the Lexical 
+Functional Grammar 2003 conference. 
+
+ 
+Broadwell, George Aaron. 2003b. "Branching consistency as a constraint on Zapotec syntax." In 
+
+Proceedings of the 38th Chicago Linguistics Society. 
+
+ 
+Broadwell, George Aaron. 2005. "The morphology of Zapotec pronominal clitics." In Rosemary 
+
+Beam de Azcona and Mary Paster, eds. Survey of California and Other Indian Languages, 
+Report 13: Conference on Otomanguean and Oaxacan Languages, pp. 15-35. University of 
+California at Berkeley. 
+
+ 
+Broadwell, George Aaron. In press. A Choctaw Reference Grammar. Lincoln, NE: University of 
+
+Nebraska Press. 
+
+ 
+Broadwell, George Aaron and Brook Danielle Lillehaugen. 2006. "Pied-Piping with Inversion in 
+
+Tlacolula de Matamoros Zapotec." Presented at the SSILA annual meeting, Albuquerque. 
+
+ 
+Brugman, Claudia and Monica Macaulay. 1986. "Interacting Semantic Systems: Mixtec 
+
+Expressions of Location." In Vassiliki Nikiforidou, Mary VanClay, Mary Niepkuj, and 
+Deborah Feder, eds. Proceedings of the Twelfth Annual Meeting of the Berkeley Linguistic 
+Society. pp. 315-327. Berkeley: Berkeley Linguistics Society.  
+
+ 
+Butler, Inez M. 1980. Gramática Zapoteca: Zapoteco de Yatzachi El Bajo. Serie de Gramáticas 
+
+de Lenguas Indígenas de México, no. 4. México: Instituto Lingüistico de Verano. 
+
+ 
+Campbell, Lyle, Terrence Kaufman and Thomas Smith-Stark. 1986. "Mesoamerica as a 
+
+linguistic area." Language 62: 530-570. 
+
+ 
+CC abbreviation for Cali Chiu; Munro, Lillehaugen, and Lopez in progress 
+ 
+Córdova, Fr. Juan de. 1886 [1578a]. Arte del idioma zapoteco. Morelia: Imprenta del Gobierno. 
+ 
+Córdova, Fr. Juan de. 1987 [1578b]. Vocabulario en lengua çapoteca. México: Ediciones 
+
+Toledo; Instituto Nacional de Antropología e Historia. 
+
+ 
+Fernández de Miranda, María Teresa. 1995 [1965]. El Protozapoteco. México: Centro de 
+
+Estudios Lingüísticos y Literarios, El Colegio de México; Instituto Nacional de Antropología 
+e Historia.  
+
+ 
+Galant, Michael R. 1998. Comparative Constructions in Spanish and San Lucas Quiaviní 
+
+Zapotec. Ph.D. Dissertation, UCLA. 
+
+ 
+
+340 
+
+ 
+
+ 
+
+ 
+Galant, Michael. 2005. "Positional verbs in San Juan Yaee Zapotec." Presented at the LASSO 
+
+annual meeting, Lubbock. 
+
+ 
+García García, Angel, et al. n.d. [1998?]. Oaxaca: Distritos (Municipios, Localidades, y 
+
+Habitantes). n.p. (Priv. de Rayon no. 104, Centro, Oaxaca, Oax.) 
+
+ 
+Gorbet, Larry and Pamela Munro. 2002. "Directionality and Affectedness: Semantic Extension 
+in Chickasaw Applicatives." In Lisa Conathan and Teresa McFarland, eds., Proceedings of 
+the 50th Anniversary Conference of the Survey of California and Other Indian Languages. 
+Reports from the Survey 12: 137-154. Berkeley: Department of Linguistics, University of 
+California. 
+
+ 
+Gordon, Raymond G., Jr. (ed.), 2005. Ethnologue: Languages of the World, Fifteenth edition. 
+
+Dallas, Tex.: SIL International. Online version: http://www.ethnologue.com. 
+
+  
+Heine, Bernd. 1997. Cognitive foundations of grammar. Oxford, UK: Oxford University Press. 
+ 
+Heine, Bernd, Ulrike Claudi, and Friederike Hünnemeyer. 1991. Grammaticalization: A 
+
+Conceptual Framework. Chicago: University of Chicago Press. 
+
+ 
+Heinz, Jeff. 2005. "Grammaticalization in Prepositional Phrases: A Case Study in Kiche."  ms. 
+
+UCLA. 
+
+ 
+Hollenbach, Barbara E. 1995.  "Semantic and Syntactic Extensions of Body Part terms in 
+
+Mixtecan: The Case of 'Face' and 'Foot'." International Journal of American Linguistics 61: 
+168-190. 
+
+ 
+Hopper P.J. and Thompson S.A. 1984. "The discourse basis for lexical categories in universal 
+
+grammar." Language 60: 703-752. 
+
+ 
+Jaeger, Jeri J. 1983. "The Fortis / Lenis Question: Evidence from Zapotec and Jawoñ."  Journal 
+
+of Phonetics 11: 177-189. 
+
+ 
+Jensen de López, Kristine. 1999. "The Acquisition of Zapotec Body Part Locatives: a 
+
+Longitudinal Case Study." Presented at The International Congress for the Study of Child 
+Language, San Sebastian. 
+
+ 
+Jensen de López, Kristine. 2002. Baskets and Body-Parts: A Cross-cultural and Cross-linguistic 
+
+investigation of Children's development of Spatial Cognition and Language. Ph.D. 
+dissertation, Aarhus University. 
+
+ 
+Jensen de López, Kristine. 2005. "The Syntactic and Semantic Status of Body Part Locatives in 
+
+San Marcos Tlapazola (Valley) Zapotec." Presented at the LASSO annual meeting, Lubbock. 
+
+ 
+
+ 
+
+341 
+
+ 
+
+ 
+
+Jones, Ted E. and Ann D. Church. 1985. "Personal pronouns in Guelavía Zapotec." S.I.L.-Mexico 
+
+Workpapers 7: 1-15. 
+
+ 
+Jones, Ted E. and Lyle M. Knudson. 1977. "Guelavía Zapotec Phonemes." Studies in 
+
+Otomanguean Phonology, ed., William R. Merrifield, pp. 163-80. Dallas / Arlington: SIL / 
+University of Texas, Arlington. 
+
+ 
+Kaufman, Terrance. 1974. "Meso-American Indian Languages." In Encyclopaedia Britannica, 
+
+15th Edition, Goetz, Philip W., Ed. 22: 788-792.  Encyclopaedia Britannica, Chicago. 
+
+ 
+Kaufman, Terrance. 1989. "The phonology and morphology of Zapotec verbs." ms. 
+ 
+Kaufman, Terrance. 1994. "Proto-Zapotec reconstructions." ms. 
+ 
+Kemmerer, David.  in press  "The Semantics of Space: Integrating Linguistic Typology and 
+
+Cognitive Neuroscience."  Neuropschyologia. 
+
+ 
+Koopman, Hilda. 1997. "Prepositions, Postpositions, Circumpositions and Particles: The 
+
+Structure of Dutch PPs."  ms. UCLA. 
+
+ 
+Kutscher, Silvia and Eva Schultze-Berndt. to appear. "Why a folder lies on the basket although it 
+
+is not lying: the semantics and use of German positional verbs with inanimate figures." In 
+Feliz Ameka and Stephen Levinson (Eds.) to appear. Positional and postural verbs. Special 
+issue of Linguistics. Online at http://www.uni-koeln.de/phil-
+fak/ifl/asw/institut/homepages/Homepage_SK/dtposflow.pdf 
+
+ 
+Kutscher, Silvia and N. Sevim Genç. to appear. "Laz positional verbs: semantics and use with 
+inanimate figures." In Feliz Ameka and Stephen Levinson (Eds.) to appear. Positional and 
+postural verbs. Special issue of Linguistics. Online at http://www.uni-koeln.de/phil-
+fak/ifl/asw/institut/homepages/Homepage_SK/lazposflow.pdf 
+
+ 
+Lakoff, George. 1987. Women, Fire, and Dangerous Things: What Categories Reveal about the 
+
+Mind.   Chicago: The University of Chicago Press. 
+
+ 
+Lakoff, George and Mark Johnson. 1980. Metaphors We Live By. Chicago: University of 
+
+Chicago Press. 
+
+ 
+Larsen, Thomas. 1988. Manifestations of Ergativity in Quiché Grammar. Ph.D. thesis, 
+
+University of California, Berkeley. 
+
+ 
+Lee, Felicia A. 1999. Antisymmetry and the Syntax of San Lucas Quiaviní Zapotec. Ph.D. 
+
+dissertation, UCLA. 
+
+ 
+Levinson, Stephen C. 1992. "Primer for the Field Investigation of Spatial Description and 
+
+Conception." Pragmatics 2: 5-47. 
+
+ 
+
+ 
+
+342 
+
+ 
+
+ 
+
+Levinson, Stephen C. 1996. Language and Space. Annual Review of Anthropology 25: 353-382. 
+ 
+Levinson, Stephen C. 2000. "H.P. Grice on location on Rossel Island." in S. S. Chang, L. Liaw, 
+
+and J. Ruppenhofer, eds. Proceedings of the Twenty-Fifth Annual Meeting of the Berkeley 
+Linguistic Society. pp. 210-224. Berkeley: Berkeley Linguistics Society. 
+
+ 
+Levinson, Stephen C. 2003. Space in Language and Cognition: Explorations in Cognitive 
+
+Diversity.  Language, Culture & Cognition 5.  Cambridge: Cambridge University Press. 
+
+ 
+Liga Bíblica, La [Jones, Ted, et al.]. 1995. Xtiidx Dios Cun Ditsa (El Nuevo Testamento en el 
+
+zapoteco de San Juan Guelavía y en español). n.p.: n.p. 
+
+ 
+Lillehaugen, Brook Danielle. 2003. The Categorial Status of Body Part Prepositions in Valley 
+
+Zapotec. M.A. thesis, UCLA. 
+
+ 
+Lillehaugen, Brook Danielle. 2004a. "The Syntactic and Semantic Development of Body Part 
+Prepositions in Valley Zapotec Languages." In Castillo, Jeanie, Ed.  Proceedings from the 
+sixth Workshop on American Indigenous Languages, Santa Barbara Papers in Linguistics 14: 
+69-92. 
+
+ 
+Lillehaugen, Brook Danielle. 2004b. "Modified Body Parts are not Prepositions."  Presented at 
+
+the SSILA annual meeting, Boston. 
+
+ 
+Lillehaugen, Brook Danielle. 2004c. "The Acquisition of Body Part Prepositions in Valley 
+Zapotec Languages." The First Conference on Indigenous Languages of Latin America 
+Proceedings (online proceedings http://www.ailla.utexas.org/site/cilla1_toc.html), University 
+of Texas at Austin. 
+
+ 
+Lillehaugen, Brook Danielle. 2004d.  "Is Valley Zapotec lohoh a Dative Marker?" Presented at 
+
+the First Conference on Oto-Manguean and Oaxacan and Languages, Berkeley. 
+
+ 
+Lillehaugen, Brook Danielle. 2005a.  "Positional Verbs in Valley Zapotec Languages." Presented 
+
+at the SSILA annual meeting, Oakland. 
+
+ 
+Lillehaugen, Brook Danielle. 2005b. "Multifaceted Loh: The Meanings of Loh 'Face' in Colonial 
+
+Valley Zapotec."  Presented at the LASSO annual meeting, Lubbock. 
+
+ 
+Lillehaugen, Brook Danielle. 2006. "Viewpoint and the Role of Ground in Expressing Location."  
+
+Presented at the LSA annual meeting, Albuquerque. 
+
+ 
+Lillehaugen, Brook Danielle and Aaron Huey Sonnenschein. 2005. "Expressing Location in 
+
+Zapotec: Some Topics of Interest and Useful Terminology." ms. accessed online at 
+http://www.linguistics.ucla.edu/people/grads/lillehaugen/ELZ.pdf 
+
+ 
+
+ 
+
+343 
+
+ 
+
+ 
+
+Lillehaugen, Brook Danielle and Pamela Munro. 2006. "Prepositions and Relational Nouns in a 
+
+Typology of Component Part Locatives."  Presented at the LSA annual meeting, 
+Albuquerque. 
+
+ 
+Lillehaugen, Brook Danielle and Pamela Munro. in preparation. "Prepositions and Relational 
+
+Nouns in a Typology of Component Part Locatives."  ms. 
+
+ 
+Langacker, Ronald W. 1987. Foundations of cognitive grammar (2 vols). Stanford, Calif.: 
+
+Stanford University Press. 
+
+ 
+Longobardi, Giuseppe. 2001. "Formal Syntax, Diachronic Minimalism and Etymology: the 
+
+history of French chez." Linguistic Inquiry 2001:2. 
+
+ 
+Loos, Eugene E., with Susan Anderson, Dwight H. Day, Jr., Paul C. Jordan, and C. Douglas 
+
+Wingate, eds. 1999. Glossary of Linguistic Terms. Dallas: SIL International. 
+http://www.sil.org/linguistics/GlossaryOfLinguisticTerms/Index.htm March 8, 2004. 
+
+ 
+López Cruz, Áurea. 2003. "El orden de las palabras en oraciones simples en el zapoteco de San 
+Pablo Güilá."  Presented at the First Conference of Indigenous Languages of Latin America, 
+Austin. 
+
+ 
+Macaulay, Monica. 1996. A Grammar of Chalcatongo Mixtec. London: University of California 
+
+Press. 
+
+ 
+MacLaury, Robert E. 1970. Ayoquesco Zapotec: ethnography, phonology, and lexicon. M.A. 
+
+thesis, University of Americas, Mexico, D.F. 
+
+ 
+MacLaury, Robert E. 1989. "Zapotec Body-Part Locatives: Prototypes and Metaphoric 
+
+Extensions." International Journal of American Linguistics. 1989 Apr, 55:2, 119-154. 
+
+ 
+Martínez, Olivia V. In progress. Creating the First San Juan Guelavía Zapotec Dictionary. Ph.D. 
+
+dissertation, UCLA. 
+
+ 
+Mayer, Mercer. 1969. Frog, Where are You? New York: Dial Press. 
+ 
+Méndez [Martínez], Olivia V. 2000. Code-Switching and the Matrix Language Model in San 
+
+Lucas Quiaviní Zapotec. M.A. thesis, UCLA. 
+
+ 
+ML abbreviation for Munro and Lopez, et al. 1999. 
+ 
+ML in prep. abbreviation for Munro and Lopez. In preparation. 
+ 
+Munro, Pamela. 1996. "Making a Zapotec Dictionary." Dictionaries 17:131-55.  
+ 
+
+ 
+
+344 
+
+ 
+
+ 
+
+Munro, Pamela. 2000. "The Leaky Grammar of the Chickasaw Applicatives", in Arika Okrent 
+and John P. Boyle, eds., The Proceedings from the Main Session of the Chicago Linguistic 
+Society's Thirty-Sixth Meeting. Volume 36-1. Chicago: Chicago Linguistic Society, pp. 285-
+310. 
+
+ 
+Munro, Pamela. 2002. "Hierarchical Pronouns in Discourse: Third Person Pronouns in San Lucas 
+
+Quiaviní Zapotec Narratives." Southwest Journal of Linguistics 21: 37-66.  
+
+ 
+Munro, Pamela. 2005a. "Zapotec Grammar Without Tears (except perhaps for the grammarian)." 
+
+Rosemary Beam de Azcona and Mary Paster, eds. Papers from the Conference on 
+Otomanguean and other Oaxacan Languages. Survey of  California and Other Indian 
+Languages Report 13: 87-106. Berkeley, California: Survey of California and Other Indian 
+Languages. 
+
+ 
+Munro, Pamela. 2005b. "Expressing Location Without Prepositions in Valley Zapotec." 
+
+Presented at the LASSO annual meeting, Lubbock. 
+
+ 
+Munro, Pamela. 2006a.  "Chickasaw Positional Verbs." Presented at the SSILA annual meeting, 
+
+Albuquerque. 
+
+ 
+Munro, Pamela. 2006b. "From Parts of Speech to the Grammar." In Perspectives on Descriptive 
+Grammars, ed. Thomas Payne and David Weber, special issue of Studies in Language 30:2. 
+
+ 
+Munro, Pamela, Brook Danielle Lillehaugen, and Felipe H. Lopez. In preparation. Cali Chiu: A 
+
+Course in Valley Zapotec. ms. UCLA. 
+
+ 
+Munro, Pamela, and Felipe H. Lopez, with Olivia V. Méndez [Martínez], Rodrigo Garcia, and 
+Michael R. Galant. 1999. Di'csyonaary X:tèe'n Dìi'zh Sah Sann Lu'uc (San Lucas Quiaviní 
+Zapotec Dictionary / Diccionario Zapoteco de San Lucas Quiaviní). Los Angeles: (UCLA) 
+Chicano Studies Research Center Publications. 
+
+ 
+Munro, Pamela, and Felipe H. Lopez.  In preparation. A revision of Di'csyonaary X:tèe'n Dìi'zh 
+
+Sah Sann Lu'uc (San Lucas Quiaviní Zapotec Dictionary / Diccionario Zapoteco de San 
+Lucas Quiaviní). ms. (version November 2003). 
+
+ 
+Munro, Pamela, and Catherine Willmond. 1994. Chickasaw: An Analytical Dictionary. Norman 
+
+— London: University of Oklahoma Press. 
+
+ 
+Nicklas, Thurston Dale. 1974. The Elements of Choctaw. Ph.D. dissertation, University of 
+
+Michigan. 
+
+ 
+Nicklas, T. Dale. 1979. Reference Grammar of the Choctaw Language. Durant, OK: Choctaw 
+
+Bilingual Education Program, Southeastern Oklahoma State University. 
+
+ 
+
+ 
+
+345 
+
+ 
+
+ 
+
+Operstein, Natalie. 2002. "Positional Verbs and Relational Nouns in Zaniza Zapotec." 
+
+Proceedings from the fourth Workshop on American Indigenous Languages, Santa Barbara 
+Papers in Linguistics 11: 60-80. 
+
+ 
+Pederson, Eric, Eve Danziger, David Wilkins, Stephen Levinson, Sotari Kita, and Gunter Senft. 
+
+1998. "Semantic Typology and Spatial Conceptualization." Language 74: 557-89. 
+
+ 
+PosB abbreviation for Ameka, de Witte, and Wilkins 1999 
+ 
+Radin, Paul. 1925. "The distribution and phonetics of the Zapotec dialects. A preliminary 
+
+sketch." Journal de la Société des Américanistes de Paris, 17:27-76.  
+
+ 
+Rendón M., Juan José. 1967. "Relaciones internas de las lenguas de la familia zapoteco-chatino." 
+
+Anales de Antropología 4:187-190. 
+
+ 
+Rendón M., Juan José. 1975. "Estudio de los factores sociales en la diversificación del 
+
+zapoteco." Anales de Antropología 12:283-318. 
+
+ 
+
+Smith, Marcus. 2005. "Basic Locative Construction in Pima." ms. UCLA. 
+ 
+Smith Stark, Thomas C. 1988. "'Pied-piping' con inversion en preguntas parciales." ms. Centro 
+de estudios lingüisticos y literarios, Colegio de México y Seminario de Lenguas Indígenas. 
+
+ 
+Smith Stark, Thomas C. 2003. "Algunas isoglosas zapotecas" Presented at the III Coloquio 
+
+International de Lingüística, México, D.F. 
+
+ 
+
+Sonnenschein, Aaron Huey. 2004a. A Descriptive Grammar of San Bartolomé Zoogocho 
+
+Zapotec. Dissertation, University of Southern California. 
+
+ 
+Sonnenschein, Aaron Huey. 2004b. "The Grammaticalization of Relational Nouns in Zoogocho 
+
+Zapotec," In Rosemary Beam de Azcona and Mary Paster (eds.). The Proceedings of the 
+Conference on Otomanguean and Oaxacan Languages. Survey of California and Other 
+Indian Languages Report 13: Berkeley. 
+
+ 
+ Sonnenschein, Aaron Huey. 2005. A Descriptive Grammar of San Bartolomé Zoogocho 
+
+Zapotec. Languages of the World / Materials 451.  Munich, Germany: LINCOM GmbH. 
+
+ 
+Speck, Charles. 1994. "The Existential Use of Positional Verbs in Texmelucan Zapotec." 1994 
+
+Work Papers of the Summer Institute of Linguistics 38: 75-84. 
+
+ 
+Stubblefield, Morris and Carol Miller de Stubblefield. 1991. Diccionario Zapoteco De Mitla, 
+
+Oaxaca. México, D.F.: Instituto Lingüistico de Verano, A.C.   
+
+ 
+Stubblefield, Morris and Carol Miller de Stubblefield. 1994. Mitla Zapotec Texts: Folklore Texts 
+
+in Mexican Indian Languages 3  Dallas, Texas: Summer Institute of Linguistics. 
+
+ 
+
+ 
+
+346 
+
+ 
+
+ 
+
+Suárez, Jorge A. 1973. "On Proto-Zapotec phonology." International journal of American 
+
+linguistics 39:236-249. 
+
+ 
+Svorou, Soteria. 1986. "On the Evolutionary Paths of Locative Expressions." in Vassiliki 
+
+Nikiforidou, Mary VanClay, Mary Niepkuj, and Deborah Feder, eds. Proceedings of the 
+Twelfth Annual Meeting of the Berkeley Linguistic Society. pp. 315-327. Berkeley: Berkeley 
+Linguistics Society. 
+
+ 
+Svorou, Soteria. 1994. The grammar of space. Amsterdam; Philadelphia: John Benjamins. 
+ 
+Swadesh, Morris.  1947.  "The phonemic structure of Proto-Zapotec."  International journal of 
+
+American linguistics 13:220-230. 
+
+ 
+Talmy, Leonard. 1985. Lexicalization patterns: semantic structures in lexical forms. In Shopen 
+
+T, ed. 1985. Language Typology and Syntactic Description, Vol. 3, Grammatical Categories 
+and the Lexicon. pp 56-149. Cambridge: Cambridge University Press. 
+
+ 
+Talmy, Leonard. 2000. Toward a Cognitive Semantics (2 vols). The MIT Press, Cambridge. 
+ 
+van Riemsdijk, Henk. 1983. "The case of German adjectives." In F. Heny & B. Richards (eds.), 
+
+Linguistic categories: Auxiliaries and related puzzles, vol. 1:223-252. Reidel. 
+
+ 
+Virtual Mexico. http://www.virtualmex.com/map.htm November 22, 2002. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+347 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+348 
+
+ 
+
+

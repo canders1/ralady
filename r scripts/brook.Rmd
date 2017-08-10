@@ -9,7 +9,7 @@ library(stringr)
 ```
 
 ```{r}
-text <- readLines("~/scrapy/ralady/sources/brook.txt")#read in text
+text <- readLines("~/scrapy/ralady/sources/brook_out.txt")#read in text
 nos <- grep("^[0-9] ",text)#remove lines that start with a number but no period
 
 if(length(nos)>0){
@@ -18,6 +18,14 @@ if(length(nos)>0){
 nosend <- grep("^[0-9]$",text)
 if(length(nosend)>0){
   text <- text[-nosend]
+}
+empty1 <- grep("^$",text)
+if(length(empty1)>0){
+  text <- text[-empty1]
+}
+empty2 <- grep("^ $",text)
+if(length(empty2)>0){
+  text <- text[-empty2]
 }
 text
 ```
