@@ -52,14 +52,24 @@ negs <- setdiff(all,cands)
 if(length(negs)>0){
   text <- text[-negs]
 }
-head(text,100)
-translations <- grep(" '.*'",text)
+translations <- grep(" '.*'$",text)
 all <- c(1:length(text))
 untrans <- setdiff(all,translations)
 if(length(untrans)>0){
   text <- text[-untrans]
 }
-head(text,100)
+#head(text,100)
+splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
+for(i in 1:length(text)){
+  line <- text[i]
+  line <- stringr::str_replace_all(line, "^[0-9]*\\. ", "")
+  line <- str_trim(line)
+  line <- stringr::str_replace_all(line, "^[a-z]\\. ", "")
+  line <- str_trim(line)
+  trans <- stringr::str_extract(line, "'[^']+'$")
+  rest <- stringr::str_split(line, "'[^']+'$")[[1]]
+  splitt[i,] <- rbind(rest,"",trans,line)
+}
 ```
 
 qs <- grep("^'",text)#Find lines that start with fancy quotes (i.e., translations that got cut)
