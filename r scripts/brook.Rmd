@@ -9,28 +9,28 @@ library(stringr)
 ```
 
 ```{r}
-text <- readLines("~/scrapy/ralady/sources/brook_out.txt")#read in text
+text <- readLines("~/scrapy/ralady/sources/brook_out2.txt")#read in text
 text <- str_trim(text)
-nos <- grep("^[0-9] ",text)#remove lines that start with a number but no period
+empty <- grep("^$",text)
+text <- text[-empty]
 nosend <- grep("^[0-9]*$",text)
-nosempty <- grep("^[0-9]* $",text)
-empty1 <- grep("^$",text)
-empty2 <- grep("^ $",text)
 outline <- grep("^ *[0-9]*\\.[0-9]",text)
-rm <- union(union(nos,nosend),union(union(nosempty,empty1),union(empty2,outline)))
-if(length(rm)>0){
-  text <- text[-rm]
+pageheads <- union(nosend,outline)
+if(length(pageheads)>0){
+  text<- text[-pageheads]
 }
 subs <- grep("^[a-z]\\.",text)
 starts <- grep("^[0-9]*\\.",text)
 cands <- union(subs,starts)
 cands <- sort(cands)
+#cands
+#head(text,100)
 for(i in 1:length(cands)){
   curr <- cands[i]
   if(i < length(cands)){
     neigh <- cands[i+1]
-    if((neigh-curr)>5){
-      end <- curr+4
+    if((neigh-curr)>8){
+      end <- curr+7
     }
     else{
       if((neigh-curr)>2){
@@ -47,21 +47,22 @@ for(i in 1:length(cands)){
     text[curr]<- paste(added, sep=" ", collapse=" ")
   }
 }
+
 all <- c(1:length(text))
 negs <- setdiff(all,cands)
 if(length(negs)>0){
   text <- text[-negs]
 }
-translations <- grep(" '.*'$",text)
-all <- c(1:length(text))
-untrans <- setdiff(all,translations)
-if(length(untrans)>0){
-  text <- text[-untrans]
-}
+
 text <- stringr::str_replace_all(text, "^[0-9]*\\. ", "")
 text <- str_trim(text)
 text <- stringr::str_replace_all(text, "^[a-z]\\. ", "")
 text <- str_trim(text)
+
+head(text,200)
+
+```
+
 ungrammatical <- grep("\\*",text)#remove ungrammatical sentences
 text <- text[-ungrammatical]
 infelicitious <- grep("\\#",text)#remove infelicitious sentences
@@ -95,7 +96,7 @@ for(i in 1:length(text)){
   
   
   
-  splitt[i,] <- rbind(zap,gloss,rest,cite)
+  splitt[i,] <- rbind(zap,gloss,trans,cite)
   
   
   
