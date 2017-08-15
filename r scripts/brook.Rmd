@@ -58,17 +58,47 @@ untrans <- setdiff(all,translations)
 if(length(untrans)>0){
   text <- text[-untrans]
 }
+text <- stringr::str_replace_all(text, "^[0-9]*\\. ", "")
+text <- str_trim(text)
+text <- stringr::str_replace_all(text, "^[a-z]\\. ", "")
+text <- str_trim(text)
+ungrammatical <- grep("\\*",text)#remove ungrammatical sentences
+text <- text[-ungrammatical]
+infelicitious <- grep("\\#",text)#remove infelicitious sentences
+text <- text[-infelicitious]
 #head(text,100)
 splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
 for(i in 1:length(text)){
   line <- text[i]
-  line <- stringr::str_replace_all(line, "^[0-9]*\\. ", "")
-  line <- str_trim(line)
-  line <- stringr::str_replace_all(line, "^[a-z]\\. ", "")
+  line <- stringr::str_replace_all(line, "√", "")
   line <- str_trim(line)
   trans <- stringr::str_extract(line, "'[^']+'$")
   rest <- stringr::str_split(line, "'[^']+'$")[[1]]
-  splitt[i,] <- rbind(rest,"",trans,line)
+  cite <- stringr::str_extract(rest, "\\(.*\\)")
+  cite <- stringr::str_extract(cite, "[A-Z]+")
+  rest <- stringr::str_split(rest, "\\(.*\\)")[[1]]
+  
+  z <- stringr::str_split(rest," ")#split data/gloss on whitespace
+  indexes <- which(z == "")
+  if(length(indexes)>0){
+    z <- z[-indexes]
+  }
+  if(length(z)>0){#if there's more than 1 word, assume there is a gloss
+    length <- length(z[[1]])#calculate starting point of gloss
+    half <- length/2
+    zap <- paste(z[[1]][-(half+1:length)],collapse = " ")
+    gloss <- paste(z[[1]][-(1:half)],collapse = " ")
+  }else{
+    zap<- ""
+    gloss <- ""
+  }
+  
+  
+  
+  splitt[i,] <- rbind(zap,gloss,rest,cite)
+  
+  
+  
 }
 ```
 
