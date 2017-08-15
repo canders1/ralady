@@ -21,7 +21,6 @@ rm <- union(union(nos,nosend),union(union(nosempty,empty1),union(empty2,outline)
 if(length(rm)>0){
   text <- text[-rm]
 }
-head(text,100)
 subs <- grep("^[a-z]\\.",text)
 starts <- grep("^[0-9]*\\.",text)
 cands <- union(subs,starts)
@@ -52,6 +51,13 @@ all <- c(1:length(text))
 negs <- setdiff(all,cands)
 if(length(negs)>0){
   text <- text[-negs]
+}
+head(text,100)
+translations <- grep(" '.*'",text)
+all <- c(1:length(text))
+untrans <- setdiff(all,translations)
+if(length(untrans)>0){
+  text <- text[-untrans]
 }
 head(text,100)
 ```
