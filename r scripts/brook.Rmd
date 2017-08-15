@@ -65,9 +65,9 @@ if(length(noquote)>0){
   text <- text[-noquote]
 }
 
-ungrammatical <- grep("^\\*",text)#remove ungrammatical sentences
+ungrammatical <- grep("\\*",text)#remove ungrammatical sentences
 text <- text[-ungrammatical]
-infelicitious <- grep("^\\#",text)#remove infelicitious sentences
+infelicitious <- grep("\\#",text)#remove infelicitious sentences
 text <- text[-infelicitious]
 
 #head(text,200)
@@ -77,13 +77,17 @@ for(i in 1:length(text)){
   line <- text[i]
   line <- stringr::str_replace_all(line, "√", "")
   line <- str_trim(line)
-  trans <- stringr::str_extract(line, "'[^']+'$")
-  rest <- stringr::str_split(line, "'[^']+'$")[[1]]
+  apos <- gregexpr("'",line)[[1]]
+  trans <- substr(line, apos[length(apos)-1], apos[length(apos)])
+  rest <- substr(line, 1, apos[length(apos)-1]-1)
   cite <- stringr::str_extract(rest, "\\(.*\\)")
-  cite <- stringr::str_extract(cite, "[A-Z]+")
-  rest <- stringr::str_split(rest, "\\(.*\\)")
-  rest <- paste(rest,collapse = " ")
-  cat(rest)
+  if(is.na(cite)){
+    cite <- ""
+    cat("NO CITE")
+  }else{
+    rest <- stringr::str_replace_all(rest,"\\(.*\\)","")
+    lang <- stringr::str_extract(cite, "[A-Z]+")
+  }
   
   z <- stringr::str_split(rest," ")#split data/gloss on whitespace
   indexes <- which(z == "")
@@ -99,7 +103,7 @@ for(i in 1:length(text)){
     zap<- ""
     gloss <- ""
   }
-  splitt[i,] <- rbind(zap,gloss,trans,cite)
+  splitt[i,] <- rbind(zap,gloss,trans,lang)
 }
 ```
 
