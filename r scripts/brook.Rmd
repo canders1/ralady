@@ -78,35 +78,37 @@ for(i in 1:length(text)){
   rest <- substr(line, 1, apos[length(apos)-1]-1)
   rest <- str_trim(rest)
   if(stringr::str_sub(rest,nchar(rest),nchar(rest))=="/"){
-    cat("Found a slash!")
     tag <- substr(rest,apos[length(apos)-3],apos[length(apos)-2])
-    cat(tag)
     trans <- paste(trans,tag,sep="/")
     rest <- substr(rest,1,apos[length(apos)-3]-1)
   }
   cite <- stringr::str_extract(rest, "\\(.*\\)")
   if(is.na(cite)){
-    cite <- ""
+    cat("No cite!")
+    lang <- ""
   }else{
     rest <- stringr::str_replace_all(rest,"\\(.*\\)","")
     lang <- stringr::str_extract(cite, "[A-Z]+")
   }
-  z <- stringr::str_split(rest," ")#split data/gloss on whitespace
+  z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
   indexes <- which(z == "")
+  indexes
   if(length(indexes)>0){
     z <- z[-indexes]
   }
-  if(length(z)>0){#if there's more than 1 word, assume there is a gloss
-    length <- length(z[[1]])#calculate starting point of gloss
-    half <- length/2
-    zap <- paste(z[[1]][-(half+1:length)],collapse = " ")
-    gloss <- paste(z[[1]][-(1:half)],collapse = " ")
+  if((length(z)%%2)==0){#if there's more than 1 word, assume there is a gloss
+    len <- length(z)#calculate starting point of gloss
+    half <- floor(len/2)
+    zap <- str_trim(paste(z[1:half],collapse=" "))
+    gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
+    splitt[i,] <- rbind(zap,gloss,trans,lang)
   }else{
-    zap<- ""
-    gloss <- ""
+    if(length(z)==1){
+      splitt[i,] <- rbind(z[1],"",trans,lang)
+    }
   }
-  splitt[i,] <- rbind(zap,gloss,trans,lang)
 }
+splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]
 ```
 
 qs <- grep("^'",text)#Find lines that start with fancy quotes (i.e., translations that got cut)
