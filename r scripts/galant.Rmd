@@ -9,7 +9,17 @@ library(stringr)
 ```
 
 ```{r}
-text <- readLines("~/scrapy/ralady/sources/galant_out.txt")#read in text
+text <- readLines("~/scrapy/ralady/sources/galant_out2.txt")#read in text
+empty <- grep("^$",text)
+text <- text[-empty]
+text <- stringr::str_replace(text,"                            ","")
+text <- stringr::str_replace(text,"\f","")
+outline <- grep("^ *[0-9]*\\.[0-9]",text)
+text <- text[-outline]
+fulllines <- grep("^[aA-zZ]",text)
+text <- text[-fulllines]
+spacy <- grep("^ [aA-zZ]",text)
+text <- text[-spacy]
 text
 ```
 
