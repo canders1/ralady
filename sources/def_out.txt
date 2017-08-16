@@ -1,0 +1,598 @@
+BLS 33, No 2 2007. DOI: http://dx.doi.org/10.3765/bls.v33i2.3504
+(published by the Berkeley Linguistics Society and the Linguistic Society of America)
+
+
+
+
+    A Definite Mystery
+
+    PAMELA MUNRO
+    UCLA
+
+
+
+
+    Zapotec languages indicate tense, aspect, and modality with “aspect” prefixes on
+    verbs. The most widely used of these prefixes mark Habitual, Perfective (or
+    Completive), and Irrealis (or Potential), but a number of languages have addition-
+    al, sometimes less well understood, aspect forms. In this paper I consider two
+    similar Zapotec aspect markers, one indicating a definite future, the other (used
+    only on motion verbs) with a quite different meaning. Are they one morpheme or
+    two? It's a definite mystery—but my conclusion, based on both internal and
+    comparative evidence, is that they are separate. 1
+
+    1.      Introduction
+    Tlacolula Valley Zapotec (TVZ; Ethnologue code ZAB) has been described as
+    having seven aspects (Munro and Lopez, et al., 1999), illustrated in (1) for the
+    verbs ‘runs’ and ‘puts on (a shirt)’.
+
+    (1) Habitual:    rzh:ùu'nny ‘runs’                   ra'ahcw ‘puts on (a shirt)’
+        Perfective: bzh:ùu'nny ‘ran’                     gwu'aht ‘put on (a shirt)’
+        Progressive: cazh:ùu'nny ‘is running’            caya'ahcw ‘is putting on (a shirt)’
+        Neutral:     —                                   naa'cw ‘is wearing (a shirt)’
+        Irrealis:    yzh:ùu'nny ‘will run’               ga'acw ‘will put on (a shirt)’
+        Subjunctive: nzh:ùu'nny ‘(if…)                   nya'ahcw ‘(if…)
+                        had run’                             had put on (a shirt)’
+        Definite:    x:ùu'nny ‘will surely run’          za'ahcw ‘will surely put on (a shirt)’
+
+
+    1
+      The TVZ examples discussed here reflect the dialect of San Lucas Quiaviní (often called SLQZ):
+    some were provided by my collaborator Felipe H. Lopez, who has graciously discussed all the
+    issues I raise here; others come from a collection of texts about the immigration experience (Lopez
+    and Munro, eds., in preparation). Great thanks also to Christopher Adam, Rosemary Beam de
+    Azcona, Cheryl Black, John Foreman, Felicia Lee, Rosa María Rojas Torres, and Aaron Sonnen-
+    schein, who provided helpful data and discussion, as well as to Michael Galant, Brook Lillehau-
+    gen, Bernard Comrie, Alexandra Aikhenvald, and other members of the BLS audience and the
+    UCLA American Indian Seminar for their helpful comments.
+
+
+                                                   91
+                                          Pamela Munro
+
+
+The examples show both that the shape of many (boldfaced) aspect prefixes varies
+from verb to verb (conditioned both phonologically and lexically), and also that
+some aspects don't occur for all verbs.
+     The Definite proper, indicated by z- before vowels and s- (sometimes assimi-
+lated, as with ‘will surely run’ in (1)) before consonants, is a ‘modal aspect’ (Lee
+1999, 2006), used to specify futures that the speaker is certain will occur, as in (2)
+and (3). (All z- verbs are boldfaced in this paper, with their translations under-
+lined. TVZ is a VSO language; subjects are indicated by nouns or names or by
+clitic pronouns.)
+
+(2)      Z-eheh        Jwaany        Ba'ahc.   ‘Juan will surely go to Tlacolula.’ 2
+         def-go        Juan          Tlacolula
+(3)      S-tòo'oh      Gye'eihlly    ca'rr. ‘Mike will surely buy the car.’
+         def-buy       Mike          car
+
+Such examples contrast with Irrealis sentences like those in (4)-(5); the Irrealis
+(which has many other modal uses) is a much more common way to show futures,
+but speakers describe these as less certain.
+
+(4)      Ch-iia Jwaany Ba'ahc.      ‘Juan will go to Tlacolula.’
+         irr-go Juan     Tlacolula
+(5)      Y-tòo'oh Gye'eihlly ca'rr. ‘Mike will buy the car.’
+         irr-buy   Mike      car
+
+    Another z- prefix occurs only with a small set of motion verbs (in TVZ, these
+are rihah ‘goes’, rìe'd ‘comes’, and rihah ‘goes home’ 3 (paradigmatically distinct
+from ‘goes’)) in examples like (6). For now, I will gloss this second z- prefix as
+‘z2’, and will use that term to refer to such verbs for most of this paper.
+
+(6)      Z-èe Jwaany             Ba'ahc.                ‘Juan was going to Tlacolula.’
+         z2-go Juan              Tlacolula
+
+Out of context, sentences like (6) typically have progressive translations; they
+strongly suggest a reference to going or coming only one way, without complet-
+ing the trip. This progressive sense seems to fill an important gap in the aspectual
+paradigm shown in (1), since the three verbs of motion that can be used in with
+
+2
+  TVZ data is presented in the academic orthography of Munro and Lopez et al. (1999). Abbrevia-
+tions used include an : animal, anap : anaphoric, and : andative, cop : copula, dct : deictic, def :
+definite, dst : distal, emph : emphatic, form : formal, hab : habitual, inf : informal, irr : irrealis,
+neut : neutral, opp.sex.sib : opposite sex sibling, perf : perfective, pl : plural, pron : pronoun base,
+prf : perfective, prg : progressive, prx : proximate, pt : point (second position negative), rsp :
+respectful, sbj : subjunctive, z2 : ‘non-future definite’; person and number are shown with 1, 2, 3,
+s, p. Clitic boundaries are shown with =.
+3
+  This verb can also express directed motion into other enclosed areas.
+
+
+                                                  92
+                                         A Definite Mystery
+
+
+the z2 prefix cannot be used with the Progressive ca- prefix.
+     The z- prefixes in both (6) and (2) (as well as the s- in (3)) have been called
+“Definite” (Lee 1999, 2006; Munro and Lopez, et al., 1999): Munro and Lopez et
+al. (1999) and Lee (1999, 2006) call the z2 form in (6) the “non-future Definite”, 4
+assuming it to reflect a separate but related use of the modal aspect prefix in (2).
+(I will refer to Definite proper forms like those in (2)-(3) as “future Definites”
+below to distinguish them from z2 forms.)
+     In contrast, in Munro (2006) I asserted that there are two forms involved (with
+the z2 form in (6) analyzed as non-modal); Munro, Lillehaugen, and Lopez (in
+preparation), a textbook currently being used in first-year Zapotec classes native
+speaker Felipe H. Lopez is teaching at UCSD, call z2 the “z-progressive”, follow-
+ing the Lopez's intuitions about sentences like (6), in contrast with the Definite in
+(2)-(3).
+     Only motion verbs exhibit both future Definite and z2 forms; all other verbs
+only have the future Definite. However, in most Zapotec languages forms of ‘go’
+and ‘come’ can be incorporated at the front of a verb stem, following the aspect
+prefix, forming “andative” and “venitive” verb forms, which can also appear with
+both types of z- prefixes. All other derivatives of ‘go’ and ‘come’, such as
+‘bring’/’take’ verbs, also have both forms. (I won't discuss these derived forms in
+this paper.)
+
+2.      Lee's Analysis
+Lee (2006) writes that the Definite “can express either emphatic future readings
+[as in (2)] or incomplete events in the immediate past [as in (6)]” (201); “while
+past events expressed with Perfective verbs are understood as being fully com-
+pleted at UT [utterance time], those expressed with Definite verbs are interpreted
+as being initiated, but not yet fully culminated” (260). Her sophisticated analysis
+of the syntax of these verbs considers their behavior both as matrix verbs and
+when embedded under verbs of saying; she argues that both represent the same
+aspect, with a modal meaning of necessity, thus suggesting an insightful way to
+reconcile the seemingly disparate meanings of the z- verbs in (2)-(3) and (6).
+
+       ... Definite-marked verbs (on both their future and non-future readings) describe events
+       that haven't been completed yet, but are strongly believed by speakers to be inevitable: in
+       the future Definite case, the event described has not begun yet, but the speaker emphati-
+       cally believes it will occur; in the non-future case, the event is believed by the speaker to
+       have been initiated, but not yet completed (and the eventual completion of the event is
+       assumed). (p. 263)
+            ...the future and non-future Definite are, despite their differences in temporal inter-
+       pretation, manifestations of the same aspect and not merely different aspects that acciden-
+       tally resemble each other. (p. 266)
+
+3.   The Problem
+However, z2 forms have a considerably wider range of uses than is illustrated in
+4
+    Alas, Munro and Lopez et al. (1999) also somewhat inconsistently use the term ‘realis Definite’.
+
+
+                                                   93
+                                  Pamela Munro
+
+
+(6), especially in texts. First, Munro and Lopez et al. (1999) cite z2 forms that
+express punctual rather than progressive events, such as (7):
+
+(7)    Chih b-raguèe'll=ih,             z-eèe'=ëng     No'rt.
+       when perf-be.next.day=3s.dst z2-go=3s.prx North
+       ‘When the next day came (i.e., when it was the next day),
+       he went to the United States.’
+
+This does not seem like an incomplete event in the immediate past (as (6) might
+be); the speaker is describing events that occurred years ago.
+    (7) is taken from a 200-page collection of TVZ narratives about the immigra-
+tion experience (Lopez and Munro, eds., in preparation) that provides many
+examples of z2 verbs, as well as some future Definites of motion verbs, such as
+(8), where the ‘surely’ sense of the Definite is contrasted with the less certain
+Irrealis, or (9)-(10), which are additional punctual past examples.
+
+(8)    Lla'az=a'        dàa'ru'      g-ya'=a',          sye'mmr z-ya'=a',
+       neut?.think      some.day irr-go.home=1s always              def-go.home=1s
+            pehr nyèe'c nà=a'           que'ity r-ahcbiì=a'    uu'c
+            but     even pron=1s not            hab-know=1s when
+            g-ya'=a',           nih     g-ya'=t=a'                  ba'i.
+            irr-go.home=1s that             irr-go.home=emph=1s         well
+       'I thought that some day I would go home, I would surely go home for
+       good, but I didn't know when I would go back, go back for good.'
+(9)    Pehr ra bzyaàa'n=ëng,                ra bèe'll=ëng,              pehr
+       as.for pl opp.sex.sib=3s.prx pl sister.w.s=3s.prx                as.for
+            nyèe'c=za'      làa'=rih        que'ity g-àann=rih          càa     nehehz
+            even=wow        pron=3p.prx not         irr-know=3p.dst where way
+            canzaa          x:ta'ad=rih;            z-èe=ta'        bùunny=ih.
+            neut.wander poss-father=3p.prx z2-go=emph person=that
+       ‘As for her brothers and sisters, even they don't know where their father
+       went off to; that person just left.’
+(10)   Chiru' nnah          supervisor      x:tèe'n=a', ‘Xi    ni'ih a
+       then neut.say supervisor             of=1s       what for        already
+            z-e'=ùu'?’      nnà=ih,             chiru' r-e'ipy=a'       la'a=i
+            z2-go=2s.inf neut.say=3s.dst then hab-tell=1s               pron=3s.dst
+            zi'cy g-uhc         nìih z-a'=a'.
+            thus perf-be        that        z2-go=1s
+       ‘Then my supervisor said, “Why did you go?” he said, so I told him how it
+       was that I left.’
+
+As (9)-(10) show, z2 ‘go’ sentences without a directional object are often trans-
+lated with ‘leave’.
+    Z2 verbs may also express ofther aspectual notions. For example, my collabo-
+
+
+                                         94
+                                A Definite Mystery
+
+
+rator Felipe Lopez feels that the Perfective and z2 verbs in (11)a-b could replace
+each other. Perfective b-ìe'd in (a) could be z2 z-i'ìe'd, and z2 z-i'ìe'd=ëng in (b)
+could be Perfective b-ìe'd=ëng:
+
+(11)   a. — Xi     iihahz b-ìe'd      Cho'nn re'nn nah?...
+            what year prf-come Chona here now
+            ‘What year did Chona come here, now?’
+       b. — Loh sete'nntayseiz z-i'ìe'd=ëng.
+            in     seventy.six   z2-come=3s.prx
+            ‘She came in seventy-six.’
+
+Similarly, the z2 verb in (12), in which a narrator discusses the behavior of young
+immigrants returning to Oaxaca, could be replaced by a Habitual verb:
+
+(12)   Chih z-i'ìe'd=rih         laad rèe'       àa'?      A
+       when z2-come=3p.dst side here what.about            already
+           b-chùu=rih            ba'i.
+           prf-change=3p.dst     well
+       ‘And when they come back here? They've really changed.’
+       (z-i'ìe'd=rih could be Habitual r-ìe'd=rih)
+
+    The narratives also contain z2 forms whose meaning seems clearly progres-
+sive (describing ongoing motion), much like the elicited example (6):
+
+(13)   R-e'ipy=a'      làa'=rih       nehz.ahg.zahgu=ih a               z-a'=a'.
+       hab-tell=1s     pron=3p.dst way.just=that             already    z2-go=1s
+            ‘Tòo',’    nnah=rih,         ‘tye'nn     g-uuny=ùu' compa'anny’ —
+            let's.go   neut.say=3p.dst so.that       irr-do=2s.inf company
+            zi'cy nih r-chàag=za'        ra mnìi'ny sa'=nìi'.
+            thus rel hab-meet=wow pl kid                 fellow=anap
+       ‘I told them I was going that way. “Let's go,” they said, “then you can
+       keep [us] company”— the way kids get together with each other.’
+
+Of course, cross-linguistically progressives of motion verbs often develop into
+future expressions, which may explain why (14) below seems to have a somewhat
+less ongoing, more future reference. In fact, other z2 verbs sometimes express
+unaccomplished notions that are more clearly neither present nor past, as in (15),
+whose z2 form. Lopez feels, could be replaced by an Irrealis verb (though not by
+a future Definite).
+
+
+
+
+                                         95
+                                   Pamela Munro
+
+
+(14)   A             n-àann=a'     chih z-i'ìe'd          Xmahnnsa'ann, chih
+       already       neut-know=1s when zprog-come Easter                    when
+            z-i'ìe'd     lohnih,   chih z-i'ìe'd      Iihahz Cweeby, chih
+            z2-come fiesta         when z2-come year new                 when
+            z-i'ìe'd, r-x:èe'll=a'     mùuully loh=rih        ba'i.
+            z2-come hab-send=1s money             to=3s.dst well
+       ‘I know when Easter is coming, when the fiesta is coming, when New
+       Year's is coming, when they're coming, so I send them money.’
+(15)   B-èi'ny=a'        x:ja'ab   z-yàa'll=a'.
+       prf-do=1s         thought z2-come=1s
+       ‘I thought of coming.’      (z-yàa'll=a' could be Irrealis ch-a'=a')
+
+   Other apparently “modal” (or as I would rather say “non-actual”, following
+Chung and Timberlake 1986) notions expressed by z2 verbs are seen in
+
+(16)   Mahssuu z-èe fami'lly, lla'az=a',                     pehr que'ity=zhy=a'
+       even.if      z2-go wife           neut?.think=1s      but     not=must=1s
+            n-daà=a' làa'=rëng           ch-ie=rëng. Chingaad, mejoor zèèi'ny
+            sbj-let=1s pron=3p.prx irr-go=3p.prx damn                better work
+            g-uuny=a' y-sàa'=a'          lahty ch-u'=rëng                 ba'i.
+            irr-do=1s irr-make=1s place irr=be.in=3p.prx                  well.
+       ‘Even if [my] wife leaves, I think, even then I wouldn't let them [my
+       children] go. Damn, I'd rather work in order to have a place for them to
+       live.’
+(17) Nii        nàa     te'ihby rrepo'rt     nih     ca-lde's=ih, nnah=rih,
+       that         cop      one     report      rel     prg-lift=3s.dst
+    neut.say=3p.dst
+            tye'nn      pahr a               z-yoo'=ëhnn         pahrtra's steeby.
+            because for          already     z2-go.home=1p back               again
+       ‘That was a report that he was making, they said, so that we could go back
+       again.’
+(18) Chiru' dannoo=ëhnn tèe'gwag xi                  rsoon=di'       ba'i     chiru'
+       then pron=1p              neg         what message=pt well then
+            làa'=rëb         cay-u'=rëb          gahllrzyàa'     dannoo=ëhnn càa
+            pron=3p.rsp prg-be.in=3p.rsp worry                   pron=1p          where
+            nehz z-oo'=ëhnn vaya cëhmm                   nàadìi'zh        zèi'ny=ih
+            way z2-go=1p             well because supposed.to work=3s.dst
+            zòo'nn      vaya.
+            z2-go=1p well
+       ‘At that point we had [sent] no messages, so they must have been
+       worrying about us, where we had gone, because we were supposed to be
+       going to work.’
+
+Crucially, it seems, non-actual z2 verbs like these either convey the idea of
+
+
+                                          96
+                                     A Definite Mystery
+
+
+progressive ideas in the future, as in the second z2 form in (18) (and possibly also
+(14)), or refer to possibility rather than necessity (as in (16) and (17)).
+
+4.      Comparative Data
+A number of other Zapotec languages appear to have cognates of both types of
+TVZ z- forms; I will note here only data from two closely related Valley Zapotec
+languages, 5 and from one quite distantly related language. 6
+    Adam (2003:69; glosses adapted) writes that in Santo Domingo Albarradas
+Zapotec (Dihidzx Bilyáhab) “The definite 7 is used in any tense to convey a
+pending action or event”, but also “Another one of the definite's uses is to show
+incompletion of an act of ‘going’ which has already begun as opposed to the
+perfective which shows completion of the act of ‘going’ with a ‘return’” (70).
+However, the same aspect prefix is also used in apparently punctual textual
+examples like
+
+(19)    Z-é=b         zhan nejez=gin g-ijti=b.
+        def-go=an     butt road=dct perf-die=an
+        ‘He fell down below that road and died.’ (Adam 2003:249 and p.c. 2007)
+
+Adam (p.c.) has confirmed to me that these two “definite” forms are at least
+sometimes morphologically distinct, with the cognate of the future Definite form
+in (20)a and that of the z2 verb in (20)b:
+
+(20)    a. future Definite z-ej|e|=zh          in z-ej|e|=zh yá ‘will he go?’
+        b. z2 z-ée=zh                          in má z-ée=zh yá?
+                                                  ‘did he already start going?’
+
+As in TVZ, the future Definite may be used with (virtually) any verb, while the z2
+form is restricted to a small class of motion verbs.
+   López Cruz (1997; glosses adapted) analyzes the San Pablo Güilá Zapotec
+cognate of the future Definite in (21)a as the “futuro” and the cognate of the z2
+verb in (21)b as an allomorph of the “progresivo”:
+
+(21)    a. s-yéed    Jwâany là'¢
+           def-come Juan        field
+           ‘Juan vendrá al campo [Juan will come to the field].’ (p. 90)
+
+
+
+5
+  I cannot discuss here data from another closely related Valley language, Santa Ana del Valle
+Zapotec, kindly provided by Rosa María Rojas Torres, which seems in line with the Adam and
+López Cruz data summarized below.
+6
+  There are also apparently two distinct z- forms in the Colonial Valley Zapotec descriptions by
+Córdova (1578a, 1578b).
+7
+  Adam now refers to this form as “Alethic”, p.c. 2007.
+
+
+                                              97
+                                      Pamela Munro
+
+
+        b. s-yeed     Jwâany là'¢
+           z2-come Juan          field
+           ‘Juan viene al campo [Juan comes/is coming to the field].’ (p. 89)
+
+As (21) shows, these forms are morphologically distinct:. López Cruz's data also
+shows that “progresivo” forms of motion verbs can have a punctual sense (again
+often suggesting one-way motion), 8 as in
+
+(22)    s-êe Jwâany là'¢
+        z2-go Juan         field
+        ‘Juan se fue al campo (no ha regresado)
+        [Juan went to the field (he has not returned)].’ (pp. 91-92)
+
+   Finally, Black (2004) identifies two separate cognate aspects in Quiegolani
+Zapotec (a much more distantly related language of the Southern branch of
+Zapotecan), a special z- prefix “used to express progressive action” with verbs of
+motion (2004:27), such as those in ((23)) (p.c. 2007), and an s- Future prefix that
+can be used with a wider range of verbs (2004:19), again including the motion
+verbs, as in ((24)) (p.c. 2007):
+
+(23)    z-a (progressive, ‘go away from base’ [cf. TVZ ‘go’])
+        z-ya (progressive, ‘go to base’ [cf. TVZ ‘go home’])
+(24)    s-a (Future, ‘go away from base’)
+        s-ya (Future, ‘go to base’)
+
+5.       Are There Two z- Aspects, or One?
+5.1.
+The z2 usage only occurs with a few verbs of motion and their derivatives, while
+the future Definite occurs with (almost) every verb. The comparative data,
+particularly from languages as distantly related as Quiegolani, supports the idea
+that this situation is quite archaic.
+     If the z2 usage is just another manifestation of the same aspect as the future
+Definite, why should this very different z2 usage occur only with a small and
+semantically restricted group of verbs, in so many languages? There seems to be
+no explanation of why the very different z2 usage — even if related — should be
+restricted to a small group of motion verbs. 9
+
+5.2.
+While the future Definite is a “modal” aspect, used to refer only to non-actual
+events, most z2 uses refer to actual events in the present or past and thus do not
+8
+  López Cruz (1997:91-92) also mentions two additional forms of ‘ir’ which she suggests may be
+additional aspects; these look like forms of TVZ ‘goes home’.
+9
+  Bernard Comrie and Alexandra Aikhenvald reminded me during the discussion at BLS of special
+aspectual uses of motion verbs. So maybe this is not as unexpected as all that.
+
+
+                                             98
+                                      A Definite Mystery
+
+
+seem “modal”. While there may be a connection between non-actuality and
+incompleteness, many z2 usages with non-future reference do not describe
+incomplete events. There doesn't seem to be anything incomplete about the z2
+examples like (7), (9)-(10), or the first z2 form in (18), or several others here.
+These don't seem to fit Lee's notion of “initiated but not fully culminated”.
+However, they might be amenable to a different sense of “incompletive” like that
+described for the Mayan language Mam by England (2007), since punctual z2
+forms generally occur in texts, where they serve to advance a narrative that (when
+the forms are used) is not yet complete. The lack of completion, then, is metalin-
+guistic, and does not refer to the real-world status of the referenced event.
+    As we've seen above, z2 forms can be also used to refer to clearly “non-
+actual” events, as with (15)-(17), the second z2 form in (18), and perhaps also
+(14). As Lee (1999, 2006) makes clear and I discuss in Munro (2006), there is not
+a precise overlap between “modal aspect” and modal or non-actual reference. For
+example, the “non-modal” Perfective aspect is used for imperatives and can also
+refer to non-actual events to be completed in the future, as in
+
+(25)     Yzh:ii     chih y-zëhnny=a', al            b-da'uh Gye'eihlly.
+         tomorrow when irr-arrive=1s already        perf-eat Mike
+         ‘When I arrive tomorrow, Mike will have already eaten.’
+         (Lee 2006:13, ex. 36)
+
+But the contrast between the future Definite and the full range of both modal and
+non-modal uses of the z2 forms seems striking.
+
+5.3.
+Almost all z2 forms are pronounced slightly differently from corresponding
+Definite proper forms, as shown by a comparison of (2) vs. (6), or the paradigms
+in Table 1 on the next page. 10 However, the first person forms, both singular and
+plural, are the same for both the future Definite and z2 in each case. As other
+Zapotec specialists know, first person forms tend to be irregular in a variety of
+ways (note that the first person stems of all three verbs are quite aberrant in these
+and all other aspects; those of ‘comes’, in particular, are fully suppletive).
+     Although it might be clearer that there were two separate aspects if all the
+forms were distinguished, Zapotec tolerates a high degree of homophony and near
+homophony (for example, many verbs that are distinguished in the Habitual are
+neutralized in the Perfective; conversely, ‘goes’ and ‘goes home’ are identical in
+the Habitual but differentiated in every other aspect). There would be no explana-
+tion for the differences shown in Table 1 if the future Definite and z2 forms were
+the same aspect.
+10
+   TVZ distinguishes six third persons (proximate, distal, respectful, animal, familiar, and
+reverential; cf. Munro 2002). Second person formal forms and third person plural forms, whcih
+tend to be more regular, are not shown in the table, but all of them distinguish the future Definite
+and z2 forms.
+
+
+                                                99
+                                          Pamela Munro
+
+
+         Table 1. Future Definite and z2 Forms of Three TVZ Motion Verbs
+
+ hab           rihah ‘goes’              rihah ‘goes home’                   rìe'd ‘comes’
+            future            z2        future              z2        future                  z2
+           Definite                    Definite                     Definite
+  def       zeheh            zèe        zihah              ziia        zìe'd               zi'ìe'd
+  1s                za'a'                       zya'a'                          zyàa'lla'
+2sinf        zèu'           ze'ùu'        zìu'            zi'ùu'     zìe'dùu'           zi'ìe'dùu'
+3sprx      zèe'ëng        zeèe'ëng     zyèe'ëng        zyeèe'ëng    zìe'dëng            zi'ìe'dëng
+3sdst        zèèi'          ze'èi'      zyèèi'            zi'èi'     zìe'dih              zi'ìe'dih
+3srsp      zehëhb          zeeëhb     zyiehëhb           zieëhb     zìe'dëhb            zi'ìe'dëhb
+ 3san     zehëhmm ze'ëhmm            zyiehëhmm zye'ëhmm            zìe'dëhmm          zi'ìe'dëhmm
+3sfam     zehahzh:        zeeahzh:   zyiehahzh:         zieahzh:   zìe'dahzh:          zi'ìe'dahzh:
+3srev      zehihny         zeihny     zyiehihny        zyieihny     zìe'dihny          zi'ìe'dihny
+  1p             zoo'ëhnn                     zyoo'ëhnn                       zyoo'pëhnn
+2pinf      zehahd          zeeahd     zyiehahd           zieahd     zìe'dahd            zi'ìe'dahd
+
+5.4.
+The z2 verb lacks certain structural peculiarities of the future Definite.
+     First, sentences with z2 verbs may be negated (26), while, as Lee (2006:261)
+notes, future Definite verbs ‘are dispreferred in clausal negation constructions’ :
+
+(26)     Que'ity     z-èe=dy=ëng        Jwaany ri'cy nài'.
+         neg         z2-go=pt=3s.prx Juan          there yesterday
+         ‘Juan didn't go there yesterday.’
+(27)     *Que'ity z-eheh=di'        Jwaany ricy zhii.
+         neg         def-go=pt      Juan       there tomorrow
+         ‘Juan will definitely not go there tomorrow.’
+
+    Second, as Lee (2006:261-62) reports, the z2 form allows standard focus
+fronting 11 (28), while the future Definite does not (29):
+
+
+
+
+11
+    Instead of future Definite sentences like (29)a, my collaborator Felipe Lopez prefers topic
+constructions like (i) or the variant focus construction in (ii). Like a topic structure, but unlike a
+standard focus sentence, the variant focus construction (ii) has a noticeable pause following the
+initial constituent; unlike the topic structure, however, there is no resumptive element following
+the verb. Lopez feels that the (ii) construction is strongly contrastive.
+
+(i) Jwaany, z-eheh Jwaany Ba'ahc. ‘Juan, he will surely go to Tlacolula’
+     Juan    def-go Juan     Tlacolula
+(ii) Jwaany...   z-eheh Ba'ahc. ‘JUAN...will surely go to Tlacolula’
+     Juan        def-go Tlacolula
+
+
+
+                                                 100
+                                A Definite Mystery
+
+
+(28)   a. Jwaany      z-èe     Ba'ahc.     ‘JUAN was going to Tlacolula.’
+          Juan        z2-go    Tlacolula       (cf. (6))
+       b. Ba'ahc      z-èe     Jwaany.     ‘Juan was going to TLACOLULA.’
+          Tlacolula   z2-go    Juan
+(29)   a. *Jwaany     z-eheh   Ba'ahc.     ‘JUAN will surely go to Tlacolula.’
+          Juan        def-go   Tlacolula       (cf. (2))
+       b. *Ba'ahc     z-eheh   Jwaany.     ‘Juan will surely go to TLACOLULA.’
+          Tlacolula   def-go   Juan
+
+Lee proposes a plausible structural explanation for these differences, but it’s not
+clear that it requires that the two verb forms in question be the same.
+
+5.5.
+Thus, there seem to be good reasons to distinguish the future Definite from the z2
+form, which is only used with three verbs of motion and which has a much wider
+range of both temporal and modal interpretations than the Definite. Certainly the
+semantics of the z2 form are complex, and worthy of further study: while it often
+overlaps with other aspects, speakers use it for particular effect, especially in
+narrative.
+     The question of what to call the z2 form remains. “Progressive” no longer
+seems appropriate, at least for TVZ (more comparative work is needed to discover
+whether languages like Quiegolani and SPGZ have a similar range of uses for
+their cognate forms, and thus what the use of the ancestor of all these forms might
+have been). A term like “Incomplete Motion” might seem appropriate for the
+TVZ form, but is a bit unweildy for us to use in our textbook (Munro, Lillehau-
+gen, and Lopez in preparation). We've decided, therefore, to call this form the
+Incompletive, a name that pays tribute to Lee's analysis (though we reject the
+notion that this form is just another use of the Definite) — but a name which can
+only be understood through an insight like that England proposed concerning
+aspect in Mam.
+
+
+References
+
+Adam, Christopher C. 2003. A Study of Dihidx Bilyáhab (Santo Domingo Albar-
+   radas Zapotec) Morphophonology. MA Thesis, CSU Northridge.
+Black, Cheryl A. 2004. Quiegolani Zapotec Syntax: A Principles and Parameters
+    Account. Dallas: SIL International – University of Texas at Arlington.
+Chung, Sandra, and Alan H. Timberlake. 1985. Tense, Aspect, and Mood. In
+    Language Typology and Syntactic Description, ed. Timothy Shopen, vol. III,
+    Grammatical Categories and the Lexicon, 202-258. Cambridge – New York:
+    Cambridge University Press.
+Córdova, Fr. Juan de. 1987 [1578a]. Vocabulario en lengua çapoteca. México:
+   Ediciones Toledo (INAH).
+
+
+                                       101
+                                 Pamela Munro
+
+
+Córdova, Fr. Juan de. 1886 [1578b]. Arte del idioma zapoteco. Morelia: Imprenta
+   del Gobierno.
+England, Nora C. 2007. Marking Aspect and Mood and Inferring Time in Mam
+   (Mayan). Presented at BLS 33.
+Lee, Felicia A. 1999. Antisymmetry and the Syntax of San Lucas Quiaviní Zapo-
+   tec. Ph.D. dissertation, UCLA.
+Lee, Felicia. 2006. Remnant Raising and VSO Clausal Architecture. Dordrecht:
+   Springer.
+Lopez, Felipe H., and Pamela Munro, eds. In preparation. X:a Mo'od Bìe'd Ra
+   Bùunny Sann Lu'uc Lohs Aa'nngl: Zapotec Immigration Narratives [How
+   People of San Lucas Came to Los Angeles].
+López Cruz, Ausencia. 1997. Morfología verbal del zapoteco de San Pablo Güilá.
+   Tesis (licenciada en lingüística), Escuela Nacional de Antropología e Historia,
+   México, D. F.
+Munro, Pamela. 2002. Hierarchical Pronouns in Discourse: Third Person Pro-
+   nouns in San Lucas Quiaviní Zapotec Narratives. Southwest Journal of Lin-
+   guistics 21: 37-66.
+Munro, Pamela. 2006. Modal Expression in Valley Zapotec. In William Frawley,
+   ed., The Expression of Modality. Berlin/New York: Mouton de Gruyter, 173-
+   205.
+Munro, Pamela, Brook Danielle Lillehaugen, and Felipe H. Lopez. In preparation.
+   Cali Chiu? A Course in Valley Zapotec.
+Munro, Pamela, and Felipe H. Lopez, with Olivia V. Méndez [Martínez], Rodrigo
+   Garcia, and Michael R. Galant. 1999. Di'csyonaary X:tèe'n Dìi'zh Sah Sann
+   Lu'uc (San Lucas Quiaviní Zapotec Dictionary / Diccionario Zapoteco de San
+   Lucas Quiaviní). Los Angeles: (UCLA) Chicano Studies Research Center
+   Publications.
+
+
+
+
+                                       102
+
