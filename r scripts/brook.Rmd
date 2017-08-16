@@ -23,8 +23,6 @@ subs <- grep("^[a-z]\\.",text)
 starts <- grep("^[0-9]*\\.",text)
 cands <- union(subs,starts)
 cands <- sort(cands)
-#cands
-#head(text,100)
 for(i in 1:length(cands)){
   curr <- cands[i]
   if(i < length(cands)){
@@ -70,8 +68,6 @@ text <- text[-ungrammatical]
 infelicitious <- grep("\\#",text)#remove infelicitious sentences
 text <- text[-infelicitious]
 
-#head(text,200)
-
 splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
 for(i in 1:length(text)){
   line <- text[i]
@@ -80,15 +76,21 @@ for(i in 1:length(text)){
   apos <- gregexpr("'",line)[[1]]
   trans <- substr(line, apos[length(apos)-1], apos[length(apos)])
   rest <- substr(line, 1, apos[length(apos)-1]-1)
+  rest <- str_trim(rest)
+  if(stringr::str_sub(rest,nchar(rest),nchar(rest))=="/"){
+    cat("Found a slash!")
+    tag <- substr(rest,apos[length(apos)-3],apos[length(apos)-2])
+    cat(tag)
+    trans <- paste(trans,tag,sep="/")
+    rest <- substr(rest,1,apos[length(apos)-3]-1)
+  }
   cite <- stringr::str_extract(rest, "\\(.*\\)")
   if(is.na(cite)){
     cite <- ""
-    cat("NO CITE")
   }else{
     rest <- stringr::str_replace_all(rest,"\\(.*\\)","")
     lang <- stringr::str_extract(cite, "[A-Z]+")
   }
-  
   z <- stringr::str_split(rest," ")#split data/gloss on whitespace
   indexes <- which(z == "")
   if(length(indexes)>0){
