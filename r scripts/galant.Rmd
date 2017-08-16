@@ -20,6 +20,7 @@ fulllines <- grep("^[aA-zZ]",text)
 text <- text[-fulllines]
 spacy <- grep("^ [aA-zZ]",text)
 text <- text[-spacy]
+text <- str_trim(text)
 text
 ```
 
