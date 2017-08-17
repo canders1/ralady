@@ -8,6 +8,27 @@ knitr::opts_chunk$set(echo = TRUE)
 library(stringr)
 ```
 ```{r}
+
+quotes <- function(line,qopen,qclose){
+    qsearch <- paste(c(qopen,"[^",qclose,"]+",qclose),collapse="")
+    iquotes <- gregexpr(qsearch,line)
+    startfirstquote <- iquotes[[1]][1]
+    trans <- stringr::str_extract(line,qsearch)
+    #cat(trans)
+    rest <- str_trim(stringr::str_sub(line,1,startfirstquote-1))
+    extra <- ""
+    if(length(iquotes[[1]])>1){
+      nextquote <- iquotes[[1]][2]
+      tail <- str_trim(stringr::str_sub(line,startfirstquote,nchar(line)))
+      endsearch <- paste(c("[^",qclose,"]",qclose),collapse="")
+      endfirst <- gregexpr(endsearch, tail)
+      endfirstquote <- endfirst[[1]][1]
+      newline <- str_trim(stringr::str_sub(tail,endfirst[[1]][1]+2,nchar(line)))
+      extra <- quotes(newline,qopen,qclose)
+    }
+    return(c(rest,trans,extra))
+  }
+
 text <- readLines("~/scrapy/ralady/sources/def_out.txt")#read in text
 text <- stringr::str_replace(text,"\f","")
 empty <- grep("^$",text)
@@ -73,35 +94,42 @@ splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),L
 for(i in 1:length(text)){
   line <- text[i]
   cat(line)
-  aposs <- gregexpr("‘.*’",line)
-  if(length(aposs)>1){
   cat("\n")
-    cat("more trans!")
-  }
-  cat("\n")
-  cat(apos)
-  apos <- aposs[[1]]
-  trans <- stringr::str_extract(line,"‘[^’]+’")
-  rest <- str_trim(stringr::str_sub(line,1,apos-1))
-  z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
-  indexes <- which(z == "")
-  indexes
+  full <- quotes(line,"‘","’")
+  indexes <- which(full == "")
   if(length(indexes)>0){
-    z <- z[-indexes]
+    full <- full[-indexes]
   }
-  if((length(z)%%2)==0){#if there's more than 1 word, assume there is a gloss
-    len <- length(z)#calculate starting point of gloss
-    half <- floor(len/2)
-    zap <- str_trim(paste(z[1:half],collapse=" "))
-    gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
-    splitt[i,] <- rbind(zap,gloss,trans,"SLQZ")
-  }else{
-    if(length(z)==1){
-      splitt[i,] <- rbind(z[1],"",trans,"SLQZ")
+  cat(length(full))
+  cat("\n")
+  for(p in 1:length(full)){
+    if(p%%2==1){
+      trans <- full[p+1]
+      rest <- full[p]
+      cat("We're in processing")
+      cat("\n")
+      cat(rest)
+      cat("\n")
+      cat(trans)
+      cat("\n")
+      z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
+      indexes <- which(z == "")
+      indexes
+      if(length(indexes)>0){
+        z <- z[-indexes]
+      }
+      if((length(z)%%2)==0){#if there's more than 1 word, assume there is a gloss
+        len <- length(z)#calculate starting point of gloss
+        half <- floor(len/2)
+        zap <- str_trim(paste(z[1:half],collapse=" "))
+        gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
+        splitt[i,] <- rbind(zap,gloss,trans,"SLQZ")
+      }else{
+        splitt[i,] <- rbind(str_trim(paste(z,collapse=" ")),"",trans,"SLQZ")
+      }
     }
   }
-  cat("\n")
-  cat("\n")
 }
-#splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]
+splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]
+write.table(splitt, "~/scrapy/ralady/cleaned_data/def_data.csv", sep="\t")
 ```
