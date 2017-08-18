@@ -14,4 +14,5 @@ df <- subset(df, select = -c(prev,sourcepage) )
 df <- unique(df)
 df$source <- "slqz"
 names(df)[names(df) == 'source'] <- 'lang'
+df <- subset(df, select = -c(id) )
 ```
