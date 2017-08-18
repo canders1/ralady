@@ -9,8 +9,8 @@ library(stringr)
 ```
 
 ```{r}
-langlist <- c("slqz","tlac")
-df <- data.frame(zap= character(0), gloss=character(0), trans=character(0),lang=character(0),stringsAsFactors=FALSE)
+langlist <- c("slqz","tlac","tlaco","teo","msbl")
+corpus <- data.frame(zap= character(0), ipa=character(0), trans=character(0),lang=character(0),stringsAsFactors=FALSE)
 for(i in 1:length(langlist)){
   lang <- langlist[i]
   filename <- paste(c("~/scrapy/ralady/",lang,"_talkdict.csv"),collapse="")
@@ -20,5 +20,6 @@ for(i in 1:length(langlist)){
   df$source <- lang
   names(df)[names(df) == 'source'] <- 'lang'
   df <- subset(df, select = -c(id) )
+  corpus <- rbind(corpus,df)
 }
 ```
