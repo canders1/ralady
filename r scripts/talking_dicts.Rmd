@@ -1,0 +1,17 @@
+---
+title: "talking_dicts"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(stringr)
+```
+
+```{r}
+df <- read.csv("~/scrapy/ralady/slqz_talkdict.csv")
+df <- subset(df, select = -c(prev,sourcepage) )
+df <- unique(df)
+df$source <- "slqz"
+names(df)[names(df) == 'source'] <- 'lang'
+```

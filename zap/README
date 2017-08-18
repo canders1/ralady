@@ -1,0 +1,11 @@
+How to run scrapy for talking dictionaries:
+
+scrapy crawl alltalkdict -a lang=LANGUAGE 
+
+where LANGUAGE is the name of one of the supported zapotec languages, as it appears in the url
+
+To output to a file, run:
+
+scrapy crawl alltalkdict -a lang=LANGUAGE -o FILENAME.FILEEXTENSION
+
+where FILENAME is the name of the file and FILEEXTENSION is the file extension suffix

@@ -24,10 +24,10 @@ class ZapSpider(scrapy.Spider):
         lang = baseurl[0].split("/")[-2]
         for zap in response.css('div.entry'):
             yield{
-            'morph': zap.css("h3::text").extract_first(),
+            'zap': zap.css("h3::text").extract_first(),
             'ipa': zap.css("span.ipa::text").extract_first(),
             'id': zap.css("div span a::attr(href)").extract_first().split("?entry=")[-1],
-            'gloss': zap.css("span.gloss::text").extract_first(),
+            'trans': zap.css("span.gloss::text").extract_first(),
             'sourcepage': response.url[-1:],
             'source': self.lang,
             'prev': self.prevID,
