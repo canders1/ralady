@@ -1,0 +1,29 @@
+---
+title: "field"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(plyr)
+```
+
+```{r}
+filename16 <- "~/scrapy/ralady/sources/2016data.csv"
+df16 <- read.csv(filename16,stringsAsFactors=FALSE)
+filename17 <- "~/scrapy/ralady/sources/2017data.csv"
+df17 <- read.csv(filename17,stringsAsFactors=FALSE)
+colnames(df17) <- c("rec","zap","trans","context","note")
+colnames(df16) <- c("zap","trans","context","speaker","a","count","x")
+recs <- df17$rec
+for(i in 1:length(recs)){
+  recs[i] <- stringr::str_replace(recs[i],"SLQZ_","")
+  s <- gregexpr("[aA-zZ]+",recs[i])[[1]]
+  recs[i] <- stringr::str_sub(recs[i],s+1,nchar(recs[i]))
+}
+df17$rec <- recs
+names(df17)[names(df17) == 'rec'] <- 'speaker'
+df16 <- subset(df16, select = -c(a,count,x) )
+df <- join(df16, df17, by = NULL, type = "full", match = "all")
+write.table(df, "~/scrapy/ralady/cleaned_data/field_data.csv", sep="\t")
+```

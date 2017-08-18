@@ -22,4 +22,5 @@ for(i in 1:length(langlist)){
   df <- subset(df, select = -c(id) )
   corpus <- rbind(corpus,df)
 }
+write.table(df, "~/scrapy/ralady/cleaned_data/all_dict_data.csv", sep="\t")
 ```

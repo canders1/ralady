@@ -1,0 +1,969 @@
+"zap"	"trans"	"context"	"speaker"	"note"
+"1"	"Xini bicyu?"	"He went to the US but he's back now."	""	"FL"	NA
+"2"	"A bzeny nax."	"The chocolate has arrived."	""	"FL"	NA
+"3"	"Gunyu dispensar a wzhya bzenya."	"Excuse me for coming late."	""	"FL"	NA
+"4"	"A mer yzenye:n ricy."	"We'll arrive there soon."	""	"FL"	NA
+"5"	"A Brook zegwi cuan Janet."	"Brook went to visit Janet."	""	"FL"	NA
+"6"	"Ze ya a Brook chi mna loni."	"Brook was going dancing when I saw her."	""	"FL"	NA
+"7"	"Aisy a ziela Ldua."	"Late I'm coming to Oaxaca."	"Felipe in Oaxaca, Carolyn in Amherst"	"FL"	NA
+"8"	"Aisy a ziedu Ldua."	"You're coming to Oaxaca later?"	"Felipe in Oaxaca, Carolyn in Amherst"	"FL"	NA
+"9"	"Aisy a zaa Ldua."	"Later I'm coming to Oaxaca."	"Felipe in LA, Carolyn in Amherst."	"FL"	NA
+"10"	"Aisy a zeu Ldua e?"	"You're going to Oaxaca later?"	"Felipe in LA, Carolyn in Amherst."	"FL"	NA
+"11"	"Carolyn: Zhi a ziedgana liu."	"Tomorrow I'm visiting you."	""	"FL"	NA
+"12"	"Felipe: Zhi a ziedganu naa."	"Tomorrow you're coming to see me."	""	"FL"	NA
+"13"	"Carolyn: Zhi a ziedgan Brook naa."	"Brook is coming to see me tomorrow."	"Brook in LA, Felipe and Carolyn in Oaxaca."	"FL"	NA
+"14"	"Carolyn: Naa Brook zhi a ziede:ng Ldua."	"Brook said that she's coming to Oaxaca tomorrow."	"Brook in LA, Felipe and Carolyn in Oaxaca."	"FL"	NA
+"15"	"*Carolyn: Naa Brook a ziede:ng Ldua zhi."	"Brook said that she's coming to Oaxaca tomorrow."	"Brook in LA, Felipe and Carolyn in Oaxaca."	"FL"	NA
+"16"	"Carolyn: Zhi naa Brook a ziede:ng Ldua."	"Brook said that she's coming to Oaxaca tomorrow."	"Brook in LA, Felipe and Carolyn in Oaxaca."	"FL"	NA
+"17"	"Carolyn: Ana Arjun betse:ng a ziedgan lae:ng."	"Arjun knows his brother is coming to see him (on the way)."	"Map 0: Arjun in Amherst, Jishnu in India."	"FL"	NA
+"18"	"Ladi a zaa zhi."	"I'm going to the US tomorrow."	""	"FL"	NA
+"19"	"Zhi a zia ladi."	"I'm going home/back tomorrow."	""	"FL"	NA
+"20"	"A gweu Bac e?"	"Have you been to Tlac?"	""	"FL"	NA
+"21"	"A biedu Ldua teiby e?"	"Have you been to Oaxaca before?"	"(come)"	"FL"	NA
+"22"	"Chi bze:ng bziana a zaa."	"When my brother arrived I had already left."	""	"FL"	NA
+"23"	"Zhi a zaa Bac per guicytaga."	"Tomorrow I'm going to Tlac but I'll be back (definitely)."	""	"FL"	NA
+"24"	"A zyoe:n."	"We're going home (to Tlacolula)."	"Not different if Brook also lives there."	"FL"	NA
+"25"	"Ngaisy wxen a zied Brook re'."	"Brook will come here tonight (def)."	""	"FL"	NA
+"26"	"A nis gyied."	"The rain is coming (def)."	""	"FL"	NA
+"27"	"*A nis zied."	"The rain is coming (def)."	""	"FL"	NA
+"28"	"Zhi a zaa Bac. "	"Tomorrow I am going to Tlacolula (certain)."	""	"FL"	NA
+"29"	"Zeu Bac a?"	"Are you going to Tlacolula?"	"Good if you're on their way, you have a reason to think so. You're expecting them to answer yes."	"FL"	NA
+"30"	"A zeu Bac?"	"Are you going to Tlacolula?"	"Good if you're on their way, you have a reason to think so. You're expecting them to answer yes."	"FL"	NA
+"31"	"A zaa Bac. "	"Yes, I will go."	""	"FL"	NA
+"32"	"A rsoo choe:n Bac."	"Are you coming to Tlac. w/us?"	""	"FL"	NA
+"33"	"Cayuya a xjab xi gawa."	"I'm thinking about what to eat."	""	"FL"	NA
+"34"	"A naa re'."	"I'm here."	""	"FL"	NA
+"35"	"A Brook re'."	"Brook is there."	""	"FL"	NA
+"36"	"Janet a zied re'."	"Janet is coming here."	"on her way"	"FL"	NA
+"37"	"A ziedu re' e?"	"Are you coming here?"	"on your way"	"FL"	NA
+"38"	"Zhi a ze Janet Bac."	"Tomorrow Janet will go to Tlac."	"definitely"	"FL"	NA
+"39"	"Zhi a zoe:n Bac."	"We will go to Tlac. tomorrow"	"def"	"FL"	NA
+"40"	"Zhi a zyope:n re'."	"We will come here tomorrow."	"def"	"FL"	NA
+"41"	"Mnalaz Arjun betse:ng a ziedgan lae:ng."	"Arjun remembered his brother is coming to visit him (on his way)"	"Us with Arjun in Amherst"	"FL"	NA
+"42"	"Rzilaz Arjun betse:ng a ziedgan lae:ng."	"Arjun believes that his brother is coming to visit him (on his way)"	"Us with Arjun  "	"FL"	NA
+"43"	"Rlo Arjun betse:ng a ziedgan lae:ng."	"Arjun thinks his brother is on the way."	"Us with Arjun  "	"FL"	NA
+"44"	"Ae:ng ze ladi per daru gyie:ng."	"He already went to the states but he's coming back."	""	"FL"	NA
+"45"	"Ae:ng zesi guetxtily."	"He is going to buy bread."	""	"FL"	NA
+"46"	"Ae:ng zesi."	"She went to buy something."	""	"FL"	NA
+"47"	"Ae:ng zedyen."	"She went to buy something."	""	"FL"	NA
+"48"	"Chi bzena ricy a ze bzana."	"When I arrived there my brother had already left."	""	"RL"	NA
+"49"	"Chi bzena ricy a zee:ng."	"When I arrived there he had already left."	""	"RL"	NA
+"50"	"Chi bzenya rdo a zee:ng."	"When I came to the church, he had already left."	""	"RL"	NA
+"51"	"Chi bzenyeng naa a zaa."	"When my brother arrived I had already gone."	""	"RL"	NA
+"52"	"Chi bzenyeng naa a zia."	"When my brother arrived I had already gone home."	""	"RL"	NA
+"53"	"Chi ? nisgyia ana deib? a bzenya lo gex."	"When the rain stopped I had already arrived in San Lucas (the pueblo)."	""	"RL"	NA
+"54"	"Lieb bied lo gyia, chi nu a ricy."	"When I was at the market, Felipe came there."	""	"RL"	NA
+"55"	"A bied Bac bizana lo gex, per ady zenya chicy."	"My brother came here, but I hadn't arrived yet."	"Listener in Oaxaca, speaker in Tlac."	"RL"	NA
+"56"	"Chiby a de bzenya aldi nua chicy. "	"My brother came her when I was in the US."	"Listener in Oaxaca, speaker in Tlac."	"RL"	NA
+"57"	"Logyia biedcan a bziana naa."	"My brother came to see me at the market."	""	"RL"	NA
+"58"	"A bizana gwenia Ldua."	"My brother came/went with me to Oaxaca"	"I'm not in Oaxaca. "	"RL"	NA
+"59"	"A bizana biednia Ldua."	"My brother came/went with me to Oaxaca"	"I'm in Oaxaca."	"RL"	NA
+"60"	"*A bizana biednia Ldua."	"My brother came/went with me to Oaxaca"	"I'm not in Oaxaca. "	"RL"	NA
+"61"	"Cheib zen nisgyia a ze Lieb Bac."	"When the rain arrived, Felipe had already left for Tlac."	""	"RL"	NA
+"62"	"Cheib zen nisgyia a ze:ng Bac."	"When the rain arrived, he had already left for Tlac."	""	"RL"	NA
+"63"	"A zia."	"I'm on my way home."	""	"RL"	NA
+"64"	"Zhi a zia liaza."	"I'm going home tomorrow."	""	"RL"	NA
+"65"	"Zhi a ziana lo gex giedgwaa lo. "	"I'm coming to see you tomorrow."	"Speaker in Tlac, listener in SL."	"RL"	NA
+"66"	"Mes naa a zia Bed."	"The teacher thinks that Pedro has left."	""	"RL"	NA
+"67"	"A nax a bzeny."	"?"	""	"RL"	NA
+"68"	"Guc a bzenyu?"	"?"	""	"RL"	NA
+"69"	"Zhi a zaa."	"I will leave tomorrow."	""	"RL"	NA
+"70"	"Gwana zhi a zaa."	"I will leave tomorrow."	"non-def"	"RL"	NA
+"71"	"Salon cuan primer es chicygwen mercw, primer chicygwen primer chicy a bzenyza Ldua"	"The first day... Felipe arrived in Oaxaca."	""	"FLN"	NA
+"72"	"A lun xop chicgwen byoyeneng rany in scwel CETIS 124."	"On Monday went to CETIS."	""	"FLN"	NA
+"73"	"A byon ze andre rcaz xon rsil chedu bzenye:ng n Bac zicy yegaga?"	"Something about arriving in Tlacolula."	""	"FLN"	NA
+"74"	"A bicy in Ldua rcateiby rcatyop."	"Return to Oaxaca?"	""	"FLN"	NA
+"75"	"Merc a schon chicygwen chicy ratemta zhi byon tula byon Bac chiru ? teiby."	"Wednesday"	""	"FLN"	NA
+"76"	"Gasor telamaen a ric byon ratan ? ratane:ng ra estudiante Brook."	""	""	"FLN"	NA
+"77"	"Caty rsil, ric a byen Yagul byon tebrate chiru byopen Ldua bicyene."	"Went to Yagul before returning to Oaxaca"	""	"FLN"	NA
+"78"	"Zhi ya a ze estudian xten Brook tula xquia per na queity a chaa."	"Tomorrow the students and Brook are but I'm not going"	""	"FLN"	NA
+"79"	"A dano ziyopen nisyu."	"We're on the road."	"nisyu = camino"	"AM"	NA
+"80"	"Gwaa Bac a nai."	"I went to Tlacolula yesterday."	""	"AM"	NA
+"81"	"Lia Glo cuan Bed gwe Bac a nai."	"Gloria and Pedro went to Tlacolula yesterday."	""	"AM"	NA
+"82"	"xtadmama a bzen estados unidos."	"My grandfather arrived in the US."	""	"AM"	NA
+"83"	"A bzenya  "	"I arrived."	""	"AM"	NA
+"84"	"Byala de US a nai."	"I came from the US yesterday."	""	"AM"	NA
+"85"	"Zhi a zoe:n."	"We'll leave tomorrow."	""	"FL"	NA
+"86"	"Chi zoe:n cafe, a bria cafe."	"When we were on our way, Nick had already left."	"Both a's necessary"	"FL"	NA
+"87"	"A Brook ze Bac aisy wxiny gyicye:ng."	"Brook went to Tlacolula this morning and is coming back tonight."	"Could be on her way or already arrived."	"FL"	NA
+"88"	"Ae:ng a zecudyag musc."	"He's on his way to hear music."	""	"FL"	NA
+"89"	"Ae:ng ze Bac aisy a bicye:ng"	"She went to Tlac., she'll be back later."	""	"FL"	NA
+"90"	"Brook gwe Bac ae:ng a bicy."	"Brook went to Tlac and/but she's back."	"worse"	"FL"	NA
+"91"	"Gwe Brook Bac (per) ae:ng a bicy."	"Brook went to Tlac and/but she's back."	"better"	"FL"	NA
+"92"	"Rrilo mes a Bed a ze."	"The teacher thinks that Pedro has left."	""	"FL"	NA
+"93"	"Rrilo mes a Bed a bria."	"The teacher thinks that Pedro has left."	"(a defined space)"	"FL"	NA
+"94"	"A Bed a bria scwel."	"Pedro has dropped out."	""	"FL"	NA
+"95"	"Chi bzenye:n cafe, a Nick a ze."	"When we came to the cafe, Nick had already left."	"Both a's necessary"	"FL"	NA
+"96"	"Chi zoe:n cafe, a Nick a ze."	"When we were on our way, Nick had already left."	"Both a's necessary"	"FL"	NA
+"97"	"Chi bze:nya ricy a bziana a ze."	"When I arrived there my brother had already left."	""	"FL"	NA
+"98"	"A Brook ze Bac aisy wxiny a bicye:ng."	"Brook went to Tlacolula this morning, but she'll be back tonight."	"Point of sentence is that she's coming back."	"FL"	NA
+"99"	"A naa a zaa Bac per ngaisy a bicya."	"I'm on my way to Tlac but I'll be back."	""	"FL"	NA
+"100"	"A danoe:n re' chileu a Brook ree."	"We are here but Brook is there."	""	"FL"	NA
+"101"	"Mnalaz Arjun a betse:ng a ziegan lae:ng."	"Arjun remembered his brother is coming to visit him (on his way)"	"Us not with Arjun"	"FL"	NA
+"102"	"Rilo Arjun a betse:ng a zegan lae:ng."	"Arjun thinks his brother is on the way."	"Us not with Arjun"	"FL"	NA
+"103"	"Chiby bzenya liaza a Lieb a nu ricy."	"When I arrived at my house, Felipe was already there."	""	"RL"	NA
+"104"	"Chiby bzenya liaza ae:ng a nu ricy."	"When I arrived at my house, he was already there."	""	"RL"	NA
+"105"	"A zaa chaa Bac chiru a ziala."	"I'm going to Tlac and then I'll be back."	""	"RL"	NA
+"106"	"A zaa Bac cheib a bles nisgyia."	"I had left for Tlac. when the rain stopped. "	""	"RL"	NA
+"107"	"byoe:n naxgia a zic a bria? byoganeng a teiby rrady stacion a rrady tula ni lash seshgia uas ric ga brian byoe:n Tule"	"Going to the radio station and then Tule"	""	"FLN"	NA
+"108"	"Ricy byoduawen a teiby restauran per ni restauran a chiru teiby restauran."	"Went and ate at restaurant in Tule"	""	"FLN"	NA
+"109"	"Ae:ng a cazen re'."	"She is arriving here."	""	"AM"	NA
+"110"	"Ladi zee:ng."	"He went to the States."	""	"FL"	NA
+"111"	"Zee:ng ladi per daru gyie:ng."	"He's on his way to the states but he's coming back."	"Feels that he's not yet arrived."	"FL"	NA
+"112"	"Zee:ng ladi e?"	"Did he go to the states?"	"Could be either on the way or in the States. A yes would just mean that he left."	"FL"	NA
+"113"	"Rata zhi ricy Jwany ricy."	"Juan returns there everyday."	""	"FL"	NA
+"114"	"Jwany ricy ricy rata zhi."	"Juan returns there everyday."	""	"FL"	NA
+"115"	"*Rata zhi ricy ricy Jwany."	"Juan returns there everyday."	""	"FL"	NA
+"116"	"Bicye:ng Ndua."	"We returned to Oaxaca."	""	"FL"	NA
+"117"	"Lo july gicya Ndua."	"I will return to Oaxaca in July."	""	"FL"	NA
+"118"	"Lo july gicynia Brook Ndua."	"I will return to Oaxaca with Brook in July."	""	"FL"	NA
+"119"	"Brook gicynia Ldua lo july."	"I will return to Oaxaca with Brook in July."	""	"FL"	NA
+"120"	"Gicynia Brook Ldua lo july."	"I will return to Oaxaca with Brook in July."	""	"FL"	NA
+"121"	"*Ne Brook gicya Ldua lo july."	"I will return to Oaxaca with Brook in July."	""	"FL"	NA
+"122"	"Ne Brook gicynia Ldua lo july."	"I will return to Oaxaca with Brook in July."	""	"FL"	NA
+"123"	"Ne Brook gicy Ldua lo july."	"I will return to Oaxaca with Brook in July."	""	"FL"	NA
+"124"	"Na par byicye:ng Ndua."	"We had to return to Oaxaca."	""	"FL"	NA
+"125"	"Xini bicyu?"	"Why did you return?"	""	"FL"	NA
+"126"	"rzeny"	"arrive"	""	"FL"	NA
+"127"	"cazenye:ng"	"He's arriving right now."	""	"FL"	NA
+"128"	"Bzenye:ng mer chicy."	"He arrived right then."	""	"FL"	NA
+"129"	"Bzenye:ng chicybag."	"He arrived right then."	""	"FL"	NA
+"130"	"Chicybag bzenye:ng."	"He arrived right then."	""	"FL"	NA
+"131"	"Briaa Ldua."	"I left Oaxaca."	""	"FL"	NA
+"132"	"Bduxman bzenya."	"I arrived a week ago."	""	"FL"	NA
+"133"	"Bzenya bduxman."	"I arrived a week ago."	""	"FL"	NA
+"134"	"Zhi yzenye:ng ricy."	"He will arrive there tomorrow."	""	"FL"	NA
+"135"	"Primer xchi july briaa ladi."	"I left the US on July 1st."	""	"FL"	NA
+"136"	"Rata rsily rityug Lia Petr gyia."	"Every morning Petra goes to cut flowers."	""	"FL"	NA
+"137"	"Brook zesi guetxtily."	"Brook went to buy bread."	"In answer to someone looking for the person."	"FL"	NA
+"138"	"Zesie:ng guetxtily."	"She was going to buy bread."	""	"FL"	NA
+"139"	"Nai mna lo Janet. Zee:ng zecudyage:ng musc."	"Yesterday I saw Janet. She was on her way to listen to music."	""	"FL"	NA
+"140"	"Zaa scwel chi mna loe:ng."	"I was on my way to school when I saw her."	""	"FL"	NA
+"141"	"Brook zesi lady Bac chi bzhiny xcoche:ng."	"Brook was buying clothes in Tlac but her car 'got scratched' (broke down)."	""	"FL"	NA
+"142"	"Mnitya chi zegana Janet."	"I got lost on my way to Janet."	""	"FL"	NA
+"143"	"Zesire:ng chi bzeny nsia."	"They were going to the market when the rain arrived."	""	"FL"	NA
+"144"	"Zoe:n chi cwebe:n nys chi bzeny nysgyia."	"We were on our way to mount the water (bath/swim) when the rain arrived."	""	"FL"	NA
+"145"	"Zoe:n chigyie:n."	"We will surely go and dance."	""	"FL"	NA
+"146"	"Zegyae:ng."	"She will definitely go and dance."	""	"FL"	NA
+"147"	"Rata zhi ricwuae:n gyi rrady."	"Every day we go and turn on the radio."	""	"FL"	NA
+"148"	"Rata rsily rinya ni yquiny xnana."	"Every day I go and bring my mom breakfast."	""	"FL"	NA
+"149"	"Rata zhi rinya rsily yquiny xnana."	"Every day I go and bring my mom breakfast."	""	"FL"	NA
+"150"	"Ndua ze Brook."	"Brook went to Oaxaca."	"could be on her way, could be in Oaxaca, could be on her way back"	"FL"	NA
+"151"	"Ndua gwe Brook."	"Brook went to Oaxaca and back."	""	"FL"	NA
+"152"	"Ndua zen dez Brook."	"Brook left to move to Oaxaca."	""	"FL"	NA
+"153"	"Ndua ze Brook chibxi' xucarni."	"Brook was on her way to Oaxaca when her car broke down."	""	"FL"	NA
+"154"	"Lo gyia ze Brook chi una loni."	"Brook was on her way to the market when I saw her."	""	"FL"	NA
+"155"	"Gal ria ze Brook chi na loni."	"Brook was going to a dance when I saw her."	""	"FL"	NA
+"156"	"Brook caya."	"Brook is dancing."	""	"FL"	NA
+"157"	"Caya Brook."	"Brook is dancing."	""	"FL"	NA
+"158"	"Brook zeya chi mna loni."	"Brook was going dancing when I saw her."	""	"FL"	NA
+"159"	"Ze yo zacu e?"	"Are you also going dancing?"	""	"FL"	NA
+"160"	"Gal ria za chu e?"	"Are you going to the dance too?"	""	"FL"	NA
+"161"	"Brook rcaz che Ldua."	"Brook wants to go to Oaxaca."	""	"FL"	NA
+"162"	"Brook rcaz gued zunni."	"Brook wants to come to Tlacochuaya."	""	"FL"	NA
+"163"	"Rcaza Brook gued zunni."	"I want Brook to come to Tlacochuhuaya."	""	"FL"	NA
+"164"	"Ndua chaa zhi."	"I'm going to Oaxaca tomorrow."	""	"FL"	NA
+"165"	"Ndua chaa zhi chi na liu."	"I'm going to Oaxaca tomorrow to see you."	""	"FL"	NA
+"166"	"Zunni giedu gednu nare e?"	"You're coming to Tlacochuhuaya to see me?"	""	"FL"	NA
+"167"	"Rcaza gied Brook zunni te getna nare'."	"I want Brook to come to Tlacochuhuaya to see me."	""	"FL"	NA
+"168"	"Queity gwadya liazu."	"I didn't come to your house."	"not at the house"	"FL"	NA
+"169"	"Queity niadya liazu."	"I didn't come to your house."	"not at the house"	"FL"	NA
+"170"	"Queity bialdya liazu."	"I didn't come to your house (we're now at the house)."	""	"FL"	NA
+"171"	"Zebugu Ldua e?"	"You're really going to Oaxaca?"	"Felipe in LA, Carolyn in Amherst."	"FL"	NA
+"172"	"Zobege:n Ldua e?"	"We're really going to Oaxaca?"	"Felipe in LA, Carolyn in Amherst."	"FL"	NA
+"173"	"Ziedu Ldua e?"	"Will you come to Oaxaca?"	"If I'm about to go and I ask Felipe if he's coming"	"FL"	NA
+"174"	"To choe:n Ldua!"	"Let's go to Oaxaca!"	"neither in Oaxaca"	"FL"	NA
+"175"	"Chi nua cafe, bied Brook ricy."	"When I was at the cafe, Brook came there."	""	"FL"	NA
+"176"	"Chi nua cafe, bzen Brook ricy."	"When I was at the cafe, Brook came there."	""	"FL"	NA
+"177"	"Nai gugan Brook Janet liazni."	"Yesterday Brook visited Janet at her house."	"Janet's"	"FL"	NA
+"178"	"Chi nu Janet bibliotec, bzen Brook."	"When Janet was at the library, Brook went there."	""	"FL"	NA
+"179"	"Chi nu Janet bibliotec, gwe Brook."	"When Janet was at the library, Brook went there."	""	"FL"	NA
+"180"	"Nai chi nua logyia, biedzi Brook teiby tapet."	"Yesterday when I was at the market, Brook came to buy a rug."	""	"FL"	NA
+"181"	"Zhi chigana Janet Bibliotec."	"Tomorrow I'm going to see Janet at the library."	""	"FL"	NA
+"182"	"Gugan May Jaime Bac nai."	"May came to see Jaime in Tlac. yesterday."	""	"FL"	NA
+"183"	"Biedgan May naa Bac nai."	"May came to see me in Tlac. yesterday."	""	"FL"	NA
+"184"	"Rzilaz May Los Angeli gugan Janet lae:ng per San Franciscwi."	"May thinks Janet visited her in Los Angeli, but it was really SF."	""	"FL"	NA
+"185"	"Rzilaza Los Angeli biedgan Janet naa per San Franciscwi."	"I thought Janet visited me in LA but it was really SF."	""	"FL"	NA
+"186"	"Felipe: Rcaza giedu Ldua."	"I want you to come to Oaxaca."	"Felipe in Oaxaca, Carolyn in LA"	"FL"	NA
+"187"	"Carolyn: Rcaza giedu LA."	"I want you to come to LA."	"Felipe in Oaxaca, Carolyn in LA"	"FL"	NA
+"188"	"Felipe: Rcaza gyiela LA."	"I want to come to LA."	"Felipe in Oaxaca, Carolyn in LA"	"FL"	NA
+"189"	"Felipe: Rcaza chaa SF."	"I want to go to SF."	"Felipe in Oaxaca, Carolyn in LA"	"FL"	NA
+"190"	"Rcaza gyiedgana liu."	"I want to come to visit you."	""	"FL"	NA
+"191"	"Rcaza chigana lae:ng."	"I want to visit him."	"Nick in Seattle, not in conversation."	"FL"	NA
+"192"	"Carolyn: Rcaz Brook chigana lae:ng Los Angeli zhi."	"Brook wants me to come visit her in LA tomorrow."	"Brook in LA, Felipe and Carolyn in Oaxaca."	"FL"	NA
+"193"	"Carolyn: Rcaza gied Brook Ldua zhi."	"I want Brook to come to Oaxaca tomorrow."	"Brook in LA, Felipe and Carolyn in Oaxaca."	"FL"	NA
+"194"	"Carolyn: Rcaza chaa LA chigana Brook zhi."	"I want to go to LA to see Brook tomorrow."	"Brook in LA, Felipe and Carolyn in Oaxaca."	"FL"	NA
+"195"	"Carolyn: Rcaz Brook giedgan naa zhi."	"Brook wants to come visit me tomorrow."	"Brook in LA, Felipe and Carolyn in Oaxaca."	"FL"	NA
+"196"	"Carolyn: Rilo Arjun betse:ng Jishnu ziganlae:ng Amherst."	"Arjun thinks his brother Jishnu is coming to see him in Amherst."	"Map 0: Arjun in Amherst, Jishnu in India."	"FL"	NA
+"197"	"Carolyn: Bets Arjun chigan lae:ng "	"Arjun's brother is coming to see him."	"Map 0: Arjun in Amherst, Jishnu in India."	"FL"	NA
+"198"	"Carolyn: Nuchi naa Arjun betse:ng chiganlae:ng."	"Last night Arjun said that his brother is coming to visit him (in the future)."	"Map 0: Arjun in Amherst, Jishnu in India."	"FL"	NA
+"199"	"Carolyn: Nuchi naa Arjun betse:ng zeganlae:ng."	"Last night Arjun said that his brother is coming to visit him (in the future, definite)."	"Map 0: Arjun in Amherst, Jishnu in India."	"FL"	NA
+"200"	"Carolyn: Rcaz Arjun chigan betse:ng lae:ng."	"Arjun wants his brother to come see him."	"Map 0: Arjun in Amherst, Jishnu in India."	"FL"	NA
+"201"	"Rsoo choe:n Bac e?"	"Are you going to come to Tlac?"	""	"FL"	NA
+"202"	"Bac chieu e?"	"Are you going to Tlac?"	""	"FL"	NA
+"203"	"Buny ladi naa."	"I'm from the States."	""	"FL"	NA
+"204"	"Ladi ziala."	"I'm coming from the States."	"not necessarily from the States (not homebase)"	"FL"	NA
+"205"	"Cali zoo?"	"Where did you come from?"	""	"FL"	NA
+"206"	"Ladi ziala."	"I came from the states."	""	"FL"	NA
+"207"	"Ladi zaa."	"I came from the states."	""	"FL"	NA
+"208"	"Nai bzeinya zaa ladi."	"I came from the States yesterday."	""	"FL"	NA
+"209"	"Ladi chaa zhi."	"I'm going to the US tomorrow."	""	"FL"	NA
+"210"	"Zhi gicya ladi."	"Tomorrow I'm returning to the States."	""	"FL"	NA
+"211"	"Riope:n re'."	"We come here every day."	""	"FL"	NA
+"212"	"Biedgenya zeiny re' tempran."	"I came to work early here today."	""	"FL"	NA
+"213"	"Gugenya zeiny tempran."	"I went to work early."	""	"FL"	NA
+"214"	"Biedu liaza tempran."	"You came to my house early."	""	"FL"	NA
+"215"	"Queity bieldya liazu."	"I didn't come to your house."	""	"FL"	NA
+"216"	"Caria liaza."	"I wasn't at home."	""	"FL"	NA
+"217"	"Queity guwadya liaza."	"I wasn't at home."	""	"FL"	NA
+"218"	"Biedu liaza ba rsily per queitdya chicy."	"You came to my home but I wasn't there."	""	"FL"	NA
+"219"	"Queity nyeddyi betsa Ldua."	"My brother didn't come to Oaxaca."	""	"FL"	NA
+"220"	"Queity nyed nyedyia betsa Ldua."	"I didn't bring my brother."	""	"FL"	NA
+"221"	"Biednia betsa Ldua."	"My brother came with me to Oaxaca."	"I'm in Oaxaca."	"FL"	NA
+"222"	"Gunia betsa Ldua."	"I took my brother to Oaxaca (if I'm in Oaxaca)."	""	"FL"	NA
+"223"	"Ne betsa bunya Ldua."	"My brother went to Oaxaca with me."	"if I'm in Tlac."	"FL"	NA
+"224"	"Ne betsa biednia Ldua."	"I came with my brother to Oaxaca."	"if I'm in Oaxaca, bro is not with me."	"FL"	NA
+"225"	"*Biednia ne betsa Ldua."	"I came with my brother to Oaxaca."	""	"FL"	NA
+"226"	"Biedne Juany betsni Ldua."	"Juan brought his brother to Oaxaca."	""	"FL"	NA
+"227"	"Gune Juany betsni Ldua."	"Juan brought his brother to Oaxaca."	"I'm not in Oaxaca."	"FL"	NA
+"228"	"Zene Juany betsni Ldua."	"Juan brought his brother to Oaxaca."	"Juan and brother in Oaxaca, probably still there, we're in Tlacolula. "	"FL"	NA
+"229"	"Gune Juany betsni Ldua."	"Juan brought his brother to Oaxaca."	"Juan and brother in Oaxaca, probably have returned home, we're in Tlacolula."	"FL"	NA
+"230"	"Teegwag adya chaa Bac."	"I've never been there."	""	"FL"	NA
+"231"	"Teegwag adya gyala re'."	"No, I have never been here before."	""	"FL"	NA
+"232"	"Guxman nia byala re'."	"Last week I walked here."	""	"FL"	NA
+"233"	"Guxman nia bdeidya re'."	"Last week I walked by here."	""	"FL"	NA
+"234"	"Chi mnaa lo yu re' yu dats nae:ng."	"When I saw this building it was empty."	""	"FL"	NA
+"235"	"Caria tu chu re' chicy."	"No one was here then."	""	"FL"	NA
+"236"	"Styop schon zhi chaa Ldua."	"In a few days, I will go to Oaxaca."	""	"FL"	NA
+"237"	"Nugu' re' styop schon zhi e?"	"Will you still be here in a few days?"	""	"FL"	NA
+"238"	"Nuu re' zhi e?"	"Will you be here tomorrow?"	""	"FL"	NA
+"239"	"Bied bziana re'."	"My brother came here (I'm in Oaxaca)."	""	"FL"	NA
+"240"	"Gwe bziana Ldua."	"My brother went to Oaxaca."	"I'm not in Oaxaca."	"FL"	NA
+"241"	"Bzu gai laty rtore:ng cafe tyob or."	"I sat in a cafe for two hours."	""	"FL"	NA
+"242"	"Rnalaz Jwany mes."	"Juan remembers the teacher."	""	"FL"	NA
+"243"	"Rnalaz Jwany biab niesgyia."	"Juan remembers that it rained."	""	"FL"	NA
+"244"	"Na Brook ryulaza becw."	"Brook says, \"I like dogs.\""	"happens in narratives"	"FL"	NA
+"245"	"Na Brook ryulaze:ng becw."	"Brook says she likes dogs."	""	"FL"	NA
+"246"	"Na Brook ryulaz Brook becw."	"Brook says she likes dogs."	""	"FL"	NA
+"247"	"*Na Brook ryulazni becw."	"Brook says she likes dogs."	""	"FL"	NA
+"248"	"Na Brook ryulaza becw, na Brook."	"Brook says she likes dogs."	"not Felipe's style but possible"	"FL"	NA
+"249"	"Mnalaza xii na Brook nai."	"I remember what Brook said yesterday."	""	"FL"	NA
+"250"	"Mnalaza xii na Brook naa nai."	"I remember what Brook said to me yesterday."	""	"FL"	NA
+"251"	"Mnalaza xii mni Brook naa nai."	"I remember what Brook told me yesterday."	""	"FL"	NA
+"252"	"Mnalaza xii mnudizh Brook naa nai."	"I remember, what Brook asked me yesterday."	""	"FL"	NA
+"253"	"Nae:ng xi gau."	"She said \"what are you going to eat?\""	""	"FL"	NA
+"254"	"Mnudizhe:ng xi gau."	"She asked me \"what are you going to eat?\""	""	"FL"	NA
+"255"	"Xi gau nae:ng."	"\"What are you going to eat?\" she said."	""	"FL"	NA
+"256"	"Brook na xi gaua."	"Brook asked what am I/is she going to eat."	""	"FL"	NA
+"257"	"Xi gaua na Brook."	"Brook asked what am I/is she going to eat."	""	"FL"	NA
+"258"	"Zhi chaa Bac per guicytaga."	"Tomorrow I'm going to Tlac but I'll be back (not def)."	""	"FL"	NA
+"259"	"Chaa ladi chiru gicya cha beu."	"I'm going to the States but I'll be back at the end of the month."	""	"FL"	NA
+"260"	"Byue:n lanynyu. "	"We went into a building (stomach of the house)."	""	"FL"	NA
+"261"	"Byutye:n lanynyu."	"We entered a building."	""	"FL"	NA
+"262"	"Ria buny scwel rata zhi."	"One goes to school everyday."	""	"FL"	NA
+"263"	"Juany ria scwel rata zhi."	"Juan goes to school everyday."	""	"FL"	NA
+"264"	"Rata zhi Juany ria scwel."	"Juan goes to school everyday."	""	"FL"	NA
+"265"	"Riaa logyia rata zhi."	"I go to the market every day."	""	"FL"	NA
+"266"	"Chiu Bac rata zhi."	"You'll go to Tlac."	""	"FL"	NA
+"267"	"Zeu Bac."	"You will definitely go to Tlac."	""	"FL"	NA
+"268"	"Bac nadizh chaa."	"I'm supposed to go to Tlac."	"good if I'm on my way or if I never left, also good if I'm broken down on the way and I'm trying to tell someone where I am"	"FL"	NA
+"269"	"Baque:ng nadizh chaa."	"I'm supposed to go to Tlac."	"good if I'm on my way or if I never left, also good if I'm broken down on the way and I'm trying to tell someone where I am"	"FL"	NA
+"270"	"Nadizh chie:ng Mejy."	"He was going to Mejy but he missed his bus."	""	"FL"	NA
+"271"	"Mejy na dizh chie:ng."	"He was going to Mejy but he missed his bus."	""	"FL"	NA
+"272"	"Nadizh Mitla chaa."	"I was planning on going to Mitla but I changed my mind."	""	"FL"	NA
+"273"	"Cali chiu?"	"Where are you going?"	""	"FL"	NA
+"274"	"Cali chie:ng?"	"Where is she going?"	""	"FL"	NA
+"275"	"Brook chia lo gyia."	"Brook is going to the market."	""	"FL"	NA
+"276"	"Chia Brook lo gyia."	"Brook is going to the market."	""	"FL"	NA
+"277"	"Brook zied re'."	"Brook is coming here."	""	"FL"	NA
+"278"	"*Brook zied re."	"Brook is coming there."	""	"FL"	NA
+"279"	"Brook ze re."	"Brook is going there."	""	"FL"	NA
+"280"	"*Brook ze re'."	"Brook is going here."	""	"FL"	NA
+"281"	"Ze Brook re."	"Brook is going there."	""	"FL"	NA
+"282"	"Zoe:n lo gyia."	"We're going to the market (we're on the way)."	""	"FL"	NA
+"283"	"Zoe:n Bac."	"We're going to tlacolula."	""	"FL"	NA
+"284"	"Zyoe:n Bac."	"We're going to Tlacolula (home)."	""	"FL"	NA
+"285"	"Zoe:n lo gyia ngaisy wxiny."	"We will go to the market tonight."	""	"FL"	NA
+"286"	"Ngaisy wxen gyied Brook re'."	"Brook will come here tonight (not def)."	""	"FL"	NA
+"287"	"Zhi chaa Bac."	"Tomorrow I am going to Tlacolula (not certain)."	""	"FL"	NA
+"288"	"Cali gweu?"	"Where did you go?"	""	"FL"	NA
+"289"	"Cali canzoo?"	"Where have you been?"	""	"FL"	NA
+"290"	"Cali zoo?"	"Where are you coming from?"	""	"FL"	NA
+"291"	"Gwaa mandad."	"I went on an errand."	""	"FL"	NA
+"292"	"Lo gyia zaa."	"I came from the market."	""	"FL"	NA
+"293"	"Gwaa lo gyia."	"I went to the market."	""	"FL"	NA
+"294"	"Nai gwaa Bac."	"I went to Tlacolula yesterday."	""	"FL"	NA
+"295"	"Nai gue:n Brook byoe:n Bac nai."	"Brook and I went to Tlacolula yesterday"	"can delete either nai"	"FL"	NA
+"296"	"Jaime cuan Marcus gure:ng Bac."	"Jaime and Marcus went to Bac."	""	"FL"	NA
+"297"	"Brook gwe ricy."	"Brook went there."	""	"FL"	NA
+"298"	"Gweu Bac nai."	"You went to Tlac. yesterday."	""	"FL"	NA
+"299"	"Gweu Bac nai e?"	"Did you go to Tlac. yesterday?"	""	"FL"	NA
+"300"	"*Gweu Bac e nai?"	"Did you go to Tlac. yesterday?"	""	"FL"	NA
+"301"	"Ajy nai gwaa Bac."	"Yes, I went to Tlac. yesterday."	""	"FL"	NA
+"302"	"Teegwag queity gwaadya Bac nai."	"No I didn't go to Tlac."	""	"FL"	NA
+"303"	"Lare:ng gwere:ng Bac."	"They went to Tlac."	""	"FL"	NA
+"304"	"Byore:ng lae:ng scwel."	"We went into the school."	""	"FL"	NA
+"305"	"Byu zhyet lainy caj."	"The cat went into/ entered the box."	""	"FL"	NA
+"306"	"Queity biedyi Brook re' nuchi."	"Brook didn't come here last night."	""	"FL"	NA
+"307"	"Queity gwedyi Brook Bac nai."	"Brook didn't go to Tlac. yesterday."	""	"FL"	NA
+"308"	"Queity gwedyi Brook ricy nai."	"Brook didn't go there yesterday."	""	"FL"	NA
+"309"	"*Queity Brook gwedyi."	"Brook didn't go there yesterday."	""	"FL"	NA
+"310"	"*Queity ricy gwedyi Brook queity."	"Brook didn't go there yesterday."	""	"FL"	NA
+"311"	"Ajy zaa Bac."	"Yes, I will go."	""	"FL"	NA
+"312"	"Yac, queitydya chaa Bac."	"No, I'm not going to Tlaco."	""	"FL"	NA
+"313"	"Rgwia dizhsa."	"I speak Zapotec."	""	"FL"	NA
+"314"	"Cagyunya xjab."	"I'm thinking."	""	"FL"	NA
+"315"	"Tu canineu?"	"Who are you talking to?"	""	"FL"	NA
+"316"	"Liu caninia"	"I'm speaking to you."	""	"FL"	NA
+"317"	"Xi xjabag runyu?"	"What are you thinking about?"	""	"FL"	NA
+"318"	"Cayunya xjab xi e nu dizha steby."	"I'm thinking about what another question is."	""	"FL"	NA
+"319"	"Calieb bgoo"	"Where did you get caught?"	""	"FL"	NA
+"320"	"nai"	"yesterday"	""	"FL"	NA
+"321"	"nai guc domingw"	"Yesterday was Sunday"	""	"FL"	NA
+"322"	"zhi"	"tomorrow"	""	"FL"	NA
+"323"	"nazhi"	"today"	""	"FL"	NA
+"324"	"nazhi na luny"	"today is monday"	""	"FL"	NA
+"325"	"zhi gac/na marty"	"tomorrow is Tuesday"	""	"FL"	NA
+"326"	"mba rsily"	"earlier today"	""	"FL"	NA
+"327"	"mba  "	"earlier  "	""	"FL"	NA
+"328"	"Nia ziala."	"I came by foot."	""	"FL"	NA
+"329"	"Biednia nigawa re'"	"I brought what I'm going to eat here."	""	"FL"	NA
+"330"	"Bxunyu camiuny bzie:nyu re'."	"You drove here."	""	"FL"	NA
+"331"	"Nana cayab nsigyia."	"I know that it's raining."	""	"FL"	NA
+"332"	"Nana queity cayabdyi nsigyia."	"I know that it's not raining."	""	"FL"	NA
+"333"	"Queity nandya o cayab nsigyia."	"I don't know if it's raining."	""	"FL"	NA
+"334"	"Rrilua cayab nsigyia."	"I think it's raining."	""	"FL"	NA
+"335"	"Rriloe:ng cayab nsigyia. "	"He thinks it's raining."	""	"FL"	NA
+"336"	"Cadia lo bizh."	"There's no sunshine."	""	"FL"	NA
+"337"	"Cadia lo wbizh."	"It's sunny."	""	"FL"	NA
+"338"	"Rrilo(l)e:ng caria lo wbizh per cadia lo wbizh."	""	""	"FL"	NA
+"339"	"Nane:ng caria lo wbizh per cadia lo wbizh."	""	"Doesn't make sense, but it's grammatical"	"FL"	NA
+"340"	"Nae:ng cayab nsigyia per cariainy"	"He said it's raining but it's not raining"	"rain is reverential"	"FL"	NA
+"341"	"nas"	"the day before yesterday"	""	"FL"	NA
+"342"	"guzh"	"the day after tomorrow"	""	"FL"	NA
+"343"	"xman"	"week"	""	"FL"	NA
+"344"	"xior hora"	"what time?"	""	"FL"	NA
+"345"	"lat"	"place"	""	"FL"	NA
+"346"	"nuchi"	"last night"	""	"FL"	NA
+"347"	"nuchi nas wxiny"	"2 nights ago"	""	"FL"	NA
+"348"	"guzh wxiny"	"2 nights from now"	""	"FL"	NA
+"349"	"rsily"	"morning"	""	"FL"	NA
+"350"	"laizh"	"midday"	""	"FL"	NA
+"351"	"wzhi"	"afternoon"	""	"FL"	NA
+"352"	"wxiny"	"night"	""	"FL"	NA
+"353"	"bduxman"	"last week"	""	"FL"	NA
+"354"	"na"	"now"	""	"FL"	NA
+"355"	"ngaisy"	"later"	""	"FL"	NA
+"356"	"yraguel"	"the next day"	""	"FL"	NA
+"357"	""	"the day before (no word)"	""	"FL"	NA
+"358"	"mni"	"say"	""	"FL"	NA
+"359"	"laing rnie:ng"	"he says"	""	"FL"	NA
+"360"	"stuxman"	"next week"	""	"FL"	NA
+"361"	"stubeo"	"next month"	""	"FL"	NA
+"362"	"beowya"	"last month"	""	"FL"	NA
+"363"	"rnalaze:ng"	"he remembers"	""	"FL"	NA
+"364"	"rinydilaze:ng"	"he believes"	""	"FL"	NA
+"365"	"rcaze:ng"	"he wants"	""	"FL"	NA
+"366"	"nane:ng"	"he knows"	""	"FL"	NA
+"367"	"rnine:ng Brook"	"he talks with Brook (he's courting Brook)"	""	"FL"	NA
+"368"	"rgwe:ng dizhsa"	"He speaks Zapotec"	""	"FL"	NA
+"369"	"rgwe:ng dizhsa que:n Brook."	"He speaks Zapotec w/Brook"	""	"FL"	NA
+"370"	"*Rgwe:ng que:n Brook."	"He speaks with Brook."	""	"FL"	NA
+"371"	"Rgwere:ng dizh."	"They're talking."	""	"FL"	NA
+"372"	"iaz"	"year"	""	"FL"	NA
+"373"	"stubiaz"	"next year"	""	"FL"	NA
+"374"	"bduiaz "	"last year"	""	"FL"	NA
+"375"	"iaz wgyia"	"the year that's finished"	""	"FL"	NA
+"376"	"Riedu lo gyia rata zhi e?"	"You come to the market every day?"	""	"FL"	NA
+"377"	"Riede:ng liaza rata rsily."	"He comes to my house every morning."	""	"FL"	NA
+"378"	"Riu scwel rata zhi."	"You go to school every day."	""	"FL"	NA
+"379"	"Ryoe:n lo gyia rata zhi."	"We go to the market every day."	""	"FL"	NA
+"380"	"Zhi cho:en Bac."	"We will go to Tlac. tomorrow"	"not def"	"FL"	NA
+"381"	"Zhi gyope:n re'."	"We will come here tomorrow."	"not def"	"FL"	NA
+"382"	"Rzilaz May los angeli gugan Janet lae:ng."	"May thinks Janet visited her in LA."	"May in SF, thinks she's in LA, us in Oaxaca"	"FL"	NA
+"383"	"*Rzilaz May los angeli giedgan Janet lae:ng."	"May thinks Janet visited her in LA."	"May in SF, thinks she's in LA, us in Oaxaca"	"FL"	NA
+"384"	"Rcaz Arjun chigan betse:ng lae:ng."	"Arjun wants his brother to visit him."	"Us in Oaxaca, Arjun in Amherst"	"FL"	NA
+"385"	"Rcaz Arjun giedgan betse:ng lae:ng."	"Arjun wants his brother to visit him."	"Us with Arjun in Amherst"	"FL"	NA
+"386"	"Mnalaz Arjun betse:ng giedgan lae:ng."	"Arjun remembered his brother is coming to visit him (not on his way)"	"Us with Arjun in Amherst"	"FL"	NA
+"387"	"Mnalaz Arjun chigan betse:ng lae:ng."	"Arjun remembered his brother is coming to visit him (not on his way)"	"Us not with Arjun"	"FL"	NA
+"388"	"Rrzilaz Arjun zegan betse:ng lae:ng."	"Arjun believes that his brother is coming to visit him (on his way)"	"Us not with Arjun; wouldn't use believe if he was actually on his way"	"FL"	NA
+"389"	"Rzilaz Arjun zegan betse:ng lae:ng lo octubr."	"Arjun believes that his brother will visit him in october."	"Us not with Arjun"	"FL"	NA
+"390"	"Rzilaz Arjun ziedgan betse:ng lae:ng."	"Arjun believes that his brother will definitely visit him."	"Us with Arjun  "	"FL"	NA
+"391"	"Rzilaz Arjun giedgan betse:ng lae:ng."	"Arjun believes that his brother will visit him (uncertain)"	"Us with Arjun  "	"FL"	NA
+"392"	"Rlo Arjun betse:ng ziedgan lae:ng."	"Arjun thinks his brother will definitely come"	"Us with Arjun  "	"FL"	NA
+"393"	"Rlo Arjun betse:ng giedgan betse:ng lae:ng."	"Arjun thinks his brother will come (not certain)"	"Us with Arjun  "	"FL"	NA
+"394"	"Rlo Arjun zegan betse:ng lae:ng."	"Arjun thinks his brother will definitely come."	"Us not with Arjun"	"FL"	NA
+"395"	"Rlo Arjun chigan betse:ng lae:ng."	"Arjun thinks his brother will come (not certain)"	"Us not with Arjun"	"FL"	NA
+"396"	"Queity bieddyi Brook liaza ba rsily."	"Brook didn't come to my house this morning."	"I'm home."	"FL"	NA
+"397"	"Quiety gwedyi Brook liaza ba rsily."	"Brook didn't come to my house this morning."	"I'm not home."	"FL"	NA
+"398"	"Queity gwedyi Brook liazu ba rsily."	"Brook didn't come to your house this morning."	"I'm home, you're home"	"FL"	NA
+"399"	"Queity bieddyi Brook liazu ba rsily."	"Brook didn't come to your house this morning."	"We're at your house"	"FL"	NA
+"400"	"Queity gwedyi Brook liazu ba rsily."	"Brook didn't come to your house this morning."	"Neither of us home"	"FL"	NA
+"401"	"*Zhi chi Janet gana."	""	""	"FL"	NA
+"402"	"Bac chaa. "	"I'm on my way to Bac but I'll be back later (going to leave in future)"	""	"RL"	NA
+"403"	"A naa zaa Bac."	"I'm on my way to Bac but I'll be back later (on my way)."	""	"RL"	NA
+"404"	"Yu bru? biedu liaza nazhi. "	"You came to my house early today."	""	"RL"	NA
+"405"	"Queitynu nuadya yu bia zaa."	"I wasn't home when you came."	""	"RL"	NA
+"406"	"Queidy bialdya liazu."	"I didn't come to your house."	"Good regardless of where speaker is."	"RL"	NA
+"407"	"Chi nu lo gyia bied Lieb ricy."	"When I was at the market, Felipe came there."	""	"RL"	NA
+"408"	"A zia La Ndua."	"I'm coming to Oaxaca later. "	"Listener in Oaxaca, speaker in Tlac."	"RL"	NA
+"409"	"Chi nua yu nai, biedran Lieb na. "	"While I was home, Felipe came to visit me."	""	"RL"	NA
+"410"	"Biedzi Lieb teiby ____. "	"Felipe came to buy a ____ (while I was in Tlac)"	""	"RL"	NA
+"411"	"Juan ze Nort."	"Juan went to the US."	""	"RL"	NA
+"412"	"Gwe:ng Nort."	"He went to the US but he's back now."	""	"RL"	NA
+"413"	"Bac choe:n. "	"We're going to go to Tlac."	""	"RL"	NA
+"414"	"Bac zoe:n."	"We're on our way to Tlac."	""	"RL"	NA
+"415"	"Zhi yab nisgya. "	"It's definitely going to rain. "	""	"RL"	NA
+"416"	"Zhi ziab nisgya."	"It might rain."	""	"RL"	NA
+"417"	"Zec na Lieb naz abzhin yab nisgya."	"Felipe says it will rain tonight."	""	"RL"	NA
+"418"	"Nai byab nisgyia."	"It rained yesterday."	""	"RL"	NA
+"419"	"Ne bizana biednia lo gyia."	"My brother came w/me to the market."	"I'm at the market."	"RL"	NA
+"420"	"Ne bizana gwenia lo gyia."	"My brother came w/me to the market."	"I'm not at the market."	"RL"	NA
+"421"	"Abzhin ne bzenya nuchi."	"He came home late last night."	""	"RL"	NA
+"422"	"Gwaa liaz Lieb."	"I went to Felipe's house."	""	"RL"	NA
+"423"	"Chia gwen lox  nana."	"He's going to visit his mother."	""	"RL"	NA
+"424"	"Zhi giedu Bac giedgwaa lo."	"Tomorrow you're coming to see me."	"Speaker in Tlac, listener in SL."	"RL"	NA
+"425"	"A bzen lo nisgyia."	"The rain has arrived."	""	"RL"	NA
+"426"	"Queity rcazdya yab nisgyia."	"I don't want it to rain."	""	"RL"	NA
+"427"	"Nai abia Nort."	"I left the US yesterday."	""	"RL"	NA
+"428"	"Stub biez gied lo gex steiby."	"I wil return to Oaxaca next summer."	""	"RL"	NA
+"429"	"Steiby hora bzenya."	"He's going to arrive in an hour."	""	"RL"	NA
+"430"	"Ze gwe bets Lieb lo Lieb."	"Felipe's brother is coming to see him."	"*come"	"RL"	NA
+"431"	"Nai guhana Lia Del lo gyia."	"I came to see Aurelia at the market."	""	"RL"	NA
+"432"	"Zhi chaa Bac chu yi ga."	"Tomorrow I'm going to Tlac and back."	""	"RL"	NA
+"433"	"Zhi gaab nisgyia."	"I know it's going to rain."	""	"RL"	NA
+"434"	"Chiela gicy nia."	"I'll come back w/my husband."	""	"RL"	NA
+"435"	"Rata zhi ria gwe:ng lo ximama."	"Everyday, he goes to visit his grandmather."	""	"RL"	NA
+"436"	"Lo gyia chiare:b."	"They (formal) were going to the market."	""	"RL"	NA
+"437"	"Lo gyia chiae:ng."	"They (informal) were going to the market."	""	"RL"	NA
+"438"	"Nian gyala re' nai."	"Yesterday I walked here."	""	"RL"	NA
+"439"	"Rata zhi riope:n re'."	"We come here every day."	""	"RL"	NA
+"440"	"Rata cal Domyengw rioen Bac."	"Every Sunday we go to Tlacolula."	""	"RLN1"	NA
+"441"	"Pasax, pasax a zoen mas a las onze."	"?,? we go more at 11."	""	"RLN1"	NA
+"442"	"Chiru choen logyia."	"Then we go to the market."	""	"RLN1"	NA
+"443"	"Chiru ric'."	"Then here."	"Context: First we go to the market, then we come back."	"RLN1"	NA
+"444"	"Nabwel ida wa gex, chi dawa gex, logyia."	"? ? ? town, when ? town, to the market."	""	"RLN1"	NA
+"445"	"Chiru chi locyen chi lo asy ziopen este."	"Then when ? when ? ? coming home ?"	""	"RLN1"	NA
+"446"	"Chiopen logex lapen pasaje iken."	"We come home to town ?  ticket ?"	""	"RLN1"	NA
+"447"	"Iken dresde."	"?"	""	"RLN1"	NA
+"448"	"Calob zhi, calob zhi ru Mies, ninai doen nina ruck."	"? day, ? day to Mass, ? ? ? ?"	""	"RLN1"	NA
+"449"	"Chiru nu gwel choen Mies zoen, nu gwel queity ?oen Mes."	"Then sometimes we go to Mass, sometimes we don't go to Mass."	""	"RLN1"	NA
+"450"	"As ua zhi bzen Brook cuan Carolyn cuan ra estudian bzenye:ng al airport xten Ldua ni rop."	"Carolyn and Brook and the students arrived in the airport of Oaxaca."	""	"FLN"	NA
+"451"	"Uas chicygwen Jwebe."	"Thursday"	""	"FLN"	NA
+"452"	"Byobe:n Bac."	"We went to Tlacolula."	""	"FLN"	NA
+"453"	"Byoe:n CETIS 124 byo byoganen rane in scwel n Barselo ni brogram ni zednareng."	"We went to CETIS for the program"	""	"FLN"	NA
+"454"	"As nidireng es chi gwen Byern chicygwen mirtel per naa quiety ni adya."	"Friday"	""	"FLN"	NA
+"455"	"Biedna biedna Ldua tapas chigwen ni na sabada byoe:n "	"I arrived in Oaxaca"	""	"FLN"	NA
+"456"	"Carolyn byen Ldua ten gucxon."	"Carolyn stayed in Oaxaca because she was sick."	""	"FLN"	NA
+"457"	"Gai es chicwen Domingw."	"Sunday."	""	"FLN"	NA
+"458"	"Gwere:ng logyia Bac."	"Going to Tlacolula."	""	"FLN"	NA
+"459"	"Radre:ng per tula Carolyn nian Lduaten gucxon gucgen zhi."	"Carolyn stayed in Oaxaca because she was sick all day."	""	"FLN"	NA
+"460"	"Rsil zere:ng NBac chiru gusire:ng ra shrab gusire:ng zienticosuc."	"In the morning went to Tlacolula then shopping?"	""	"FLN"	NA
+"461"	"Bicyre:ng Ldua ua zhi."	"Returned to Oaxaca that day."	""	"FLN"	NA
+"462"	"Zee:ng tula."	"going"	""	"FLN"	NA
+"463"	"As zicaza chi bye:ng Carolyn Lduaten gucxon."	"Carolyn sick"	""	"FLN"	NA
+"464"	"As ricy byo byogabne ndra ra mni in scwel."	"school"	""	"FLN"	NA
+"465"	"As mart ra gaz chicgwen zi caza byoschon Bac begehen lune."	"monday; Tlacolula"	""	"FLN"	NA
+"466"	"As ga chicygwen Jueve a teu calibye:ng ric byene:n tula Casa Murguia."	"Thursday stayed at Casa Murguia"	""	"FLN"	NA
+"467"	"Asu chicgwen Byern."	"Friday"	""	"FLN"	NA
+"468"	"Gwere:ng Monte Alban na queityadi at tula, tula bunia Carolyn la zhatna San Luc."	"Students went to Monte Alban, but I didn't go, I brought Carolyn to my village San Lucas"	""	"FLN"	NA
+"469"	"Sabat steiby chicygwen."	"Saturday ?"	""	"FLN"	NA
+"470"	"Gwereng Teotitlan uaxia."	"They went to Teotitlan"	""	"FLN"	NA
+"471"	"Naa queity niadia chicy tula asna gwereng. "	"I didn't go ? ? they went"	""	"FLN"	NA
+"472"	"Juenes tyop a chi, tyopa chicygwen Domingw."	"Sunday"	""	"FLN"	NA
+"473"	"Byon Ndua lareng gwereng tula Macuilxochitl tula gugucnareng ra buny na ric tula ba chile quare chiru gwe ixte."	"Macuilxochitl"	""	"FLN"	NA
+"474"	"? es chicygwen loen gwere:ng Tlacochuhuaya o zun drohoh tula na-a queity niadyia tulan byan Ldua guganya rxistena."	"They went to Tlacochuhuaya, but I didn't"	""	"FLN"	NA
+"475"	"As chida chicygwen Mart."	"Tuesday"	""	"FLN"	NA
+"476"	"Ratan byen tula la crian Casa Murguia teu, teu calibyoe:n."	"Stayed at Casa Murguia"	""	"FLN"	NA
+"477"	"Teo sacaliadran."	""	""	"FLN"	NA
+"478"	"As zeny es chicgwen Mercw."	"Wednesday"	""	"FLN"	NA
+"479"	"Bunyia Carolyn tula telesecondaria xten laazhatna lari byon byosen ramni ingles."	"Returned with Carolyn to the telesecondaria for English classes"	""	"FLN"	NA
+"480"	"Byon ndizhib tab prior bzhuon ricy chiru uazhi zeti."	""	""	"FLN"	NA
+"481"	"Jueve gwere:n Dianzu per queity adya tula bian Ndua."	"Thursday they went to Dianzu but I didn't go, I stayed in Oaxaca"	""	"FLN"	NA
+"482"	"As nazhi biyer re ?en dizh xteu cali byoen."	"Today"	""	"FLN"	NA
+"483"	"Nyec nai uxtenen."	""	""	"FLN"	NA
+"484"	"As domie:ngw ta guz a bria zee:ng laxon tula estados unidos."	"Sunday they are leaving for the US"	""	"FLN"	NA
+"485"	"Naa ryunya xjab."	"I think"	""	"Aurelia"	NA
+"486"	"Naa nia"	"I talk"	""	"AM"	NA
+"487"	"Cawenia yu dizh"	"I'm talking with you."	""	"AM"	NA
+"488"	"Rgwea dizhsa"	"We're speaking Zapotec."	""	"AM"	NA
+"489"	"Cayunya xjab xigawa"	"I'm thinking about food."	""	"AM"	NA
+"490"	"Cayunya xjab a steu yu"	"I'm thinking about you (formal)."	""	"AM"	NA
+"491"	"Rnalazu."	"You remember."	""	"AM"	NA
+"492"	"Juan rnalaz mes."	"Juan remembers the teacher"	""	"AM"	NA
+"493"	"Cali chiu?"	"Where are you going?"	""	"AM"	NA
+"494"	"Gwaa logyia."	"I'm going to the market"	""	"AM"	NA
+"495"	"Cali chien?"	"Where is she going?"	""	"AM"	NA
+"496"	"To choe:n logyia."	"We're going to the market."	""	"AM"	NA
+"497"	"To choe:n Bac."	"We're going to Tlacolula."	""	"AM"	NA
+"498"	"Nazhin choe:n logyia."	"We will go to the market tonight."	""	"AM"	NA
+"499"	"Maria gied nazhi."	"Maria is going to come tonight."	""	"AM"	NA
+"500"	"Zhi chaa Bac."	"I'm going to Tlacolula tomorrow."	""	"AM"	NA
+"501"	"Cali nu?"	"Where have you been?"	""	"AM"	NA
+"502"	"Ugania teiby ets."	"I went to give a message"	""	"AM"	NA
+"503"	"Cad teiby zhi ryope:n."	"We come every day."	""	"AM"	NA
+"504"	"Gwaa ze nazhi."	"I went to work today."	""	"AM"	NA
+"505"	"Chaa ze Mart."	"I went to work Tuesday."	""	"AM"	NA
+"506"	"Gal rsily gunia ze."	"I go to work in the morning."	""	"AM"	NA
+"507"	"Cipriana ria schwel rata zhi."	"Cipriana goes to school every day."	""	"AM"	NA
+"508"	"Juan ria rata zhi liaza."	"Juan comes to my house everyday."	""	"AM"	NA
+"509"	"Juan queity rieddya ra zhi."	"Juan doesn't come to my house everyday."	"Juan no viene todos dias"	"AM"	NA
+"510"	"Lae:ng gwe:n re."	"She went there."	""	"AM"	NA
+"511"	"Gweu Bac nai e?"	"Did you go to Tlacolula yesterday?"	""	"AM"	NA
+"512"	"A, gwe."	"Yes, I went."	""	"AM"	NA
+"513"	"Queity gwadya."	"No, I didn't go."	""	"AM"	NA
+"514"	"Lare:ng gwere:n logyia."	"THey went to the market."	""	"AM"	NA
+"515"	"Lare:ng chie:n logyia."	"They are going to the market."	"Ellos van"	"AM"	NA
+"516"	"Byoe:n ido."	"We went into the church."	""	"AM"	NA
+"517"	"Queity bieddia bizana cuan naa."	"My brother didn't come with me to Oaxaca."	""	"AM"	NA
+"518"	"Xanu?"	"How are you?"	""	"AM"	NA
+"519"	"Gwenag"	"fine."	""	"AM"	NA
+"520"	"xanu yuad?"	"How are you all?"	""	"AM"	NA
+"521"	"xanu yu?"	"how are you?"	"formal"	"AM"	NA
+"522"	"Abizana gyied cuan naa liaz axstada."	"My brother is going to come with me to my parents' house."	""	"AM"	NA
+"523"	"Abizana gyiednia liaz axstada."	"My brother is going to come with me to my parents' house."	""	""	NA
+"524"	"Nadizh giednia abizana liaz axstada."	"My brother came with me to my parents' house."	""	"AM"	NA
+"525"	"Bela"	"sister"	""	"AM"	NA
+"526"	"Bela na ban gual loa."	"My sister is older than I am."	""	"AM"	NA
+"527"	"Bichi"	"small/young"	"chiquito"	"AM"	NA
+"528"	"Ro"	"big"	"grande"	"AM"	NA
+"529"	"Ma ru broe:n ca liu."	"I'm more tall than you"	""	"AM"	NA
+"530"	"Gelnia xipromito liaz axstadi vacion abredi."	"I went with my fiance to his parent's house last vacation."	""	"AM"	NA
+"531"	"Arbana"	"extranjo"	""	"AM"	NA
+"532"	"Gwaa con axnovia en estados unidos."	"I went with my fiance to the US"	""	"AM"	NA
+"533"	"Zeu Bac e?"	"Are you going to Tlacolula?"	""	"AM"	NA
+"534"	"La so choe:n Bac?"	"Are you coming with us to Tlacolula?"	"If we're going to Tlacolula, and we run into someone, you can use this to ask if they want/are coming with us"	"AM"	NA
+"535"	"La zaa neu dano zhi?"	"Are you coming with us tomorrow?"	""	"AM"	NA
+"536"	"Abda"	"leaf"	""	"AM"	NA
+"537"	"Rnieu dizhsa e?"	"Do you speak Zapotec?"	""	"AM"	NA
+"538"	"Chia US zhi."	"I'm going to the US tomorrow."	""	"AM"	NA
+"539"	"Choe:n San Luc e zhi."	"We're going to San Lucas ?"	""	"AM"	NA
+"540"	""	"My brother came to Oaxaca with me."	""	"NM"	NA
+"541"	"Zhi a zia yuu."	"Tomorrow I'm going home"	""	"NM"	NA
+"542"	"Rata zhi rio:n yuu chi abrich schwel"	"Every day we go home after school"	""	"NM"	NA
+"543"	"Queity niady Lieb yuu nrsily."	"Felipe didn't come to my house this morning"	"Context: it's still morning; good if I'm not at my house at the moment"	"NM"	NA
+"544"	"Queity niady Lieb yuu ba rsily."	"Felipe didn't come to my house this morning"	"Context: it's afternoon; ok if the speaker is not at home at UT"	"NM"	NA
+"545"	"Queity niady Lieb yuu re."	"Felipe didn't come to this house."	"Context: only good if the speaker is at the house at UT"	"NM"	NA
+"546"	"Queity niady Lieb liazu"	"Felipe didn't come to your house."	""	"NM"	NA
+"547"	"Lae:ng na dizh chie:ng ricy per ni camyunye:ng pasach."	"He was going to Mexico City but he missed his bus"	""	"NM"	NA
+"548"	"Queity Lieb chia"	"Felipe is not going to go."	""	"NM"	NA
+"549"	"Stuxman a zia yuu."	"I'm going home next week."	""	"NM"	NA
+"550"	"Stuxman a zaa ladi."	"I'm going to the US."	"Comment: I guess if you use zaa, you're going for a long time and you don't know when you'll be back."	"NM"	NA
+"551"	"Stuxman a zia liaza ladi."	"I'm going home to the States."	""	"NM"	NA
+"552"	"A zia yu e?"	"Are you going home?"	"Context: you see someone in the street"	"NM"	NA
+"553"	"A ze yu e?"	"Are you going home?"	"Context: you see someone in the street and they're going to Tlacolula; you don't know what time they'll be back; 'are you leaving now?'"	"NM"	NA
+"554"	"Nai biednae:ng liu yuu."	"She brought you home (with her) yesterday."	""	"NM"	NA
+"555"	"Navidad giednia ni mniny guxnaa yuu."	"My fiance is coming home with me at Christmas."	"Lit. At Christmas I am bringing the boy who I will marry "	"NM"	NA
+"556"	"Navidad giednia bizana yuu."	"At Christmas I am bringing my brother home."	"If a girl is speaking"	"NM"	NA
+"557"	"A ziare:b yuu."	"They (formal) are on their way home."	"If you see two people"	"NM"	NA
+"558"	"A ziare:ng yuu."	"They (informal) are on their way home."	"If you see two people"	"NM"	NA
+"559"	"A zyon yuu."	"We're going home."	"If someone asks us where we're going; my brother and I are on way home"	"NM"	NA
+"560"	"Nai chi nua Bac, bied naa bizana ricy."	"Yesterday, when I was at the market in Tlacolula, my brother came there."	"Good even if the speaker is no longer in Tlac."	"NM"	NA
+"561"	"zic naa Maria ziedgwi bizanre:ng lo."	"Maria said that her brother is coming to see her."	""	"NM"	NA
+"562"	"Zic naa Maria ziedgwi bizan lore:ng."	"Maria said that her brother is coming to see her."	"Fine if Maria is in a different town than the speaker and addressee because the speaker is reporting what she said"	"NM"	NA
+"563"	"Rcaza giedgwe bizana lo."	"I want my brother to visit me."	""	"NM"	NA
+"564"	"Maria rcaz giedgwi bizane:ng lo"	"Maria wants her brother to visit her."	""	"NM"	NA
+"565"	"Rrlo Maria ziedgwi bizane:ng lo."	"Maria thinks that her brother is coming to see her."	""	"NM"	NA
+"566"	"Bizan Maria ziedgwi loe:ng."	"Maria's brother is coming to visit her."	""	"NM"	NA
+"567"	"A zia."	"I'm leaving."	"Context: I left the States in June."	"NM"	NA
+"568"	"Ana rcetzla chi zia."	"It was 10pm when I left."	""	"NM"	NA
+"569"	"A mer bzenyon ric."	"We'll arrive there soon."	""	"NM"	NA
+"570"	"A beu Ndua e?"	"Have you been to Oaxaca before?"	""	"NM"	NA
+"571"	"Zhi zenyu ladre tien giedgwiu loa."	"Tomorrow you're coming to San Lucas to see me."	"Speaker in San Lucas, addressee in LA"	"NM"	NA
+"572"	"Zhi giedgwi Lieb loa."	"Felipe is coming to see me tomorrow."	"Speaker in San Lucas, addressee in LA; Felipe can be coming from anywhere"	"NM"	NA
+"573"	"Zhi zen Lieb giedgwi loa."	"Felipe is coming to see me tomorrow."	"Speaker in San Lucas, addressee in LA; Felipe coming from States (because \"it takes longer to arrive\")"	"NM"	NA
+"574"	"Rcaza giedgwi Lieb loa zhi."	"I want Felipe to come visit me tomorrow"	"Speaker in Tlacolula; addressee in San Luc; Felipe in San Luc"	"NM"	NA
+"575"	"Rcaza gied Lieb giedgwi loa."	"I want Felipe to come visit me tomorrow"	"Speaker in Tlacolula; addressee in San Luc; Felipe in San Luc"	"NM"	NA
+"576"	"Zec na Lieb ziede:ng Bac giedgwie:ng loa."	"Felipe said that he is coming to see me."	"Speaker in Tlacolula; addressee in San Luc; Felipe in San Luc"	"NM"	NA
+"577"	"A ze Lieb Bac chi bde nisgyia"	"When the rain stopped, Felipe had already left "	""	"NM"	NA
+"578"	"A bze Maria Bac chi bzen chiele:ng yuu."	"By the time her husband arrived home, Maria had already left for Tlacolula."	""	"NM"	NA
+"579"	"Abxen a bzenye:ng yuu nuchi."	"He arrived home late last night."	""	"NM"	NA
+"580"	"Abxen zie:ng yuu nuchi."	"He left for home late last night."	""	"NM"	NA
+"581"	"Bizana gwenea Ndua."	"I went to Oaxaca w/my brother"	"Neither in Oaxaca now"	"NM"	NA
+"582"	"A rrlo Lieb zegwi Maria lo."	"Felipe thinks Maria is coming to see him."	"Speaker and addressee in San Luc; Maria and Felipe in the States but different cities"	"NM"	NA
+"583"	"Maria zesi guet xtil."	"Maria is on her way to buy bread."	""	"NM"	NA
+"584"	"Na dizh ze Maria Bac zesi guet xtil per guc chien pasac."	"Maria was on her way to buy bread when the bus broke down."	""	"NM"	NA
+"585"	"Na dizh zaa ecudiaga music, per nitia."	"I was on my way to listen to music, but I got lost."	""	"NM"	NA
+"586"	"Na dizh zaa ecudiaga music, per bunitia."	"I was on my way to listen to music, but I got lost."	""	"NM"	NA
+"587"	"Rata zhi, ryopcan gyia re'."	"Every day we come and get flowers."	""	"NM"	NA
+"588"	"Rata zhi, ryoptian gyia re'."	"Every day we come and gather flowers."	""	"NM"	NA
+"589"	"Nai byopgyae:n."	"Yesterday we came and danced."	""	"NM"	NA
+"590"	"Gugwia lo Lieb."	"I went to visit Felipe."	"On the way back from visiting him, when met in street. But consultant said this is \"I went to visit Felipe\"; a good answer to Cali gweu?"	"NM"	NA
+"591"	"Byotian gyia."	"We went to gather flowers."	""	"NM"	NA
+"592"	"A so cheugwie:n lo Lieb e?"	"Are you (informal) coming to visit Felipe with us?"	"If we get up to leave to visit Felipe, this is how we would ask another person if they are coming."	"NM"	NA
+"593"	"Ziedne:eng lad e?"	"Is he/she coming with you?"	"If we are asking a couple friends if they are bringing a third person to visit us."	"NM"	NA
+"594"	"Lasa yu cheugwie:n lo Lieb e?"	"Are you (formal) coming to visit Felipe with us?"	""	"NM"	NA
+"595"	"Nai nia liu, zia nisgyia, per queity ni yadia."	"Yesterday I told you that it would rain, but I didn't guess right."	""	"NM"	NA
+"596"	"Queity gandy:en laa zia nisgyia nazhi."	"We don't know whether it will rain today."	""	"NM"	NA
+"597"	"Lieb naa a zia bzen nisgyia, per queity nizenye:ng."	"Felipe said it will rain today, but it won't."	""	"NM"	NA
+"598"	"Na dizh ziedgwi:eng lo Maria, per guc chien nax car:eng."	"He was coming to visit her, but his car broke down."	"Good if he was on the way to see her, or if his car never started so he didn't even start"	"NM"	NA
+"599"	"Na dizh ziedgwi:eng lo Maria, per abzhi nix car:eng."	"He was coming to visit her, but his car broke down."	"Good if he was on the way to see her, or if his car never started so he didn't even start"	"NM"	NA
+"600"	"Na dizh ziedgwi:eng lo lae:ng per nyec nubi nix car:eng."	"He was coming to visit her but his car wouldn't start."	""	"NM"	NA
+"601"	"A ze Jwany ladi."	"Juan went to the US (permanently)"	""	"NM"	NA
+"602"	"A ze Jwany ladi."	"Juan went to the US (for a short trip)"	""	"NM"	NA
+"603"	"A biya cro ze Jwany ladi."	"Juan went to the US a long time ago."	"Context: You're saying that it's been a long time since he left."	"NM"	NA
+"604"	"Ze zedya"	"I haven't seen her, she hasn't come back."	"If you came to see me, and you said you would come back, but you never did, I would say:"	"NM"	NA
+"605"	"Gwe Jwany ladi per a bicye:ng."	"Juan went to the US (but he's back)"	""	"NM"	NA
+"606"	"Gwe Jwany ldi per bicytage:ng."	"Juan went to the US (but he came back right away)"	""	"NM"	NA
+"607"	"Du zhiz biela."	"I only came for a few days"	"Listener is in the same place as addressee; talking about the location where they are currently"	"NM"	NA
+"608"	"Du zhiz gwaa."	"I only went for a few days"	"Listener is in the same place as addressee; talking about a different location than where they are."	"NM"	NA
+"609"	"Du zhiz chaa."	"I'm only going for a little bit."	"Speaker is talking about visiting addressee."	"NM"	NA
+"610"	"Du zhiz biela."	"I only came for a few days"	"Good if addressee is in San Luc but speaker is in US."	"NM"	NA
+"611"	"Giedneu beliu ldien."	"Her sister is going to come to the store with her. (Su hermana va a venir con ella al tienda)"	""	"PLC1"	NA
+"612"	"A nisgyia a zied."	"The rain is arriving."	""	"PLC1"	NA
+"613"	"Maria runy xicab queitydi naa (?) nisgyia, per ai runy."	"Maria thinks it won't rain, but it will."	""	"PLC1"	NA
+"614"	"Cheiby blez a nisgyia ni bzeny(eng?) lo gex."	"When the rain stopped, he had already arrived in SL."	""	"PLC1"	NA
+"615"	"Chi bzenya yuu a Maria a zia liazni."	"When I arrived at my house, Maria had already gone home."	""	"PLC1"	NA
+"616"	"Asna herangna queity a bzenyeng liaze:ng."	"By the time she got your message, she had already arrived at her house."	"For instance, if you sent me a message saying, Don't come to my house, but I didn't get it until I had left"	"PLC1"	NA
+"617"	"Maria queity bieddieng liaza."	"Maria didn't come to my house this morning."	"If we're talking in my house"	"PLC1"	NA
+"618"	"Maria queity gwedieng latna dizh."	"Maria didn't come to my house."	"If we're talking somewhere besides my house"	"PLC1"	NA
+"619"	"Brook a queity bzen liaza rsily."	"Brook didn't arrive at your house this morning."	""	"PLC1"	NA
+"620"	"Queity bieddy Brook liaza anzhi"	"Brook didn't come to your house this morning"	"Possible if we're not talking at home; sentence was given by linguist, not elicited"	"PLC1"	NA
+"621"	"A zee liu du liaza con bizana con naa?"	"Are you coming home with my brother and I?"	"if my brother and I are walking and we see you, and ask if you are coming to our parents' house with us"	"PLC1"	NA
+"622"	" A rae:ng a ze nisyu(?) liazne:ng"	"They are on their way home."	""	"PLC1"	NA
+"623"	"Lae:ng biedne liu liazni nai."	"She brought you home with her yesterday."	""	"PLC1"	NA
+"624"	"Maria a ze Bac ba rsily chi axte abxi gyicyeng."	"Brook went to Tlacolula this morning and is coming back tonight."	""	"PLC1"	NA
+"625"	"Zaa Bac nazhi, per abzhuzhir camione."	"I was going to Tlacolua, but my car broke down."	""	"PLC1"	NA
+"626"	"Ae:ng ze:eng Mejic, per lae:ng nu ric."	"He went to Mexico City, and he's still there."	""	"PLC1"	NA
+"627"	"Gwe:ng Mejic, per nahae:ng Ldua."	"He went to Mexico City, but he's back."	""	"PLC1"	NA
+"628"	"Naa ziedgia (?) cuan Lieb. "	"I'm going to visit Felipe."	""	"PLC1"	NA
+"629"	"Desda bze:ng guge:ng xumigw. (?)"	"He's on his way back from visiting a friend."	""	"PLC1"	NA
+"630"	"Desda  bzaa budyoe:n gyia."	"We went to pick flowers/ We're on our way from picking flowers"	""	"PLC1"	NA
+"631"	"Ae:ng ziedzaa guge:ng xumigw."	"He's on his way back from visiting a friend."	"Same meaning as other example"	"PLC1"	NA
+"632"	"Budyoe:n gyia."	"We went to pick flowers"	""	"PLC1"	NA
+"633"	"A zo choen lo Lieb ?"	"Are you coming with us to visit Felipe?"	""	"PLC1"	NA
+"634"	"Daru giela gex xten San Lucas."	"Carolyn: later I'm coming to San Lucas."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC1"	NA
+"635"	"Daru giela Ndua."	"Paty: Later I'm coming to Oaxaca."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC1"	NA
+"636"	"Rcaza giedu Ndua giedg(?)ugwa naa"	"Carolyn: I want you to come to Oaxaca and visit me."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC1"	NA
+"637"	"Rcaza giedu San Luc giedu gwanaa."	"Paty: I want you to come to San Lucas and visit me."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC1"	NA
+"638"	"Rrilaza abzen nisgyia xman re."	"I liked that it rained last week."	""	"PLC1"	NA
+"639"	"Nai rsilaza rzen nisgyia."	"Yesterday I thought it would rain."	""	"PLC1"	NA
+"640"	"Uxman a bzenya."	"I arrived a week ago."	""	"PLC1"	NA
+"641"	"Lae:ng naru cazenye:ng ric."	"He's arriving there (at this moment)."	""	"PLC1"	NA
+"642"	"Ricyeroe:n San Luc ? a ?nisgyia."	"We had to return to San Lucas because it started raining."	""	"PLC1"	NA
+"643"	"To gicye:n Ndua."	"We returned to Oaxaca."	""	"PLC2"	NA
+"644"	"Juan rata zhi ricye:ng ric."	"Juan returns there every day."	""	"PLC2"	NA
+"645"	"A bzenya."	"I arrived."	""	"PLC2"	NA
+"646"	"Hasta zhi a zenye:ng ric."	"He arrives there tomorrow."	""	"PLC2"	NA
+"647"	" Gied(?) naa yuu queitydi a nisgyia yahab."	"You (formal) said that it wouldn't rain."	""	"PLC2"	NA
+"648"	"Abzhi yahab nisgyia."	"It will rain later today."	""	"PLC2"	NA
+"649"	"Oc queitydi yahab nisygia."	"We hope it won't rain."	""	"PLC2"	NA
+"650"	"Lieb rsilaz cheugwe xuprieme:ng lae:ng."	"Felipe thinks his cousin is coming to see him."	"We're in the park; Felipe and his cousin are elsewhere"	"PLC2"	NA
+"651"	"Bhetse:ng Lieb cazeny a gwiele:ng."	"Felipe's brother is on the way to see him"	"We're in the park; Felipe and his cousin are elsewhere"	"PLC2"	NA
+"652"	"Lieb rnane:ng cheuwe xuprieme:ng lae:ng."	"Felipe knows his cousin is coming to see him."	"We're in the park; Felipe and his cousin are elsewhere"	"PLC2"	NA
+"653"	"Lieb rnane:ng xuprieme:ng lae:ng ze.(?)"	"Felipe knows his cousin is on the way to see him."	"We're in the park; Felipe and his cousin are elsewhere"	"PLC2"	NA
+"654"	"Jwany naa gex xuprieme:ng a zied lae:ng."	"Juan said that his cousin is coming to see him."	"If we're with Juan."	"PLC2"	NA
+"655"	"*Jwany naa gex xuprieme:ng a zied lae:ng."	"Juan said that his cousin is coming to see him."	"If we're not with Juan."	"PLC2"	NA
+"656"	"Jwany naa gex xuprieme:ng a ze lae:ng."	"Juan said that his cousin is coming to see him."	"If we're not with Juan."	"PLC2"	NA
+"657"	"Lieb rcaz gied betse:ng giedgilae:ng."	"Felipe wants his brother to come see him."	"If we're with Felipe."	"PLC2"	NA
+"658"	"Lieb riuclaze:ng cheugwe betse:ng lae:ng."	"Felipe would like his brother to come see him."	"If we're not with Felipe."	"PLC2"	NA
+"659"	"Brook cheugwe lo Lieb."	"Brook is going to visit Felipe."	""	"PLC2"	NA
+"660"	"Brook cheugwe cuan Lieb."	"Brook is going to visit Felipe."	""	"PLC2"	NA
+"661"	"Brook nisyu cheugwe lo Lieb."	"Brook is on her way to visit Felipe."	""	"PLC2"	NA
+"662"	"Naa lo Brook rsily chi a ze:ng zacan guet xtil."	"When I saw Brook this morning, she was going to buy bread."	"This morning, I was going to see Brook, but she was going to buy bread."	"PLC2"	NA
+"663"	"Giesta gyala axchi liazu."	"I'm going to come for dinner at your house."	""	"PLC2"	NA
+"664"	"Rcaza gyala liazu."	"I want to come to your house."	"Can only use gied if you are the host"	"PLC2"	NA
+"665"	"Rcaza giedu liaza."	"I want you to come to my house."	""	"PLC2"	NA
+"666"	"Ziedu liaza e?"	"Were you coming to my house?"	""	"PLC2"	NA
+"667"	"Rata zhi ried Lia Petra rietyug gyia."	"Every day Lia Petra comes to cut flowers."	""	"PLC2"	NA
+"668"	"Lia Petr biedzie:ng bietyug gyia."	"Petra came to cut flowers."	""	"PLC2"	NA
+"669"	"Chita!"	"something said to dog"	""	"PLC2"	NA
+"670"	"Lieb a ze Ndua cuan Mara."	"Felipe went to Oaxaca with Maria."	""	"PLC3"	NA
+"671"	"Maria a ze Ndua cuan xuprima."	"Maria went to Oaxaca with her cousin."	""	"PLC3"	NA
+"672"	"Zaa Ndua cuan xuprimo."	"I went to Oaxaca with my cousin."	""	"PLC3"	NA
+"673"	"A zaa chaa Ndua."	"I'm going to go to Oaxaca with my cousin."	""	"PLC3"	NA
+"674"	"Naa cuan abziana alua nisyuu para yuu."	"My brother and I are going home (on the way)."	""	"PLC3"	NA
+"675"	"Naa cuan abziana a zyoen"	"My brother and I are going home."	""	"PLC3"	NA
+"676"	"Chaa mandad!"	"I'm going on an errand"	""	"PLC3"	NA
+"677"	"Giednia bizana yuu naa Navidad."	"I'm going to bring my brother home for Christmas."	"If the speaker is female; it's ok to say even if I'm not at the home when I say it"	"PLC3"	NA
+"678"	"Giednia betsna yuu naa Navidad."	"I'm going to bring my brother home for Christmas."	"If the speaker is male; it's ok even if I'm not at home"	"PLC3"	NA
+"679"	"A zyoen tagon chire lo scwel."	"We're going home after school."	""	"PLC3"	NA
+"680"	"Nadizh gawan guet per queitydia zhchiu"	"He was going to eat but there wasn't any food."	""	"PLC3"	NA
+"681"	"Nadizh a quina per cadia zhchiu."	"He was going to eat but there wasn't any food."	""	"PLC3"	NA
+"682"	"Ze:ng lae:ng lare:ng chiguan xnane:ng."	"Is he going with them to visit their mother?"	""	"PLC3"	NA
+"683"	"Nelae:ng ziede:ng ziedbye:ng xanu nare?"	"Is he coming with them to visit us?"	""	"PLC3"	NA
+"684"	"Chitazaa."	"Swim"	""	"PLC3"	NA
+"685"	"Rata zhi gied lure'."	"He must come here everyday."	""	"PLC3"	NA
+"686"	"Chitaze:ng."	"We're going swimming."	""	"PLC3"	NA
+"687"	"A gwe yu Bac teiby?"	"Have you been to Tlacolula?"	""	"PLC3"	NA
+"688"	"Nyec, teiby a chaa ricy."	"No, I've never ben there."	""	"PLC3"	NA
+"689"	"Nyec teiby giela re, da parla ziala."	"No, I've never been here before."	""	"PLC3"	NA
+"690"	"Stuxzhiz zhi lia(?) chaa Bac."	"In a few days I'm going to Tlacolula."	""	"PLC3"	NA
+"691"	"Zuu zhi re' e?"	"Will you be here tomorrow?"	""	"PLC3"	NA
+"692"	"stuxzhiz"	"a little"	""	"PLC3"	NA
+"693"	"Naa Lia Len Riulaze:ng becw."	"Elena said \"I like dogs\""	""	"PLC3"	NA
+"694"	"Naa Lia Len riulaze:ng becw."	"Elena said that she likes dogs."	""	"PLC3"	NA
+"695"	"Juan rcaze:ng gyiede:ng Ndua."	"Juan wants to come to Oaxaca."	""	"PLC3"	NA
+"696"	"Giala chitubya."	"I come and cut flowers."	""	"PLC3"	NA
+"697"	"Bzenya chucaya."	"I came and danced."	""	"PLC3"	NA
+"698"	"Gicya ladi cheu gyala, chigelo chi chaa beu."	"I'm going to the US and back at the end of the month."	""	"PLC3"	NA
+"699"	"Nana Lieb cheugwe bzana loe:ng."	"Felipe knows his brother is coming to see him."	""	"PLC3"	NA
+"700"	"Niex caliu bzen nisgyia."	"I told you it was going to rain today."	""	"PLC3"	NA
+"701"	"Queity cantioe:n laa zia nisgyia nazhi."	"We don't know if it will rain today."	""	"PLC3"	NA
+"702"	"zieddica reni."	"The sun is appearing."	"In the morning when the sun is rising."	"Felipe"	"The sun is coming out; the sun is appearing."
+"703"	"Ziedzheily gyia."	"The flower is opening."	""	"Felipe"	""
+"704"	"Rzheily"	"Opens"	""	"Felipe"	""
+"705"	"rac ching"	"breaks down"	""	"Felipe"	"From the Spanish word chinga"
+"706"	"Guc ching xcara"	"My car broke down."	""	"Felipe"	""
+"707"	"ryahb"	"falls"	""	"Felipe"	""
+"708"	"yuu de"	"kitchen"	""	"Felipe"	""
+"709"	"ziedyahb yuu de"	"the kitchen is falling down."	""	"Felipe"	"It's not really falling but its leaning, it's going to fall down."
+"710"	"zeyahb yuu de"	"the kitchen is literally falling down"	""	"Felipe"	"It fell but it was on its movement; get out of the way before it collapses; it's more of a movement. You could tell someone to get out of the way."
+"711"	"#Biedyahb yuu de"	"The kitchen fell down."	""	"Felipe"	"It's odd; you would just say it fell."
+"712"	"#Gugyahb yuu de"	"The kitchen fell down."	""	"Felipe"	"It would have to be a person."
+"713"	"Biahb yuu de."	"the kitchen fell down."	""	"Felipe"	""
+"714"	"Gugyahbeng"	"He/she fell down."	""	"Felipe"	"It's someone who stumbled and fell down."
+"715"	"#Bidguiby nyisgyia"	"The rain came and washed them."	""	"Felipe"	"It means it came and went, did the job, like as a person."
+"716"	"Bia nyisgia bguiby"	"The rain came and washed them."	""	"Felipe"	""
+"717"	"Luzh Jwany biedguiby rac lab."	"A person came and washed them."	"The person comes towards us."	"Felipe"	""
+"718"	"Biedzure:ng autobus ru ido"	"They drove and parked the bus in front of the church."	"Someone came and parked the autobus in front of the church."	"Felipe"	""
+"719"	"#Biedzu autobus ru ido."	""	""	"Felipe"	"The bus can't come and drive itself; it needs a driver"
+"720"	"Abzuri bus"	"the bus stopped."	""	"Felipe"	""
+"721"	"Bied autobus re'."	"The bus came."	""	"Felipe"	""
+"722"	"Bidga'ah autobus lare:ng nai."	"The bus came and picked them up yesterday."	""	"Felipe"	""
+"723"	"Btheidy camyiony guet xtily."	"The truck hit the bread."	"If I'm carrying bread home, and I drop some in the street, and just then a car comes and hits the bread."	"Felipe"	""
+"724"	"#Bidtheidy camyiony guet xtily."	"The truck came and hit the bread."	"If I'm carrying bread home, and I drop some in the street, and just then a car comes and hits the bread."	"Felipe"	""
+"725"	"#Ziedtheidy camyiony liu"	"the truck is coming to hit you"	"If my child runs into the road and I'm warning them."	"Felipe"	""
+"726"	"Zied camyiony"	"the truck is coming. "	"If my child runs into the road and I'm warning them."	"Felipe"	""
+"727"	"Bidtaie:ng tractor ra lad gyab"	"The tractor came and flattened the cans."	"Some heavy machine came and there was a bunch of tin cans; the tractor comes to flatten them."	"Felipe"	""
+"728"	"Biedtau bde xquaca."	"The ants came and ate my tree."	""	"Felipe"	""
+"729"	"Biedtau byu xquaca."	"The leafcutter ants came and ate my tree."	""	"Felipe"	""
+"730"	"nyisipi"	"really heavy winds"	""	"Felipe"	""
+"731"	"bzeu"	"thunder"	""	"Felipe"	""
+"732"	"Giedchiby bzeu ra mniny."	"The thunder will come and frighten the children."	""	"Felipe"	""
+"733"	"Giedchiby bzeu ra mniny."	"All of a sudden the thunder will come and frighten the children."	""	"Felipe"	""
+"734"	"rzhiby "	"frightens"	""	"Felipe"	""
+"735"	"*Giedachiby bzeu ra mniny."	"The thunder will come and frighten the children."	""	"Felipe"	""
+"736"	"Zuu autobus ru ido."	"The bus is in front of the church."	""	"Felipe"	""
+"737"	"*Zieduu autobus ru ido."	"The bus comes is located in front of the church."	"A venitive form of zuu"	"Felipe"	""
+"738"	"Zied autobus ru ido"	"The bus passes in front of the church."	""	"Felipe"	""
+"739"	"Ziedzue:ng xautobuseng ru ido."	"He comes and puts his bus in front of the church."	"He comes and parks; he comes and stops"	"Felipe"	""
+"740"	"Nuu gyia dany."	"The flowers are in the hills."	""	"Felipe"	""
+"741"	"#Riedchoo gyia lany dany."	"The flowers come are in the hills."	""	"Felipe"	""
+"742"	"Riedzue:ng gyia lany dany."	"The flowers are placed in the hills."	"Someone comes and puts flowers in the hills."	"Felipe"	""
+"743"	"Riedsubinye:ng gyia lany dany."	"He comes and plants flowers in the hills."	""	"Felipe"	""
+"744"	"Rteidy nisyu gueu."	"The road crosses the river."	""	"Felipe"	""
+"745"	"#Riedteidy nisyu gueu."	"The road comes and crosses the river."	""	"Felipe"	""
+"746"	"Riedteidye:ng zhinye:ng gueu"	"He comes and helps his son cross the river."	""	"Felipe"	""
+"747"	"Biedldo nis lo zhie:ng."	"The water came and flooded his property."	"He probably had a plot next to the river and the water came and flooded it."	"Felipe"	""
+"748"	"#Gulyda nis lo zhie:ng"	"The water went and flooded his property."	"It's odd."	"Felipe"	""
+"749"	"Rilyda"	"comes and floods"	""	"Felipe"	""
+"750"	"Guldae:ng nis lo zhia."	"He went and flooded my field."	"If it's a person with a hose or something."	"Felipe"	""
+"751"	"Bro Jwany."	"Juan grew/ Juan is big."	""	"Felipe"	""
+"752"	"Ziedro:eng."	"He's growing big."	""	"Felipe"	""
+"753"	"Uas ngel ziedroe:ng."	"He's growing up very fast."	"You see a kid and you're like, wow, he's really growing up fast."	"Felipe"	""
+"754"	"#Guroe:ng."	"He went and grew up."	""	"Felipe"	""
+"755"	"Ladi guroe:ng."	"He grew up in the States."	""	"Felipe"	""
+"756"	"#Bieddicau"	"You came and appeared."	"If I open a door, and someone is standing right behind it."	"Felipe"	""
+"757"	"Cali bieddicau?"	"Where did you come from?"	"Like if I was walking in the hills and I turned a corner and there was someone I didn't expect to see."	"Felipe"	""
+"758"	"Asta re' bieddicau"	"You came all the way here, you appeared all the way here."	""	"Felipe"	""
+"759"	"asta ricy gudicau."	"You appeared or you ended up all the way there."	"Like if we were gathering asusenas and someone is telling you where they ended up and it's not where you were supposed to meet."	"Felipe"	""
+"760"	"cazhia"	"I'm getting warm."	"Two connotations: in go in heat or physically get warm. You went to the fire."	"Felipe"	""
+"761"	"Cacha gubizh naa"	"The sun is warming me."	""	"Felipe"	""
+"762"	"rcha"	"warms"	""	"Felipe"	""
+"763"	"Ziedcha gubizh naa."	"The sun is warming me up."	"Maybe you're there and the sun appears. The sun came out and you're sitting there and you're like, oh, the sun is coming to warm me up."	"Felipe"	""
+"764"	"Cachia baly naa"	"The fire is warming me."	""	"Felipe"	""
+"765"	"Ziedcha ana."	"I'm coming to warm myself up."	"I actually have to move there."	"Felipe"	""
+"766"	"#Ziedcha baly na"	"The fire is coming and warming me."	""	"Felipe"	""
+"767"	"baly"	"fire"	""	"Felipe"	""
+"768"	"#Ziedcha baly na."	"The fire i coming and warming me"	"The wildfire is coming and going to burn me."	"Felipe"	""
+"769"	"Ziedcha xana ndawa."	"My mother is coming to warm my food."	""	"Felipe"	""
+"770"	"Ziedcha zhyet nia."	"Cats are coming to warm my feet."	"They go there and lie on your feet. "	"Felipe"	""
+"771"	"Ziedcha zhyet nia per queity queity ra bede:ng que cha nia"	"The cat is coming to warm my feet but it doesn't know that it is warming my feet."	""	"Felipe"	""
+"772"	"rac me'eu"	"get dirty (be dirty)"	"me'eu is also a dog name; brown or dirty"	"Felipe"	""
+"773"	"bi'idy"	"dirt accumulated on your body"	""	"Felipe"	""
+"774"	"uas nuu bi'idy"	"you are really dirty"	""	"Felipe"	""
+"775"	"uas cae:ng bi'idy"	"He has a lot of dirt; he's full of dirt"	""	"Felipe"	""
+"776"	"uas ca bi'idy lo"	"your face has a lot of dirt"	""	"Felipe"	""
+"777"	"Queity chigac me'eu"	"Don't go and get dirty"	"For instance a parent to a child"	"Felipe"	""
+"778"	"Rigac me'eu"	"Goes and gets dirty"	""	"Felipe"	""
+"779"	"Rigac bi'idy"	"Goes and gets dirty"	""	"Felipe"	""
+"780"	"Queity chigac bi'idy"	"Don't go and get dirty"	""	"Felipe"	""
+"781"	"Queity chu lo galman queity chigac xuwu"	"Don't go out in the cold and go and get sick!"	"Don't go out in the cold and go and get sick"	"Felipe"	""
+"782"	"Queity chigac xuwu antes a cheu europa"	"Don't go and get sick before you go to Europe"	"If we have a trip to Ireland coming up, and you're like, don't go and get sick! Just warning someone not to get sick."	"Felipe"	""
+"783"	"Giedgac xuw re'"	"Come get sick here."	"If your kids have chickenpox and you're telling your cousin to send her kid over."	"Felipe"	""
+"784"	"#Gugac xuw"	"He went and got sick."	"If he's just sitting around in his room."	"Felipe"	""
+"785"	"Gugac xuw xcuartu"	"Go get sick in your room"	"For instance, a mom to her kid who is coughing in the kitchen"	"Felipe"	""
+"786"	"Gusubru lany xcuartu"	"Go cough in your room!"	"For instance, a mom to her kid who is coughing in the kitchen"	"Felipe"	""
+"787"	"#Naldan an xcuarteng gugac xuw ric'."	"His room was so cold he went and got sick."	"He never leaves his room"	"Felipe"	""
+"788"	"Gutye:ng."	"He died."	""	"Felipe"	""
+"789"	"Gugatye:ng"	"He went and died."	""	"Felipe"	""
+"790"	"Gugatye:ng hospital."	"He went and died in the hospital."	"It's ok if he doesn't want to die, but he actually has to go somewhere."	"Felipe"	""
+"791"	"#Gugatye:ng."	"He went and died."	"He's been sick for a long time in his room and dies."	"Felipe"	""
+"792"	"Gugatye:ng hospital."	"He went and died in the hospital."	"Fine if he is carried to the hospital in an ambulance or something; fine if he is unconscious or doesn't know he's going to the hospital."	"Felipe"	""
+"793"	"Rual"	"sings"	""	"Felipe"	""
+"794"	"Rigual Maria lany ido."	"Mary goes and sings at the church."	""	"Felipe"	""
+"795"	"Rigual Maria ido."	"Mary goes and sings at the church."	"Same meaning but Felipe likes to specify preposition"	"Felipe"	""
+"796"	"Ruale:ng zee:ng ric."	"She is singing while she is walking"	""	"Felipe"	""
+"797"	"#Gudica Jwany."	"Juan went and appeared."	"If I'm in a dark room and I turn on a light and Juan is there and it scares me."	"Felipe"	""
+"798"	"Brica Jwany."	"Juan appeared."	"If I'm in a dark room and I turn on a light and Juan is there and it scares me."	"Felipe"	""
+"799"	"Gutau Jwany teiby manzan."	"Juan went and ate an apple."	""	"Felipe"	""
+"800"	"Biednity Jwany xli'ebrni."	"Juan came and lost his book."	"He comes over, he loses his book, sometime later he realizes he lost it."	"Felipe"	""
+"801"	"Gunityzha xli'ebra ric'."	"I must have gone and lost my book there."	"He comes over, he loses his book, sometime later he realizes he lost it."	"Felipe"	""
+"802"	"rzhyag"	"to run into someone by accident"	""	"Felipe"	""
+"803"	"bzhyaga lae:ng ric'."	"I ran into him here."	""	"Felipe"	""
+"804"	"bzhyaga lae:ng Ndua."	"I ran into him in Oaxaca."	"If it's in habitual it's probably not accidentally"	"Felipe"	""
+"805"	"brice:ng Ndua mnaa lae:ng."	"He appeared in Oaxaca and I saw him."	""	"Felipe"	""
+"806"	"Guzhyaga lae:ng Bac."	"I went and met with him in Tlacolula."	"Could be intentional or not; someone could ask if you had seen Juan lately and you could say, oh I ran into him in Tlacolula."	"Felipe"	""
+"807"	"dye'ga"	"instead of"	""	"Felipe"	""
+"808"	"daca na dizh nrsila dac blac manzan bzinia lae:ng."	""	"I was in a hurry, and I thought I bought some oranges, but they turned out to be apples."	"Felipe"	""
+"809"	"Queity idedyu telefono xtenu laeng tyen queity chizalengui."	"Don't give him your phone because he'll go and lose it."	"If I have a toddler for instance"	"Felipe"	""
+"810"	"Zezalengui"	"He will go and lose it."	""	"Felipe"	""
+"811"	"Biede:ng chiru derrepen guzaa'lle:ng xli'ebr."	"He came and all of a sudden he went and lost his book."	"The deictic values don't match; he doesn't have to go somewhere else to lose it, he loses his book here."	"Felipe"	""
+"812"	"Biede:ng chiru derrepen biedzaa'lleng"	"He came and all of a sudden he came and threw his book."	"The go is dropped; the come is threw"	"Felipe"	""
+"813"	"Derrepen biedza'lleng xli'ebr"	"All of a sudden he threw his book."	"It doesn't mean he lost it."	"Felipe"	""
+"814"	"Gwe Jwany gwegwne polisia dizh."	"Juan went and talked to the police."	""	"Felipe"	""
+"815"	"Gwegwne Jwany polisia dizh."	"Juan went and talked with the police."	""	"Felipe"	""
+"816"	"Giedgwneu Maria dizh."	"Come and talk with Maria."	""	"Felipe"	""
+"817"	"Gugwne:ng polisia dizh."	"He went and talked to the police."	""	"Felipe"	""
+"818"	"#Gugwne:ng polisia dizh."	"He went and talked to the police."	"The police drag him to the station."	"Felipe"	""
+"819"	"Ziedtau Brook zhi."	"Brook will come and eat tomorrow."	"definitely coming"	"Felipe"	""
+"820"	"Giedtau Brook zhi."	"Brook will come and eat tomorrow."	"maybe will come"	"Felipe"	"she needs to come tomorrow; she can't come today but eat tomorrow"
+"821"	"#Guteiby Jwany pastil."	"Juan went and took a pill."	"He's really sick and he's carried to the hospital and he takes medicine there."	"Felipe"	"We need to say that he is carried or that someone took him."
+"822"	"#Gugyahb Jwany lainy guedy"	"Juan went and fell in a hole."	"He is carried and thrown in a hole, like if he's kidnapped."	"Felipe"	"You have to say that they went and threw him."
+"823"	"Guza'llre:ng Jwany lainy guedy"	"They went and dropped Juan in a hole."	"He is carried and thrown in a hole, like if he's kidnapped."	"Felipe"	""
+"824"	"#Gugyahb Jwany lainy guedy"	"Juan went and fell in a hole."	"He walks into the field himself but someone throws him in a hole."	"Felipe"	""
+"825"	"Gugyahb Jwany lainy guedy"	"Juan went and fell in a hole."	"Juan falls accidentally into a hole."	"Felipe"	""
+"826"	"Gugaty Jwany."	"Juan went and died."	"He is carried to the hospital and he dies there."	"Felipe"	""
+"827"	"#Gugaty Jwany."	"Juan went and died."	"Someone kidnaps him in the night while he's asleep, takes him to a field, and kills him there."	"Felipe"	"If someone else kills him, it would be weird to say that he went and died."
+"828"	"Gugaty Jwany."	"Juan went and died."	"If Juan moves to the States and gets killed and I'm talking about how dangerous it is in the States"	"Felipe"	"Ok if someone kills him, but someone might ask for more information; less informative than saying someone killed him."
+"829"	"Gugaa' Bed lainy guedy."	"Pedro went and got stuck in a hole."	""	"Felipe"	""
+"830"	"A gual chaa."	"I will leave now."	""	"Felipe"	""
+"831"	"Na a gual chaa."	"I will leave now."	""	"Felipe"	""
+"832"	"Dezy zaa."	"I left just."	"I just left (a party)"	"Felipe"	""
+"833"	"Dezy bdiaa"	"I just left."	"I just started to walk"	"Felipe"	""
+"834"	"Uas rquitlaza Maria."	"Maria is happy now."	"If Maria used to be sad because she hated her job, but she got a new job that she likes."	"Felipe"	""
+"835"	"Na a quitlaz Maria."	"Maria is happy now."	"If Maria used to be sad because she hated her job, but she got a new job that she likes."	"Felipe"	"contrasting before and now"
+"836"	"#Nah dezy bdiaa."	"I left just now."	"I just started to walk"	"Felipe"	""
+"837"	"A nisgyia a cayab."	"It's raining (now)."	""	"Felipe"	""
+"838"	"Cayab a nisgyia."	"It's raining (now)."	""	"Felipe"	""
+"839"	"Cad chi rguibia xaba riab nisgyia rraguel."	"Every time I wash my clothes it rains the next day."	""	"Felipe"	""
+"840"	"*Cad chi rguibia xaba riab nisgyia zhi."	"Every time I wash my clothes it rains tomorrow."	""	"Felipe"	""
+"841"	"Cad chi rauwa bel racxua rraguel."	"Every time I eat fish, I get sick the next day."	""	"Felipe"	""
+"842"	"*Cad chi rauwa bel racxua zhi."	"Every time I eat fish, I get sick tomorrow."	""	"Felipe"	""
+"843"	"Cad chi nua San Luc rquitlaza."	"Whenever I'm in San Lucas, I'm happy."	""	"Felipe"	""
+"844"	"Na quitlaza nua San Luc chiru cad chi riela San Luc rquitlaza."	"Whenever I'm in San Lucas, I'm happy now."	"Now that I'm in San Lucas, and every time that I come here, I'm happy."	"Felipe"	""
+"845"	"#Cad chi nua San Luc, na rquitlaza."	"Whenever I'm in San Lucas, I'm happy now."	""	"Felipe"	""
+"846"	"Cad chi racxua bidauwa bel zhi bdeidy."	"Every time I get sick, I've eaten fish the day before."	""	"Felipe"	""
+"847"	"*Cad chi racxua bidauwa bel nai."	"Every time I get sick, I've eaten fish yesterday."	""	"Felipe"	"Can't use yesterday because it's general."
+"848"	"Naru chinia liu gunybeu xnana."	"I will now take you to meet my mother."	"You've probably been meaning to take him or you've talked about it"	"Felipe"	"naru is finally"
+"849"	"Na chinia liu gunybeu xnana."	"I will now take you to meet my mother."	""	"Felipe"	""
+"850"	"Gwuazya lae:ng tyen gwuazye:ng naa."	"I hit him because he hit me."	""	"Felipe"	""
+"851"	"Gwuazya lae:ng tyen nah gwuazye:ng naa."	"I hit him because he now hit me."	"Maybe you've been hitting him but now he deserves it; they're probably always hitting him but now they're hitting him because he deserves it, because he's hitting them"	"Felipe"	"needs a prior time to contrast with, like a change in the reason for hitting"
+"852"	"Na bzal surc gicye:ng"	"Now put the sugar in it"	"As in a recipe"	"Felipe"	"like when you're making atole"
+"853"	"Gua la Maria xli'ebr Eliza."	"Eliza is borrowing Mary's book"	""	"Felipe"	"comic caption"
+"854"	"Zhi di inizha xli'ebru"	""	""	"Felipe"	"comic caption"
+"855"	"Axta naa cabeza xli'ebra."	""	""	"Felipe"	"comic caption"
+"856"	"Ca zhi Maria tyen Eliza naa niedne:ng lie'br Mart."	"Maria is upset because Eliza said she would return her book on Tuesday"	""	"Felipe"	"comic caption"
+"857"	"*Ca zhi Maria tyen Eliza naa niedne:ng lie'br zhi."	"Maria is upset because Eliza said she would return her book on Tuesday"	""	"Felipe"	"comic caption"
+"858"	"A zeu ladi e?"	"You're going to the States?"	"He's on his way from San Lucas to the US, but right now he's in Mexico City and we call him"	"Felipe"	""
+"859"	"Ah, a zaa ladi."	"Yes, I'm going to the States."	"He's on his way from San Lucas to the US, but right now he's in Mexico City and we call him"	"Felipe"	""
+"860"	"A zaa Los Angeles."	"I'm going to LA."	"He's on his way from San Lucas to the US, but right now he's in San Diego and we call him"	"Felipe"	"He would be more specific about where he's going since he's already reached the States."
+"861"	"#A zaa ladi."	"I'm going to the States."	"He's on his way from San Lucas to the US, but right now he's in San Diego and we call him"	"Felipe"	"He's already in the States so he can't use this."
+"862"	"A ziala."	"I'm coming back."	"He went to the US and he's coming home to San Lucas but he's in Mexico City right now."	"Felipe"	""
+"863"	"#A zaa ladi."	"I'm going to the States."	"He went to the US and he's coming home to San Lucas but he's in Mexico City right now."	"Felipe"	"Not good because he's already been, now he's on his way to SL."
+"864"	"#Gwaa ladi."	"I went to the States."	"He went to the US and he's coming home to San Lucas but he's in Mexico City right now."	"Felipe"	"Only good if he's already back in SL."
+"865"	"Gwaa ladi."	"I went to the States."	"He went to the US but he's back in San Lucas now."	"Felipe"	""
+"866"	"#Zaa ladi."	"I went to the States."	"He went to the US but he's back in San Lucas now."	"Felipe"	""
+"867"	"Gwe xtadna ladi lo 1983."	"My grandfather went to the US in 1983."	"He died there without ever coming home."	"Felipe"	""
+"868"	"A zia Mej queity rua gicya."	"I'm going to Mexico City and I'm never coming back."	"Pedro is moving to Mexico City and he tells his mom that he's never coming back."	"Felipe"	""
+"869"	"Ana a nua Mej queity rua gicya."	"I'm in Mexico City and I'm never coming back."	"Pedro has moved to Mexico City and he tells his mom that he's never coming back."	"Felipe"	""
+"870"	"A Bed a ze a Mej chiru queity rue:ng gicy:eng."	"Pedro has gone to Mexico City and he's never coming back."	"Pedro's mom tells her sister."	"Felipe"	""
+"871"	"Gwe Bed Mej dubiaz gugaty:eng ric'."	"Pedro went to Mexico City last year and died there."	""	"Felipe"	""
+"872"	"Rinylua nirto nieb zied nes laty zhuan."	"I see the ice cream seller coming towards us."	""	"Felipe"	""
+"873"	"Asy a zied Bed giedgan danon."	"Pedro is coming to visit us."	"If he calls us from Oaxaca."	"Felipe"	"It's certain he's going to come visit us"
+"874"	"A Bed nu re' biedgan danon."	"Pedro has come to visit us."	"If he is already in San Lucas and I tell my neighbor."	"Felipe"	""
+"875"	"#A Bed nu re' ziedgan danon."	"Pedro has come to visit us."	"If he is already in San Lucas and I tell my neighbor."	"Felipe"	""
+"876"	"Asy a zied Bed giedgan danon."	"Pedro is coming to visit us."	"If he calls us from Tlacolula."	"Felipe"	"He's on his way"
+"877"	"chiguga"	"slowly"	""	"Felipe"	""
+"878"	"Chiguga byua liaza."	"I went into my house slowly."	""	"Felipe"	""
+"879"	"parrar"	"quickly"	""	"Felipe"	""
+"880"	"Parrar benya zeny"	"I work quickly."	""	"Felipe"	""
+"881"	"zacza"	"fortunately/luckily"	""	"Felipe"	""
+"882"	"Zacza ca'a muly bzia bsteidy ni riulaze:ng."	"Fortunately I had money to buy the dress that she liked."	""	"Felipe"	""
+"883"	"Senbe:g"	"on purpose/purposefully"	""	"Felipe"	""
+"884"	"Senbe:g benye:ng ni."	"He did it on purpose."	""	"Felipe"	""
+"885"	"ya"	"unexpectedly"	""	"Felipe"	""
+"886"	"Gutiya mniny"	"The child died unfairly/unexpectedly."	""	"Felipe"	""
+"887"	"Dets pwert briaya mniny."	"The child came out from behind the door unexpectedly."	""	"Felipe"	""
+"888"	"Bzhibya mniny."	""	""	"Felipe"	""
+"889"	"Gugatya Jwany."	"Juan went and died unexpectedly."	""	"Felipe"	"All of a sudden he went and died"
+"890"	"Bdawya becw mniny."	"All of a sudden the dog bite the child."	""	"Felipe"	""
+"891"	"#Gugatya Jwany."	"Juan went and died unexpectedly."	"If he's an 80-year-old"	"Felipe"	"Weird because if he's really old you might expect him to die; better with a child who is not likely to die."
+"892"	"Abtoya"	"She sold it suddenly."	""	"Felipe"	""
+"893"	"Btoya Maria xgunni."	"Maria unexpectedly sold her bull,"	"Maybe she knew she could sell it for more if she waited, but she really needed money."	"Felipe"	""
+"894"	"Gutoya Maria xgunni logyia."	"Maria went and sold her bull at the market unexpectedly."	""	"Felipe"	"Fine even if she goes to the market every day."
+"895"	"#Gutoya Maria xgunni Ndua."	"Maria went and sold her bull in Oaxaca."	"If Maria normally sells her bulls in Tlacolula, but one day she unexpectedly goes to Oaxaca."	"Felipe"	"Can't mean that just the going is unexpected."
+"896"	"Gweya Maria Ndua gutoye:ng xgunni."	"Maria went and sold her bull in Oaxaca."	"If Maria normally sells her bulls in Tlacolula, but one day she unexpectedly goes to Oaxaca."	"Felipe"	""
+"897"	"*Guyato Maria xgunni."	"Maria unexpectedly went and sold her bull,"	""	"Felipe"	""
+"898"	"Xi gusi Maria logyia?"	"What did Maria go and buy at the market?"	""	"Felipe"	""
+"899"	"Maria xi gusi Maria logyia?"	"What did Maria go and buy at the market?"	""	"Felipe"	"Felipe imitating Paty"
+"900"	"Gautage:ng."	"She will eat right away."	""	"Felipe"	""
+"901"	"Giedtautage:ng."	"She will come and eat right away."	""	"Felipe"	""
+"902"	"#Giedtautage:ng."	"She will come and eat right away."	"She is coming right away but we'll wait a few hours before eating."	"Felipe"	""
+"903"	"Chizeny Brook gautage:ng."	"When Brook arrives she will eat right away."	""	"Felipe"	""
+"904"	"Giedtautagu na!"	"Come and eat right away!"	""	"Felipe"	"A command, like to kids."
+"905"	"Gautage:ng guet!"	"Eat bread!"	""	"Felipe"	""
+"906"	"Xi beinychia Maria bdauwe:ng?"	"What did Maria make to eat?"	""	"Felipe"	"The food could be for her or for someone else."
+"907"	"#Xi beinychia Maria chiru gwe:ng television?"	"What did Maria cook and watch tv?"	""	"Felipe"	"Sounds weird, much worse than \"Xi gusi Maria logyia?\""
+"908"	"Xi gusi Maria logyia?"	"What did Maria go to the market and buy?"	""	"Felipe"	"Felipe thought this question sounded super weird in English, but he said the Zapotec was normal."
+"909"	"Brook biedsi teiby tapet nai logyia."	"Brook came and bought a rug at the market yesterday."	""	"Felipe"	""
+"910"	"Queity nisidi Brook tapet logyia."	"Brook didn't go and buy a rug at the market."	""	"Felipe"	"Could be that she bought a rug somewhere else, she might even have gone to the market, but she didn't buy the rug there."
+"911"	"Queity gusidi Brook tapet logyia."	"Brook didn't go and buy a rug at the market."	""	"Felipe"	""
+"912"	"Gwe Brook logyia queity nizidie:ng tapet."	"Brook went to the market but she didn't buy a rug."	""	"Felipe"	""
+"913"	"Bzi Brook teiby tapet gwe:eng logyia queity nisidie:ng ric'."	"Brook bought a carpet and she went to the market but she didn't go and buy it there."	""	"Felipe"	""
+"914"	"Bied Maria biedya nai."	"Maria came and danced yesterday."	""	"Felipe"	""
+"915"	"Biedya Maria nai."	"Maria came and danced yesterday."	""	"Felipe"	""
+"916"	"#Gwe Maria biedya nai."	"Maria came and danced yesterday."	""	"Felipe"	"She's either going or coming."
+"917"	"#Biedya Maria nai."	"Maria came and danced yesterday."	"She came yesterday but she danced today."	"Felipe"	""
+"918"	"#Biedya Maria nai."	"Maria came and danced yesterday."	"She came the day before yesterday but she danced yesterday."	"Felipe"	""
+"919"	"#Gugaty Jwany."	"Juan went and died. "	"Juan killed someone else."	"Felipe"	""
+"920"	"Guguty Jwany teiby becw."	"Juan went and killed a dog."	"The dog had rabies."	"Felipe"	""
+"921"	"Gutauw Jwany teiby bixtil."	"Juan went and ate a bar of soap."	"Juan is sleepwalking and he thinks he's eating an apple but it's really a bar of soap."	"Felipe"	"You can use that even if he doesn't know he's eating a bar of sleep, I mean you have to go on and explain more."
+"922"	"Guzaa'll Jwany xli'ebre:ng."	"Juan went and dropped his book."	"Juan wanders out of his house while sleepwalking and loses his book somewhere."	"Felipe"	"We don't know where he lost his book."
+"923"	"Bhiav xlie'br Jwany."	"Juan's book got dropped."	""	"Felipe"	""
+"924"	"Guteiby Jwany rmuly xtenni lani hospital."	"Juan went and took his medicine in the hospital."	""	"Felipe"	"The medicine is a pill."
+"925"	"#Guteiby Jwany rmuly xtenni lani hospital."	"Juan went and took his medicine in the hospital."	"He went in an ambulance."	"Felipe"	""
+"926"	"Gunere:ng Jwany geiby rmuly xtenni lani hospital."	"They took Juan to take his medicine in the hospital."	"He went in an ambulance."	"Felipe"	""
+"927"	"ropta"	"both"	""	"Felipe"	""
+"928"	"Norma cuan Maria roptare:ng rapre:ng becw."	"Maria and Norma both have a dog."	""	"Felipe"	""
+"929"	"Beinychia Maria teiby sabor guet."	"Maria made a tortilla cover."	""	"Felipe"	""
+"930"	"Maria btoi."	"Maria sold it."	""	"Felipe"	""
+"931"	"Paty beinychia teiby sabor guet chiru btoe:ngui."	"Paty made and sold a tortilla cover."	""	"Felipe"	"Wouldn't use ropta"
+"932"	"Maria ropta bzie:ng cafe chiru bidauwe:ng manzan."	"Maria both drank a coffee and ate an apple."	""	"Felipe"	""
+"933"	"*Maria ropta biedzi teiby tapet."	"Maria both came and bought a tapet."	""	"Felipe"	"You need to follow it up with a chiru+other verb; there needs to be another action"
+"934"	"cuan"	"also, with"	""	"Felipe"	""
+"935"	"agza"	"with"	""	"Felipe"	""
+"936"	"rgwe inglez chiru rgweagza dizh xtil"	"I speak English and I also speak Spanish."	""	"Felipe"	""
+"937"	"Riedzia logyia chiru rtouagza tapet."	"I come and buy at the market but I also sell carpets."	""	"Felipe"	""
+"938"	"*Riedziagza."	"I come and also buy at the market."	""	"Felipe"	"It needs to have a contrast; you can say \"I come and buy (something), but I also come to buy (something else).\""
+"939"	"Rizia manzan chiru riziagza razh."	"I come and buy apples and I also buy ?."	""	"Felipe"	""
+"940"	"#Biedzi Brook teiby tapet nai logyia."	"Brook came and bought a rug at the market yesterday."	"Brook intending to buy a carpet, but didn't actually buy one."	"Felipe"	""
+"941"	"Ziedzhiez Maria."	"Maria came and she's very smiley."	""	"Felipe"	""
+"942"	"Ziedzhiez Maria."	"Maria is on her way and she's laughing."	""	"Felipe"	"The smiling/laughing can be simultaneous with the coming."
+"943"	"Ziedzaa Maria."	"Maria is coming and walking."	""	"Felipe"	"She could just be walking towards us, she doesn't need to stop here. "
+"944"	"Zizaa Maria."	"Maria is going and walking."	""	"Felipe"	""
+"945"	"Rata zhi rzaa Maria ria zeinyni."	"Every day Maria walks and goes to work."	""	"Felipe"	""
+"946"	"Guch yag."	"The stick breaks."	""	"Felipe"	""
+"947"	"Guch detse:ng."	"His back breaks."	""	"Felipe"	""
+"948"	"Gudiche:ng nie:ng."	"He goes and breaks his leg."	""	"Felipe"	""
+"949"	"Bitiche:ng nie:ng."	"He breaks his leg."	""	"Felipe"	""
+"950"	"Ritich"	"to go and break"	""	"Felipe"	""
+"951"	"rach"	"breaks"	""	"Felipe"	""
+"952"	"gugache:ng ric."	"He goes and breaks there."	""	"Felipe"	""
+"953"	"raly"	""	""	"Felipe"	""
+"954"	"guly"	""	""	"Felipe"	""
+"955"	"gugalye:ng lani hospital."	""	""	"Felipe"	""
+"956"	"ran"	""	""	"Felipe"	""
+"957"	"gun"	""	""	"Felipe"	""
+"958"	"Ual chigan lo nia!"	"Go and get tired in the field!"	""	"Felipe"	"As in a mother to her children."
+"959"	"ra'an lonia."	""	""	"Felipe"	""
+"960"	"gua'an lonia"	"plowed a field."	""	"Felipe"	""
+"961"	"gugua'ne:ng lonia nai."	"He went and plowed the field yesterday."	""	"Felipe"	""
+"962"	"rbany"	"to wake up"	""	"Felipe"	""
+"963"	"biedbanye:ng"	"came and woke up"	""	"Felipe"	""
+"964"	"blelaze:ng rsenye:ng."	"He quit his job."	""	"Felipe"	""
+"965"	"Gundelaza rsenya"	"I went and quit my job."	""	"Felipe"	""
+"966"	"rdiareiny"	"forms a household"	""	"Felipe"	""
+"967"	"bdiareiny"	"formed a household"	""	"Felipe"	""
+"968"	"*gudiareiny"	"went and formed a household"	""	"Felipe"	"Already involves movement, because it means you move out of your parent's household"
