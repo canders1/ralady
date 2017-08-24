@@ -79,7 +79,6 @@ for(i in 1:length(text)){
       rest <- full[p]
       z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
       indexes <- which(z == "")
-      indexes
       if(length(indexes)>0){
         z <- z[-indexes]
       }
