@@ -27,11 +27,10 @@ quotes <- function(line,qopen,qclose){
   rest <- str_trim(stringr::str_sub(line,1,startquote-1))#Everything before the quotation
   extra <- "" #If there's just one quote, then extra is empty
   if(length(iquotes[[1]])>1){#Otherwise, recursively call the function on the tail of the text
-    nextquote <- iquotes[[1]][2]#Start of next quote
-    tail <- str_trim(stringr::str_sub(line,startquote+1,nchar(line)))#from the beginning of the first quote to end of line
-    endquote <- gregexpr(qclose, tail)[[1]][1]
-    newline <- str_trim(stringr::str_sub(tail,endquote+1,nchar(line)))
-    extra <- quotes(newline,qopen,qclose)
+    qtail <- str_trim(stringr::str_sub(line,startquote+1,nchar(line)))#from the beginning of the first quote to end of line
+    endquote <- gregexpr(qclose, qtail)[[1]][1]#Find the end of the quote
+    ttail <- str_trim(stringr::str_sub(qtail,endquote+1,nchar(qtail)))#get the tail of the text
+    extra <- quotes(ttail,qopen,qclose)#Recursively search for more quote/text pairs
   }
   return(c(rest,trans,extra))
 }
