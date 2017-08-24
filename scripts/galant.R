@@ -87,33 +87,3 @@ for(i in 1:length(text)){
 }
 splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]
 write.table(splitt, "~/scrapy/ralady/cleaned_data/galant_data.csv", sep="\t")
-```
-
-nos <- grep("^[^0-9“”]",text)#remove lines that don't start with numbers
-if(length(nos)>0){
-  text <- text[-nos]
-}
-qs <- grep("^“",text)#Find lines that start with fancy quotes (i.e., translations that got cut)
-for(i in 1:length(qs)){
-  prev <- qs[i]-1
-  text[prev] <- paste(text[prev],text[qs[i]])#reunite quotes with their example sentences
-}
-text <- text[-qs]
-ls <- grep("“",text)
-newtext<- vector(mode="character", length=length(ls))
-for(i in 1:length(ls)){
-  newtext[i] <- text[ls[i]]
-}
-cites <- grep("\\(.*[0-9][0-9][0-9][0-9].*\\)",newtext)#find cites (likely non-zapotec data points)
-munro <- grep("\\(.*Munro",newtext)#remove those cited from other Zapotec scholars
-nmcites <- setdiff(cites,munro)
-newtext <- newtext[-nmcites]
-secs <- grep("^[0-9]+\\.[0-9]+",newtext)#remove section headings with periods
-newtext <- newtext[-secs]
-secs2 <- grep("^[0-9]+ [aA-zZ]",newtext)#remove section headings without periods
-newtext <- newtext[-secs2]
-ungrammatical <- grep("\\*",newtext)#remove ungrammatical sentences
-newtext <- newtext[-ungrammatical]
-infelicitious <- grep("\\#",newtext)#remove infelicitious sentences
-newtext <- newtext[-infelicitious]
-splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),stringsAsFactors=FALSE)#create a dataframe
