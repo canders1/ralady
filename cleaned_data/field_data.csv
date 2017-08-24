@@ -438,16 +438,16 @@
 "437"	"Lo gyia chiae:ng."	"They (informal) were going to the market."	""	"RL"	NA
 "438"	"Nian gyala re' nai."	"Yesterday I walked here."	""	"RL"	NA
 "439"	"Rata zhi riope:n re'."	"We come here every day."	""	"RL"	NA
-"440"	"Rata cal Domyengw rioen Bac."	"Every Sunday we go to Tlacolula."	""	"RLN1"	NA
-"441"	"Pasax, pasax a zoen mas a las onze."	"?,? we go more at 11."	""	"RLN1"	NA
-"442"	"Chiru choen logyia."	"Then we go to the market."	""	"RLN1"	NA
-"443"	"Chiru ric'."	"Then here."	"Context: First we go to the market, then we come back."	"RLN1"	NA
-"444"	"Nabwel ida wa gex, chi dawa gex, logyia."	"? ? ? town, when ? town, to the market."	""	"RLN1"	NA
-"445"	"Chiru chi locyen chi lo asy ziopen este."	"Then when ? when ? ? coming home ?"	""	"RLN1"	NA
-"446"	"Chiopen logex lapen pasaje iken."	"We come home to town ?  ticket ?"	""	"RLN1"	NA
-"447"	"Iken dresde."	"?"	""	"RLN1"	NA
-"448"	"Calob zhi, calob zhi ru Mies, ninai doen nina ruck."	"? day, ? day to Mass, ? ? ? ?"	""	"RLN1"	NA
-"449"	"Chiru nu gwel choen Mies zoen, nu gwel queity ?oen Mes."	"Then sometimes we go to Mass, sometimes we don't go to Mass."	""	"RLN1"	NA
+"440"	"Rata cal Domyengw rioen Bac."	"Every Sunday we go to Tlacolula."	""	"RLN"	NA
+"441"	"Pasax, pasax a zoen mas a las onze."	"?,? we go more at 11."	""	"RLN"	NA
+"442"	"Chiru choen logyia."	"Then we go to the market."	""	"RLN"	NA
+"443"	"Chiru ric'."	"Then here."	"Context: First we go to the market, then we come back."	"RLN"	NA
+"444"	"Nabwel ida wa gex, chi dawa gex, logyia."	"? ? ? town, when ? town, to the market."	""	"RLN"	NA
+"445"	"Chiru chi locyen chi lo asy ziopen este."	"Then when ? when ? ? coming home ?"	""	"RLN"	NA
+"446"	"Chiopen logex lapen pasaje iken."	"We come home to town ?  ticket ?"	""	"RLN"	NA
+"447"	"Iken dresde."	"?"	""	"RLN"	NA
+"448"	"Calob zhi, calob zhi ru Mies, ninai doen nina ruck."	"? day, ? day to Mass, ? ? ? ?"	""	"RLN"	NA
+"449"	"Chiru nu gwel choen Mies zoen, nu gwel queity ?oen Mes."	"Then sometimes we go to Mass, sometimes we don't go to Mass."	""	"RLN"	NA
 "450"	"As ua zhi bzen Brook cuan Carolyn cuan ra estudian bzenye:ng al airport xten Ldua ni rop."	"Carolyn and Brook and the students arrived in the airport of Oaxaca."	""	"FLN"	NA
 "451"	"Uas chicygwen Jwebe."	"Thursday"	""	"FLN"	NA
 "452"	"Byobe:n Bac."	"We went to Tlacolula."	""	"FLN"	NA
@@ -521,7 +521,7 @@
 "520"	"xanu yuad?"	"How are you all?"	""	"AM"	NA
 "521"	"xanu yu?"	"how are you?"	"formal"	"AM"	NA
 "522"	"Abizana gyied cuan naa liaz axstada."	"My brother is going to come with me to my parents' house."	""	"AM"	NA
-"523"	"Abizana gyiednia liaz axstada."	"My brother is going to come with me to my parents' house."	""	""	NA
+"523"	"Abizana gyiednia liaz axstada."	"My brother is going to come with me to my parents' house."	""	NA	NA
 "524"	"Nadizh giednia abizana liaz axstada."	"My brother came with me to my parents' house."	""	"AM"	NA
 "525"	"Bela"	"sister"	""	"AM"	NA
 "526"	"Bela na ban gual loa."	"My sister is older than I am."	""	"AM"	NA
@@ -609,97 +609,97 @@
 "608"	"Du zhiz gwaa."	"I only went for a few days"	"Listener is in the same place as addressee; talking about a different location than where they are."	"NM"	NA
 "609"	"Du zhiz chaa."	"I'm only going for a little bit."	"Speaker is talking about visiting addressee."	"NM"	NA
 "610"	"Du zhiz biela."	"I only came for a few days"	"Good if addressee is in San Luc but speaker is in US."	"NM"	NA
-"611"	"Giedneu beliu ldien."	"Her sister is going to come to the store with her. (Su hermana va a venir con ella al tienda)"	""	"PLC1"	NA
-"612"	"A nisgyia a zied."	"The rain is arriving."	""	"PLC1"	NA
-"613"	"Maria runy xicab queitydi naa (?) nisgyia, per ai runy."	"Maria thinks it won't rain, but it will."	""	"PLC1"	NA
-"614"	"Cheiby blez a nisgyia ni bzeny(eng?) lo gex."	"When the rain stopped, he had already arrived in SL."	""	"PLC1"	NA
-"615"	"Chi bzenya yuu a Maria a zia liazni."	"When I arrived at my house, Maria had already gone home."	""	"PLC1"	NA
-"616"	"Asna herangna queity a bzenyeng liaze:ng."	"By the time she got your message, she had already arrived at her house."	"For instance, if you sent me a message saying, Don't come to my house, but I didn't get it until I had left"	"PLC1"	NA
-"617"	"Maria queity bieddieng liaza."	"Maria didn't come to my house this morning."	"If we're talking in my house"	"PLC1"	NA
-"618"	"Maria queity gwedieng latna dizh."	"Maria didn't come to my house."	"If we're talking somewhere besides my house"	"PLC1"	NA
-"619"	"Brook a queity bzen liaza rsily."	"Brook didn't arrive at your house this morning."	""	"PLC1"	NA
-"620"	"Queity bieddy Brook liaza anzhi"	"Brook didn't come to your house this morning"	"Possible if we're not talking at home; sentence was given by linguist, not elicited"	"PLC1"	NA
-"621"	"A zee liu du liaza con bizana con naa?"	"Are you coming home with my brother and I?"	"if my brother and I are walking and we see you, and ask if you are coming to our parents' house with us"	"PLC1"	NA
-"622"	" A rae:ng a ze nisyu(?) liazne:ng"	"They are on their way home."	""	"PLC1"	NA
-"623"	"Lae:ng biedne liu liazni nai."	"She brought you home with her yesterday."	""	"PLC1"	NA
-"624"	"Maria a ze Bac ba rsily chi axte abxi gyicyeng."	"Brook went to Tlacolula this morning and is coming back tonight."	""	"PLC1"	NA
-"625"	"Zaa Bac nazhi, per abzhuzhir camione."	"I was going to Tlacolua, but my car broke down."	""	"PLC1"	NA
-"626"	"Ae:ng ze:eng Mejic, per lae:ng nu ric."	"He went to Mexico City, and he's still there."	""	"PLC1"	NA
-"627"	"Gwe:ng Mejic, per nahae:ng Ldua."	"He went to Mexico City, but he's back."	""	"PLC1"	NA
-"628"	"Naa ziedgia (?) cuan Lieb. "	"I'm going to visit Felipe."	""	"PLC1"	NA
-"629"	"Desda bze:ng guge:ng xumigw. (?)"	"He's on his way back from visiting a friend."	""	"PLC1"	NA
-"630"	"Desda  bzaa budyoe:n gyia."	"We went to pick flowers/ We're on our way from picking flowers"	""	"PLC1"	NA
-"631"	"Ae:ng ziedzaa guge:ng xumigw."	"He's on his way back from visiting a friend."	"Same meaning as other example"	"PLC1"	NA
-"632"	"Budyoe:n gyia."	"We went to pick flowers"	""	"PLC1"	NA
-"633"	"A zo choen lo Lieb ?"	"Are you coming with us to visit Felipe?"	""	"PLC1"	NA
-"634"	"Daru giela gex xten San Lucas."	"Carolyn: later I'm coming to San Lucas."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC1"	NA
-"635"	"Daru giela Ndua."	"Paty: Later I'm coming to Oaxaca."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC1"	NA
-"636"	"Rcaza giedu Ndua giedg(?)ugwa naa"	"Carolyn: I want you to come to Oaxaca and visit me."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC1"	NA
-"637"	"Rcaza giedu San Luc giedu gwanaa."	"Paty: I want you to come to San Lucas and visit me."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC1"	NA
-"638"	"Rrilaza abzen nisgyia xman re."	"I liked that it rained last week."	""	"PLC1"	NA
-"639"	"Nai rsilaza rzen nisgyia."	"Yesterday I thought it would rain."	""	"PLC1"	NA
-"640"	"Uxman a bzenya."	"I arrived a week ago."	""	"PLC1"	NA
-"641"	"Lae:ng naru cazenye:ng ric."	"He's arriving there (at this moment)."	""	"PLC1"	NA
-"642"	"Ricyeroe:n San Luc ? a ?nisgyia."	"We had to return to San Lucas because it started raining."	""	"PLC1"	NA
-"643"	"To gicye:n Ndua."	"We returned to Oaxaca."	""	"PLC2"	NA
-"644"	"Juan rata zhi ricye:ng ric."	"Juan returns there every day."	""	"PLC2"	NA
-"645"	"A bzenya."	"I arrived."	""	"PLC2"	NA
-"646"	"Hasta zhi a zenye:ng ric."	"He arrives there tomorrow."	""	"PLC2"	NA
-"647"	" Gied(?) naa yuu queitydi a nisgyia yahab."	"You (formal) said that it wouldn't rain."	""	"PLC2"	NA
-"648"	"Abzhi yahab nisgyia."	"It will rain later today."	""	"PLC2"	NA
-"649"	"Oc queitydi yahab nisygia."	"We hope it won't rain."	""	"PLC2"	NA
-"650"	"Lieb rsilaz cheugwe xuprieme:ng lae:ng."	"Felipe thinks his cousin is coming to see him."	"We're in the park; Felipe and his cousin are elsewhere"	"PLC2"	NA
-"651"	"Bhetse:ng Lieb cazeny a gwiele:ng."	"Felipe's brother is on the way to see him"	"We're in the park; Felipe and his cousin are elsewhere"	"PLC2"	NA
-"652"	"Lieb rnane:ng cheuwe xuprieme:ng lae:ng."	"Felipe knows his cousin is coming to see him."	"We're in the park; Felipe and his cousin are elsewhere"	"PLC2"	NA
-"653"	"Lieb rnane:ng xuprieme:ng lae:ng ze.(?)"	"Felipe knows his cousin is on the way to see him."	"We're in the park; Felipe and his cousin are elsewhere"	"PLC2"	NA
-"654"	"Jwany naa gex xuprieme:ng a zied lae:ng."	"Juan said that his cousin is coming to see him."	"If we're with Juan."	"PLC2"	NA
-"655"	"*Jwany naa gex xuprieme:ng a zied lae:ng."	"Juan said that his cousin is coming to see him."	"If we're not with Juan."	"PLC2"	NA
-"656"	"Jwany naa gex xuprieme:ng a ze lae:ng."	"Juan said that his cousin is coming to see him."	"If we're not with Juan."	"PLC2"	NA
-"657"	"Lieb rcaz gied betse:ng giedgilae:ng."	"Felipe wants his brother to come see him."	"If we're with Felipe."	"PLC2"	NA
-"658"	"Lieb riuclaze:ng cheugwe betse:ng lae:ng."	"Felipe would like his brother to come see him."	"If we're not with Felipe."	"PLC2"	NA
-"659"	"Brook cheugwe lo Lieb."	"Brook is going to visit Felipe."	""	"PLC2"	NA
-"660"	"Brook cheugwe cuan Lieb."	"Brook is going to visit Felipe."	""	"PLC2"	NA
-"661"	"Brook nisyu cheugwe lo Lieb."	"Brook is on her way to visit Felipe."	""	"PLC2"	NA
-"662"	"Naa lo Brook rsily chi a ze:ng zacan guet xtil."	"When I saw Brook this morning, she was going to buy bread."	"This morning, I was going to see Brook, but she was going to buy bread."	"PLC2"	NA
-"663"	"Giesta gyala axchi liazu."	"I'm going to come for dinner at your house."	""	"PLC2"	NA
-"664"	"Rcaza gyala liazu."	"I want to come to your house."	"Can only use gied if you are the host"	"PLC2"	NA
-"665"	"Rcaza giedu liaza."	"I want you to come to my house."	""	"PLC2"	NA
-"666"	"Ziedu liaza e?"	"Were you coming to my house?"	""	"PLC2"	NA
-"667"	"Rata zhi ried Lia Petra rietyug gyia."	"Every day Lia Petra comes to cut flowers."	""	"PLC2"	NA
-"668"	"Lia Petr biedzie:ng bietyug gyia."	"Petra came to cut flowers."	""	"PLC2"	NA
-"669"	"Chita!"	"something said to dog"	""	"PLC2"	NA
-"670"	"Lieb a ze Ndua cuan Mara."	"Felipe went to Oaxaca with Maria."	""	"PLC3"	NA
-"671"	"Maria a ze Ndua cuan xuprima."	"Maria went to Oaxaca with her cousin."	""	"PLC3"	NA
-"672"	"Zaa Ndua cuan xuprimo."	"I went to Oaxaca with my cousin."	""	"PLC3"	NA
-"673"	"A zaa chaa Ndua."	"I'm going to go to Oaxaca with my cousin."	""	"PLC3"	NA
-"674"	"Naa cuan abziana alua nisyuu para yuu."	"My brother and I are going home (on the way)."	""	"PLC3"	NA
-"675"	"Naa cuan abziana a zyoen"	"My brother and I are going home."	""	"PLC3"	NA
-"676"	"Chaa mandad!"	"I'm going on an errand"	""	"PLC3"	NA
-"677"	"Giednia bizana yuu naa Navidad."	"I'm going to bring my brother home for Christmas."	"If the speaker is female; it's ok to say even if I'm not at the home when I say it"	"PLC3"	NA
-"678"	"Giednia betsna yuu naa Navidad."	"I'm going to bring my brother home for Christmas."	"If the speaker is male; it's ok even if I'm not at home"	"PLC3"	NA
-"679"	"A zyoen tagon chire lo scwel."	"We're going home after school."	""	"PLC3"	NA
-"680"	"Nadizh gawan guet per queitydia zhchiu"	"He was going to eat but there wasn't any food."	""	"PLC3"	NA
-"681"	"Nadizh a quina per cadia zhchiu."	"He was going to eat but there wasn't any food."	""	"PLC3"	NA
-"682"	"Ze:ng lae:ng lare:ng chiguan xnane:ng."	"Is he going with them to visit their mother?"	""	"PLC3"	NA
-"683"	"Nelae:ng ziede:ng ziedbye:ng xanu nare?"	"Is he coming with them to visit us?"	""	"PLC3"	NA
-"684"	"Chitazaa."	"Swim"	""	"PLC3"	NA
-"685"	"Rata zhi gied lure'."	"He must come here everyday."	""	"PLC3"	NA
-"686"	"Chitaze:ng."	"We're going swimming."	""	"PLC3"	NA
-"687"	"A gwe yu Bac teiby?"	"Have you been to Tlacolula?"	""	"PLC3"	NA
-"688"	"Nyec, teiby a chaa ricy."	"No, I've never ben there."	""	"PLC3"	NA
-"689"	"Nyec teiby giela re, da parla ziala."	"No, I've never been here before."	""	"PLC3"	NA
-"690"	"Stuxzhiz zhi lia(?) chaa Bac."	"In a few days I'm going to Tlacolula."	""	"PLC3"	NA
-"691"	"Zuu zhi re' e?"	"Will you be here tomorrow?"	""	"PLC3"	NA
-"692"	"stuxzhiz"	"a little"	""	"PLC3"	NA
-"693"	"Naa Lia Len Riulaze:ng becw."	"Elena said \"I like dogs\""	""	"PLC3"	NA
-"694"	"Naa Lia Len riulaze:ng becw."	"Elena said that she likes dogs."	""	"PLC3"	NA
-"695"	"Juan rcaze:ng gyiede:ng Ndua."	"Juan wants to come to Oaxaca."	""	"PLC3"	NA
-"696"	"Giala chitubya."	"I come and cut flowers."	""	"PLC3"	NA
-"697"	"Bzenya chucaya."	"I came and danced."	""	"PLC3"	NA
-"698"	"Gicya ladi cheu gyala, chigelo chi chaa beu."	"I'm going to the US and back at the end of the month."	""	"PLC3"	NA
-"699"	"Nana Lieb cheugwe bzana loe:ng."	"Felipe knows his brother is coming to see him."	""	"PLC3"	NA
-"700"	"Niex caliu bzen nisgyia."	"I told you it was going to rain today."	""	"PLC3"	NA
-"701"	"Queity cantioe:n laa zia nisgyia nazhi."	"We don't know if it will rain today."	""	"PLC3"	NA
+"611"	"Giedneu beliu ldien."	"Her sister is going to come to the store with her. (Su hermana va a venir con ella al tienda)"	""	"PLC"	NA
+"612"	"A nisgyia a zied."	"The rain is arriving."	""	"PLC"	NA
+"613"	"Maria runy xicab queitydi naa (?) nisgyia, per ai runy."	"Maria thinks it won't rain, but it will."	""	"PLC"	NA
+"614"	"Cheiby blez a nisgyia ni bzeny(eng?) lo gex."	"When the rain stopped, he had already arrived in SL."	""	"PLC"	NA
+"615"	"Chi bzenya yuu a Maria a zia liazni."	"When I arrived at my house, Maria had already gone home."	""	"PLC"	NA
+"616"	"Asna herangna queity a bzenyeng liaze:ng."	"By the time she got your message, she had already arrived at her house."	"For instance, if you sent me a message saying, Don't come to my house, but I didn't get it until I had left"	"PLC"	NA
+"617"	"Maria queity bieddieng liaza."	"Maria didn't come to my house this morning."	"If we're talking in my house"	"PLC"	NA
+"618"	"Maria queity gwedieng latna dizh."	"Maria didn't come to my house."	"If we're talking somewhere besides my house"	"PLC"	NA
+"619"	"Brook a queity bzen liaza rsily."	"Brook didn't arrive at your house this morning."	""	"PLC"	NA
+"620"	"Queity bieddy Brook liaza anzhi"	"Brook didn't come to your house this morning"	"Possible if we're not talking at home; sentence was given by linguist, not elicited"	"PLC"	NA
+"621"	"A zee liu du liaza con bizana con naa?"	"Are you coming home with my brother and I?"	"if my brother and I are walking and we see you, and ask if you are coming to our parents' house with us"	"PLC"	NA
+"622"	" A rae:ng a ze nisyu(?) liazne:ng"	"They are on their way home."	""	"PLC"	NA
+"623"	"Lae:ng biedne liu liazni nai."	"She brought you home with her yesterday."	""	"PLC"	NA
+"624"	"Maria a ze Bac ba rsily chi axte abxi gyicyeng."	"Brook went to Tlacolula this morning and is coming back tonight."	""	"PLC"	NA
+"625"	"Zaa Bac nazhi, per abzhuzhir camione."	"I was going to Tlacolua, but my car broke down."	""	"PLC"	NA
+"626"	"Ae:ng ze:eng Mejic, per lae:ng nu ric."	"He went to Mexico City, and he's still there."	""	"PLC"	NA
+"627"	"Gwe:ng Mejic, per nahae:ng Ldua."	"He went to Mexico City, but he's back."	""	"PLC"	NA
+"628"	"Naa ziedgia (?) cuan Lieb. "	"I'm going to visit Felipe."	""	"PLC"	NA
+"629"	"Desda bze:ng guge:ng xumigw. (?)"	"He's on his way back from visiting a friend."	""	"PLC"	NA
+"630"	"Desda  bzaa budyoe:n gyia."	"We went to pick flowers/ We're on our way from picking flowers"	""	"PLC"	NA
+"631"	"Ae:ng ziedzaa guge:ng xumigw."	"He's on his way back from visiting a friend."	"Same meaning as other example"	"PLC"	NA
+"632"	"Budyoe:n gyia."	"We went to pick flowers"	""	"PLC"	NA
+"633"	"A zo choen lo Lieb ?"	"Are you coming with us to visit Felipe?"	""	"PLC"	NA
+"634"	"Daru giela gex xten San Lucas."	"Carolyn: later I'm coming to San Lucas."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC"	NA
+"635"	"Daru giela Ndua."	"Paty: Later I'm coming to Oaxaca."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC"	NA
+"636"	"Rcaza giedu Ndua giedg(?)ugwa naa"	"Carolyn: I want you to come to Oaxaca and visit me."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC"	NA
+"637"	"Rcaza giedu San Luc giedu gwanaa."	"Paty: I want you to come to San Lucas and visit me."	"Carolyn in Oaxaca; Paty in San Lucas."	"PLC"	NA
+"638"	"Rrilaza abzen nisgyia xman re."	"I liked that it rained last week."	""	"PLC"	NA
+"639"	"Nai rsilaza rzen nisgyia."	"Yesterday I thought it would rain."	""	"PLC"	NA
+"640"	"Uxman a bzenya."	"I arrived a week ago."	""	"PLC"	NA
+"641"	"Lae:ng naru cazenye:ng ric."	"He's arriving there (at this moment)."	""	"PLC"	NA
+"642"	"Ricyeroe:n San Luc ? a ?nisgyia."	"We had to return to San Lucas because it started raining."	""	"PLC"	NA
+"643"	"To gicye:n Ndua."	"We returned to Oaxaca."	""	"PLC"	NA
+"644"	"Juan rata zhi ricye:ng ric."	"Juan returns there every day."	""	"PLC"	NA
+"645"	"A bzenya."	"I arrived."	""	"PLC"	NA
+"646"	"Hasta zhi a zenye:ng ric."	"He arrives there tomorrow."	""	"PLC"	NA
+"647"	" Gied(?) naa yuu queitydi a nisgyia yahab."	"You (formal) said that it wouldn't rain."	""	"PLC"	NA
+"648"	"Abzhi yahab nisgyia."	"It will rain later today."	""	"PLC"	NA
+"649"	"Oc queitydi yahab nisygia."	"We hope it won't rain."	""	"PLC"	NA
+"650"	"Lieb rsilaz cheugwe xuprieme:ng lae:ng."	"Felipe thinks his cousin is coming to see him."	"We're in the park; Felipe and his cousin are elsewhere"	"PLC"	NA
+"651"	"Bhetse:ng Lieb cazeny a gwiele:ng."	"Felipe's brother is on the way to see him"	"We're in the park; Felipe and his cousin are elsewhere"	"PLC"	NA
+"652"	"Lieb rnane:ng cheuwe xuprieme:ng lae:ng."	"Felipe knows his cousin is coming to see him."	"We're in the park; Felipe and his cousin are elsewhere"	"PLC"	NA
+"653"	"Lieb rnane:ng xuprieme:ng lae:ng ze.(?)"	"Felipe knows his cousin is on the way to see him."	"We're in the park; Felipe and his cousin are elsewhere"	"PLC"	NA
+"654"	"Jwany naa gex xuprieme:ng a zied lae:ng."	"Juan said that his cousin is coming to see him."	"If we're with Juan."	"PLC"	NA
+"655"	"*Jwany naa gex xuprieme:ng a zied lae:ng."	"Juan said that his cousin is coming to see him."	"If we're not with Juan."	"PLC"	NA
+"656"	"Jwany naa gex xuprieme:ng a ze lae:ng."	"Juan said that his cousin is coming to see him."	"If we're not with Juan."	"PLC"	NA
+"657"	"Lieb rcaz gied betse:ng giedgilae:ng."	"Felipe wants his brother to come see him."	"If we're with Felipe."	"PLC"	NA
+"658"	"Lieb riuclaze:ng cheugwe betse:ng lae:ng."	"Felipe would like his brother to come see him."	"If we're not with Felipe."	"PLC"	NA
+"659"	"Brook cheugwe lo Lieb."	"Brook is going to visit Felipe."	""	"PLC"	NA
+"660"	"Brook cheugwe cuan Lieb."	"Brook is going to visit Felipe."	""	"PLC"	NA
+"661"	"Brook nisyu cheugwe lo Lieb."	"Brook is on her way to visit Felipe."	""	"PLC"	NA
+"662"	"Naa lo Brook rsily chi a ze:ng zacan guet xtil."	"When I saw Brook this morning, she was going to buy bread."	"This morning, I was going to see Brook, but she was going to buy bread."	"PLC"	NA
+"663"	"Giesta gyala axchi liazu."	"I'm going to come for dinner at your house."	""	"PLC"	NA
+"664"	"Rcaza gyala liazu."	"I want to come to your house."	"Can only use gied if you are the host"	"PLC"	NA
+"665"	"Rcaza giedu liaza."	"I want you to come to my house."	""	"PLC"	NA
+"666"	"Ziedu liaza e?"	"Were you coming to my house?"	""	"PLC"	NA
+"667"	"Rata zhi ried Lia Petra rietyug gyia."	"Every day Lia Petra comes to cut flowers."	""	"PLC"	NA
+"668"	"Lia Petr biedzie:ng bietyug gyia."	"Petra came to cut flowers."	""	"PLC"	NA
+"669"	"Chita!"	"something said to dog"	""	"PLC"	NA
+"670"	"Lieb a ze Ndua cuan Mara."	"Felipe went to Oaxaca with Maria."	""	"PLC"	NA
+"671"	"Maria a ze Ndua cuan xuprima."	"Maria went to Oaxaca with her cousin."	""	"PLC"	NA
+"672"	"Zaa Ndua cuan xuprimo."	"I went to Oaxaca with my cousin."	""	"PLC"	NA
+"673"	"A zaa chaa Ndua."	"I'm going to go to Oaxaca with my cousin."	""	"PLC"	NA
+"674"	"Naa cuan abziana alua nisyuu para yuu."	"My brother and I are going home (on the way)."	""	"PLC"	NA
+"675"	"Naa cuan abziana a zyoen"	"My brother and I are going home."	""	"PLC"	NA
+"676"	"Chaa mandad!"	"I'm going on an errand"	""	"PLC"	NA
+"677"	"Giednia bizana yuu naa Navidad."	"I'm going to bring my brother home for Christmas."	"If the speaker is female; it's ok to say even if I'm not at the home when I say it"	"PLC"	NA
+"678"	"Giednia betsna yuu naa Navidad."	"I'm going to bring my brother home for Christmas."	"If the speaker is male; it's ok even if I'm not at home"	"PLC"	NA
+"679"	"A zyoen tagon chire lo scwel."	"We're going home after school."	""	"PLC"	NA
+"680"	"Nadizh gawan guet per queitydia zhchiu"	"He was going to eat but there wasn't any food."	""	"PLC"	NA
+"681"	"Nadizh a quina per cadia zhchiu."	"He was going to eat but there wasn't any food."	""	"PLC"	NA
+"682"	"Ze:ng lae:ng lare:ng chiguan xnane:ng."	"Is he going with them to visit their mother?"	""	"PLC"	NA
+"683"	"Nelae:ng ziede:ng ziedbye:ng xanu nare?"	"Is he coming with them to visit us?"	""	"PLC"	NA
+"684"	"Chitazaa."	"Swim"	""	"PLC"	NA
+"685"	"Rata zhi gied lure'."	"He must come here everyday."	""	"PLC"	NA
+"686"	"Chitaze:ng."	"We're going swimming."	""	"PLC"	NA
+"687"	"A gwe yu Bac teiby?"	"Have you been to Tlacolula?"	""	"PLC"	NA
+"688"	"Nyec, teiby a chaa ricy."	"No, I've never ben there."	""	"PLC"	NA
+"689"	"Nyec teiby giela re, da parla ziala."	"No, I've never been here before."	""	"PLC"	NA
+"690"	"Stuxzhiz zhi lia(?) chaa Bac."	"In a few days I'm going to Tlacolula."	""	"PLC"	NA
+"691"	"Zuu zhi re' e?"	"Will you be here tomorrow?"	""	"PLC"	NA
+"692"	"stuxzhiz"	"a little"	""	"PLC"	NA
+"693"	"Naa Lia Len Riulaze:ng becw."	"Elena said \"I like dogs\""	""	"PLC"	NA
+"694"	"Naa Lia Len riulaze:ng becw."	"Elena said that she likes dogs."	""	"PLC"	NA
+"695"	"Juan rcaze:ng gyiede:ng Ndua."	"Juan wants to come to Oaxaca."	""	"PLC"	NA
+"696"	"Giala chitubya."	"I come and cut flowers."	""	"PLC"	NA
+"697"	"Bzenya chucaya."	"I came and danced."	""	"PLC"	NA
+"698"	"Gicya ladi cheu gyala, chigelo chi chaa beu."	"I'm going to the US and back at the end of the month."	""	"PLC"	NA
+"699"	"Nana Lieb cheugwe bzana loe:ng."	"Felipe knows his brother is coming to see him."	""	"PLC"	NA
+"700"	"Niex caliu bzen nisgyia."	"I told you it was going to rain today."	""	"PLC"	NA
+"701"	"Queity cantioe:n laa zia nisgyia nazhi."	"We don't know if it will rain today."	""	"PLC"	NA
 "702"	"zieddica reni."	"The sun is appearing."	"In the morning when the sun is rising."	"Felipe"	"The sun is coming out; the sun is appearing."
 "703"	"Ziedzheily gyia."	"The flower is opening."	""	"Felipe"	""
 "704"	"Rzheily"	"Opens"	""	"Felipe"	""
