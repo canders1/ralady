@@ -18,9 +18,10 @@ speakerName <- function(lang,fileList){
 #quoted expression followed by the quoted expression
 #This is useful for separating translations from the original language data/linguistic glossing
 #in a data point.
+#Works even if the quote-open and quote-close symbols are the same.
 
 quotes <- function(line,qopen,qclose){
-  qsearch <- paste(c(qopen,"[^",qclose,"]+",qclose),collapse="")#build a regex for quoted expressions
+  qsearch <- paste(c(qopen,"[^",qclose,"]+",qclose),collapse="")#regex for quoted expressions
   iquotes <- gregexpr(qsearch,line)#get quoted expressions
   startquote <- iquotes[[1]][1]#starting point of first quotation
   trans <- stringr::str_extract(line,qsearch)#pull out the first quotation
