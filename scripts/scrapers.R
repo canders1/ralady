@@ -22,20 +22,20 @@ speakerName <- function(lang,fileList){
 quotes <- function(line,qopen,qclose){
   qsearch <- paste(c(qopen,"[^",qclose,"]+",qclose),collapse="")#build a regex for quoted expressions
   iquotes <- gregexpr(qsearch,line)#get quoted expressions
-  startfirstquote <- iquotes[[1]][1]#starting point of quote
-  trans <- stringr::str_extract(line,qsearch)
-  #cat(trans)
-  rest <- str_trim(stringr::str_sub(line,1,startfirstquote-1))
-  extra <- ""
-  if(length(iquotes[[1]])>1){
-    nextquote <- iquotes[[1]][2]
-    tail <- str_trim(stringr::str_sub(line,startfirstquote,nchar(line)))
-    endsearch <- paste(c("[^",qclose,"]",qclose),collapse="")
-    endfirst <- gregexpr(endsearch, tail)
-    endfirstquote <- endfirst[[1]][1]
-    newline <- str_trim(stringr::str_sub(tail,endfirst[[1]][1]+2,nchar(line)))
+  startquote <- iquotes[[1]][1]#starting point of first quotation
+  trans <- stringr::str_extract(line,qsearch)#pull out the first quotation
+  rest <- str_trim(stringr::str_sub(line,1,startquote-1))#Everything before the quotation
+  extra <- "" #If there's just one quote, then extra is empty
+  if(length(iquotes[[1]])>1){#Otherwise, recursively call the function on the tail of the text
+    nextquote <- iquotes[[1]][2]#Start of next quote
+    tail <- str_trim(stringr::str_sub(line,startquote+1,nchar(line)))#from the beginning of the first quote to end of line
+    endquote <- gregexpr(qclose, tail)[[1]][1]
+    newline <- str_trim(stringr::str_sub(tail,endquote+1,nchar(line)))
     extra <- quotes(newline,qopen,qclose)
   }
   return(c(rest,trans,extra))
 }
+
+l <- "R-gwe dizh Maria cwuan Jwany. HAB-speak word Maria COM Juan. 'Maria speaks with Juan.' Finally, here is an example with an intransitive verb: Gu-gaty Jwany lainy hospital. PERF.AND-die Juan in hospital. 'Juan went and died in a hospital.' YAY! 'Toodles.'"
+res <- quotes(l,"'","'")
 
