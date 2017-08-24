@@ -1,7 +1,7 @@
 #Reads in fieldwork data from csv files and combines data from multiple summers
 
 library(plyr)
-source("~/scrapy/ralady/rscrapers.R")
+source("~/scrapy/ralady/scripts/scrapers.R")
 
 #Read in csv files as dataframes
 filename16 <- "~/scrapy/ralady/sources/2016data.csv"
