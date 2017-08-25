@@ -4,7 +4,6 @@ library(jsonlite)
 library(dplyr)      # for %>% and other dplyr functions
 library(streamR)
 
-data <- read.csv("~/Desktop/tweets.json")
-tweets.df <- parseTweets("~/Desktop/tweets_copy.json",simplify = TRUE)
+tweets.df <- parseTweets("~/scrapy/ralady/sources/tweets.json",simplify = TRUE)
 
 system("cat ~/scrapy/ralady/sources/def_out.txt")
