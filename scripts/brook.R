@@ -1,14 +1,8 @@
----
-title: "brook"
-output: html_document
----
+#Scrapes Zapotec examples from Brook Lillehaugen's dissertation
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
 library(stringr)
-```
+source("~/scrapy/ralady/scripts/scrapers.R")
 
-```{r}
 text <- readLines("~/scrapy/ralady/sources/brook_out2.txt")#read in text
 text <- str_trim(text)
 empty <- grep("^$",text)
@@ -37,7 +31,7 @@ for(i in 1:length(cands)){
         if((neigh-curr)>1){
           end <- curr+1
         }else{
-        end <- curr
+          end <- curr
         }
       }
     }
@@ -109,4 +103,3 @@ for(i in 1:length(text)){
 }
 splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]
 write.table(splitt, "~/scrapy/ralady/cleaned_data/brook_data.csv", sep="\t")
-```
