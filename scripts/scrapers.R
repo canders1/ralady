@@ -37,5 +37,8 @@ quotes <- function(line,qopen,qclose){
 }
 
 l <- "R-gwe dizh Maria cwuan Jwany. HAB-speak word Maria COM Juan. 'Maria speaks with Juan.' Finally, here is an example with an intransitive verb: Gu-gaty Jwany lainy hospital. PERF.AND-die Juan in hospital. 'Juan went and died in a hospital.' YAY! 'Toodles.'"
-res <- quotes(l,"'","'")
+m <- "Zi:i’lly-ta’ nnyi’ihs gwe:e’eh Wsee. MUCKliq/gas-too water     perf.drink Jos6 ‘Josd drank too much water’ (IV-186)       (Te’ihby)-ze’cy-dya’     liebr nih b-zi:i:i’ Liieb, b-zi:i:i’ one-thus-MUCH book rel perf-buy Felipe perf-buy Rodriiegw. Rodrigo ‘Rodrigo bought as many books as Felipe bought’"
+n <- "Nahll cafee. cold coffee ‘The coffee is cold’ If this order is reversed, the string will still be grammatical for those adjec 27 This could for example be the answer to the question in (i): (i) Xi n-a:a asu’all ? what neut-be blue ‘What’s blue?’"
+o <- "Z-ya:all-a’    cehnn la:anng. def-come-lsg with 3sg ‘I came with him’ Native SLQZ prepositions are identical to body part words.21 One such ‘face’ but is used to introduce some locative (37) and dative (38) complements and"
+res <- quotes(o,"‘","’")
 

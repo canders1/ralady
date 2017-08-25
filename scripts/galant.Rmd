@@ -69,7 +69,7 @@ ungrammatical <- grep("\\*",text)#remove ungrammatical sentences
 text <- text[-ungrammatical]
 infelicitious <- grep("\\#",text)#remove infelicitious sentences
 text <- text[-infelicitious]
-splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
+plitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
 
 for(i in 1:length(text)){
   line <- text[i]
@@ -87,13 +87,13 @@ for(i in 1:length(text)){
     half <- floor(len/2)
     zap <- str_trim(paste(z[1:half],collapse=" "))
     gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
-    splitt[i,] <- rbind(zap,gloss,trans,"")
+    plitt[i,] <- rbind(zap,gloss,trans,"")
   }else{
     if(length(z)==1){
-      splitt[i,] <- rbind(z[1],"",trans,"")
+      plitt[i,] <- rbind(z[1],"",trans,"")
     }
   }
 }
-splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]
-write.table(splitt, "~/scrapy/ralady/cleaned_data/galant_data.csv", sep="\t")
+plitt <- plitt[rowSums(is.na(plitt)) != ncol(plitt),]
+write.table(splitt, "~/scrapy/ralady/cleaned_data/galant_data1.csv", sep="\t")
 ```

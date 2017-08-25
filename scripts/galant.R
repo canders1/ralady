@@ -1,5 +1,8 @@
 #Scrape Michel Galant's dissertation for Zapotec examples
 
+library(stringr)
+source("~/scrapy/ralady/scripts/scrapers.R")
+
 text <- readLines("~/scrapy/ralady/sources/galant_out2.txt")#read in text
 empty <- grep("^$",text)
 text <- text[-empty]
@@ -61,29 +64,33 @@ text <- text[-ungrammatical]
 infelicitious <- grep("\\#",text)#remove infelicitious sentences
 text <- text[-infelicitious]
 splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
-
 for(i in 1:length(text)){
   line <- text[i]
-  apos <- gregexpr("‘.*’",line)[[1]]
-  trans <- stringr::str_extract(line,"‘[^’]+’")
-  rest <- str_trim(stringr::str_sub(line,1,apos-1))
-  z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
-  indexes <- which(z == "")
-  indexes
+  full <- quotes(line, "‘","’")#Get text/quote pairs as a list
+  indexes <- which(full == "")#Remove empty entries
   if(length(indexes)>0){
-    z <- z[-indexes]
+    f <- full[-indexes]
   }
-  if((length(z)%%2)==0){#if there's more than 1 word, assume there is a gloss
-    len <- length(z)#calculate starting point of gloss
-    half <- floor(len/2)
-    zap <- str_trim(paste(z[1:half],collapse=" "))
-    gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
-    splitt[i,] <- rbind(zap,gloss,trans,"")
-  }else{
-    if(length(z)==1){
-      splitt[i,] <- rbind(z[1],"",trans,"")
+  for(p in 1:length(full)){#For each text/quote pair
+    if(p%%2==1){#For each text item
+      trans <- full[p+1]#Get the quote
+      rest <- str_trim(full[p])#Get the rest
+      z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
+      indexes <- which(z == "")#Remove empty entries
+      if(length(indexes)>0){
+        z <- z[-indexes]
+      }
+      if((length(z)%%2)==0){#if there's more than 1 word, assume there is a gloss
+        len <- length(z)#calculate starting point of gloss
+        half <- floor(len/2)
+        zap <- str_trim(paste(z[1:half],collapse=" "))
+        gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
+        splitt[i+p,] <- rbind(zap,gloss,trans,"")#Enter into dataframe (index has to take into account double text/quote pairs per line)
+      } else{
+        splitt[i+p, ] <- rbind(str_trim(paste(z,collapse=" ")), "", trans, "")
+      }
     }
   }
 }
-splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]
+splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]#Remove any empty rows
 write.table(splitt, "~/scrapy/ralady/cleaned_data/galant_data.csv", sep="\t")

@@ -87,9 +87,9 @@ for(i in 1:length(text)){
         half <- floor(len/2)
         zap <- str_trim(paste(z[1:half],collapse=" "))
         gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
-        splitt[i,] <- rbind(zap,gloss,trans,"SLQZ")
+        splitt[p+i,] <- rbind(zap,gloss,trans,"SLQZ")
       }else{
-        splitt[i,] <- rbind(str_trim(paste(z,collapse=" ")),"",trans,"SLQZ")
+        splitt[p+i,] <- rbind(str_trim(paste(z,collapse=" ")),"",trans,"SLQZ")
       }
     }
   }
