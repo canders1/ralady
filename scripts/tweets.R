@@ -6,3 +6,5 @@ library(streamR)
 
 data <- read.csv("~/Desktop/tweets.json")
 tweets.df <- parseTweets("~/Desktop/tweets_copy.json",simplify = TRUE)
+
+system("cat ~/scrapy/ralady/sources/def_out.txt")
