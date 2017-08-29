@@ -64,7 +64,7 @@ glossFind <- function(p1,p2){
     lang <- str_trim(paste(z,collapse=" "))
     gloss <- ""
   }
-  return(c(zap,gloss,trans))
+  return(c(lang,gloss,trans))
 }
 
 p1 <- "R-gwe dizh Maria cwuan Jwany. HAB-speak word Maria COM Juan."

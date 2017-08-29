@@ -94,12 +94,11 @@ for(i in 1:length(text)){
     half <- floor(len/2)
     zap <- str_trim(paste(z[1:half],collapse=" "))
     gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
-    splitt[i,] <- rbind(zap,gloss,trans,lang)
   }else{
-    if(length(z)==1){
-      splitt[i,] <- rbind(z[1],"",trans,lang)
-    }
+    zap <- z[1]
+    gloss <- ""
   }
+  splitt[i,] <- rbind(zap,gloss,trans,lang)
 }
 splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]
 write.table(splitt, "~/scrapy/ralady/cleaned_data/brook_data.csv", sep="\t")

@@ -65,7 +65,7 @@ if(length(noquote)>0){
 }
 ungrammatical <- grep("\\*",text)#remove ungrammatical sentences
 text <- text[-ungrammatical]
-splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
+pairs <- c()
 for(i in 1:length(text)){
   line <- text[i]
   full <- quotes(line,"‘","’")
@@ -73,10 +73,15 @@ for(i in 1:length(text)){
   if(length(indexes)>0){
     full <- full[-indexes]
   }
-  for(p in 1:length(full)){
+  if(length(full)%%2==0){#If there is an uneven number of items, something has gone wrong
+    pairs <- c(full,pairs)
+  }
+}
+splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
+for(p in 1:length(pairs)){
     if(p%%2==1){
-      trans <- full[p+1]
-      rest <- full[p]
+      trans <- pairs[p+1]
+      rest <- pairs[p]
       z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
       indexes <- which(z == "")
       if(length(indexes)>0){
@@ -87,12 +92,12 @@ for(i in 1:length(text)){
         half <- floor(len/2)
         zap <- str_trim(paste(z[1:half],collapse=" "))
         gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
-        splitt[p+i,] <- rbind(zap,gloss,trans,"SLQZ")
       }else{
-        splitt[p+i,] <- rbind(str_trim(paste(z,collapse=" ")),"",trans,"SLQZ")
+        zap <- str_trim(paste(z,collapse=" "))
+        gloss <- ""
       }
+      splitt[p,] <- rbind(zap,gloss,trans,"SLQZ")
     }
   }
-}
 splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),] #remove rows that are all NA
 write.table(splitt, "~/scrapy/ralady/cleaned_data/def_data.csv", sep="\t") #output to csv
