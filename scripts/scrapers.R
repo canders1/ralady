@@ -1,3 +1,5 @@
+#Functions for scraping language data from linguistics publications
+
 
 #Takes a list of recording filenames and returns a list of strings 
 # where each string is the name of the speaker in the recording
