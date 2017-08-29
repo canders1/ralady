@@ -63,18 +63,23 @@ ungrammatical <- grep("\\*",text)#remove ungrammatical sentences
 text <- text[-ungrammatical]
 infelicitious <- grep("\\#",text)#remove infelicitious sentences
 text <- text[-infelicitious]
-splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
+pairs <- c()
 for(i in 1:length(text)){
   line <- text[i]
   full <- quotes(line, "‘","’")#Get text/quote pairs as a list
   indexes <- which(full == "")#Remove empty entries
   if(length(indexes)>0){
-    f <- full[-indexes]
+    full <- full[-indexes]
   }
-  for(p in 1:length(full)){#For each text/quote pair
+  if(length(full)%%2==0){
+    pairs <- c(full,pairs)
+  }
+}
+splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
+for(p in 1:length(pairs)){#For each text/quote pair
     if(p%%2==1){#For each text item
-      trans <- full[p+1]#Get the quote
-      rest <- str_trim(full[p])#Get the rest
+      trans <- pairs[p+1]#Get the quote
+      rest <- str_trim(str_replace(pairs[p], "^[,/->—»]+", ""))#Get the rest
       z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
       indexes <- which(z == "")#Remove empty entries
       if(length(indexes)>0){
@@ -85,12 +90,11 @@ for(i in 1:length(text)){
         half <- floor(len/2)
         zap <- str_trim(paste(z[1:half],collapse=" "))
         gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
-        splitt[i+p,] <- rbind(zap,gloss,trans,"")#Enter into dataframe (index has to take into account double text/quote pairs per line)
+        splitt[p,] <- rbind(zap,gloss,trans,"")#Enter into dataframe (index has to take into account double text/quote pairs per line)
       } else{
-        splitt[i+p, ] <- rbind(str_trim(paste(z,collapse=" ")), "", trans, "")
+        splitt[p, ] <- rbind(str_trim(paste(z,collapse=" ")), "", trans, "")
       }
     }
   }
-}
 splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]#Remove any empty rows
 write.table(splitt, "~/scrapy/ralady/cleaned_data/galant_data.csv", sep="\t")
