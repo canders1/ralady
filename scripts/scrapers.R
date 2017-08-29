@@ -72,4 +72,37 @@ p2 <- "'Maria speaks with Juan.'"
 q1 <- "Finally, here is an example with an intransitive verb: Gu-gaty Jwany lainy hospital. PERF.AND-die Juan in hospital."
 q2 <- "'Juan went and died in a hospital.' "
 
+#This function takes a list of strings corresponding to lines in a text, and
+# a list of indices that indicate lines that contain the start of an example sentence.
+#It looks at X lines below each index and concatenates onto the line, in case parts of the example
+#sentence occur below the example sentence start indicator.
+#It requires a user-supplied window size.
+#It returns the text list modified to contain only lines with example sentences.
+
+exampleSearch <- function(textList, indices, window){
+  newText <- c()
+  for(i in 1:length(indices)){
+    curr <- indices[i]
+    if(i < length(indices)){
+      neigh <- indices[i+1]
+      if((neigh-curr)>window){
+        end <- curr+window-1
+      }
+      else{
+        if((neigh-curr)>2){
+          end <- neigh-1
+        }else{
+          if((neigh-curr)>1){
+            end <- curr+1
+          }else{
+            end <- curr
+          }
+        }
+      }
+      added <- textList[curr:end]
+      newText<- c(newText,paste(added, sep=" ", collapse=" "))
+    }
+  }
+  return(newText)
+}
 
