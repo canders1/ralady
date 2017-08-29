@@ -59,10 +59,11 @@ noquote <- setdiff(all,quote)
 if(length(noquote)>0){
   text <- text[-noquote]
 }
-ungrammatical <- grep("\\*",text)#remove ungrammatical sentences
-text <- text[-ungrammatical]
-infelicitious <- grep("\\#",text)#remove infelicitious sentences
-text <- text[-infelicitious]
+ungrammatical <- grep("[*#]",text)#remove ungrammatical sentences
+if(length(ungrammatical)>0){
+  text <- text[-ungrammatical]
+}
+
 pairs <- c()
 for(i in 1:length(text)){
   line <- text[i]
@@ -71,29 +72,18 @@ for(i in 1:length(text)){
   if(length(indexes)>0){
     full <- full[-indexes]
   }
-  if(length(full)%%2==0){
+  if(length(full)%%2==0){#If there is an uneven number of items, something has gone wrong
     pairs <- c(full,pairs)
   }
 }
 splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
 for(p in 1:length(pairs)){#For each text/quote pair
     if(p%%2==1){#For each text item
-      trans <- pairs[p+1]#Get the quote
-      rest <- str_trim(str_replace(pairs[p], "^[^aA-zZ]+", ""))#Get the rest
-      z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
-      indexes <- which(z == "")#Remove empty entries
-      if(length(indexes)>0){
-        z <- z[-indexes]
-      }
-      if((length(z)%%2)==0){#if there's more than 1 word, assume there is a gloss
-        len <- length(z)#calculate starting point of gloss
-        half <- floor(len/2)
-        zap <- str_trim(paste(z[1:half],collapse=" "))
-        gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
-        splitt[p,] <- rbind(zap,gloss,trans,"")#Enter into dataframe (index has to take into account double text/quote pairs per line)
-      } else{
-        splitt[p, ] <- rbind(str_trim(paste(z,collapse=" ")), "", trans, "")
-      }
+      glossed <- glossFind(pairs[p],pairs[p+1])
+      zap <- glossed[1]
+      gloss <- glossed[2]
+      trans <- glossed[3]
+      splitt[p,] <- rbind(zap,gloss,trans,"")
     }
   }
 splitt <- splitt[rowSums(is.na(splitt)) != ncol(splitt),]#Remove any empty rows

@@ -42,3 +42,29 @@ n <- "Nahll cafee. cold coffee ‘The coffee is cold’ If this order is reverse
 o <- "Z-ya:all-a’    cehnn la:anng. def-come-lsg with 3sg ‘I came with him’ Native SLQZ prepositions are identical to body part words.21 One such ‘face’ but is used to introduce some locative (37) and dative (38) complements and"
 res <- quotes(o,"‘","’")
 
+glossFind <- function(p1,p2){
+  trans <- p2#Get the quote
+  rest <- str_trim(str_replace(p1, "^[^aA-zZ]+", ""))#Get the rest
+  z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
+  indexes <- which(z == "")#Remove empty entries
+  if(length(indexes)>0){
+    z <- z[-indexes]
+  }
+  if((length(z)%%2)==0){#if there's more than 1 word, assume there is a gloss
+    len <- length(z)#calculate starting point of gloss
+    half <- floor(len/2)
+    zap <- str_trim(paste(z[1:half],collapse=" "))
+    gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
+  } else{
+    zap <- str_trim(paste(z,collapse=" "))
+    gloss <- ""
+  }
+  return(c(zap,gloss,trans))
+}
+
+p1 <- "R-gwe dizh Maria cwuan Jwany. HAB-speak word Maria COM Juan."
+p2 <- "'Maria speaks with Juan.'"
+q1 <- "Finally, here is an example with an intransitive verb: Gu-gaty Jwany lainy hospital. PERF.AND-die Juan in hospital."
+q2 <- "'Juan went and died in a hospital.' "
+
+
