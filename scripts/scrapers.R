@@ -42,6 +42,11 @@ n <- "Nahll cafee. cold coffee ‘The coffee is cold’ If this order is reverse
 o <- "Z-ya:all-a’    cehnn la:anng. def-come-lsg with 3sg ‘I came with him’ Native SLQZ prepositions are identical to body part words.21 One such ‘face’ but is used to introduce some locative (37) and dative (38) complements and"
 res <- quotes(o,"‘","’")
 
+#Takes two strings, where the first in the pair represented a line of original language and glossing, 
+#and the second is the translation.
+#Finds the division between language data if possible, and returns a list of 
+#language data, gloss, translation.
+
 glossFind <- function(p1,p2){
   trans <- p2#Get the quote
   rest <- str_trim(str_replace(p1, "^[^aA-zZ]+", ""))#Get the rest
@@ -53,10 +58,10 @@ glossFind <- function(p1,p2){
   if((length(z)%%2)==0){#if there's more than 1 word, assume there is a gloss
     len <- length(z)#calculate starting point of gloss
     half <- floor(len/2)
-    zap <- str_trim(paste(z[1:half],collapse=" "))
+    lang <- str_trim(paste(z[1:half],collapse=" "))
     gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
   } else{
-    zap <- str_trim(paste(z,collapse=" "))
+    lang <- str_trim(paste(z,collapse=" "))
     gloss <- ""
   }
   return(c(zap,gloss,trans))
