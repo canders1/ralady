@@ -27,10 +27,8 @@ secs <- grep("^[0-9]+\\.[0-9]+",newtext)#remove section headings with periods
 newtext <- newtext[-secs]
 secs2 <- grep("^[0-9]+ [aA-zZ]",newtext)#remove section headings without periods
 newtext <- newtext[-secs2]
-ungrammatical <- grep("\\*",newtext)#remove ungrammatical sentences
+ungrammatical <- grep("[#*]",newtext)#remove ungrammatical sentences
 newtext <- newtext[-ungrammatical]
-infelicitious <- grep("\\#",newtext)#remove infelicitious sentences
-newtext <- newtext[-infelicitious]
 splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),stringsAsFactors=FALSE)#create a dataframe
 for(i in 1:length(newtext)){
   t <- newtext[i]
