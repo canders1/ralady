@@ -23,33 +23,8 @@ subs <- grep("^[a-z]\\.",text)
 starts <- grep("^\\([0-9]*\\)",text)
 cands <- union(subs,starts)
 cands <- sort(cands)
-for(i in 1:length(cands)){
-  curr <- cands[i]
-  if(i < length(cands)){
-    neigh <- cands[i+1]
-    if((neigh-curr)>8){
-      end <- curr+7
-    }
-    else{
-      if((neigh-curr)>2){
-        end <- neigh-1
-      }else{
-        if((neigh-curr)>1){
-          end <- curr+1
-        }else{
-          end <- curr
-        }
-      }
-    }
-    added <- text[curr:end]
-    text[curr]<- paste(added, sep=" ", collapse=" ")
-  }
-}
-all <- c(1:length(text))
-negs <- setdiff(all,cands)
-if(length(negs)>0){
-  text <- text[-negs]
-}
+
+text <- exampleSearch(text,cands,8)
 
 text <- stringr::str_replace_all(text, "^\\([0-9]*\\)", "")
 text <- str_trim(text)
