@@ -79,7 +79,7 @@ splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),L
 for(p in 1:length(pairs)){#For each text/quote pair
     if(p%%2==1){#For each text item
       trans <- pairs[p+1]#Get the quote
-      rest <- str_trim(str_replace(pairs[p], "^[,/->—»]+", ""))#Get the rest
+      rest <- str_trim(str_replace(pairs[p], "^[^aA-zZ]+", ""))#Get the rest
       z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
       indexes <- which(z == "")#Remove empty entries
       if(length(indexes)>0){
