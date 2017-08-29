@@ -10,7 +10,7 @@ setwd("~/scrapy/ralady/sources/")
 
 filterStream("tweets.json",
              track = c("#UsaTuVoz", "UsaTuVoz", "Zapoteco","#usatuvoz","Zapotec","todaslenguas","TodasLenguas"),
-             timeout = 10000,
+             timeout = 82800,
              oauth = my_oauth)
 
 system("mutt -s \"All done\" canders277@gmail.com")
