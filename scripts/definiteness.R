@@ -80,22 +80,10 @@ for(i in 1:length(text)){
 splitt <- data.frame(Zap= character(0), Gloss=character(0), Trans=character(0),Lang=character(0),stringsAsFactors=FALSE)#create a dataframe
 for(p in 1:length(pairs)){
     if(p%%2==1){
-      trans <- pairs[p+1]
-      rest <- pairs[p]
-      z <- stringr::str_split(rest," ")[[1]]#split data/gloss on whitespace
-      indexes <- which(z == "")
-      if(length(indexes)>0){
-        z <- z[-indexes]
-      }
-      if((length(z)%%2)==0){#if there's more than 1 word, assume there is a gloss
-        len <- length(z)#calculate starting point of gloss
-        half <- floor(len/2)
-        zap <- str_trim(paste(z[1:half],collapse=" "))
-        gloss <- str_trim(paste(z[-(1:half)],collapse=" "))
-      }else{
-        zap <- str_trim(paste(z,collapse=" "))
-        gloss <- ""
-      }
+      glossed <- glossFind(pairs[p],pairs[p+1])
+      zap <- glossed[1]
+      gloss <- glossed[2]
+      trans <- glossed[3]
       splitt[p,] <- rbind(zap,gloss,trans,"SLQZ")
     }
   }
