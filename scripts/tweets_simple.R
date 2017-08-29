@@ -13,4 +13,4 @@ filterStream("tweets.json",
              timeout = 10000,
              oauth = my_oauth)
 
-system("mutt -s \"All done\" canders277@gmail.com < ~/scrapy/ralady/sources/tweets.json")
+system("mutt -s \"All done\" canders277@gmail.com")
