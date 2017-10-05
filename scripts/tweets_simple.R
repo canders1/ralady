@@ -9,7 +9,7 @@ load("my_oauth.Rdata")
 setwd("~/scrapy/ralady/sources/")
 
 filterStream("tweets.json",
-             track = c("#UsaTuVoz", "UsaTuVoz", "zapoteco", "Zapoteco","#usatuvoz","Zapotec","todaslenguas","TodasLenguas"),
+             track = c("#UsaTuVoz", "UsaTuVoz", "zapoteco", "Zapoteco","#usatuvoz","Zapotec","todaslenguas","TodasLenguas","dizh sa","dizhsa","DizhSa"),
              timeout = 82800,
              oauth = my_oauth)
 

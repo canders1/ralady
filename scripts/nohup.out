@@ -1,0 +1,18 @@
+nohup: tweets_simple.R: No such file or directory
+Loading required package: RCurl
+Loading required package: methods
+Loading required package: bitops
+Loading required package: rjson
+Error in library(ROAuth) : there is no package called ‘ROAuth’
+Execution halted
+Loading required package: RCurl
+Loading required package: methods
+Loading required package: bitops
+Loading required package: rjson
+Error in library(ROAuth) : there is no package called ‘ROAuth’
+Execution halted
+Loading required package: RCurl
+Loading required package: methods
+Loading required package: bitops
+Loading required package: rjson
+Capturing tweets...
