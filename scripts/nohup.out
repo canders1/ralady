@@ -16,3 +16,16 @@ Loading required package: methods
 Loading required package: bitops
 Loading required package: rjson
 Capturing tweets...
+Loading required package: RCurl
+Loading required package: methods
+Loading required package: bitops
+Loading required package: rjson
+Capturing tweets...
+Loading required package: RCurl
+Loading required package: methods
+Loading required package: bitops
+Loading required package: rjson
+Capturing tweets...
+Connection to Twitter stream was closed after 84112 seconds with up to 455 tweets downloaded.
+Error: unexpected symbol in "system("mutt -s \"All done\" canders277@gmail.com")t"
+Execution halted
