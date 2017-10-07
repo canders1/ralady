@@ -31,3 +31,4 @@ Error: unexpected symbol in "system("mutt -s \"All done\" canders277@gmail.com")
 Execution halted
 Connection to Twitter stream was closed after 86690 seconds with up to 63 tweets downloaded.
 [?1049h[1;24r(B[m[4l[?7h[39;49m[?1h=[?1034h[39;49m[24;1H[K[24;1H[?1049l[?1l>[?1049h[1;24r[39;49m(B[m[4l[?7h[39;49m[37m[40m[H[2J[24dTo: canders277@gmail.com[?1h=[?12l[?25h[39;49m[K[24;1H[?1049l[?1l>Caught signal 1...  Exiting.
+Connection to Twitter stream was closed after 82800 seconds with up to 603 tweets downloaded.
